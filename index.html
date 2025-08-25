@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giáo Viên Tiếng Anh - English For Everyone</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-graduation-cap"></i> Giáo Viên Tiếng Anh</h1>
+                <p>Học tiếng Anh một cách thú vị và hiệu quả</p>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="navigation">
+            <button class="nav-btn active" data-section="dashboard">
+                <i class="fas fa-home"></i> Trang Chủ
+            </button>
+            <button class="nav-btn" data-section="lessons">
+                <i class="fas fa-book"></i> Bài Học
+            </button>
+            <button class="nav-btn" data-section="practice">
+                <i class="fas fa-pencil-alt"></i> Luyện Tập
+            </button>
+            <button class="nav-btn" data-section="progress">
+                <i class="fas fa-chart-line"></i> Tiến Độ
+            </button>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="content-section active">
+                <div class="welcome-card">
+                    <h2>Chào mừng bạn đến với khóa học tiếng Anh!</h2>
+                    <p>Bạn đang ở cấp độ: <strong>Level 2 - Beginner</strong></p>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <i class="fas fa-play-circle"></i>
+                            <h3>49</h3>
+                            <p>Bài học</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-clock"></i>
+                            <h3 id="total-time">0</h3>
+                            <p>Phút học</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-star"></i>
+                            <h3 id="completed-lessons">0</h3>
+                            <p>Bài hoàn thành</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="quick-actions">
+                    <h3>Hành động nhanh</h3>
+                    <div class="action-buttons">
+                        <button class="action-btn" onclick="startNextLesson()">
+                            <i class="fas fa-play"></i>
+                            Tiếp tục bài học
+                        </button>
+                        <button class="action-btn" onclick="reviewLastLesson()">
+                            <i class="fas fa-redo"></i>
+                            Ôn lại bài cũ
+                        </button>
+                        <button class="action-btn" onclick="takeQuiz()">
+                            <i class="fas fa-question-circle"></i>
+                            Làm bài kiểm tra
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Lessons Section -->
+            <section id="lessons" class="content-section">
+                <div class="lessons-header">
+                    <h2>Danh sách bài học</h2>
+                    <div class="filter-controls">
+                        <select id="lesson-filter">
+                            <option value="all">Tất cả bài học</option>
+                            <option value="completed">Đã hoàn thành</option>
+                            <option value="in-progress">Đang học</option>
+                            <option value="not-started">Chưa bắt đầu</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="lessons-grid" id="lessons-grid">
+                    <!-- Lessons will be populated by JavaScript -->
+                </div>
+            </section>
+
+            <!-- Practice Section -->
+            <section id="practice" class="content-section">
+                <div class="practice-header">
+                    <h2>Luyện tập</h2>
+                    <p>Chọn loại bài tập để cải thiện kỹ năng tiếng Anh</p>
+                </div>
+                
+                <div class="practice-categories">
+                    <div class="practice-card" onclick="startVocabularyPractice()">
+                        <i class="fas fa-spell-check"></i>
+                        <h3>Từ vựng</h3>
+                        <p>Học và ghi nhớ từ mới</p>
+                    </div>
+                    <div class="practice-card" onclick="startGrammarPractice()">
+                        <i class="fas fa-language"></i>
+                        <h3>Ngữ pháp</h3>
+                        <p>Luyện tập cấu trúc câu</p>
+                    </div>
+                    <div class="practice-card" onclick="startListeningPractice()">
+                        <i class="fas fa-headphones"></i>
+                        <h3>Nghe hiểu</h3>
+                        <p>Luyện kỹ năng nghe</p>
+                    </div>
+                    <div class="practice-card" onclick="startSpeakingPractice()">
+                        <i class="fas fa-microphone"></i>
+                        <h3>Phát âm</h3>
+                        <p>Luyện phát âm chuẩn</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Progress Section -->
+            <section id="progress" class="content-section">
+                <div class="progress-header">
+                    <h2>Theo dõi tiến độ</h2>
+                </div>
+                
+                <div class="progress-overview">
+                    <div class="progress-chart">
+                        <canvas id="progressChart"></canvas>
+                    </div>
+                    
+                    <div class="progress-stats">
+                        <div class="progress-stat">
+                            <h4>Tiến độ tổng thể</h4>
+                            <div class="progress-bar">
+                                <div class="progress-fill" id="overall-progress"></div>
+                            </div>
+                            <span id="progress-percentage">0%</span>
+                        </div>
+                        
+                        <div class="progress-stat">
+                            <h4>Thời gian học hôm nay</h4>
+                            <p id="today-time">0 phút</p>
+                        </div>
+                        
+                        <div class="progress-stat">
+                            <h4>Chuỗi học liên tiếp</h4>
+                            <p id="streak">0 ngày</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="recent-activity">
+                    <h3>Hoạt động gần đây</h3>
+                    <div class="activity-list" id="activity-list">
+                        <!-- Activity items will be populated by JavaScript -->
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Audio Player -->
+        <div class="audio-player" id="audio-player">
+            <div class="player-content">
+                <div class="track-info">
+                    <h4 id="current-track">Chưa có bài học nào</h4>
+                    <p id="current-lesson">Chọn bài học để bắt đầu</p>
+                </div>
+                <div class="player-controls">
+                    <button class="control-btn" id="prev-btn">
+                        <i class="fas fa-step-backward"></i>
+                    </button>
+                    <button class="control-btn" id="play-btn">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <button class="control-btn" id="next-btn">
+                        <i class="fas fa-step-forward"></i>
+                    </button>
+                    <button class="control-btn" id="close-btn">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="audio-progress"></div>
+                    </div>
+                    <span id="current-time">0:00</span> / <span id="total-time-display">0:00</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal for Lesson Details -->
+        <div class="modal" id="lesson-modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 id="modal-title">Chi tiết bài học</h3>
+                    <button class="close-modal" onclick="closeLessonModal()">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="lesson-audio-files" id="lesson-audio-files">
+                        <!-- Audio files will be populated here -->
+                    </div>
+                    <div class="lesson-actions">
+                        <button class="btn btn-primary" onclick="startLesson()">
+                            <i class="fas fa-play"></i> Bắt đầu học
+                        </button>
+                        <button class="btn btn-secondary" onclick="markAsCompleted()">
+                            <i class="fas fa-check"></i> Đánh dấu hoàn thành
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
