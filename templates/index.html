@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎓 English Teacher AI - Giáo viên dạy Tiếng Anh</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .main-content {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .nav-tabs {
+            display: flex;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .nav-tab {
+            flex: 1;
+            padding: 15px 20px;
+            text-align: center;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .nav-tab:hover {
+            background: #e9ecef;
+        }
+
+        .nav-tab.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .tab-content {
+            padding: 30px;
+            min-height: 500px;
+        }
+
+        .tab-pane {
+            display: none;
+        }
+
+        .tab-pane.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .lesson-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .lesson-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .lesson-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-color: #007bff;
+        }
+
+        .lesson-card.completed {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+        }
+
+        .lesson-number {
+            background: #007bff;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .lesson-card.completed .lesson-number {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .lesson-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .lesson-description {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .lesson-card.completed .lesson-description {
+            color: rgba(255,255,255,0.9);
+        }
+
+        .progress-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+
+        .progress-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .stat-label {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+
+        .progress-bar {
+            background: rgba(255,255,255,0.2);
+            height: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: white;
+            transition: width 1s ease;
+        }
+
+        .btn {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn:hover {
+            background: #0056b3;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,123,255,0.3);
+        }
+
+        .btn-success {
+            background: #28a745;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .btn-warning {
+            background: #ffc107;
+            color: #333;
+        }
+
+        .btn-warning:hover {
+            background: #e0a800;
+        }
+
+        .vocabulary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .vocab-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            border-left: 4px solid #007bff;
+            transition: all 0.3s ease;
+        }
+
+        .vocab-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .vocab-word {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #007bff;
+            margin-bottom: 5px;
+        }
+
+        .vocab-pronunciation {
+            font-style: italic;
+            color: #666;
+            margin-bottom: 8px;
+        }
+
+        .vocab-meaning {
+            color: #333;
+        }
+
+        .quiz-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .quiz-question {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+
+        .question-text {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        .quiz-options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .quiz-option {
+            padding: 12px 20px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: white;
+        }
+
+        .quiz-option:hover {
+            border-color: #007bff;
+            background: #f0f8ff;
+        }
+
+        .quiz-option.selected {
+            border-color: #007bff;
+            background: #007bff;
+            color: white;
+        }
+
+        .quiz-option.correct {
+            border-color: #28a745;
+            background: #28a745;
+            color: white;
+        }
+
+        .quiz-option.incorrect {
+            border-color: #dc3545;
+            background: #dc3545;
+            color: white;
+        }
+
+        .audio-player {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .play-btn {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .play-btn:hover {
+            background: #0056b3;
+            transform: scale(1.1);
+        }
+
+        .audio-info {
+            flex: 1;
+        }
+
+        .audio-title {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .audio-duration {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .conversation-area {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            min-height: 400px;
+        }
+
+        .chat-messages {
+            max-height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+        }
+
+        .message {
+            margin: 15px 0;
+            padding: 12px 18px;
+            border-radius: 18px;
+            max-width: 80%;
+        }
+
+        .message.teacher {
+            background: #007bff;
+            color: white;
+            margin-left: auto;
+        }
+
+        .message.student {
+            background: white;
+            border: 1px solid #e9ecef;
+        }
+
+        .chat-input {
+            display: flex;
+            gap: 10px;
+        }
+
+        .chat-input input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #e9ecef;
+            border-radius: 25px;
+            outline: none;
+            font-size: 16px;
+        }
+
+        .chat-input input:focus {
+            border-color: #007bff;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+        }
+
+        .modal-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            max-width: 500px;
+            width: 90%;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #666;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #007bff;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .nav-tabs {
+                flex-wrap: wrap;
+            }
+
+            .nav-tab {
+                font-size: 14px;
+                padding: 12px 15px;
+            }
+
+            .lesson-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .progress-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-graduation-cap"></i> English Teacher AI</h1>
+            <p>🌟 Học Tiếng Anh thông minh với AI - DK English for Everyone</p>
+        </div>
+
+        <div class="main-content">
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-tab="dashboard">
+                    <i class="fas fa-chart-line"></i> Dashboard
+                </button>
+                <button class="nav-tab" data-tab="lessons">
+                    <i class="fas fa-book-open"></i> Bài học
+                </button>
+                <button class="nav-tab" data-tab="vocabulary">
+                    <i class="fas fa-spell-check"></i> Từ vựng
+                </button>
+                <button class="nav-tab" data-tab="grammar">
+                    <i class="fas fa-grammar"></i> Ngữ pháp
+                </button>
+                <button class="nav-tab" data-tab="conversation">
+                    <i class="fas fa-comments"></i> Hội thoại
+                </button>
+                <button class="nav-tab" data-tab="quiz">
+                    <i class="fas fa-question-circle"></i> Quiz
+                </button>
+            </div>
+
+            <div class="tab-content">
+                <!-- Dashboard Tab -->
+                <div class="tab-pane active" id="dashboard">
+                    <div class="progress-section">
+                        <h2><i class="fas fa-chart-line"></i> Tiến độ học tập của bạn</h2>
+                        <div class="progress-stats">
+                            <div class="stat-item">
+                                <span class="stat-number" id="totalLessons">0</span>
+                                <span class="stat-label">Tổng bài học</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="completedLessons">0</span>
+                                <span class="stat-label">Đã hoàn thành</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="vocabularyCount">0</span>
+                                <span class="stat-label">Từ vựng đã học</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="studyTime">0</span>
+                                <span class="stat-label">Giờ học (phút)</span>
+                            </div>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                        </div>
+                    </div>
+
+                    <h3><i class="fas fa-star"></i> Bài học gần đây</h3>
+                    <div class="lesson-grid" id="recentLessons">
+                        <!-- Recent lessons will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Lessons Tab -->
+                <div class="tab-pane" id="lessons">
+                    <h2><i class="fas fa-book-open"></i> Tất cả bài học</h2>
+                    <p>Chọn bài học để bắt đầu học tiếng Anh</p>
+                    <div class="lesson-grid" id="allLessons">
+                        <!-- All lessons will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Vocabulary Tab -->
+                <div class="tab-pane" id="vocabulary">
+                    <h2><i class="fas fa-spell-check"></i> Từ vựng</h2>
+                    <div class="btn-group" style="margin-bottom: 20px;">
+                        <button class="btn" onclick="showVocabulary('all')">
+                            <i class="fas fa-list"></i> Tất cả từ vựng
+                        </button>
+                        <button class="btn btn-success" onclick="startVocabQuiz()">
+                            <i class="fas fa-play"></i> Quiz từ vựng
+                        </button>
+                        <button class="btn btn-warning" onclick="reviewVocabulary()">
+                            <i class="fas fa-redo"></i> Ôn tập
+                        </button>
+                    </div>
+                    <div class="vocabulary-grid" id="vocabularyList">
+                        <!-- Vocabulary will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Grammar Tab -->
+                <div class="tab-pane" id="grammar">
+                    <h2><i class="fas fa-grammar"></i> Ngữ pháp</h2>
+                    <p>Học các quy tắc ngữ pháp cơ bản</p>
+                    <div id="grammarContent">
+                        <!-- Grammar content will be loaded here -->
+                    </div>
+                </div>
+
+                <!-- Conversation Tab -->
+                <div class="tab-pane" id="conversation">
+                    <h2><i class="fas fa-comments"></i> Thực hành hội thoại</h2>
+                    <div class="conversation-area">
+                        <div class="chat-messages" id="chatMessages">
+                            <div class="message teacher">
+                                <strong>Teacher AI:</strong> Hello! I'm your English teacher. Let's practice conversation together! 
+                                <br>Xin chào! Tôi là giáo viên tiếng Anh AI của bạn. Hãy cùng luyện tập hội thoại nhé!
+                            </div>
+                        </div>
+                        <div class="chat-input">
+                            <input type="text" id="userMessage" placeholder="Type your message in English..." />
+                            <button class="btn" onclick="sendMessage()">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div style="margin-top: 20px;">
+                        <button class="btn btn-success" onclick="getConversationTopic()">
+                            <i class="fas fa-lightbulb"></i> Chủ đề mới
+                        </button>
+                        <button class="btn btn-warning" onclick="clearConversation()">
+                            <i class="fas fa-trash"></i> Xóa hội thoại
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Quiz Tab -->
+                <div class="tab-pane" id="quiz">
+                    <h2><i class="fas fa-question-circle"></i> Quiz & Kiểm tra</h2>
+                    <div class="quiz-container">
+                        <div id="quizStart">
+                            <p>Chọn bài học để làm quiz:</p>
+                            <div id="quizLessonSelect">
+                                <!-- Quiz lesson options will be loaded here -->
+                            </div>
+                        </div>
+                        <div id="quizContent" style="display: none;">
+                            <!-- Quiz questions will be loaded here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lesson Detail Modal -->
+    <div class="modal" id="lessonModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="lessonModalTitle">Lesson Title</h3>
+                <button class="close-btn" onclick="closeLessonModal()">&times;</button>
+            </div>
+            <div id="lessonModalContent">
+                <!-- Lesson content will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let currentUser = 'user1'; // In a real app, this would be from authentication
+        let userProgress = {};
+        let allLessons = {};
+        let currentQuiz = null;
+        let currentQuestionIndex = 0;
+
+        // Initialize the app
+        document.addEventListener('DOMContentLoaded', function() {
+            loadLessons();
+            loadUserProgress();
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            // Tab switching
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.addEventListener('click', function() {
+                    switchTab(this.dataset.tab);
+                });
+            });
+
+            // Enter key for chat
+            document.getElementById('userMessage').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    sendMessage();
+                }
+            });
+        }
+
+        function switchTab(tabName) {
+            // Update active tab
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+
+            // Update active content
+            document.querySelectorAll('.tab-pane').forEach(pane => {
+                pane.classList.remove('active');
+            });
+            document.getElementById(tabName).classList.add('active');
+
+            // Load content for specific tabs
+            switch(tabName) {
+                case 'vocabulary':
+                    loadVocabulary();
+                    break;
+                case 'grammar':
+                    loadGrammar();
+                    break;
+                case 'quiz':
+                    loadQuizOptions();
+                    break;
+            }
+        }
+
+        async function loadLessons() {
+            try {
+                const response = await fetch('/api/lessons');
+                allLessons = await response.json();
+                renderLessons();
+                updateDashboard();
+            } catch (error) {
+                console.error('Error loading lessons:', error);
+            }
+        }
+
+        async function loadUserProgress() {
+            try {
+                const response = await fetch(`/api/progress/${currentUser}`);
+                userProgress = await response.json();
+                updateDashboard();
+            } catch (error) {
+                console.error('Error loading progress:', error);
+            }
+        }
+
+        function renderLessons() {
+            const allLessonsContainer = document.getElementById('allLessons');
+            const recentLessonsContainer = document.getElementById('recentLessons');
+            
+            let lessonsHTML = '';
+            
+            Object.entries(allLessons).forEach(([id, lesson]) => {
+                const isCompleted = userProgress.completed_lessons && userProgress.completed_lessons.includes(parseInt(id));
+                const cardClass = isCompleted ? 'lesson-card completed' : 'lesson-card';
+                
+                lessonsHTML += `
+                    <div class="${cardClass}" onclick="openLesson(${id})">
+                        <div class="lesson-number">${id}</div>
+                        <div class="lesson-title">${lesson.title}</div>
+                        <div class="lesson-description">${lesson.description}</div>
+                        ${isCompleted ? '<i class="fas fa-check-circle" style="float: right; margin-top: 10px;"></i>' : ''}
+                    </div>
+                `;
+            });
+            
+            allLessonsContainer.innerHTML = lessonsHTML;
+            recentLessonsContainer.innerHTML = lessonsHTML; // For now, show all lessons in recent
+        }
+
+        function updateDashboard() {
+            const totalLessons = Object.keys(allLessons).length;
+            const completedLessons = userProgress.completed_lessons ? userProgress.completed_lessons.length : 0;
+            const vocabularyCount = userProgress.vocabulary_learned ? userProgress.vocabulary_learned.length : 0;
+            const studyTime = userProgress.total_study_time || 0;
+            
+            document.getElementById('totalLessons').textContent = totalLessons;
+            document.getElementById('completedLessons').textContent = completedLessons;
+            document.getElementById('vocabularyCount').textContent = vocabularyCount;
+            document.getElementById('studyTime').textContent = studyTime;
+            
+            const progressPercent = totalLessons > 0 ? (completedLessons / totalLessons) * 100 : 0;
+            document.getElementById('progressFill').style.width = progressPercent + '%';
+        }
+
+        function openLesson(lessonId) {
+            const lesson = allLessons[lessonId];
+            if (!lesson) return;
+
+            document.getElementById('lessonModalTitle').textContent = `Bài ${lessonId}: ${lesson.title}`;
+            
+            let content = `
+                <div class="lesson-detail">
+                    <p><strong>📝 Mô tả:</strong> ${lesson.description}</p>
+                    
+                    <h4><i class="fas fa-spell-check"></i> Từ vựng (${lesson.vocabulary.length} từ)</h4>
+                    <div class="vocabulary-grid">
+                        ${lesson.vocabulary.map(vocab => `
+                            <div class="vocab-card">
+                                <div class="vocab-word">${vocab.word}</div>
+                                <div class="vocab-pronunciation">${vocab.pronunciation}</div>
+                                <div class="vocab-meaning">${vocab.vietnamese}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    
+                    <h4><i class="fas fa-grammar"></i> Ngữ pháp: ${lesson.grammar.title}</h4>
+                    <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 10px 0;">
+                        <strong>Quy tắc:</strong>
+                        <ul>
+                            ${lesson.grammar.rules.map(rule => `<li>${rule}</li>`).join('')}
+                        </ul>
+                        <strong>Ví dụ:</strong>
+                        <ul>
+                            ${lesson.grammar.examples.map(example => `<li>${example}</li>`).join('')}
+                        </ul>
+                    </div>
+                    
+                    <h4><i class="fas fa-comments"></i> Cụm từ thông dụng</h4>
+                    <div>
+                        ${lesson.phrases.map(phrase => `
+                            <div style="margin: 10px 0; padding: 10px; background: #f0f8ff; border-radius: 5px;">
+                                <strong>${phrase.english}</strong><br>
+                                <em>${phrase.vietnamese}</em>
+                            </div>
+                        `).join('')}
+                    </div>
+                    
+                    <div style="margin-top: 20px; text-align: center;">
+                        <button class="btn btn-success" onclick="completeLesson(${lessonId})">
+                            <i class="fas fa-check"></i> Hoàn thành bài học
+                        </button>
+                        <button class="btn" onclick="startLessonQuiz(${lessonId})">
+                            <i class="fas fa-question-circle"></i> Làm quiz
+                        </button>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('lessonModalContent').innerHTML = content;
+            document.getElementById('lessonModal').style.display = 'block';
+        }
+
+        function closeLessonModal() {
+            document.getElementById('lessonModal').style.display = 'none';
+        }
+
+        async function completeLesson(lessonId) {
+            if (!userProgress.completed_lessons) {
+                userProgress.completed_lessons = [];
+            }
+            
+            if (!userProgress.completed_lessons.includes(lessonId)) {
+                userProgress.completed_lessons.push(lessonId);
+                
+                // Add vocabulary to learned list
+                const lesson = allLessons[lessonId];
+                if (!userProgress.vocabulary_learned) {
+                    userProgress.vocabulary_learned = [];
+                }
+                
+                lesson.vocabulary.forEach(vocab => {
+                    if (!userProgress.vocabulary_learned.find(v => v.word === vocab.word)) {
+                        userProgress.vocabulary_learned.push(vocab);
+                    }
+                });
+                
+                // Update progress on server
+                await updateUserProgress();
+                
+                // Update UI
+                renderLessons();
+                updateDashboard();
+                
+                alert('🎉 Chúc mừng! Bạn đã hoàn thành bài học!');
+                closeLessonModal();
+            }
+        }
+
+        async function updateUserProgress() {
+            try {
+                await fetch(`/api/progress/${currentUser}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(userProgress)
+                });
+            } catch (error) {
+                console.error('Error updating progress:', error);
+            }
+        }
+
+        function loadVocabulary() {
+            if (!userProgress.vocabulary_learned || userProgress.vocabulary_learned.length === 0) {
+                document.getElementById('vocabularyList').innerHTML = `
+                    <div style="text-align: center; padding: 40px; color: #666;">
+                        <i class="fas fa-book-open" style="font-size: 3rem; margin-bottom: 15px;"></i>
+                        <p>Bạn chưa học từ vựng nào. Hãy hoàn thành một vài bài học trước!</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const vocabularyHTML = userProgress.vocabulary_learned.map(vocab => `
+                <div class="vocab-card">
+                    <div class="vocab-word">${vocab.word}</div>
+                    <div class="vocab-pronunciation">${vocab.pronunciation}</div>
+                    <div class="vocab-meaning">${vocab.vietnamese}</div>
+                </div>
+            `).join('');
+            
+            document.getElementById('vocabularyList').innerHTML = vocabularyHTML;
+        }
+
+        function loadGrammar() {
+            let grammarHTML = '<h3>Các chủ đề ngữ pháp</h3>';
+            
+            Object.entries(allLessons).forEach(([id, lesson]) => {
+                grammarHTML += `
+                    <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 15px 0;">
+                        <h4>Bài ${id}: ${lesson.grammar.title}</h4>
+                        <div style="margin: 10px 0;">
+                            <strong>Quy tắc:</strong>
+                            <ul>
+                                ${lesson.grammar.rules.map(rule => `<li>${rule}</li>`).join('')}
+                            </ul>
+                        </div>
+                        <div>
+                            <strong>Ví dụ:</strong>
+                            <ul>
+                                ${lesson.grammar.examples.map(example => `<li>${example}</li>`).join('')}
+                            </ul>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            document.getElementById('grammarContent').innerHTML = grammarHTML;
+        }
+
+        function loadQuizOptions() {
+            let optionsHTML = '';
+            
+            Object.entries(allLessons).forEach(([id, lesson]) => {
+                optionsHTML += `
+                    <button class="btn" style="margin: 10px; width: 200px;" onclick="startQuiz(${id})">
+                        Bài ${id}: ${lesson.title}
+                    </button>
+                `;
+            });
+            
+            document.getElementById('quizLessonSelect').innerHTML = optionsHTML;
+        }
+
+        async function startQuiz(lessonId) {
+            try {
+                const response = await fetch(`/api/quiz/${lessonId}?num=5`);
+                currentQuiz = await response.json();
+                currentQuestionIndex = 0;
+                
+                document.getElementById('quizStart').style.display = 'none';
+                document.getElementById('quizContent').style.display = 'block';
+                
+                showQuestion();
+            } catch (error) {
+                console.error('Error starting quiz:', error);
+            }
+        }
+
+        function showQuestion() {
+            if (currentQuestionIndex >= currentQuiz.length) {
+                showQuizResults();
+                return;
+            }
+            
+            const question = currentQuiz[currentQuestionIndex];
+            let questionHTML = `
+                <div class="quiz-question">
+                    <div class="question-text">
+                        Câu ${currentQuestionIndex + 1}/${currentQuiz.length}: ${question.question}
+                    </div>
+            `;
+            
+            if (question.type === 'fill_blank' || question.type === 'multiple_choice') {
+                questionHTML += '<div class="quiz-options">';
+                question.options.forEach((option, index) => {
+                    questionHTML += `
+                        <div class="quiz-option" onclick="selectOption(${index})">
+                            ${option}
+                        </div>
+                    `;
+                });
+                questionHTML += '</div>';
+            } else if (question.type === 'translation') {
+                questionHTML += `
+                    <input type="text" id="translationAnswer" placeholder="Nhập câu trả lời..." 
+                           style="width: 100%; padding: 10px; margin: 15px 0; border: 1px solid #ddd; border-radius: 5px;">
+                `;
+            }
+            
+            questionHTML += `
+                    <button class="btn" onclick="submitAnswer()" style="margin-top: 15px;">
+                        <i class="fas fa-check"></i> Trả lời
+                    </button>
+                </div>
+            `;
+            
+            document.getElementById('quizContent').innerHTML = questionHTML;
+        }
+
+        function selectOption(index) {
+            document.querySelectorAll('.quiz-option').forEach(option => {
+                option.classList.remove('selected');
+            });
+            document.querySelectorAll('.quiz-option')[index].classList.add('selected');
+        }
+
+        function submitAnswer() {
+            const question = currentQuiz[currentQuestionIndex];
+            let userAnswer = null;
+            let isCorrect = false;
+            
+            if (question.type === 'fill_blank' || question.type === 'multiple_choice') {
+                const selectedOption = document.querySelector('.quiz-option.selected');
+                if (selectedOption) {
+                    userAnswer = Array.from(document.querySelectorAll('.quiz-option')).indexOf(selectedOption);
+                    isCorrect = userAnswer === question.answer;
+                    
+                    // Show correct/incorrect
+                    document.querySelectorAll('.quiz-option').forEach((option, index) => {
+                        if (index === question.answer) {
+                            option.classList.add('correct');
+                        } else if (index === userAnswer && !isCorrect) {
+                            option.classList.add('incorrect');
+                        }
+                    });
+                }
+            } else if (question.type === 'translation') {
+                userAnswer = document.getElementById('translationAnswer').value.trim();
+                isCorrect = userAnswer.toLowerCase().includes(question.answer.toLowerCase());
+            }
+            
+            // Store result
+            if (!currentQuiz.results) {
+                currentQuiz.results = [];
+            }
+            currentQuiz.results.push({
+                question: question.question,
+                userAnswer: userAnswer,
+                correct: isCorrect,
+                explanation: question.explanation
+            });
+            
+            // Show explanation
+            setTimeout(() => {
+                if (question.explanation) {
+                    alert(isCorrect ? `✅ Chính xác! ${question.explanation}` : `❌ Sai rồi! ${question.explanation}`);
+                }
+                
+                currentQuestionIndex++;
+                showQuestion();
+            }, 1500);
+        }
+
+        function showQuizResults() {
+            const correctAnswers = currentQuiz.results.filter(r => r.correct).length;
+            const totalQuestions = currentQuiz.results.length;
+            const percentage = Math.round((correctAnswers / totalQuestions) * 100);
+            
+            let resultsHTML = `
+                <div style="text-align: center; padding: 30px;">
+                    <h3>🎯 Kết quả Quiz</h3>
+                    <div style="font-size: 2rem; margin: 20px 0; color: ${percentage >= 70 ? '#28a745' : '#dc3545'};">
+                        ${correctAnswers}/${totalQuestions} (${percentage}%)
+                    </div>
+                    <p>${percentage >= 70 ? '🎉 Excellent! Bạn đã làm rất tốt!' : '💪 Hãy ôn tập thêm và thử lại nhé!'}</p>
+                    
+                    <button class="btn" onclick="resetQuiz()">
+                        <i class="fas fa-redo"></i> Làm lại
+                    </button>
+                    <button class="btn btn-success" onclick="backToQuizSelection()">
+                        <i class="fas fa-list"></i> Chọn bài khác
+                    </button>
+                </div>
+            `;
+            
+            document.getElementById('quizContent').innerHTML = resultsHTML;
+        }
+
+        function resetQuiz() {
+            currentQuestionIndex = 0;
+            showQuestion();
+        }
+
+        function backToQuizSelection() {
+            document.getElementById('quizStart').style.display = 'block';
+            document.getElementById('quizContent').style.display = 'none';
+            currentQuiz = null;
+        }
+
+        // Conversation functions
+        function sendMessage() {
+            const input = document.getElementById('userMessage');
+            const message = input.value.trim();
+            
+            if (!message) return;
+            
+            // Add user message
+            addMessage(message, 'student');
+            input.value = '';
+            
+            // Generate AI response
+            setTimeout(() => {
+                const responses = [
+                    "That's very interesting! Can you tell me more about that?",
+                    "Great! Your English is improving. What else would you like to talk about?",
+                    "I see! How do you feel about that?",
+                    "Excellent! You're using English very well. Keep practicing!",
+                    "Nice! Can you give me an example?",
+                    "Wonderful! What do you think about this topic?",
+                    "Good job! Your pronunciation is getting better. Try to speak more!"
+                ];
+                
+                const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+                addMessage(randomResponse, 'teacher');
+            }, 1000);
+        }
+
+        function addMessage(text, sender) {
+            const messagesContainer = document.getElementById('chatMessages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${sender}`;
+            
+            if (sender === 'teacher') {
+                messageDiv.innerHTML = `<strong>Teacher AI:</strong> ${text}`;
+            } else {
+                messageDiv.innerHTML = `<strong>You:</strong> ${text}`;
+            }
+            
+            messagesContainer.appendChild(messageDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        async function getConversationTopic() {
+            try {
+                const response = await fetch('/api/conversation');
+                const topic = await response.json();
+                
+                const question = topic.questions[Math.floor(Math.random() * topic.questions.length)];
+                addMessage(`Let's talk about ${topic.topic}! ${question}`, 'teacher');
+            } catch (error) {
+                console.error('Error getting conversation topic:', error);
+            }
+        }
+
+        function clearConversation() {
+            document.getElementById('chatMessages').innerHTML = `
+                <div class="message teacher">
+                    <strong>Teacher AI:</strong> Hello! I'm your English teacher. Let's practice conversation together! 
+                    <br>Xin chào! Tôi là giáo viên tiếng Anh AI của bạn. Hãy cùng luyện tập hội thoại nhé!
+                </div>
+            `;
+        }
+
+        // Vocabulary functions
+        function startVocabQuiz() {
+            if (!userProgress.vocabulary_learned || userProgress.vocabulary_learned.length < 3) {
+                alert('Bạn cần học ít nhất 3 từ vựng để làm quiz!');
+                return;
+            }
+            
+            // Switch to quiz tab and start vocabulary quiz
+            switchTab('quiz');
+            // Implementation for vocabulary-specific quiz
+        }
+
+        function reviewVocabulary() {
+            if (!userProgress.vocabulary_learned || userProgress.vocabulary_learned.length === 0) {
+                alert('Bạn chưa học từ vựng nào để ôn tập!');
+                return;
+            }
+            
+            // Show vocabulary with flashcard style
+            showVocabularyFlashcards();
+        }
+
+        function showVocabularyFlashcards() {
+            // Implementation for flashcard review
+            alert('Chức năng ôn tập flashcard đang được phát triển!');
+        }
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('lessonModal');
+            if (event.target === modal) {
+                closeLessonModal();
+            }
+        }
+    </script>
+</body>
+</html>
