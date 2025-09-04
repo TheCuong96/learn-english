@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Từ Vựng Tiếng Anh Hàng Ngày</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(45deg, #4CAF50, #45a049);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .main-content {
+            padding: 40px;
+        }
+
+        .level-selector {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .level-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .level-btn {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #f0f0f0;
+            color: #333;
+        }
+
+        .level-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .level-btn.active {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .vocabulary-section {
+            display: none;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        .vocabulary-section.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .word-card {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .word-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .word-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .word-title {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .pronunciation {
+            font-size: 1.2em;
+            color: #666;
+            font-style: italic;
+        }
+
+        .speak-btn {
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 1.2em;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .speak-btn:hover {
+            background: #0056b3;
+            transform: scale(1.1);
+        }
+
+        .word-type {
+            display: inline-block;
+            background: #e9ecef;
+            color: #495057;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+
+        .definition {
+            font-size: 1.1em;
+            color: #333;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .example {
+            background: #e8f5e8;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #4CAF50;
+            font-style: italic;
+            color: #2d5a2d;
+        }
+
+        .progress-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-top: 1px solid #e9ecef;
+            text-align: center;
+        }
+
+        .progress-bar {
+            background: #e9ecef;
+            height: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            background: linear-gradient(45deg, #4CAF50, #45a049);
+            height: 100%;
+            transition: width 0.3s ease;
+            border-radius: 10px;
+        }
+
+        .quiz-section {
+            margin-top: 40px;
+            padding: 30px;
+            background: #fff3cd;
+            border-radius: 15px;
+            border: 1px solid #ffeaa7;
+        }
+
+        .quiz-btn {
+            background: #ffc107;
+            color: #212529;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .quiz-btn:hover {
+            background: #e0a800;
+            transform: translateY(-2px);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #4CAF50;
+        }
+
+        .stat-label {
+            font-size: 1.1em;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .level-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .word-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            
+            .stats {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎓 Học Từ Vựng Tiếng Anh</h1>
+            <p>Khóa học từ vựng hàng ngày với phát âm chuẩn</p>
+        </div>
+
+        <div class="main-content">
+            <div class="level-selector">
+                <h2 style="margin-bottom: 20px;">Chọn Trình Độ Của Bạn</h2>
+                <div class="level-buttons">
+                    <button class="level-btn active" onclick="showLevel('beginner')">Cơ Bản</button>
+                    <button class="level-btn" onclick="showLevel('intermediate')">Trung Cấp</button>
+                    <button class="level-btn" onclick="showLevel('advanced')">Nâng Cao</button>
+                </div>
+            </div>
+
+            <!-- Beginner Level -->
+            <div id="beginner" class="vocabulary-section active">
+                <h2 style="text-align: center; margin-bottom: 30px; color: #4CAF50;">📚 Từ Vựng Cơ Bản - Ngày Hôm Nay</h2>
+                
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Hello</div>
+                            <div class="pronunciation">/həˈloʊ/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Hello')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">interjection</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Xin chào - lời chào hỏi thông dụng</div>
+                    <div class="example"><strong>Ví dụ:</strong> "Hello, how are you today?" - "Xin chào, hôm nay bạn thế nào?"</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Friend</div>
+                            <div class="pronunciation">/frend/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Friend')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Bạn bè - người mà bạn quen biết và yêu thích</div>
+                    <div class="example"><strong>Ví dụ:</strong> "She is my best friend." - "Cô ấy là bạn thân nhất của tôi."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Happy</div>
+                            <div class="pronunciation">/ˈhæpi/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Happy')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">adjective</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Vui vẻ, hạnh phúc - cảm giác tích cực và hài lòng</div>
+                    <div class="example"><strong>Ví dụ:</strong> "I am happy to see you." - "Tôi rất vui khi gặp bạn."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Book</div>
+                            <div class="pronunciation">/bʊk/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Book')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Sách - tập hợp các trang giấy có chữ viết hoặc in</div>
+                    <div class="example"><strong>Ví dụ:</strong> "I love reading books." - "Tôi thích đọc sách."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Water</div>
+                            <div class="pronunciation">/ˈwɔːtər/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Water')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Nước - chất lỏng trong suốt, không màu, không mùi</div>
+                    <div class="example"><strong>Ví dụ:</strong> "Please give me a glass of water." - "Làm ơn cho tôi một ly nước."</div>
+                </div>
+            </div>
+
+            <!-- Intermediate Level -->
+            <div id="intermediate" class="vocabulary-section">
+                <h2 style="text-align: center; margin-bottom: 30px; color: #ff9800;">📖 Từ Vựng Trung Cấp - Ngày Hôm Nay</h2>
+                
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Accomplish</div>
+                            <div class="pronunciation">/əˈkʌmplɪʃ/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Accomplish')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">verb</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Hoàn thành, đạt được - thực hiện thành công một việc gì đó</div>
+                    <div class="example"><strong>Ví dụ:</strong> "She accomplished her goals this year." - "Cô ấy đã hoàn thành các mục tiêu của mình trong năm nay."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Magnificent</div>
+                            <div class="pronunciation">/mæɡˈnɪfɪsənt/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Magnificent')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">adjective</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Tuyệt vời, lộng lẫy - rất đẹp hoặc ấn tượng</div>
+                    <div class="example"><strong>Ví dụ:</strong> "The view from the mountain was magnificent." - "Quang cảnh từ núi thật tuyệt vời."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Opportunity</div>
+                            <div class="pronunciation">/ˌɑːpərˈtuːnəti/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Opportunity')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Cơ hội - thời điểm hoặc hoàn cảnh thuận lợi để làm gì đó</div>
+                    <div class="example"><strong>Ví dụ:</strong> "This job is a great opportunity for career growth." - "Công việc này là cơ hội tuyệt vời để phát triển sự nghiệp."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Perseverance</div>
+                            <div class="pronunciation">/ˌpɜːrsəˈvɪrəns/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Perseverance')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Sự kiên trì - tinh thần không bỏ cuộc dù gặp khó khăn</div>
+                    <div class="example"><strong>Ví dụ:</strong> "With perseverance, you can achieve anything." - "Với sự kiên trì, bạn có thể đạt được bất cứ điều gì."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Enthusiasm</div>
+                            <div class="pronunciation">/ɪnˈθuːziæzəm/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Enthusiasm')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Sự nhiệt tình - cảm giác hứng thú và năng lượng mạnh mẽ</div>
+                    <div class="example"><strong>Ví dụ:</strong> "She showed great enthusiasm for the project." - "Cô ấy thể hiện sự nhiệt tình lớn đối với dự án."</div>
+                </div>
+            </div>
+
+            <!-- Advanced Level -->
+            <div id="advanced" class="vocabulary-section">
+                <h2 style="text-align: center; margin-bottom: 30px; color: #e91e63;">🎯 Từ Vựng Nâng Cao - Ngày Hôm Nay</h2>
+                
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Serendipity</div>
+                            <div class="pronunciation">/ˌserənˈdɪpəti/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Serendipity')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Sự tình cờ may mắn - khả năng tìm thấy điều gì đó tốt đẹp một cách bất ngờ</div>
+                    <div class="example"><strong>Ví dụ:</strong> "Meeting my mentor was pure serendipity." - "Việc gặp được người thầy của tôi hoàn toàn là sự tình cờ may mắn."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Ephemeral</div>
+                            <div class="pronunciation">/ɪˈfemərəl/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Ephemeral')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">adjective</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Tạm thời, phù du - tồn tại trong thời gian rất ngắn</div>
+                    <div class="example"><strong>Ví dụ:</strong> "The beauty of cherry blossoms is ephemeral." - "Vẻ đẹp của hoa anh đào rất phù du."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Eloquent</div>
+                            <div class="pronunciation">/ˈeləkwənt/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Eloquent')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">adjective</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Hùng biện, lưu loát - có khả năng diễn đạt một cách thuyết phục và ấn tượng</div>
+                    <div class="example"><strong>Ví dụ:</strong> "His eloquent speech moved the audience to tears." - "Bài phát biểu hùng biện của anh ấy đã làm cho khán giả rơi nước mắt."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Ubiquitous</div>
+                            <div class="pronunciation">/juːˈbɪkwɪtəs/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Ubiquitous')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">adjective</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Có mặt khắp nơi - xuất hiện ở mọi nơi cùng một lúc</div>
+                    <div class="example"><strong>Ví dụ:</strong> "Smartphones have become ubiquitous in modern society." - "Điện thoại thông minh đã trở nên phổ biến khắp nơi trong xã hội hiện đại."</div>
+                </div>
+
+                <div class="word-card">
+                    <div class="word-header">
+                        <div>
+                            <div class="word-title">Paradigm</div>
+                            <div class="pronunciation">/ˈpærədaɪm/</div>
+                        </div>
+                        <button class="speak-btn" onclick="speakWord('Paradigm')" title="Nghe phát âm">🔊</button>
+                    </div>
+                    <div class="word-type">noun</div>
+                    <div class="definition"><strong>Nghĩa:</strong> Mô hình, khuôn mẫu - một cách tiếp cận hoặc tư duy điển hình</div>
+                    <div class="example"><strong>Ví dụ:</strong> "The internet created a new paradigm for communication." - "Internet đã tạo ra một mô hình mới cho việc giao tiếp."</div>
+                </div>
+            </div>
+
+            <!-- Quiz Section -->
+            <div class="quiz-section">
+                <h3 style="margin-bottom: 20px;">🧠 Kiểm Tra Kiến Thức</h3>
+                <p style="margin-bottom: 20px;">Hãy thử sức với bài kiểm tra từ vựng để củng cố kiến thức!</p>
+                <button class="quiz-btn" onclick="startQuiz()">Bắt Đầu Quiz</button>
+                <div id="quiz-content" style="margin-top: 20px; display: none;"></div>
+            </div>
+        </div>
+
+        <div class="progress-section">
+            <h3>📊 Tiến Độ Học Tập Hôm Nay</h3>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+            </div>
+            <p id="progress-text">Bắt đầu học từ vựng để theo dõi tiến độ!</p>
+            
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="words-learned">0</div>
+                    <div class="stat-label">Từ đã học</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="pronunciation-practiced">0</div>
+                    <div class="stat-label">Lần nghe phát âm</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="quiz-score">0</div>
+                    <div class="stat-label">Điểm quiz</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables for tracking progress
+        let currentLevel = 'beginner';
+        let wordsLearned = new Set();
+        let pronunciationCount = 0;
+        let quizScore = 0;
+        let currentQuizIndex = 0;
+        let quizQuestions = [];
+
+        // Vocabulary data for all levels
+        const vocabularyData = {
+            beginner: [
+                {word: 'Hello', pronunciation: '/həˈloʊ/', type: 'interjection', definition: 'Xin chào - lời chào hỏi thông dụng', example: '"Hello, how are you today?" - "Xin chào, hôm nay bạn thế nào?"'},
+                {word: 'Friend', pronunciation: '/frend/', type: 'noun', definition: 'Bạn bè - người mà bạn quen biết và yêu thích', example: '"She is my best friend." - "Cô ấy là bạn thân nhất của tôi."'},
+                {word: 'Happy', pronunciation: '/ˈhæpi/', type: 'adjective', definition: 'Vui vẻ, hạnh phúc - cảm giác tích cực và hài lòng', example: '"I am happy to see you." - "Tôi rất vui khi gặp bạn."'},
+                {word: 'Book', pronunciation: '/bʊk/', type: 'noun', definition: 'Sách - tập hợp các trang giấy có chữ viết hoặc in', example: '"I love reading books." - "Tôi thích đọc sách."'},
+                {word: 'Water', pronunciation: '/ˈwɔːtər/', type: 'noun', definition: 'Nước - chất lỏng trong suốt, không màu, không mùi', example: '"Please give me a glass of water." - "Làm ơn cho tôi một ly nước."'}
+            ],
+            intermediate: [
+                {word: 'Accomplish', pronunciation: '/əˈkʌmplɪʃ/', type: 'verb', definition: 'Hoàn thành, đạt được - thực hiện thành công một việc gì đó', example: '"She accomplished her goals this year." - "Cô ấy đã hoàn thành các mục tiêu của mình trong năm nay."'},
+                {word: 'Magnificent', pronunciation: '/mæɡˈnɪfɪsənt/', type: 'adjective', definition: 'Tuyệt vời, lộng lẫy - rất đẹp hoặc ấn tượng', example: '"The view from the mountain was magnificent." - "Quang cảnh từ núi thật tuyệt vời."'},
+                {word: 'Opportunity', pronunciation: '/ˌɑːpərˈtuːnəti/', type: 'noun', definition: 'Cơ hội - thời điểm hoặc hoàn cảnh thuận lợi để làm gì đó', example: '"This job is a great opportunity for career growth." - "Công việc này là cơ hội tuyệt vời để phát triển sự nghiệp."'},
+                {word: 'Perseverance', pronunciation: '/ˌpɜːrsəˈvɪrəns/', type: 'noun', definition: 'Sự kiên trì - tinh thần không bỏ cuộc dù gặp khó khăn', example: '"With perseverance, you can achieve anything." - "Với sự kiên trì, bạn có thể đạt được bất cứ điều gì."'},
+                {word: 'Enthusiasm', pronunciation: '/ɪnˈθuːziæzəm/', type: 'noun', definition: 'Sự nhiệt tình - cảm giác hứng thú và năng lượng mạnh mẽ', example: '"She showed great enthusiasm for the project." - "Cô ấy thể hiện sự nhiệt tình lớn đối với dự án."'}
+            ],
+            advanced: [
+                {word: 'Serendipity', pronunciation: '/ˌserənˈdɪpəti/', type: 'noun', definition: 'Sự tình cờ may mắn - khả năng tìm thấy điều gì đó tốt đẹp một cách bất ngờ', example: '"Meeting my mentor was pure serendipity." - "Việc gặp được người thầy của tôi hoàn toàn là sự tình cờ may mắn."'},
+                {word: 'Ephemeral', pronunciation: '/ɪˈfemərəl/', type: 'adjective', definition: 'Tạm thời, phù du - tồn tại trong thời gian rất ngắn', example: '"The beauty of cherry blossoms is ephemeral." - "Vẻ đẹp của hoa anh đào rất phù du."'},
+                {word: 'Eloquent', pronunciation: '/ˈeləkwənt/', type: 'adjective', definition: 'Hùng biện, lưu loát - có khả năng diễn đạt một cách thuyết phục và ấn tượng', example: '"His eloquent speech moved the audience to tears." - "Bài phát biểu hùng biện của anh ấy đã làm cho khán giả rơi nước mắt."'},
+                {word: 'Ubiquitous', pronunciation: '/juːˈbɪkwɪtəs/', type: 'adjective', definition: 'Có mặt khắp nơi - xuất hiện ở mọi nơi cùng một lúc', example: '"Smartphones have become ubiquitous in modern society." - "Điện thoại thông minh đã trở nên phổ biến khắp nơi trong xã hội hiện đại."'},
+                {word: 'Paradigm', pronunciation: '/ˈpærədaɪm/', type: 'noun', definition: 'Mô hình, khuôn mẫu - một cách tiếp cận hoặc tư duy điển hình', example: '"The internet created a new paradigm for communication." - "Internet đã tạo ra một mô hình mới cho việc giao tiếp."'}
+            ]
+        };
+
+        // Function to show different levels
+        function showLevel(level) {
+            // Update active button
+            document.querySelectorAll('.level-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Hide all sections
+            document.querySelectorAll('.vocabulary-section').forEach(section => section.classList.remove('active'));
+            
+            // Show selected section
+            document.getElementById(level).classList.add('active');
+            currentLevel = level;
+            
+            // Reset progress for new level
+            resetProgress();
+        }
+
+        // Text-to-Speech function
+        function speakWord(word) {
+            if ('speechSynthesis' in window) {
+                // Cancel any ongoing speech
+                speechSynthesis.cancel();
+                
+                const utterance = new SpeechSynthesisUtterance(word);
+                utterance.lang = 'en-US';
+                utterance.rate = 0.8;
+                utterance.pitch = 1;
+                
+                // Try to use a native English voice
+                const voices = speechSynthesis.getVoices();
+                const englishVoice = voices.find(voice => 
+                    voice.lang.startsWith('en') && voice.localService
+                ) || voices.find(voice => voice.lang.startsWith('en'));
+                
+                if (englishVoice) {
+                    utterance.voice = englishVoice;
+                }
+                
+                speechSynthesis.speak(utterance);
+                
+                // Update pronunciation count
+                pronunciationCount++;
+                updateStats();
+                
+                // Add visual feedback
+                event.target.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    event.target.style.transform = 'scale(1)';
+                }, 150);
+            } else {
+                alert('Trình duyệt của bạn không hỗ trợ phát âm. Vui lòng sử dụng Chrome hoặc Firefox.');
+            }
+        }
+
+        // Quiz functionality
+        function startQuiz() {
+            const currentWords = vocabularyData[currentLevel];
+            quizQuestions = generateQuizQuestions(currentWords);
+            currentQuizIndex = 0;
+            showQuizQuestion();
+        }
+
+        function generateQuizQuestions(words) {
+            const questions = [];
+            words.forEach(wordObj => {
+                // Definition to word question
+                questions.push({
+                    type: 'definition',
+                    question: `Từ nào có nghĩa là: "${wordObj.definition.split(' - ')[1]}"?`,
+                    correct: wordObj.word,
+                    options: getRandomOptions(wordObj.word, words)
+                });
+                
+                // Pronunciation question
+                questions.push({
+                    type: 'pronunciation',
+                    question: `Cách phát âm của từ "${wordObj.word}" là gì?`,
+                    correct: wordObj.pronunciation,
+                    options: getRandomPronunciations(wordObj.pronunciation, words)
+                });
+            });
+            
+            return shuffleArray(questions).slice(0, 5); // Take 5 random questions
+        }
+
+        function getRandomOptions(correctWord, allWords) {
+            const options = [correctWord];
+            const otherWords = allWords.filter(w => w.word !== correctWord);
+            
+            while (options.length < 4 && otherWords.length > 0) {
+                const randomIndex = Math.floor(Math.random() * otherWords.length);
+                const randomWord = otherWords[randomIndex].word;
+                if (!options.includes(randomWord)) {
+                    options.push(randomWord);
+                }
+                otherWords.splice(randomIndex, 1);
+            }
+            
+            return shuffleArray(options);
+        }
+
+        function getRandomPronunciations(correctPron, allWords) {
+            const options = [correctPron];
+            const otherProns = allWords.filter(w => w.pronunciation !== correctPron);
+            
+            while (options.length < 4 && otherProns.length > 0) {
+                const randomIndex = Math.floor(Math.random() * otherProns.length);
+                const randomPron = otherProns[randomIndex].pronunciation;
+                if (!options.includes(randomPron)) {
+                    options.push(randomPron);
+                }
+                otherProns.splice(randomIndex, 1);
+            }
+            
+            return shuffleArray(options);
+        }
+
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        function showQuizQuestion() {
+            if (currentQuizIndex >= quizQuestions.length) {
+                showQuizResults();
+                return;
+            }
+
+            const question = quizQuestions[currentQuizIndex];
+            const quizContent = document.getElementById('quiz-content');
+            quizContent.style.display = 'block';
+            
+            quizContent.innerHTML = `
+                <div style="background: white; padding: 25px; border-radius: 15px; margin-top: 20px;">
+                    <h4 style="margin-bottom: 20px;">Câu hỏi ${currentQuizIndex + 1}/${quizQuestions.length}</h4>
+                    <p style="font-size: 1.2em; margin-bottom: 20px; color: #333;">${question.question}</p>
+                    <div style="display: grid; gap: 10px;">
+                        ${question.options.map((option, index) => 
+                            `<button class="quiz-option" onclick="selectAnswer('${option}', '${question.correct}')" 
+                             style="padding: 15px; border: 2px solid #ddd; border-radius: 10px; background: #f8f9fa; cursor: pointer; font-size: 1em; transition: all 0.3s ease;">
+                                ${option}
+                             </button>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        function selectAnswer(selected, correct) {
+            const options = document.querySelectorAll('.quiz-option');
+            options.forEach(option => {
+                option.style.pointerEvents = 'none';
+                if (option.textContent.trim() === correct) {
+                    option.style.background = '#d4edda';
+                    option.style.borderColor = '#28a745';
+                } else if (option.textContent.trim() === selected && selected !== correct) {
+                    option.style.background = '#f8d7da';
+                    option.style.borderColor = '#dc3545';
+                }
+            });
+
+            if (selected === correct) {
+                quizScore++;
+            }
+
+            setTimeout(() => {
+                currentQuizIndex++;
+                showQuizQuestion();
+            }, 1500);
+        }
+
+        function showQuizResults() {
+            const quizContent = document.getElementById('quiz-content');
+            const percentage = Math.round((quizScore / quizQuestions.length) * 100);
+            
+            quizContent.innerHTML = `
+                <div style="background: white; padding: 30px; border-radius: 15px; margin-top: 20px; text-align: center;">
+                    <h3 style="color: #4CAF50; margin-bottom: 20px;">🎉 Kết Quả Quiz</h3>
+                    <div style="font-size: 3em; color: #4CAF50; margin: 20px 0;">${percentage}%</div>
+                    <p style="font-size: 1.2em; margin-bottom: 20px;">
+                        Bạn đã trả lời đúng ${quizScore}/${quizQuestions.length} câu hỏi!
+                    </p>
+                    <button onclick="startQuiz()" style="background: #4CAF50; color: white; border: none; padding: 15px 30px; border-radius: 25px; font-size: 1.1em; cursor: pointer;">
+                        Làm Lại Quiz
+                    </button>
+                </div>
+            `;
+            
+            updateStats();
+        }
+
+        // Track word learning progress
+        function markWordLearned(word) {
+            wordsLearned.add(word);
+            updateStats();
+        }
+
+        // Update statistics
+        function updateStats() {
+            document.getElementById('words-learned').textContent = wordsLearned.size;
+            document.getElementById('pronunciation-practiced').textContent = pronunciationCount;
+            document.getElementById('quiz-score').textContent = quizScore;
+            
+            // Update progress bar
+            const totalWords = vocabularyData[currentLevel].length;
+            const progress = (wordsLearned.size / totalWords) * 100;
+            document.getElementById('progress-fill').style.width = progress + '%';
+            
+            if (progress === 100) {
+                document.getElementById('progress-text').textContent = 'Chúc mừng! Bạn đã hoàn thành tất cả từ vựng hôm nay! 🎉';
+            } else {
+                document.getElementById('progress-text').textContent = `Đã học ${wordsLearned.size}/${totalWords} từ (${Math.round(progress)}%)`;
+            }
+        }
+
+        function resetProgress() {
+            wordsLearned.clear();
+            pronunciationCount = 0;
+            quizScore = 0;
+            updateStats();
+        }
+
+        // Add click tracking for word cards
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load voices for speech synthesis
+            if ('speechSynthesis' in window) {
+                speechSynthesis.getVoices();
+                speechSynthesis.onvoiceschanged = () => {
+                    speechSynthesis.getVoices();
+                };
+            }
+
+            // Add click tracking to word cards
+            setInterval(() => {
+                document.querySelectorAll('.word-card').forEach(card => {
+                    card.addEventListener('click', function() {
+                        const word = this.querySelector('.word-title').textContent;
+                        markWordLearned(word);
+                        this.style.background = '#e8f5e8';
+                        setTimeout(() => {
+                            this.style.background = '#f8f9fa';
+                        }, 1000);
+                    });
+                });
+            }, 1000);
+        });
+
+        // Initialize the app
+        updateStats();
+    </script>
+</body>
+</html>
