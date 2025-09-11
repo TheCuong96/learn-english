@@ -1,0 +1,147 @@
+{
+  "_v": 9,
+  "composerId": "45300d96-b8ee-44fa-9839-c552cc6c9d55",
+  "richText": "",
+  "hasLoaded": true,
+  "text": "",
+  "fullConversationHeadersOnly": [],
+  "conversationMap": {},
+  "status": "none",
+  "context": {
+    "notepads": [],
+    "composers": [],
+    "quotes": [],
+    "selectedCommits": [],
+    "selectedPullRequests": [],
+    "selectedImages": [],
+    "folderSelections": [],
+    "fileSelections": [],
+    "selections": [],
+    "terminalSelections": [],
+    "selectedDocs": [],
+    "externalLinks": [],
+    "cursorRules": [],
+    "cursorCommands": [],
+    "uiElementSelections": [],
+    "mentions": {
+      "notepads": {},
+      "composers": {},
+      "quotes": {},
+      "selectedCommits": {},
+      "selectedPullRequests": {},
+      "gitDiff": [],
+      "gitDiffFromBranchToMain": [],
+      "selectedImages": {},
+      "useWeb": [],
+      "folderSelections": {},
+      "fileSelections": {},
+      "terminalFiles": {},
+      "selections": {},
+      "terminalSelections": {},
+      "selectedDocs": {},
+      "externalLinks": {},
+      "useLinterErrors": [],
+      "useDiffReview": [],
+      "useGenerateRules": [],
+      "useContextPicking": [],
+      "useRememberThis": [],
+      "diffHistory": [],
+      "cursorRules": {},
+      "cursorCommands": {},
+      "autoContext": [],
+      "uiElementSelections": {},
+      "ideEditorsState": []
+    }
+  },
+  "gitGraphFileSuggestions": [],
+  "generatingBubbleIds": [],
+  "isReadingLongFile": false,
+  "codeBlockData": {},
+  "originalFileStates": {},
+  "newlyCreatedFiles": [],
+  "newlyCreatedFolders": [],
+  "createdAt": 1757587703732,
+  "hasChangedContext": false,
+  "activeTabsShouldBeReactive": true,
+  "capabilities": [
+    {
+      "type": 30,
+      "data": {}
+    },
+    {
+      "type": 15,
+      "data": {
+        "bubbleDataMap": "{}"
+      }
+    },
+    {
+      "type": 17,
+      "data": {}
+    },
+    {
+      "type": 22,
+      "data": {}
+    },
+    {
+      "type": 18,
+      "data": {}
+    },
+    {
+      "type": 19,
+      "data": {}
+    },
+    {
+      "type": 32,
+      "data": {}
+    },
+    {
+      "type": 23,
+      "data": {}
+    },
+    {
+      "type": 6,
+      "data": {}
+    },
+    {
+      "type": 16,
+      "data": {}
+    },
+    {
+      "type": 24,
+      "data": {}
+    },
+    {
+      "type": 26,
+      "data": {}
+    },
+    {
+      "type": 25,
+      "data": {}
+    },
+    {
+      "type": 21,
+      "data": {}
+    },
+    {
+      "type": 31,
+      "data": {}
+    }
+  ],
+  "isFileListExpanded": false,
+  "unifiedMode": "agent",
+  "forceMode": "edit",
+  "usageData": {},
+  "allAttachedFileCodeChunksUris": [],
+  "modelConfig": {
+    "modelName": "gpt-5",
+    "maxMode": false
+  },
+  "subComposerIds": [],
+  "capabilityContexts": [],
+  "todos": [],
+  "isTodoListExpanded": false,
+  "isQueueExpanded": true,
+  "hasUnreadMessages": false,
+  "gitHubPromptDismissed": false,
+  "isAgentic": true
+}
