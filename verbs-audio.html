@@ -21,13 +21,13 @@
         padding: 0; 
         margin: 0; 
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-        gap: 16px;
+        grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+        gap: 64px;
         max-width: 100%;
       }
       li { 
         display: flex; 
-        align-items: center; 
+        align-items: center;
         gap: 15px; 
         padding: 16px; 
         background: rgba(255,255,255,0.1); 
@@ -51,6 +51,7 @@
         gap: 15px; 
         margin-bottom: 4px;
         flex-wrap: wrap;
+        justify-content: center;
       }
       .verb-form { 
         display: flex; 
@@ -93,6 +94,32 @@
       }
       .meaning { color: #7f8c8d; font-style: italic; margin-top: 4px; display: none; }
       .small { color: rgba(255,255,255,0.8); font-size: 16px; }
+      .counts { margin-left: auto; font-weight: 500; opacity: 0.9; }
+      .verb-extra {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-top: 12px;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+      .verb-image {
+        width: 160px;
+        height: 110px;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid rgba(255,255,255,0.2);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        background: rgba(255,255,255,0.06);
+      }
+      .example {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        max-width: 520px;
+      }
+      .example-en { color: #ffffff; font-size: 16px; font-weight: 500; }
+      .example-vi { color: rgba(255,255,255,0.8); font-size: 14px; font-style: italic; }
     </style>
   </head>
   <body>
@@ -103,6 +130,15 @@
       <label class="small">Tốc độ: <input id="rate" type="range" min="0.6" max="1.4" step="0.1" value="1" /></label>
       <label class="small">Cường độ: <input id="volume" type="range" min="0.2" max="1" step="0.1" value="1" /></label>
       <button id="test">Phát thử "example"</button>
+      <label class="small">Ảnh: 
+        <select id="media">
+          <option value="icon" selected>Icon</option>
+          <option value="photo">Photo</option>
+          <option value="gif">GIF</option>
+        </select>
+      </label>
+      <label class="small">Tenor API: <input id="tenorKey" type="password" placeholder="Dán API key để dùng GIF" style="width: 220px;" /></label>
+      <span id="counts" class="small counts"></span>
     </div>
     <ul id="list"></ul>
 
@@ -171,19 +207,932 @@
         ["get up", "got up", "gotten up", "thức dậy"],
         ["listen", "listened", "listened", "nghe", "đã nghe", "được nghe"],
         ["sleep", "slept", "slept", "ngủ", "đã ngủ", "được ngủ"],
+        ["research", "researched", "researched", "nghiên cứu"],
+        ["recycle", "recycled", "recycled", "tái chế"],
+        ["diagnose", "diagnosed", "diagnosed", "chẩn đoán"],
+        ["negotiate", "negotiated", "negotiated", "đàm phán"],
+        ["invest", "invested", "invested", "đầu tư"],
+        ["compose", "composed", "composed", "sáng tác/soạn"],
+        ["rescue", "rescued", "rescued", "cứu hộ/cứu"],
+        ["broadcast", "broadcast", "broadcast", "phát sóng"],
+        ["discover", "discovered", "discovered", "khám phá"],
+        ["conserve", "conserved", "conserved", "bảo tồn"],
+        ["schedule", "scheduled", "scheduled", "lên lịch"],
+        ["enroll", "enrolled", "enrolled", "ghi danh/đăng ký"],
+        ["manufacture", "manufactured", "manufactured", "sản xuất/chế tạo"],
+        ["donate", "donated", "donated", "quyên góp/hiến tặng"],
+        ["forecast", "forecast", "forecast", "dự báo"],
+        // Thêm động từ thông dụng hằng ngày
+        ["say", "said", "said", "nói"],
+        ["get", "got", "gotten", "nhận/được"],
+        ["make", "made", "made", "làm/tạo"],
+        ["see", "saw", "seen", "nhìn thấy"],
+        ["come", "came", "come", "đến/đi đến"],
+        ["think", "thought", "thought", "nghĩ"],
+        ["look", "looked", "looked", "nhìn/tìm"],
+        ["want", "wanted", "wanted", "muốn"],
+        ["tell", "told", "told", "kể/nói với"],
+        ["ask", "asked", "asked", "hỏi/yêu cầu"],
+        ["put", "put", "put", "đặt/để"],
+        ["keep", "kept", "kept", "giữ"],
+        ["begin", "began", "begun", "bắt đầu"],
+        ["turn", "turned", "turned", "xoay/bật/tắt"],
+        ["show", "showed", "shown", "cho xem"],
+        ["hear", "heard", "heard", "nghe thấy"],
+        ["move", "moved", "moved", "di chuyển"],
+        ["bring", "brought", "brought", "mang/đem"],
+        ["write", "wrote", "written", "viết"],
+        ["sit", "sat", "sat", "ngồi"],
+        ["stand", "stood", "stood", "đứng"],
+        ["lose", "lost", "lost", "mất/đánh mất"],
+        ["pay", "paid", "paid", "trả (tiền)"],
+        ["include", "included", "included", "bao gồm"],
+        ["continue", "continued", "continued", "tiếp tục"],
+        ["set", "set", "set", "đặt/thiết lập"],
+        ["learn", "learned", "learned", "học"],
+        ["change", "changed", "changed", "thay đổi"],
+        ["lead", "led", "led", "dẫn dắt"],
+        ["follow", "followed", "followed", "theo dõi/theo sau"],
+        ["stop", "stopped", "stopped", "dừng"],
+        ["create", "created", "created", "tạo ra"],
+        ["allow", "allowed", "allowed", "cho phép"],
+        ["add", "added", "added", "thêm"],
+        ["spend", "spent", "spent", "dành/tiêu (thời gian/tiền)"],
+        ["grow", "grew", "grown", "phát triển/lớn lên"],
+        ["open", "opened", "opened", "mở"],
+        ["walk", "walked", "walked", "đi bộ"],
+        ["win", "won", "won", "thắng"],
+        ["offer", "offered", "offered", "đề nghị/cung cấp"],
+        ["remember", "remembered", "remembered", "nhớ"],
+        ["love", "loved", "loved", "yêu/thích"],
+        ["consider", "considered", "considered", "cân nhắc/xem xét"],
+        ["appear", "appeared", "appeared", "xuất hiện"],
+        ["wait", "waited", "waited", "chờ/đợi"],
+        ["send", "sent", "sent", "gửi"],
+        ["expect", "expected", "expected", "mong đợi"],
+        ["build", "built", "built", "xây dựng"],
+        ["fall", "fell", "fallen", "ngã/rơi"],
+        ["cut", "cut", "cut", "cắt"],
+        ["reach", "reached", "reached", "đến/chạm tới"],
+        ["remain", "remained", "remained", "vẫn/duy trì"],
+        ["clean", "cleaned", "cleaned", "dọn dẹp"],
+        ["wash", "washed", "washed", "rửa/giặt"],
+        ["drive", "drove", "driven", "lái (xe)"],
+        ["ride", "rode", "ridden", "đi (xe đạp/xe máy/ngựa)"],
+        ["shop", "shopped", "shopped", "mua sắm"],
+        ["fix", "fixed", "fixed", "sửa/chỉnh"],
+        ["repair", "repaired", "repaired", "sửa chữa"],
+        ["charge", "charged", "charged", "sạc (pin)"],
+        ["carry", "carried", "carried", "mang/vác"],
+        ["wear", "wore", "worn", "mặc/đeo"],
+        // --- Bổ sung từ danh sách người dùng ---
+        ["accept", "accepted", "accepted", "chấp nhận"],
+        ["accuse", "accused", "accused", "tố cáo"],
+        ["achieve", "achieved", "achieved", "đạt được"],
+        ["act", "acted", "acted", "hành động/thực hiện"],
+        ["admire", "admired", "admired", "ngưỡng mộ"],
+        ["admit", "admitted", "admitted", "thừa nhận"],
+        ["adopt", "adopted", "adopted", "nhận nuôi/áp dụng"],
+        ["advise", "advised", "advised", "khuyên"],
+        ["affect", "affected", "affected", "ảnh hưởng"],
+        ["agree", "agreed", "agreed", "đồng ý"],
+        ["announce", "announced", "announced", "công bố"],
+        ["appreciate", "appreciated", "appreciated", "đánh giá cao"],
+        ["argue", "argued", "argued", "tranh luận"],
+        ["arrive", "arrived", "arrived", "đến"],
+        ["assist", "assisted", "assisted", "hỗ trợ"],
+        ["attack", "attacked", "attacked", "tấn công"],
+        ["attempt", "attempted", "attempted", "cố gắng"],
+        ["avoid", "avoided", "avoided", "tránh"],
+        ["back up", "backed up", "backed up", "sao lưu/hỗ trợ"],
+        ["bake", "baked", "baked", "nướng"],
+        ["banish", "banished", "banished", "trục xuất"],
+        ["beg", "begged", "begged", "năn nỉ/van xin"],
+        ["behave", "behaved", "behaved", "cư xử"],
+        ["belittle", "belittled", "belittled", "xem thường"],
+        ["blame", "blamed", "blamed", "đổ lỗi"],
+        ["boil", "boiled", "boiled", "sôi/đun sôi"],
+        ["bother", "bothered", "bothered", "làm phiền"],
+        ["brake", "braked", "braked", "phanh"],
+        ["bury", "buried", "buried", "chôn cất"],
+        ["cause", "caused", "caused", "gây ra"],
+        ["celebrate", "celebrated", "celebrated", "ăn mừng/tôn vinh"],
+        ["challenge", "challenged", "challenged", "thử thách"],
+        ["chase", "chased", "chased", "đuổi theo"],
+        ["chat", "chatted", "chatted", "tán gẫu"],
+        ["cheat", "cheated", "cheated", "gian lận/lừa dối"],
+        ["cheer", "cheered", "cheered", "cổ vũ"],
+        ["chew", "chewed", "chewed", "nhai"],
+        ["clap", "clapped", "clapped", "vỗ tay"],
+        ["clear", "cleared", "cleared", "xóa/dọn sạch"],
+        ["climb", "climbed", "climbed", "leo"],
+        ["coax", "coaxed", "coaxed", "dỗ ngọt"],
+        ["coexist", "coexisted", "coexisted", "cùng tồn tại"],
+        ["collect", "collected", "collected", "thu thập"],
+        ["compare", "compared", "compared", "so sánh/đối chiếu"],
+        ["compete", "competed", "competed", "cạnh tranh"],
+        ["complain", "complained", "complained", "khiếu nại/phàn nàn"],
+        ["concoct", "concocted", "concocted", "pha chế/kết hợp"],
+        ["confess", "confessed", "confessed", "thú nhận"],
+        ["construct", "constructed", "constructed", "xây dựng"],
+        ["contact", "contacted", "contacted", "liên hệ"],
+        ["control", "controlled", "controlled", "kiểm soát"],
+        ["copy", "copied", "copied", "sao chép"],
+        ["cough", "coughed", "coughed", "ho"],
+        ["count", "counted", "counted", "đếm"],
+        ["crash", "crashed", "crashed", "va chạm/sập (máy tính)"],
+        ["cry", "cried", "cried", "khóc"],
+        ["curse", "cursed", "cursed", "nguyền rủa/chửi thề"],
+        ["cycle", "cycled", "cycled", "đi xe đạp"],
+        ["damage", "damaged", "damaged", "làm hư hại"],
+        ["dance", "danced", "danced", "nhảy/khiêu vũ"],
+        ["decide", "decided", "decided", "quyết định"],
+        ["demand", "demanded", "demanded", "yêu cầu/đòi hỏi"],
+        ["design", "designed", "designed", "thiết kế"],
+        ["destroy", "destroyed", "destroyed", "phá hủy"],
+        ["develop", "developed", "developed", "phát triển"],
+        ["die", "died", "died", "chết"],
+        ["disappoint", "disappointed", "disappointed", "làm thất vọng"],
+        ["discuss", "discussed", "discussed", "thảo luận"],
+        ["disregard", "disregarded", "disregarded", "phớt lờ/không quan tâm"],
+        ["disturb", "disturbed", "disturbed", "làm phiền"],
+        ["divide", "divided", "divided", "chia"],
+        ["drag", "dragged", "dragged", "kéo lê"],
+        ["dress", "dressed", "dressed", "ăn mặc"],
+        ["dry", "dried", "dried", "làm khô"],
+        ["dunk", "dunked", "dunked", "nhúng/chìm"],
+        ["earn", "earned", "earned", "kiếm được"],
+        ["eliminate", "eliminated", "eliminated", "loại bỏ"],
+        ["emigrate", "emigrated", "emigrated", "di cư"],
+        ["employ", "employed", "employed", "tuyển dụng"],
+        ["encourage", "encouraged", "encouraged", "động viên/khuyến khích"],
+        ["end", "ended", "ended", "kết thúc"],
+        ["enjoy", "enjoyed", "enjoyed", "thích/thưởng thức"],
+        ["escape", "escaped", "escaped", "trốn thoát"],
+        ["establish", "established", "established", "thành lập"],
+        ["estimate", "estimated", "estimated", "ước lượng"],
+        ["expand", "expanded", "expanded", "mở rộng"],
+        ["explain", "explained", "explained", "giải thích"],
+        ["fake", "faked", "faked", "giả mạo"],
+        ["film", "filmed", "filmed", "quay phim"],
+        ["fish", "fished", "fished", "câu cá"],
+        ["flush", "flushed", "flushed", "đỏ mặt/xả nước"],
+        ["force", "forced", "forced", "ép buộc"],
+        ["foster", "fostered", "fostered", "bồi dưỡng/nuôi dưỡng"],
+        ["fry", "fried", "fried", "chiên/rán"],
+        ["gather", "gathered", "gathered", "tập hợp/thu thập"],
+        ["grab", "grabbed", "grabbed", "chộp/nắm lấy"],
+        ["grade", "graded", "graded", "chấm điểm/phân loại"],
+        ["greet", "greeted", "greeted", "chào hỏi"],
+        ["ground", "grounded", "grounded", "phạt cấm túc/tiếp đất"],
+        ["guess", "guessed", "guessed", "đoán"],
+        ["happen", "happened", "happened", "xảy ra"],
+        ["harass", "harassed", "harassed", "quấy rối"],
+        ["harm", "harmed", "harmed", "làm hại"],
+        ["hate", "hated", "hated", "ghét"],
+        ["heal", "healed", "healed", "chữa lành"],
+        ["heat", "heated", "heated", "đun nóng"],
+        ["hesitate", "hesitated", "hesitated", "do dự"],
+        ["hire", "hired", "hired", "thuê"],
+        ["hitchhike", "hitchhiked", "hitchhiked", "đi nhờ xe"],
+        ["hope", "hoped", "hoped", "hy vọng"],
+        ["hunt", "hunted", "hunted", "săn bắn"],
+        ["hurry", "hurried", "hurried", "vội vàng"],
+        ["identify", "identified", "identified", "xác định"],
+        ["imagine", "imagined", "imagined", "tưởng tượng"],
+        ["insist", "insisted", "insisted", "khăng khăng"],
+        ["intend", "intended", "intended", "dự định"],
+        ["interest", "interested", "interested", "gây hứng thú"],
+        ["interrupt", "interrupted", "interrupted", "gián đoạn"],
+        ["introduce", "introduced", "introduced", "giới thiệu"],
+        ["invent", "invented", "invented", "phát minh"],
+        ["investigate", "investigated", "investigated", "điều tra"],
+        ["irritate", "irritated", "irritated", "gây kích thích/khó chịu"],
+        ["jinx", "jinxed", "jinxed", "ám vận/xui xẻo"],
+        ["joke", "joked", "joked", "nói đùa"],
+        ["jump", "jumped", "jumped", "nhảy"],
+        ["kick", "kicked", "kicked", "đá/sút"],
+        ["kill", "killed", "killed", "giết"],
+        ["kiss", "kissed", "kissed", "hôn"],
+        ["knock", "knocked", "knocked", "gõ/đánh ngã"],
+        ["land", "landed", "landed", "hạ cánh"],
+        ["last", "lasted", "lasted", "kéo dài"],
+        ["laugh", "laughed", "laughed", "cười"],
+        ["lie", "lied", "lied", "nói dối"],
+        ["lift", "lifted", "lifted", "nâng"],
+        ["link", "linked", "linked", "liên kết"],
+        ["list", "listed", "listed", "liệt kê"],
+        ["locate", "located", "located", "định vị/đặt ở"],
+        ["lock", "locked", "locked", "khóa"],
+        ["mail", "mailed", "mailed", "gửi thư"],
+        ["marry", "married", "married", "kết hôn"],
+        ["measure", "measured", "measured", "đo lường"],
+        ["mind", "minded", "minded", "phiền/để ý"],
+        ["miss", "missed", "missed", "bỏ lỡ/nhớ"],
+        ["mistreat", "mistreated", "mistreated", "ngược đãi"],
+        ["mix", "mixed", "mixed", "trộn"],
+        ["murder", "murdered", "murdered", "giết người"],
+        ["name", "named", "named", "đặt tên"],
+        ["note", "noted", "noted", "ghi chú"],
+        ["notice", "noticed", "noticed", "nhận thấy"],
+        ["number", "numbered", "numbered", "đánh số"],
+        ["obey", "obeyed", "obeyed", "vâng lời"],
+        ["offend", "offended", "offended", "xúc phạm"],
+        ["outsmart", "outsmarted", "outsmarted", "cao tay hơn"],
+        ["overreact", "overreacted", "overreacted", "phản ứng thái quá"],
+        ["paint", "painted", "painted", "sơn/vẽ"],
+        ["park", "parked", "parked", "đậu xe"],
+        ["phone", "phoned", "phoned", "gọi điện"],
+        ["pick", "picked", "picked", "nhặt/chọn"],
+        ["place", "placed", "placed", "đặt để"],
+        ["plan", "planned", "planned", "lên kế hoạch"],
+        ["please", "pleased", "pleased", "làm hài lòng"],
+        ["pluck", "plucked", "plucked", "nhổ/hái"],
+        ["praise", "praised", "praised", "khen ngợi"],
+        ["pray", "prayed", "prayed", "cầu nguyện"],
+        ["pretend", "pretended", "pretended", "giả vờ"],
+        ["print", "printed", "printed", "in"],
+        ["proceed", "proceeded", "proceeded", "tiến hành/tiếp tục"],
+        ["promise", "promised", "promised", "hứa"],
+        ["punch", "punched", "punched", "đấm/đục lỗ"],
+        ["punish", "punished", "punished", "trừng phạt"],
+        ["purchase", "purchased", "purchased", "mua"],
+        ["push", "pushed", "pushed", "đẩy"],
+        ["question", "questioned", "questioned", "hỏi/chất vấn"],
+        ["race", "raced", "raced", "đua"],
+        ["rate", "rated", "rated", "đánh giá"],
+        ["recommend", "recommended", "recommended", "đề xuất/khuyến nghị"],
+        ["reduce", "reduced", "reduced", "giảm"],
+        ["refuse", "refused", "refused", "từ chối"],
+        ["regret", "regretted", "regretted", "hối hận"],
+        ["rehearse", "rehearsed", "rehearsed", "diễn tập"],
+        ["relax", "relaxed", "relaxed", "thư giãn"],
+        ["reply", "replied", "replied", "trả lời"],
+        ["request", "requested", "requested", "yêu cầu"],
+        ["retire", "retired", "retired", "nghỉ hưu"],
+        ["rob", "robbed", "robbed", "cướp"],
+        ["rub", "rubbed", "rubbed", "chà xát"],
+        ["rush", "rushed", "rushed", "vội vàng"],
+        ["scare", "scared", "scared", "làm sợ hãi"],
+        ["scold", "scolded", "scolded", "mắng"],
+        ["seem", "seemed", "seemed", "dường như"],
+        ["select", "selected", "selected", "chọn"],
+        ["share", "shared", "shared", "chia sẻ"],
+        ["shout", "shouted", "shouted", "la hét"],
+        ["shrug", "shrugged", "shrugged", "nhún vai"],
+        ["sign", "signed", "signed", "ký"],
+        ["skate", "skated", "skated", "trượt băng"],
+        ["slap", "slapped", "slapped", "tát"],
+        ["slip", "slipped", "slipped", "trượt chân"],
+        ["smoke", "smoked", "smoked", "hút thuốc"],
+        ["snatch", "snatched", "snatched", "giật lấy"],
+        ["snore", "snored", "snored", "ngáy"],
+        ["sort", "sorted", "sorted", "sắp xếp"],
+        ["sound", "sounded", "sounded", "phát ra âm/âm thanh"],
+        ["stalk", "stalked", "stalked", "rình rập"],
+        ["stare", "stared", "stared", "nhìn chằm chằm"],
+        ["state", "stated", "stated", "nêu/phát biểu"],
+        ["step", "stepped", "stepped", "bước"],
+        ["store", "stored", "stored", "lưu trữ"],
+        ["stroll", "strolled", "strolled", "tản bộ"],
+        ["succeed", "succeeded", "succeeded", "thành công"],
+        ["sue", "sued", "sued", "kiện"],
+        ["suggest", "suggested", "suggested", "đề xuất"],
+        ["talk", "talked", "talked", "nói chuyện"],
+        ["taste", "tasted", "tasted", "nếm"],
+        ["tease", "teased", "teased", "trêu chọc"],
+        ["thank", "thanked", "thanked", "cảm ơn"],
+        ["touch", "touched", "touched", "chạm"],
+        ["tour", "toured", "toured", "tham quan"],
+        ["trade", "traded", "traded", "giao dịch/trao đổi"],
+        ["trip", "tripped", "tripped", "vấp ngã"],
+        ["trouble", "troubled", "troubled", "làm phiền/gây rắc rối"],
+        ["try", "tried", "tried", "cố gắng"],
+        ["twist", "twisted", "twisted", "vặn/xoắn"],
+        ["type", "typed", "typed", "đánh máy"],
+        ["underline", "underlined", "underlined", "gạch chân"],
+        ["vary", "varied", "varied", "thay đổi/đa dạng"],
+        ["vote", "voted", "voted", "bình chọn/bỏ phiếu"],
+        ["warn", "warned", "warned", "cảnh báo"],
+        ["waste", "wasted", "wasted", "lãng phí"],
+        ["water", "watered", "watered", "tưới"],
+        ["wave", "waved", "waved", "vẫy tay"],
+        ["welcome", "welcomed", "welcomed", "chào mừng"],
+        ["wink", "winked", "winked", "nháy mắt"],
+        ["wish", "wished", "wished", "ước/chúc"],
+        ["witness", "witnessed", "witnessed", "chứng kiến"],
+        ["wonder", "wondered", "wondered", "tự hỏi/băn khoăn"],
+        ["worry", "worried", "worried", "lo lắng"],
+        ["wrap", "wrapped", "wrapped", "gói/bọc"],
+        ["yell", "yelled", "yelled", "la hét"],
       ];
+
+      // Các động từ bất quy tắc bổ sung (giữ nguyên nhiều biến thể V2/V3)
+      const irregulars = [
+        ["abide", "abode/abided", "abode/abided"],
+        ["arise", "arose", "arisen"],
+        ["awake", "awoke", "awoken"],
+        ["backslide", "backslid", "backslide/backslid"],
+        ["befall", "befell", "befallen"],
+        ["behold", "beheld", "beheld"],
+        ["bend", "bent", "bent"],
+        ["beset", "beset", "beset"],
+        ["bespeak", "bespoke", "bespoken"],
+        ["bet", "bet/betted", "bet/betted"],
+        ["bid", "bid", "bid"],
+        ["bind", "bound", "bound"],
+        ["bite", "bit", "bitten"],
+        ["bleed", "bled", "bled"],
+        ["blow", "blew", "blown"],
+        ["break", "broke", "broken"],
+        ["breed", "bred", "bred"],
+        ["browbeat", "browbeat", "browbeaten/browbeat"],
+        ["burn", "burnt/burned", "burnt/burned"],
+        ["burst", "burst", "burst"],
+        ["bust", "busted/bust", "busted/bust"],
+        ["cast", "cast", "cast"],
+        ["catch", "caught", "caught"],
+        ["chide", "chid/chided", "chid/chidden/chided"],
+        ["choose", "chose", "chosen"],
+        ["cleave", "clove/cleft/cleaved", "cloven/cleft/cleaved"],
+        ["cling", "clung", "clung"],
+        ["clothe", "clothed/clad", "clothed/clad"],
+        ["creep", "crept", "crept"],
+        ["crossbreed", "crossbred", "crossbred"],
+        ["crow", "crew/crewed", "crowed"],
+        ["daydream", "daydreamed/daydreamt", "daydreamed/daydreamt"],
+        ["deal", "dealt", "dealt"],
+        ["dig", "dug", "dug"],
+        ["disprove", "disproved", "disproved/disproven"],
+        ["dive", "dove/dived", "dived"],
+        ["draw", "drew", "drawn"],
+        ["dream", "dreamt/dreamed", "dreamt/dreamed"],
+        ["dwell", "dwelt", "dwelt"],
+        ["feed", "fed", "fed"],
+        ["fight", "fought", "fought"],
+        ["fit", "fitted/fit", "fitted/fit"],
+        ["flee", "fled", "fled"],
+        ["fling", "flung", "flung"],
+        ["fly", "flew", "flown"],
+        ["forbear", "forbore", "forborne"],
+        ["forbid", "forbade/forbad", "forbidden"],
+        ["forecast", "forecast/forecasted", "forecast/forecasted"],
+        ["forego (forgo)", "forewent", "foregone"],
+        ["foresee", "foresaw", "foreseen"],
+        ["foretell", "foretold", "foretold"],
+        ["forget", "forgot", "forgotten"],
+        ["forgive", "forgave", "forgiven"],
+        ["forsake", "forsook", "forsaken"],
+        ["freeze", "froze", "frozen"],
+        ["frostbite", "frostbit", "frostbitten"],
+        ["gild", "gilt/gilded", "gilt/gilded"],
+        ["gird", "girt/girded", "girt/girded"],
+        ["grind", "ground", "ground"],
+        ["hand-feed", "hand-fed", "hand-fed"],
+        ["handwrite", "handwrote", "handwritten"],
+        ["hang", "hung", "hung"],
+        ["heave", "hove/heaved", "hove/heaved"],
+        ["hew", "hewed", "hewn/hewed"],
+        ["hide", "hid", "hidden"],
+        ["hit", "hit", "hit"],
+        ["hurt", "hurt", "hurt"],
+        ["inbreed", "inbred", "inbred"],
+        ["inlay", "inlaid", "inlaid"],
+        ["input", "input", "input"],
+        ["inset", "inset", "inset"],
+        ["interbreed", "interbred", "interbred"],
+        ["interweave", "interwove/interweaved", "interwoven/interweaved"],
+        ["interwind", "interwound", "interwound"],
+        ["jerry-build", "jerry-built", "jerry-built"],
+        ["kneel", "knelt/kneeled", "knelt/kneeled"],
+        ["knit", "knit/knitted", "knit/knitted"],
+        ["lay", "laid", "laid"],
+        ["lean", "leaned/leant", "leaned/leant"],
+        ["leap", "leapt", "leapt"],
+        ["learn", "learnt/learned", "learnt/learned"],
+        ["lend", "lent", "lent"],
+        ["let", "let", "let"],
+        ["lie", "lay", "lain"],
+        ["light", "lit/lighted", "lit/lighted"],
+        ["lip-read", "lip-read", "lip-read"],
+        ["make", "made", "made"],
+        ["mean", "meant", "meant"],
+        ["miscast", "miscast", "miscast"],
+        ["misdeal", "misdealt", "misdealt"],
+        ["misdo", "misdid", "misdone"],
+        ["mishear", "misheard", "misheard"],
+        ["mislay", "mislaid", "mislaid"],
+        ["mislead", "misled", "misled"],
+        ["mislearn", "mislearned/mislearnt", "mislearned/mislearnt"],
+        ["misread", "misread", "misread"],
+        ["misset", "misset", "misset"],
+        ["misspeak", "misspoke", "misspoken"],
+        ["misspell", "misspelt/misspelled", "misspelt/misspelled"],
+        ["misspend", "misspent", "misspent"],
+        ["mistake", "mistook", "mistaken"],
+        ["misteach", "mistaught", "mistaught"],
+        ["misunderstand", "misunderstood", "misunderstood"],
+        ["miswrite", "miswrote", "miswritten"],
+        ["mow", "mowed", "mown/mowed"],
+        ["offset", "offset", "offset"],
+        ["outbid", "outbid", "outbid"],
+        ["outbreed", "outbred", "outbred"],
+        ["outdo", "outdid", "outdone"],
+        ["outdraw", "outdrew", "outdrawn"],
+        ["outdrink", "outdrank", "outdrunk"],
+        ["outdrive", "outdrove", "outdriven"],
+        ["outfight", "outfought", "outfought"],
+        ["outfly", "outflew", "outflown"],
+        ["outgrow", "outgrew", "outgrown"],
+        ["outleap", "outleaped/outleapt", "outleaped/outleapt"],
+        ["outlie", "outlied", "outlied"],
+        ["output", "output", "output"],
+        ["outride", "outrode", "outridden"],
+        ["outrun", "outran", "outrun"],
+        ["outsell", "outsold", "outsold"],
+        ["outshine", "outshined/outshone", "outshined/outshone"],
+        ["outshoot", "outshot", "outshot"],
+        ["outsing", "outsang", "outsung"],
+        ["outsit", "outsat", "outsat"],
+        ["outsleep", "outslept", "outslept"],
+        ["outsmell", "outsmelled/outsmelt", "outsmelled/outsmelt"],
+        ["outspeak", "outspoke", "outspoken"],
+        ["outspeed", "outsped", "outsped"],
+        ["outspend", "outspent", "outspent"],
+        ["outswear", "outswore", "outsworn"],
+        ["outswim", "outswam", "outswum"],
+        ["outthink", "outthought", "outthought"],
+        ["outthrow", "outthrew", "outthrown"],
+        ["outwrite", "outwrote", "outwritten"],
+        ["overbid", "overbid", "overbid"],
+        ["overbreed", "overbred", "overbred"],
+        ["overbuild", "overbuilt", "overbuilt"],
+        ["overbuy", "overbought", "overbought"],
+        ["overcome", "overcame", "overcome"],
+        ["overdo", "overdid", "overdone"],
+        ["overdraw", "overdrew", "overdrawn"],
+        ["overdrink", "overdrank", "overdrunk"],
+        ["overeat", "overate", "overeaten"],
+        ["overfeed", "overfed", "overfed"],
+        ["overfly", "overflew", "overflown"],
+        ["overhang", "overhung", "overhung"],
+        ["overhear", "overheard", "overheard"],
+        ["overlay", "overlaid", "overlaid"],
+        ["overpay", "overpaid", "overpaid"],
+        ["override", "overrode", "overridden"],
+        ["overrun", "overran", "overrun"],
+        ["oversee", "oversaw", "overseen"],
+        ["oversell", "oversold", "oversold"],
+        ["oversew", "oversewed", "oversewn/oversewed"],
+        ["overshoot", "overshot", "overshot"],
+        ["oversleep", "overslept", "overslept"],
+        ["overspeak", "overspoke", "overspoken"],
+        ["overspend", "overspent", "overspent"],
+        ["overspill", "overspilled/overspilt", "overspilled/overspilt"],
+        ["overtake", "overtook", "overtaken"],
+        ["overthink", "overthought", "overthought"],
+        ["overthrow", "overthrew", "overthrown"],
+        ["overwind", "overwound", "overwound"],
+        ["overwrite", "overwrote", "overwritten"],
+        ["partake", "partook", "partaken"],
+        ["plead", "pleaded/pled", "pleaded/pled"],
+        ["prebuild", "prebuilt", "prebuilt"],
+        ["predo", "predid", "predone"],
+        ["premake", "premade", "premade"],
+        ["prepay", "prepaid", "prepaid"],
+        ["presell", "presold", "presold"],
+        ["preset", "preset", "preset"],
+        ["preshrink", "preshrank", "preshrunk"],
+        ["proofread", "proofread", "proofread"],
+        ["prove", "proved", "proven/proved"],
+        ["quick-freeze", "quick-froze", "quick-frozen"],
+        ["quit", "quit/quitted", "quit/quitted"],
+        ["reawake", "reawoke", "reawaken"],
+        ["rebid", "rebid", "rebid"],
+        ["rebind", "rebound", "rebound"],
+        ["rebroadcast", "rebroadcast/rebroadcasted", "rebroadcast/rebroadcasted"],
+        ["rebuild", "rebuilt", "rebuilt"],
+        ["recast", "recast", "recast"],
+        ["recut", "recut", "recut"],
+        ["redeal", "redealt", "redealt"],
+        ["redo", "redid", "redone"],
+        ["redraw", "redrew", "redrawn"],
+        ["refit", "refitted/refit", "refitted/refit"],
+        ["regrind", "reground", "reground"],
+        ["regrow", "regrew", "regrown"],
+        ["rehang", "rehung", "rehung"],
+        ["rehear", "reheard", "reheard"],
+        ["reknit", "reknitted/reknit", "reknitted/reknit"],
+        ["relay", "relaid", "relaid"],
+        ["relearn", "relearned/relearnt", "relearned/relearnt"],
+        ["relight", "relit/relighted", "relit/relighted"],
+        ["remake", "remade", "remade"],
+        ["rend", "rent", "rent"],
+        ["repay", "repaid", "repaid"],
+        ["reread", "reread", "reread"],
+        ["rerun", "reran", "rerun"],
+        ["resell", "resold", "resold"],
+        ["resend", "resent", "resent"],
+        ["reset", "reset", "reset"],
+        ["resew", "resewed", "resewn/resewed"],
+        ["retake", "retook", "retaken"],
+        ["reteach", "retaught", "retaught"],
+        ["retear", "retore", "retorn"],
+        ["retell", "retold", "retold"],
+        ["rethink", "rethought", "rethought"],
+        ["retread", "retread", "retread"],
+        ["retrofit", "retrofitted/retrofit", "retrofitted/retrofit"],
+        ["rewake", "rewoke/rewaked", "rewaken/rewaked"],
+        ["rewear", "rewore", "reworn"],
+        ["reweave", "rewove/reweaved", "rewoven/reweaved"],
+        ["rewed", "rewed/rewedded", "rewed/rewedded"],
+        ["rewet", "rewet/rewetted", "rewet/rewetted"],
+        ["rewin", "rewon", "rewon"],
+        ["rewind", "rewound", "rewound"],
+        ["rid", "rid", "rid"],
+        ["roughcast", "roughcast", "roughcast"],
+        ["sand-cast", "sand-cast", "sand-cast"],
+        ["saw", "sawed", "sawn"],
+        ["seek", "sought", "sought"],
+        ["sell", "sold", "sold"],
+        ["set", "set", "set"],
+        ["sew", "sewed", "sewn/sewed"],
+        ["shake", "shook", "shaken"],
+        ["shave", "shaved", "shaved/shaven"],
+        ["shear", "sheared", "shorn"],
+        ["shed", "shed", "shed"],
+        ["shine", "shone", "shone"],
+        ["shit", "shit/shat/shitted", "shit/shat/shitted"],
+        ["shoot", "shot", "shot"],
+        ["show", "showed", "shown/showed"],
+        ["shrink", "shrank", "shrunk"],
+        ["shut", "shut", "shut"],
+        ["sight-read", "sight-read", "sight-read"],
+        ["sing", "sang", "sung"],
+        ["sink", "sank", "sunk"],
+        ["slay", "slew", "slain"],
+        ["slide", "slid", "slid"],
+        ["sling", "slung", "slung"],
+        ["slink", "slunk", "slunk"],
+        ["slit", "slit", "slit"],
+        ["smell", "smelt", "smelt"],
+        ["smite", "smote", "smitten"],
+        ["sneak", "sneaked/snuck", "sneaked/snuck"],
+        ["sow", "sowed", "sown/sewed"],
+        ["speed", "sped/speeded", "sped/speeded"],
+        ["spell", "spelt/spelled", "spelt/spelled"],
+        ["spill", "spilt/spilled", "spilt/spilled"],
+        ["spin", "spun/span", "spun"],
+        ["spit", "spat", "spat"],
+        ["spoil", "spoilt/spoiled", "spoilt/spoiled"],
+        ["spoon-feed", "spoon-fed", "spoon-fed"],
+        ["spread", "spread", "spread"],
+        ["spring", "sprang", "sprung"],
+        ["stave", "stove/staved", "stove/staved"],
+        ["steal", "stole", "stolen"],
+        ["stick", "stuck", "stuck"],
+        ["sting", "stung", "stung"],
+        ["stink", "stunk/stank", "stunk"],
+        ["strew", "strewed", "strewn/strewed"],
+        ["stride", "strode", "stridden"],
+        ["strike", "struck", "struck"],
+        ["string", "strung", "strung"],
+        ["strive", "strove", "striven"],
+        ["sublet", "sublet", "sublet"],
+        ["sunburn", "sunburned/sunburnt", "sunburned/sunburnt"],
+        ["swear", "swore", "sworn"],
+        ["sweat", "sweat/sweated", "sweat/sweated"],
+        ["sweep", "swept", "swept"],
+        ["swell", "swelled", "swollen/swelled"],
+        ["swim", "swam", "swum"],
+        ["swing", "swung", "swung"],
+        ["telecast", "telecast", "telecast"],
+        ["test-drive", "test-drove", "test-driven"],
+        ["test-fly", "test-flew", "test-flown"],
+        ["thrust", "thrust", "thrust"],
+        ["tread", "trod", "trodden/trod"],
+        ["typecast", "typecast", "typecast"],
+        ["typeset", "typeset", "typeset"],
+        ["typewrite", "typewrote", "typewritten"],
+        ["unbend", "unbent", "unbent"],
+        ["unbind", "unbound", "unbound"],
+        ["unclothe", "unclothed/unclad", "unclothed/unclad"],
+        ["underbid", "underbid", "underbid"],
+        ["undercut", "undercut", "undercut"],
+        ["underfeed", "underfed", "underfed"],
+        ["undergo", "underwent", "undergone"],
+        ["underlie", "underlay", "underlain"],
+        ["underpay", "underpaid", "underpaid"],
+        ["undersell", "undersold", "undersold"],
+        ["underspend", "underspent", "underspent"],
+        ["undertake", "undertook", "undertaken"],
+        ["underwrite", "underwrote", "underwritten"],
+        ["undo", "undid", "undone"],
+        ["unfreeze", "unfroze", "unfrozen"],
+        ["unhang", "unhung", "unhung"],
+        ["unhide", "unhid", "unhidden"],
+        ["unknit", "unknitted/unknit", "unknitted/unknit"],
+        ["unlearn", "unlearned/unlearnt", "unlearned/unlearnt"],
+        ["unsew", "unsewed", "unsewn/unsewed"],
+        ["unsling", "unslung", "unslung"],
+        ["unspin", "unspun", "unspun"],
+        ["unstick", "unstuck", "unstuck"],
+        ["unstring", "unstrung", "unstrung"],
+        ["unweave", "unwove/unweaved", "unwoven/unweaved"],
+        ["unwind", "unwound", "unwound"],
+        ["uphold", "upheld", "upheld"],
+        ["upset", "upset", "upset"],
+        ["wake", "woke/waked", "woken/waked"],
+        ["waylay", "waylaid", "waylaid"],
+        ["weave", "wove/weaved", "woven/weaved"],
+        ["wed", "wed/wedded", "wed/wedded"],
+        ["weep", "wept", "wept"],
+        ["wet", "wet/wetted", "wet/wetted"],
+        ["whet", "whetted", "whetted"],
+        ["wind", "wound", "wound"],
+        ["withdraw", "withdrew", "withdrawn"],
+        ["withhold", "withheld", "withheld"],
+        ["withstand", "withstood", "withstood"],
+        ["wring", "wrung", "wrung"],
+      ];
+
+      // Gộp dữ liệu
+      irregulars.forEach(v => verbs.push(v));
 
       const listEl = document.getElementById('list');
       const voiceEl = document.getElementById('voice');
       const rateEl = document.getElementById('rate');
       const volumeEl = document.getElementById('volume');
       const searchEl = document.getElementById('search');
+      const countsEl = document.getElementById('counts');
+      const mediaEl = document.getElementById('media');
+      const tenorKeyEl = document.getElementById('tenorKey');
+
+      // Lưu/khôi phục tùy chọn media và Tenor key
+      mediaEl.value = localStorage.getItem('mediaPref') || 'icon';
+      tenorKeyEl.value = localStorage.getItem('tenorKey') || '';
+
+      // Gợi ý từ khóa ảnh theo từng động từ để liên quan/nghĩa gợi nhớ tốt hơn
+      const imageHints = {
+        'be': 'happy smile person',
+        'have': 'office meeting',
+        'do': 'task checklist',
+        'go': 'city commute walking',
+        'get': 'wake up alarm clock',
+        'make': 'make breakfast cooking',
+        'take': 'bus commute',
+        'see': 'friends meeting',
+        'come': 'come home door',
+        'think': 'thinking person idea',
+        'look': 'searching keys',
+        'want': 'wishlist want',
+        'give': 'give gift present',
+        'use': 'using smartphone app',
+        'find': 'found key',
+        'tell': 'conversation talking',
+        'ask': 'question hand raised',
+        'work': 'work from home laptop',
+        'feel': 'tired person',
+        'leave': 'leaving house door',
+        'call': 'phone call',
+        'put': 'keys on table',
+        'keep': 'tidy clean room',
+        'begin': 'start button begin',
+        'start': 'start engine car',
+        'help': 'helping hand support',
+        'show': 'show picture photo',
+        'hear': 'listening ears',
+        'play': 'soccer football',
+        'run': 'morning jog running',
+        'move': 'moving chair',
+        'live': 'city apartment home',
+        'bring': 'bring lunch box',
+        'write': 'writing email',
+        'sit': 'sitting by window',
+        'stand': 'standing in line queue',
+        'lose': 'lost keys',
+        'pay': 'credit card payment',
+        'meet': 'handshake meeting people',
+        'learn': 'online learning study',
+        'change': 'change plan calendar',
+        'understand': 'light bulb understanding',
+        'watch': 'watching tv living room',
+        'follow': 'following instructions manual',
+        'stop': 'stop sign',
+        'read': 'reading book',
+        'allow': 'pets allowed',
+        'add': 'add sugar coffee',
+        'spend': 'family time',
+        'grow': 'plant growing',
+        'open': 'open window',
+        'walk': 'walking to school',
+        'win': 'win trophy',
+        'remember': 'memory recall',
+        'love': 'heart love music',
+        'wait': 'bus stop waiting',
+        'send': 'send email',
+        'build': 'house construction',
+        'fall': 'autumn leaves fall',
+        'cut': 'scissors cut paper',
+        'reach': 'reach train station',
+        'remain': 'price chart high',
+        'eat': 'breakfast table',
+        'drink': 'glass of water',
+        'cook': 'cooking dinner kitchen',
+        'clean': 'cleaning room',
+        'wash': 'washing dishes sink',
+        'brush': 'brush teeth',
+        'sleep': 'sleeping night bedroom',
+        'drive': 'driving car road',
+        'ride': 'riding bicycle',
+        'shop': 'online shopping',
+        'order': 'food delivery',
+        'study': 'studying desk',
+        'teach': 'teacher classroom',
+        'listen': 'listening music headphones',
+        'travel': 'train travel',
+        'visit': 'visit grandparents family',
+        'return': 'return home',
+        'save': 'piggy bank savings',
+        'borrow': 'borrow book library',
+        'lend': 'lend pen',
+        'fix': 'fix computer',
+        'repair': 'repair bicycle',
+        'charge': 'charge phone cable',
+        'carry': 'carry heavy bag',
+        'wear': 'wear jacket'
+      };
+
+      // Ánh xạ icon (Iconify) cho các động từ phổ biến để bảo đảm sát nghĩa và ổn định
+      // Ưu tiên dùng icon trước, nếu không có mới dùng ảnh (Unsplash/Picsum ...)
+      const iconifyMap = {
+        'run': 'mdi:run-fast',
+        'walk': 'mdi:walk',
+        'brush': 'mdi:toothbrush',
+        'wash': 'mdi:hand-wash-outline',
+        'clean': 'mdi:broom',
+        'sleep': 'mdi:bed',
+        'eat': 'mdi:silverware-fork-knife',
+        'drink': 'mdi:cup-water',
+        'cook': 'mdi:pot-mix',
+        'drive': 'mdi:car',
+        'ride': 'mdi:bike',
+        'shop': 'mdi:cart-outline',
+        'order': 'mdi:food',
+        'study': 'mdi:book-open-variant',
+        'teach': 'mdi:school-outline',
+        'listen': 'mdi:headphones',
+        'travel': 'mdi:airplane',
+        'visit': 'mdi:map-marker',
+        'return': 'mdi:home-import-outline',
+        'save': 'mdi:piggy-bank',
+        'borrow': 'mdi:book',
+        'lend': 'mdi:hand-coin',
+        'fix': 'mdi:wrench',
+        'repair': 'mdi:toolbox',
+        'charge': 'mdi:cellphone-charging',
+        'carry': 'mdi:backpack',
+        'wear': 'mdi:tshirt-crew',
+        'open': 'mdi:door-open',
+        'close': 'mdi:door-closed',
+        'call': 'mdi:phone',
+        'read': 'mdi:book-open-page-variant',
+        'write': 'mdi:pencil',
+        'watch': 'mdi:television',
+        'work': 'mdi:laptop',
+        'go': 'mdi:walk',
+        'get up': 'mdi:weather-sunset-up',
+        'have': 'mdi:briefcase-outline',
+        'give': 'mdi:gift-outline',
+        'take': 'mdi:hand-back-left',
+        'see': 'mdi:eye',
+        'come': 'mdi:home-import-outline',
+        'pay': 'mdi:credit-card-outline',
+        'phone': 'mdi:phone',
+        'rain': 'mdi:weather-rainy',
+        'prefer': 'mdi:thumb-up-outline',
+        'like': 'mdi:thumb-up',
+        'love': 'mdi:heart',
+        'help': 'mdi:hand-heart',
+      };
+
+      // Từ điển nghĩa tiếng Việt mặc định (đủ ngắn gọn, dùng khi verb thiếu nghĩa)
+      const viDict = {
+        'abide': { base: 'tuân theo', past: 'đã tuân theo', pp: 'được tuân theo' },
+        'arise': { base: 'phát sinh', past: 'đã phát sinh', pp: 'được phát sinh' },
+        'awake': { base: 'thức dậy', past: 'đã thức dậy', pp: 'được đánh thức' },
+        'backslide': { base: 'sa sút', past: 'đã sa sút', pp: 'bị sa sút' },
+        'be': { base: 'thì/là/ở', past: 'đã là', pp: 'được là' },
+        'bear': { base: 'mang/chịu', past: 'đã mang/chịu', pp: 'được mang/chịu' },
+        'beat': { base: 'đánh', past: 'đã đánh', pp: 'bị đánh' },
+        'become': { base: 'trở nên', past: 'đã trở nên', pp: 'được trở nên' },
+        'begin': { base: 'bắt đầu', past: 'đã bắt đầu', pp: 'được bắt đầu' },
+        'bring': { base: 'mang', past: 'đã mang', pp: 'được mang' },
+        'build': { base: 'xây dựng', past: 'đã xây', pp: 'được xây' },
+        'buy': { base: 'mua', past: 'đã mua', pp: 'được mua' },
+        'cast': { base: 'ném/đúc', past: 'đã ném/đúc', pp: 'được ném/đúc' },
+        'catch': { base: 'bắt', past: 'đã bắt', pp: 'bị bắt' },
+        'choose': { base: 'chọn', past: 'đã chọn', pp: 'được chọn' },
+        'come': { base: 'đến', past: 'đã đến', pp: 'được đến' },
+        'cost': { base: 'có giá', past: 'đã có giá', pp: 'được định giá' },
+        'cut': { base: 'cắt', past: 'đã cắt', pp: 'được cắt' },
+        'do': { base: 'làm', past: 'đã làm', pp: 'được làm' },
+        'draw': { base: 'vẽ/kéo', past: 'đã vẽ/kéo', pp: 'được vẽ/kéo' },
+        'drink': { base: 'uống', past: 'đã uống', pp: 'được uống' },
+        'drive': { base: 'lái', past: 'đã lái', pp: 'được lái' },
+        'eat': { base: 'ăn', past: 'đã ăn', pp: 'được ăn' },
+        'fall': { base: 'ngã/rơi', past: 'đã ngã', pp: 'bị ngã' },
+        'feed': { base: 'cho ăn', past: 'đã cho ăn', pp: 'được cho ăn' },
+        'feel': { base: 'cảm thấy', past: 'đã cảm thấy', pp: 'được cảm thấy' },
+        'fight': { base: 'đánh nhau', past: 'đã đánh nhau', pp: 'bị đánh' },
+        'find': { base: 'tìm thấy', past: 'đã tìm thấy', pp: 'được tìm thấy' },
+        'fly': { base: 'bay', past: 'đã bay', pp: 'được bay' },
+        'forget': { base: 'quên', past: 'đã quên', pp: 'bị quên' },
+        'forgive': { base: 'tha thứ', past: 'đã tha thứ', pp: 'được tha thứ' },
+        'freeze': { base: 'đóng băng', past: 'đã đóng băng', pp: 'bị đóng băng' },
+        'get': { base: 'nhận/được', past: 'đã nhận', pp: 'được nhận' },
+        'give': { base: 'đưa/cho', past: 'đã đưa', pp: 'được đưa' },
+        'go': { base: 'đi', past: 'đã đi', pp: 'đã đi' },
+        'grow': { base: 'lớn lên', past: 'đã lớn', pp: 'đã lớn' },
+        'hang': { base: 'treo', past: 'đã treo', pp: 'được treo' },
+        'have': { base: 'có', past: 'đã có', pp: 'được có' },
+        'hear': { base: 'nghe thấy', past: 'đã nghe', pp: 'được nghe' },
+        'hide': { base: 'trốn/giấu', past: 'đã trốn', pp: 'bị giấu' },
+        'hit': { base: 'đánh/trúng', past: 'đã đánh', pp: 'bị đánh' },
+        'hurt': { base: 'làm đau', past: 'đã làm đau', pp: 'bị đau' },
+        'keep': { base: 'giữ', past: 'đã giữ', pp: 'được giữ' },
+        'know': { base: 'biết', past: 'đã biết', pp: 'được biết' },
+        'learn': { base: 'học', past: 'đã học', pp: 'được học' },
+        'leave': { base: 'rời đi', past: 'đã rời', pp: 'được rời' },
+        'lend': { base: 'cho mượn', past: 'đã cho mượn', pp: 'được cho mượn' },
+        'let': { base: 'để/cho phép', past: 'đã để', pp: 'được để' },
+        'lie': { base: 'nằm', past: 'đã nằm', pp: 'được nằm' },
+        'light': { base: 'thắp/sáng', past: 'đã thắp', pp: 'được thắp' },
+        'lose': { base: 'mất', past: 'đã mất', pp: 'bị mất' },
+        'make': { base: 'làm', past: 'đã làm', pp: 'được làm' },
+        'mean': { base: 'có nghĩa', past: 'đã có nghĩa', pp: 'được hiểu' },
+        'meet': { base: 'gặp', past: 'đã gặp', pp: 'được gặp' },
+        'pay': { base: 'trả', past: 'đã trả', pp: 'được trả' },
+        'put': { base: 'đặt/để', past: 'đã đặt', pp: 'được đặt' },
+        'read': { base: 'đọc', past: 'đã đọc', pp: 'được đọc' },
+        'ride': { base: 'cưỡi/đi', past: 'đã đi', pp: 'được đi' },
+        'ring': { base: 'rung/reo', past: 'đã reo', pp: 'được reo' },
+        'rise': { base: 'mọc/tăng', past: 'đã mọc', pp: 'được mọc' },
+        'run': { base: 'chạy', past: 'đã chạy', pp: 'được chạy' },
+        'say': { base: 'nói', past: 'đã nói', pp: 'được nói' },
+        'see': { base: 'nhìn thấy', past: 'đã thấy', pp: 'được thấy' },
+        'sell': { base: 'bán', past: 'đã bán', pp: 'được bán' },
+        'send': { base: 'gửi', past: 'đã gửi', pp: 'được gửi' },
+        'set': { base: 'đặt/thiết lập', past: 'đã đặt', pp: 'được đặt' },
+        'sit': { base: 'ngồi', past: 'đã ngồi', pp: 'được ngồi' },
+        'sleep': { base: 'ngủ', past: 'đã ngủ', pp: 'được ngủ' },
+        'speak': { base: 'nói', past: 'đã nói', pp: 'được nói' },
+        'spend': { base: 'tiêu/dành', past: 'đã tiêu/dành', pp: 'được tiêu/dành' },
+        'stand': { base: 'đứng', past: 'đã đứng', pp: 'được đứng' },
+        'steal': { base: 'trộm', past: 'đã trộm', pp: 'bị trộm' },
+        'swim': { base: 'bơi', past: 'đã bơi', pp: 'được bơi' },
+        'take': { base: 'lấy/đi bằng', past: 'đã lấy', pp: 'được lấy' },
+        'teach': { base: 'dạy', past: 'đã dạy', pp: 'được dạy' },
+        'tell': { base: 'kể/nói với', past: 'đã kể', pp: 'được kể' },
+        'think': { base: 'nghĩ', past: 'đã nghĩ', pp: 'được nghĩ' },
+        'throw': { base: 'ném', past: 'đã ném', pp: 'được ném' },
+        'understand': { base: 'hiểu', past: 'đã hiểu', pp: 'được hiểu' },
+        'wear': { base: 'mặc/đeo', past: 'đã mặc', pp: 'được mặc' },
+        'win': { base: 'thắng', past: 'đã thắng', pp: 'được thắng' },
+        'write': { base: 'viết', past: 'đã viết', pp: 'được viết' },
+      };
+
+      function dedupeVerbs(items) {
+        const seen = new Set();
+        const out = [];
+        for (const it of items) {
+          const key = (it[0] || '').toLowerCase();
+          if (!key || seen.has(key)) continue;
+          seen.add(key);
+          out.push(it);
+        }
+        return out;
+      }
 
       function render(filter = '') {
         listEl.innerHTML = '';
         const q = filter.trim().toLowerCase();
-        verbs.filter(([v]) => !q || v.includes(q)).forEach((verbData) => {
-          const [v1, v2, v3, meaning1, meaning2, meaning3] = verbData;
+        const source = dedupeVerbs(verbs);
+        const filtered = source.filter(([v]) => !q || v.includes(q));
+        if (countsEl) {
+          countsEl.textContent = `Kết quả: ${filtered.length} / Tổng: ${source.length}`;
+        }
+        filtered.forEach((verbData) => {
+          let [v1, v2, v3, meaning1, meaning2, meaning3, imageQuery, exampleEnRaw, exampleViRaw] = verbData;
+          // Tự điền nghĩa tiếng Việt nếu thiếu
+          if (!meaning1) {
+            const vi = viDict[v1 && v1.toLowerCase()];
+            if (vi) {
+              meaning1 = vi.base;
+              meaning2 = meaning2 || vi.past;
+              meaning3 = meaning3 || vi.pp;
+            }
+          }
           const li = document.createElement('li');
           
           // Verb info container
@@ -197,7 +1146,7 @@
           // V1 (Present)
           const v1Form = document.createElement('div');
           v1Form.className = 'verb-form v1';
-          const v1Meaning = meaning2 ? meaning1 : meaning1;
+          const v1Meaning = meaning1 || '';
           v1Form.innerHTML = `
             <div class="form-label">V1 (Hiện tại)</div>
             <div class="form-value">${v1}</div>
@@ -208,7 +1157,7 @@
           // V2 (Past)
           const v2Form = document.createElement('div');
           v2Form.className = 'verb-form v2';
-          const v2Meaning = meaning2 || `đã ${meaning1}`;
+          const v2Meaning = meaning2 || (meaning1 ? `đã ${meaning1}` : '');
           v2Form.innerHTML = `
             <div class="form-label">V2 (Quá khứ)</div>
             <div class="form-value">${v2}</div>
@@ -219,7 +1168,7 @@
           // V3 (Past Participle)
           const v3Form = document.createElement('div');
           v3Form.className = 'verb-form v3';
-          const v3Meaning = meaning3 || `được ${meaning1}`;
+          const v3Meaning = meaning3 || (meaning1 ? `được ${meaning1}` : '');
           v3Form.innerHTML = `
             <div class="form-label">V3 (Phân từ)</div>
             <div class="form-value">${v3}</div>
@@ -232,10 +1181,265 @@
           verbForms.appendChild(v3Form);
           
           verbInfo.appendChild(verbForms);
+
+          // Extra: image + example
+          const extra = document.createElement('div');
+          extra.className = 'verb-extra';
+
+          const exampleBox = document.createElement('div');
+          exampleBox.className = 'example';
+
+          const example = generateExample(v1, meaning1);
+          const exampleEn = exampleEnRaw || example.en;
+          const exampleVi = exampleViRaw || example.vi;
+
+          const exEnEl = document.createElement('div');
+          exEnEl.className = 'example-en';
+          exEnEl.textContent = exampleEn;
+          exEnEl.addEventListener('click', () => speak(exampleEn));
+
+          const exViEl = document.createElement('div');
+          exViEl.className = 'example-vi';
+          exViEl.textContent = exampleVi;
+
+          exampleBox.appendChild(exEnEl);
+          exampleBox.appendChild(exViEl);
+
+          const img = document.createElement('img');
+          img.className = 'verb-image';
+          img.alt = `${v1} illustration`;
+          img.loading = 'lazy';
+          fillIllustration(img, v1, exampleEn, imageQuery);
+
+          extra.appendChild(img);
+          extra.appendChild(exampleBox);
+
+          verbInfo.appendChild(extra);
           
           li.appendChild(verbInfo);
           listEl.appendChild(li);
         });
+      }
+
+      function getImageCandidates(query) {
+        const text = encodeURIComponent(query);
+        const svg = encodeURIComponent(
+          `<svg xmlns='http://www.w3.org/2000/svg' width='480' height='320'>\n` +
+          `<rect width='100%' height='100%' fill='rgb(30,30,30)'/>` +
+          `<text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-family='Arial' font-size='22'>${query}</text>` +
+          `</svg>`
+        );
+        return [
+          `https://source.unsplash.com/480x320/?${text}`,
+          `https://picsum.photos/seed/${text}/480/320`,
+          `https://placehold.co/480x320?text=${text}`,
+          `data:image/svg+xml;charset=utf-8,${svg}`,
+        ];
+      }
+
+      function getIllustrationCandidates(v1, queryKey) {
+        const key = (v1 || '').toLowerCase();
+        const icon = iconifyMap[key];
+        const list = [];
+        if (icon) {
+          // Ưu tiên icon 1 màu để nổi bật trên nền tối
+          list.push(`https://api.iconify.design/${encodeURIComponent(icon)}.svg?color=%23ffffff`);
+        }
+        // Sau đó mới tới ảnh chụp, tránh lạc nghĩa
+        return list.concat(getImageCandidates(queryKey));
+      }
+
+      async function fetchTenorGif(queryKey, apiKey) {
+        try {
+          const url = `https://tenor.googleapis.com/v2/search?q=${encodeURIComponent(queryKey)}&key=${encodeURIComponent(apiKey)}&limit=1&media_filter=gif,tinygif&client_key=learn-english`;
+          const res = await fetch(url);
+          if (!res.ok) return '';
+          const data = await res.json();
+          const item = (data.results && data.results[0]) || null;
+          const formats = item && item.media_formats;
+          return (formats && (formats.tinygif && formats.tinygif.url)) || (formats && formats.gif && formats.gif.url) || '';
+        } catch (e) { return ''; }
+      }
+
+      mediaEl.addEventListener('change', () => {
+        localStorage.setItem('mediaPref', mediaEl.value);
+        render(searchEl.value);
+      });
+      tenorKeyEl.addEventListener('change', () => {
+        localStorage.setItem('tenorKey', tenorKeyEl.value);
+      });
+
+      function loadImageWithFallback(imgEl, urls) {
+        let idx = 0;
+        const tryNext = () => {
+          if (idx >= urls.length) return;
+          imgEl.src = urls[idx++];
+        };
+        imgEl.onerror = tryNext;
+        tryNext();
+      }
+
+      function fillIllustration(imgEl, v1, exampleEn, imageQuery) {
+        const derived = deriveImageQueryFromExample(exampleEn, v1);
+        const queryKey = (imageQuery || imageHints[v1] || derived || v1).replaceAll(' ', '+');
+        const media = mediaEl.value;
+        const key = (tenorKeyEl.value || '').trim();
+        if (media === 'gif' && key) {
+          fetchTenorGif(queryKey, key)
+            .then(url => {
+              if (url) {
+                imgEl.src = url;
+              } else {
+                const candidates = getIllustrationCandidates(v1, queryKey);
+                loadImageWithFallback(imgEl, candidates);
+              }
+            })
+            .catch(() => {
+              const candidates = getIllustrationCandidates(v1, queryKey);
+              loadImageWithFallback(imgEl, candidates);
+            });
+          return;
+        }
+        const candidates = getIllustrationCandidates(v1, queryKey);
+        loadImageWithFallback(imgEl, candidates);
+      }
+
+      function deriveImageQueryFromExample(exampleEn, v1) {
+        // Lấy các danh từ/khái niệm thường gặp từ câu ví dụ để làm từ khóa ảnh
+        const lower = exampleEn.toLowerCase();
+        const map = [
+          ['breakfast', 'breakfast table food'],
+          ['bus', 'bus commute'],
+          ['friends', 'friends group'],
+          ['home', 'home door'],
+          ['keys', 'lost keys'],
+          ['phone', 'smartphone phone'],
+          ['gift', 'gift present'],
+          ['noise', 'noise sound'],
+          ['soccer', 'soccer football'],
+          ['run', 'jogging running'],
+          ['window', 'window seat'],
+          ['line', 'queue line'],
+          ['card', 'credit card'],
+          ['email', 'sending email'],
+          ['book', 'reading book'],
+          ['plants', 'plant growing'],
+          ['water', 'glass of water'],
+          ['dishes', 'washing dishes'],
+          ['teeth', 'toothbrush'],
+          ['bike', 'riding bicycle'],
+          ['school', 'walking to school'],
+          ['tv', 'watching tv'],
+          ['study', 'studying desk'],
+          ['train', 'train travel'],
+          ['grandparents', 'family grandparents'],
+          ['station', 'train station'],
+          ['money', 'savings piggy bank'],
+        ];
+        for (const [k, v] of map) {
+          if (lower.includes(k)) return v;
+        }
+        return v1;
+      }
+
+      function generateExample(v1, meaning1) {
+        const templates = {
+          'be': { en: 'I am happy today.', vi: 'Hôm nay tôi vui.' },
+          'have': { en: 'I have a meeting at nine.', vi: 'Tôi có cuộc họp lúc chín giờ.' },
+          'do': { en: 'I do it every day.', vi: 'Tôi làm việc đó mỗi ngày.' },
+          'go': { en: 'I go to work every day.', vi: 'Tôi đi làm mỗi ngày.' },
+          'get': { en: 'I get up at six.', vi: 'Tôi dậy lúc sáu giờ.' },
+          'make': { en: 'I make breakfast every morning.', vi: 'Tôi làm bữa sáng mỗi sáng.' },
+          'take': { en: 'I take the bus to work.', vi: 'Tôi đi làm bằng xe buýt.' },
+          'see': { en: 'I see my friends on weekends.', vi: 'Tôi gặp bạn vào cuối tuần.' },
+          'come': { en: 'I come home late.', vi: 'Tôi về nhà muộn.' },
+          'think': { en: 'I think about it often.', vi: 'Tôi thường nghĩ về điều đó.' },
+          'look': { en: 'I look for my keys.', vi: 'Tôi tìm chìa khóa.' },
+          'want': { en: 'I want a new phone.', vi: 'Tôi muốn một chiếc điện thoại mới.' },
+          'give': { en: 'I give her a gift.', vi: 'Tôi tặng cô ấy một món quà.' },
+          'use': { en: 'I use this app daily.', vi: 'Tôi dùng ứng dụng này mỗi ngày.' },
+          'find': { en: 'I find it useful.', vi: 'Tôi thấy nó hữu ích.' },
+          'tell': { en: 'I tell the truth.', vi: 'Tôi nói sự thật.' },
+          'ask': { en: 'I ask a lot of questions.', vi: 'Tôi hỏi rất nhiều câu hỏi.' },
+          'work': { en: 'I work from home.', vi: 'Tôi làm việc tại nhà.' },
+          'feel': { en: 'I feel tired today.', vi: 'Hôm nay tôi thấy mệt.' },
+          'leave': { en: 'I leave at five p.m.', vi: 'Tôi rời đi lúc 5 giờ chiều.' },
+          'call': { en: 'I call my parents on Sundays.', vi: 'Tôi gọi cho bố mẹ vào Chủ nhật.' },
+          'put': { en: 'I put the keys on the table.', vi: 'Tôi để chìa khóa trên bàn.' },
+          'keep': { en: 'I keep my room clean.', vi: 'Tôi giữ phòng sạch sẽ.' },
+          'begin': { en: 'I begin work at nine.', vi: 'Tôi bắt đầu làm lúc chín giờ.' },
+          'help': { en: 'I help my friend.', vi: 'Tôi giúp bạn tôi.' },
+          'start': { en: 'I start the car.', vi: 'Tôi khởi động xe.' },
+          'show': { en: 'I show him the picture.', vi: 'Tôi cho anh ấy xem bức ảnh.' },
+          'hear': { en: 'I hear a noise.', vi: 'Tôi nghe thấy tiếng ồn.' },
+          'play': { en: 'I play soccer on Sundays.', vi: 'Tôi chơi bóng đá vào Chủ nhật.' },
+          'run': { en: 'I run every morning.', vi: 'Tôi chạy mỗi sáng.' },
+          'move': { en: 'I move the chair.', vi: 'Tôi di chuyển chiếc ghế.' },
+          'live': { en: 'I live in Hanoi.', vi: 'Tôi sống ở Hà Nội.' },
+          'bring': { en: 'I bring lunch to work.', vi: 'Tôi mang bữa trưa đến công ty.' },
+          'write': { en: 'I write emails every day.', vi: 'Tôi viết email mỗi ngày.' },
+          'sit': { en: 'I sit near the window.', vi: 'Tôi ngồi gần cửa sổ.' },
+          'stand': { en: 'I stand in line.', vi: 'Tôi đứng xếp hàng.' },
+          'lose': { en: 'I lose my keys sometimes.', vi: 'Đôi khi tôi làm mất chìa khóa.' },
+          'pay': { en: 'I pay by card.', vi: 'Tôi thanh toán bằng thẻ.' },
+          'meet': { en: 'I meet new people.', vi: 'Tôi gặp những người mới.' },
+          'learn': { en: 'I learn English online.', vi: 'Tôi học tiếng Anh trực tuyến.' },
+          'change': { en: 'I change my plan.', vi: 'Tôi thay đổi kế hoạch.' },
+          'understand': { en: 'I understand the rules.', vi: 'Tôi hiểu các quy tắc.' },
+          'watch': { en: 'I watch TV at night.', vi: 'Tôi xem TV vào buổi tối.' },
+          'follow': { en: 'I follow the instructions.', vi: 'Tôi làm theo hướng dẫn.' },
+          'stop': { en: 'I stop the car.', vi: 'Tôi dừng xe.' },
+          'read': { en: 'I read books at night.', vi: 'Tôi đọc sách vào ban đêm.' },
+          'allow': { en: 'They allow pets here.', vi: 'Họ cho phép thú cưng ở đây.' },
+          'add': { en: 'I add sugar to my coffee.', vi: 'Tôi cho thêm đường vào cà phê.' },
+          'spend': { en: 'I spend time with family.', vi: 'Tôi dành thời gian cho gia đình.' },
+          'grow': { en: 'Plants grow fast.', vi: 'Cây phát triển nhanh.' },
+          'open': { en: 'I open the window.', vi: 'Tôi mở cửa sổ.' },
+          'walk': { en: 'I walk to school.', vi: 'Tôi đi bộ đến trường.' },
+          'win': { en: 'We win the game.', vi: 'Chúng tôi thắng trận.' },
+          'remember': { en: 'I remember your name.', vi: 'Tôi nhớ tên bạn.' },
+          'love': { en: 'I love this song.', vi: 'Tôi thích bài hát này.' },
+          'buy': { en: 'I buy groceries on Saturday.', vi: 'Tôi mua thực phẩm vào thứ Bảy.' },
+          'wait': { en: 'I wait for the bus.', vi: 'Tôi đợi xe buýt.' },
+          'send': { en: 'I send an email.', vi: 'Tôi gửi một email.' },
+          'build': { en: 'They build a house.', vi: 'Họ xây một ngôi nhà.' },
+          'fall': { en: 'Leaves fall in autumn.', vi: 'Lá rụng vào mùa thu.' },
+          'cut': { en: 'I cut the paper.', vi: 'Tôi cắt tờ giấy.' },
+          'reach': { en: 'I reach the station at ten.', vi: 'Tôi đến nhà ga lúc mười giờ.' },
+          'remain': { en: 'Prices remain high.', vi: 'Giá cả vẫn cao.' },
+          'eat': { en: 'I eat breakfast at seven.', vi: 'Tôi ăn sáng lúc bảy giờ.' },
+          'drink': { en: 'I drink water all day.', vi: 'Tôi uống nước cả ngày.' },
+          'cook': { en: 'I cook dinner.', vi: 'Tôi nấu bữa tối.' },
+          'clean': { en: 'I clean my room.', vi: 'Tôi dọn phòng.' },
+          'wash': { en: 'I wash the dishes.', vi: 'Tôi rửa bát.' },
+          'brush': { en: 'I brush my teeth.', vi: 'Tôi đánh răng.' },
+          'sleep': { en: 'I sleep eight hours.', vi: 'Tôi ngủ tám tiếng.' },
+          'drive': { en: 'I drive to work.', vi: 'Tôi lái xe đi làm.' },
+          'ride': { en: 'I ride a bike.', vi: 'Tôi đi xe đạp.' },
+          'shop': { en: 'I shop online.', vi: 'Tôi mua sắm trực tuyến.' },
+          'order': { en: 'I order food for lunch.', vi: 'Tôi đặt đồ ăn trưa.' },
+          'study': { en: 'I study English every day.', vi: 'Tôi học tiếng Anh mỗi ngày.' },
+          'teach': { en: 'I teach math.', vi: 'Tôi dạy toán.' },
+          'practice': { en: 'I practice speaking.', vi: 'Tôi luyện nói.' },
+          'listen': { en: 'I listen to music.', vi: 'Tôi nghe nhạc.' },
+          'travel': { en: 'I travel by train.', vi: 'Tôi đi lại bằng tàu.' },
+          'visit': { en: 'I visit my grandparents.', vi: 'Tôi thăm ông bà.' },
+          'return': { en: 'I return home late.', vi: 'Tôi trở về nhà muộn.' },
+          'save': { en: 'I save money every month.', vi: 'Tôi tiết kiệm tiền mỗi tháng.' },
+          'borrow': { en: 'I borrow a book.', vi: 'Tôi mượn một cuốn sách.' },
+          'lend': { en: 'I lend him my pen.', vi: 'Tôi cho anh ấy mượn bút.' },
+          'fix': { en: 'I fix the computer.', vi: 'Tôi sửa máy tính.' },
+          'repair': { en: 'I repair my bike.', vi: 'Tôi sửa xe đạp.' },
+          'charge': { en: 'I charge my phone.', vi: 'Tôi sạc điện thoại.' },
+          'carry': { en: 'I carry a heavy bag.', vi: 'Tôi mang một túi nặng.' },
+          'wear': { en: 'I wear a jacket.', vi: 'Tôi mặc áo khoác.' },
+        };
+        if (templates[v1]) return templates[v1];
+        // Mặc định: câu đơn giản dùng v1
+        return {
+          en: `I ${v1} it every day.`,
+          vi: `Tôi ${meaning1 || ''} nó mỗi ngày.`.trim()
+        };
       }
 
       function populateVoices() {

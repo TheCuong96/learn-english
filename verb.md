@@ -67,3 +67,372 @@ Mở nghe phát âm: [verbs-audio.html](verbs-audio.html)
 - `get up - got up - gotten up`: thức dậy
 - `listen - listened - listened`: nghe
 - `sleep - slept - slept`: ngủ
+- `research - researched - researched`: nghiên cứu
+- `recycle - recycled - recycled`: tái chế
+- `diagnose - diagnosed - diagnosed`: chẩn đoán
+- `negotiate - negotiated - negotiated`: đàm phán
+- `invest - invested - invested`: đầu tư
+- `compose - composed - composed`: sáng tác/soạn
+- `rescue - rescued - rescued`: cứu hộ/cứu
+- `broadcast - broadcast - broadcast`: phát sóng
+- `discover - discovered - discovered`: khám phá
+- `conserve - conserved - conserved`: bảo tồn
+- `schedule - scheduled - scheduled`: lên lịch
+- `enroll - enrolled - enrolled`: ghi danh/đăng ký
+- `manufacture - manufactured - manufactured`: sản xuất/chế tạo
+- `donate - donated - donated`: quyên góp/hiến tặng
+- `forecast - forecast - forecast`: dự báo
+
+---
+
+## Động từ thông dụng hằng ngày (kèm ví dụ và ảnh)
+
+- `be - was/were - been`: thì/là/ở
+  - Example: I am happy today.
+  - Dịch: Hôm nay tôi vui.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?happy)
+- `have - had - had`: có
+  - Example: I have a meeting at nine.
+  - Dịch: Tôi có cuộc họp lúc chín giờ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?meeting)
+- `do - did - done`: làm
+  - Example: I do it every day.
+  - Dịch: Tôi làm việc đó mỗi ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?task)
+- `go - went - gone`: đi
+  - Example: I go to work every day.
+  - Dịch: Tôi đi làm mỗi ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?commute)
+- `get - got - gotten`: nhận/được
+  - Example: I get up at six.
+  - Dịch: Tôi dậy lúc sáu giờ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?alarm-clock)
+- `make - made - made`: làm/tạo
+  - Example: I make breakfast every morning.
+  - Dịch: Tôi làm bữa sáng mỗi sáng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?breakfast)
+- `take - took - taken`: lấy/đi bằng/mất (thời gian)
+  - Example: I take the bus to work.
+  - Dịch: Tôi đi làm bằng xe buýt.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?bus)
+- `see - saw - seen`: nhìn thấy
+  - Example: I see my friends on weekends.
+  - Dịch: Tôi gặp bạn vào cuối tuần.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?friends)
+- `come - came - come`: đến/đi đến
+  - Example: I come home late.
+  - Dịch: Tôi về nhà muộn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?home-night)
+- `think - thought - thought`: nghĩ
+  - Example: I think about it often.
+  - Dịch: Tôi thường nghĩ về điều đó.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?thinking)
+- `look - looked - looked`: nhìn/tìm
+  - Example: I look for my keys.
+  - Dịch: Tôi tìm chìa khóa.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?keys)
+- `want - wanted - wanted`: muốn
+  - Example: I want a new phone.
+  - Dịch: Tôi muốn một chiếc điện thoại mới.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?smartphone)
+- `give - gave - given`: đưa/cho
+  - Example: I give her a gift.
+  - Dịch: Tôi tặng cô ấy một món quà.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?gift)
+- `use - used - used`: dùng/sử dụng
+  - Example: I use this app daily.
+  - Dịch: Tôi dùng ứng dụng này mỗi ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?smartphone-app)
+- `find - found - found`: tìm thấy
+  - Example: I find it useful.
+  - Dịch: Tôi thấy nó hữu ích.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?search)
+- `tell - told - told`: kể/nói với
+  - Example: I tell the truth.
+  - Dịch: Tôi nói sự thật.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?truth)
+- `ask - asked - asked`: hỏi/yêu cầu
+  - Example: I ask a lot of questions.
+  - Dịch: Tôi hỏi rất nhiều câu hỏi.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?question)
+- `work - worked - worked`: làm việc
+  - Example: I work from home.
+  - Dịch: Tôi làm việc tại nhà.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?work-from-home)
+- `feel - felt - felt`: cảm thấy
+  - Example: I feel tired today.
+  - Dịch: Hôm nay tôi thấy mệt.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?tired)
+- `leave - left - left`: rời đi
+  - Example: I leave at five p.m.
+  - Dịch: Tôi rời đi lúc 5 giờ chiều.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?leaving)
+- `call - called - called`: gọi
+  - Example: I call my parents on Sundays.
+  - Dịch: Tôi gọi cho bố mẹ vào Chủ nhật.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?phone-call)
+- `put - put - put`: đặt/để
+  - Example: I put the keys on the table.
+  - Dịch: Tôi để chìa khóa trên bàn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?table-keys)
+- `keep - kept - kept`: giữ
+  - Example: I keep my room clean.
+  - Dịch: Tôi giữ phòng sạch sẽ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?clean-room)
+- `begin - began - begun`: bắt đầu
+  - Example: I begin work at nine.
+  - Dịch: Tôi bắt đầu làm lúc chín giờ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?start)
+- `help - helped - helped`: giúp
+  - Example: I help my friend.
+  - Dịch: Tôi giúp bạn tôi.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?help)
+- `start - started - started`: bắt đầu
+  - Example: I start the car.
+  - Dịch: Tôi khởi động xe.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?start-car)
+- `show - showed - shown`: cho xem
+  - Example: I show him the picture.
+  - Dịch: Tôi cho anh ấy xem bức ảnh.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?show-picture)
+- `hear - heard - heard`: nghe thấy
+  - Example: I hear a noise.
+  - Dịch: Tôi nghe thấy tiếng ồn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?noise)
+- `play - played - played`: chơi
+  - Example: I play soccer on Sundays.
+  - Dịch: Tôi chơi bóng đá vào Chủ nhật.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?soccer)
+- `run - ran - run`: chạy
+  - Example: I run every morning.
+  - Dịch: Tôi chạy mỗi sáng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?jogging)
+- `move - moved - moved`: di chuyển
+  - Example: I move the chair.
+  - Dịch: Tôi di chuyển chiếc ghế.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?moving-chair)
+- `live - lived - lived`: sống
+  - Example: I live in Hanoi.
+  - Dịch: Tôi sống ở Hà Nội.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?Hanoi)
+- `bring - brought - brought`: mang/đem
+  - Example: I bring lunch to work.
+  - Dịch: Tôi mang bữa trưa đến công ty.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?lunchbox)
+- `write - wrote - written`: viết
+  - Example: I write emails every day.
+  - Dịch: Tôi viết email mỗi ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?email)
+- `sit - sat - sat`: ngồi
+  - Example: I sit near the window.
+  - Dịch: Tôi ngồi gần cửa sổ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?window-seat)
+- `stand - stood - stood`: đứng
+  - Example: I stand in line.
+  - Dịch: Tôi đứng xếp hàng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?queue)
+- `lose - lost - lost`: mất/đánh mất
+  - Example: I lose my keys sometimes.
+  - Dịch: Đôi khi tôi làm mất chìa khóa.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?lost-keys)
+- `pay - paid - paid`: trả (tiền)
+  - Example: I pay by card.
+  - Dịch: Tôi thanh toán bằng thẻ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?credit-card)
+- `meet - met - met`: gặp
+  - Example: I meet new people.
+  - Dịch: Tôi gặp những người mới.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?meeting-people)
+- `learn - learned - learned`: học
+  - Example: I learn English online.
+  - Dịch: Tôi học tiếng Anh trực tuyến.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?online-learning)
+- `change - changed - changed`: thay đổi
+  - Example: I change my plan.
+  - Dịch: Tôi thay đổi kế hoạch.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?change)
+- `understand - understood - understood`: hiểu
+  - Example: I understand the rules.
+  - Dịch: Tôi hiểu các quy tắc.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?rules)
+- `watch - watched - watched`: xem
+  - Example: I watch TV at night.
+  - Dịch: Tôi xem TV vào buổi tối.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?watching-tv)
+- `follow - followed - followed`: theo dõi/theo sau
+  - Example: I follow the instructions.
+  - Dịch: Tôi làm theo hướng dẫn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?instructions)
+- `stop - stopped - stopped`: dừng
+  - Example: I stop the car.
+  - Dịch: Tôi dừng xe.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?stop)
+- `read - read - read`: đọc
+  - Example: I read books at night.
+  - Dịch: Tôi đọc sách vào ban đêm.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?reading-book)
+- `allow - allowed - allowed`: cho phép
+  - Example: They allow pets here.
+  - Dịch: Họ cho phép thú cưng ở đây.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?pets)
+- `add - added - added`: thêm
+  - Example: I add sugar to my coffee.
+  - Dịch: Tôi cho thêm đường vào cà phê.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?coffee-sugar)
+- `spend - spent - spent`: dành/tiêu (thời gian/tiền)
+  - Example: I spend time with family.
+  - Dịch: Tôi dành thời gian cho gia đình.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?family-time)
+- `grow - grew - grown`: phát triển/lớn lên
+  - Example: Plants grow fast.
+  - Dịch: Cây phát triển nhanh.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?growing-plants)
+- `open - opened - opened`: mở
+  - Example: I open the window.
+  - Dịch: Tôi mở cửa sổ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?open-window)
+- `walk - walked - walked`: đi bộ
+  - Example: I walk to school.
+  - Dịch: Tôi đi bộ đến trường.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?walking)
+- `win - won - won`: thắng
+  - Example: We win the game.
+  - Dịch: Chúng tôi thắng trận.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?win)
+- `remember - remembered - remembered`: nhớ
+  - Example: I remember your name.
+  - Dịch: Tôi nhớ tên bạn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?memory)
+- `love - loved - loved`: yêu/thích
+  - Example: I love this song.
+  - Dịch: Tôi thích bài hát này.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?music)
+- `wait - waited - waited`: chờ/đợi
+  - Example: I wait for the bus.
+  - Dịch: Tôi đợi xe buýt.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?bus-stop)
+- `send - sent - sent`: gửi
+  - Example: I send an email.
+  - Dịch: Tôi gửi một email.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?email-send)
+- `build - built - built`: xây dựng
+  - Example: They build a house.
+  - Dịch: Họ xây một ngôi nhà.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?construction)
+- `fall - fell - fallen`: ngã/rơi
+  - Example: Leaves fall in autumn.
+  - Dịch: Lá rụng vào mùa thu.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?autumn-leaves)
+- `cut - cut - cut`: cắt
+  - Example: I cut the paper.
+  - Dịch: Tôi cắt tờ giấy.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?scissors)
+- `reach - reached - reached`: đến/chạm tới
+  - Example: I reach the station at ten.
+  - Dịch: Tôi đến nhà ga lúc mười giờ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?train-station)
+- `remain - remained - remained`: vẫn/duy trì
+  - Example: Prices remain high.
+  - Dịch: Giá cả vẫn cao.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?prices)
+- `eat - ate - eaten`: ăn
+  - Example: I eat breakfast at seven.
+  - Dịch: Tôi ăn sáng lúc bảy giờ.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?breakfast)
+- `drink - drank - drunk`: uống
+  - Example: I drink water all day.
+  - Dịch: Tôi uống nước cả ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?water)
+- `cook - cooked - cooked`: nấu ăn
+  - Example: I cook dinner.
+  - Dịch: Tôi nấu bữa tối.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?cooking-dinner)
+- `clean - cleaned - cleaned`: dọn dẹp
+  - Example: I clean my room.
+  - Dịch: Tôi dọn phòng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?cleaning-room)
+- `wash - washed - washed`: rửa/giặt
+  - Example: I wash the dishes.
+  - Dịch: Tôi rửa bát.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?washing-dishes)
+- `brush - brushed - brushed`: đánh (răng)
+  - Example: I brush my teeth.
+  - Dịch: Tôi đánh răng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?toothbrush)
+- `sleep - slept - slept`: ngủ
+  - Example: I sleep eight hours.
+  - Dịch: Tôi ngủ tám tiếng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?sleep)
+- `drive - drove - driven`: lái (xe)
+  - Example: I drive to work.
+  - Dịch: Tôi lái xe đi làm.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?driving)
+- `ride - rode - ridden`: đi (xe đạp/xe máy/ngựa)
+  - Example: I ride a bike.
+  - Dịch: Tôi đi xe đạp.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?riding-bike)
+- `shop - shopped - shopped`: mua sắm
+  - Example: I shop online.
+  - Dịch: Tôi mua sắm trực tuyến.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?online-shopping)
+- `order - ordered - ordered`: đặt (mua)
+  - Example: I order food for lunch.
+  - Dịch: Tôi đặt đồ ăn trưa.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?food-delivery)
+- `study - studied - studied`: học
+  - Example: I study English every day.
+  - Dịch: Tôi học tiếng Anh mỗi ngày.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?study)
+- `teach - taught - taught`: dạy
+  - Example: I teach math.
+  - Dịch: Tôi dạy toán.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?teaching)
+- `listen - listened - listened`: nghe
+  - Example: I listen to music.
+  - Dịch: Tôi nghe nhạc.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?listening-music)
+- `travel - traveled - traveled`: đi du lịch
+  - Example: I travel by train.
+  - Dịch: Tôi đi lại bằng tàu.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?train-travel)
+- `visit - visited - visited`: thăm
+  - Example: I visit my grandparents.
+  - Dịch: Tôi thăm ông bà.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?visit-grandparents)
+- `return - returned - returned`: trở về
+  - Example: I return home late.
+  - Dịch: Tôi trở về nhà muộn.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?return-home)
+- `save - saved - saved`: tiết kiệm/lưu
+  - Example: I save money every month.
+  - Dịch: Tôi tiết kiệm tiền mỗi tháng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?savings)
+- `borrow - borrowed - borrowed`: mượn
+  - Example: I borrow a book.
+  - Dịch: Tôi mượn một cuốn sách.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?borrow-book)
+- `lend - lent - lent`: cho mượn
+  - Example: I lend him my pen.
+  - Dịch: Tôi cho anh ấy mượn bút.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?lend)
+- `fix - fixed - fixed`: sửa/chỉnh
+  - Example: I fix the computer.
+  - Dịch: Tôi sửa máy tính.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?fix-computer)
+- `repair - repaired - repaired`: sửa chữa
+  - Example: I repair my bike.
+  - Dịch: Tôi sửa xe đạp.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?repair-bike)
+- `charge - charged - charged`: sạc (pin)
+  - Example: I charge my phone.
+  - Dịch: Tôi sạc điện thoại.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?charging-phone)
+- `carry - carried - carried`: mang/vác
+  - Example: I carry a heavy bag.
+  - Dịch: Tôi mang một túi nặng.
+- Ảnh: [Minh họa](https://source.unsplash.com/480x320/?heavy-bag)
+- `wear - wore - worn`: mặc/đeo
+  - Example: I wear a jacket.
+  - Dịch: Tôi mặc áo khoác.
+  - Ảnh: [Minh họa](https://source.unsplash.com/480x320/?jacket)
+  
