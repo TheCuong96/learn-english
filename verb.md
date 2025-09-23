@@ -1,0 +1,62 @@
+# Danh sách động từ đã dùng (kèm nghĩa)
+
+Mở nghe phát âm: [verbs-audio.html](verbs-audio.html)
+
+- `approve`: phê duyệt
+- `attend`: tham dự
+- `believe`: tin
+- `boil`: sôi/đun sôi
+- `buy`: mua
+- `call`: gọi
+- `check`: kiểm tra
+- `close`: đóng
+- `contain`: chứa
+- `coordinate`: điều phối
+- `cook`: nấu ăn
+- `cost`: có giá
+- `depart`: khởi hành
+- `deliver`: giao (hàng)
+- `do`: làm; trợ động từ hiện tại đơn
+- `drink`: uống
+- `eat`: ăn
+- `expire`: hết hạn
+- `finish`: hoàn thành
+- `give`: đưa/cho
+- `go`: đi
+- `have`: có
+- `help`: giúp
+- `join`: tham gia
+- `leave`: rời đi
+- `like`: thích
+- `live`: sống
+- `manage`: quản lý
+- `matter`: quan trọng/đáng kể
+- `meet`: họp/gặp
+- `need`: cần
+- `offer`: cung cấp/đề nghị
+- `open`: mở
+- `order`: đặt (mua)
+- `own`: sở hữu
+- `play`: chơi
+- `prefer`: thích hơn
+- `rain`: mưa
+- `read`: đọc
+- `remember`: nhớ
+- `rise`: mọc/tăng (Mặt trời mọc)
+- `run`: vận hành/chạy
+- `serve`: phục vụ
+- `speak`: nói
+- `spoil`: hỏng (đồ ăn)
+- `start`: bắt đầu
+- `stay`: ở/lưu lại (stay open: mở muộn)
+- `study`: học
+- `take`: lấy/đi bằng/mất (thời gian)
+- `teach`: dạy
+- `travel`: đi du lịch
+- `understand`: hiểu
+- `use`: dùng/sử dụng
+- `visit`: thăm
+- `watch`: xem
+- `weigh`: nặng/cân nặng
+- `work`: làm việc
+- `be`: thì/là/ở

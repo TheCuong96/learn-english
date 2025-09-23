@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nghe phát âm động từ</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 20px; }
+      h1 { font-size: 20px; }
+      .controls { margin-bottom: 12px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+      input[type="search"] { padding: 6px 10px; font-size: 14px; }
+      select, button { padding: 6px 10px; font-size: 14px; }
+      ul { list-style: none; padding: 0; margin: 0; }
+      li { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid #eee; }
+      .verb { min-width: 160px; font-weight: 600; }
+      .meaning { color: #555; }
+      .speak { cursor: pointer; padding: 4px 8px; border-radius: 6px; border: 1px solid #ccc; background: #fafafa; }
+      .speak:hover { background: #f0f0f0; }
+      .small { color: #666; font-size: 12px; }
+    </style>
+  </head>
+  <body>
+    <h1>Nghe phát âm động từ</h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Tìm động từ (ví dụ: prefer)" />
+      <select id="voice"></select>
+      <label class="small">Tốc độ: <input id="rate" type="range" min="0.6" max="1.4" step="0.1" value="1" /></label>
+      <label class="small">Cường độ: <input id="volume" type="range" min="0.2" max="1" step="0.1" value="1" /></label>
+      <button id="test">Phát thử "example"</button>
+    </div>
+    <ul id="list"></ul>
+
+    <script>
+      const verbs = [
+        ["approve", "phê duyệt"],
+        ["attend", "tham dự"],
+        ["believe", "tin"],
+        ["boil", "sôi/đun sôi"],
+        ["buy", "mua"],
+        ["call", "gọi"],
+        ["check", "kiểm tra"],
+        ["close", "đóng"],
+        ["contain", "chứa"],
+        ["coordinate", "điều phối"],
+        ["cook", "nấu ăn"],
+        ["cost", "có giá"],
+        ["depart", "khởi hành"],
+        ["deliver", "giao (hàng)"],
+        ["do", "làm"],
+        ["drink", "uống"],
+        ["eat", "ăn"],
+        ["expire", "hết hạn"],
+        ["finish", "hoàn thành"],
+        ["give", "đưa/cho"],
+        ["go", "đi"],
+        ["have", "có; (3rd: has)"],
+        ["help", "giúp"],
+        ["join", "tham gia"],
+        ["leave", "rời đi"],
+        ["like", "thích"],
+        ["live", "sống"],
+        ["manage", "quản lý"],
+        ["matter", "quan trọng"],
+        ["meet", "họp/gặp"],
+        ["need", "cần"],
+        ["offer", "cung cấp/đề nghị"],
+        ["open", "mở"],
+        ["order", "đặt (mua)"],
+        ["own", "sở hữu"],
+        ["play", "chơi"],
+        ["prefer", "thích hơn"],
+        ["rain", "mưa"],
+        ["read", "đọc"],
+        ["remember", "nhớ"],
+        ["rise", "mọc/tăng"],
+        ["run", "vận hành/chạy"],
+        ["serve", "phục vụ"],
+        ["speak", "nói"],
+        ["spoil", "hỏng (đồ ăn)"],
+        ["start", "bắt đầu"],
+        ["stay", "ở; (stay open: mở muộn)"],
+        ["study", "học"],
+        ["take", "lấy; đi bằng; mất (thời gian)"],
+        ["teach", "dạy"],
+        ["travel", "đi du lịch"],
+        ["understand", "hiểu"],
+        ["use", "dùng/sử dụng"],
+        ["visit", "thăm"],
+        ["watch", "xem"],
+        ["weigh", "nặng/cân nặng"],
+        ["work", "làm việc"],
+        ["be", "thì/là/ở"],
+      ];
+
+      const listEl = document.getElementById('list');
+      const voiceEl = document.getElementById('voice');
+      const rateEl = document.getElementById('rate');
+      const volumeEl = document.getElementById('volume');
+      const searchEl = document.getElementById('search');
+
+      function render(filter = '') {
+        listEl.innerHTML = '';
+        const q = filter.trim().toLowerCase();
+        verbs.filter(([v]) => !q || v.includes(q)).forEach(([verb, meaning]) => {
+          const li = document.createElement('li');
+          const speakBtn = document.createElement('button');
+          speakBtn.textContent = '▶︎';
+          speakBtn.className = 'speak';
+          const verbSpan = document.createElement('span');
+          verbSpan.textContent = verb;
+          verbSpan.className = 'verb';
+          const meaningSpan = document.createElement('span');
+          meaningSpan.textContent = meaning;
+          meaningSpan.className = 'meaning';
+          speakBtn.addEventListener('click', () => speak(verb));
+          li.appendChild(speakBtn);
+          li.appendChild(verbSpan);
+          li.appendChild(meaningSpan);
+          listEl.appendChild(li);
+        });
+      }
+
+      function populateVoices() {
+        const voices = speechSynthesis.getVoices();
+        voiceEl.innerHTML = '';
+        voices
+          .filter(v => /en-|English/i.test(v.lang))
+          .forEach((v, i) => {
+            const opt = document.createElement('option');
+            opt.value = v.name;
+            opt.textContent = `${v.name} (${v.lang})`;
+            if (i === 0) opt.selected = true;
+            voiceEl.appendChild(opt);
+          });
+      }
+
+      function speak(text) {
+        const utter = new SpeechSynthesisUtterance(text);
+        const chosen = speechSynthesis.getVoices().find(v => v.name === voiceEl.value);
+        if (chosen) utter.voice = chosen;
+        utter.lang = (chosen && chosen.lang) || 'en-US';
+        utter.rate = parseFloat(rateEl.value);
+        utter.volume = parseFloat(volumeEl.value);
+        speechSynthesis.cancel();
+        speechSynthesis.speak(utter);
+      }
+
+      voiceEl.addEventListener('change', () => {});
+      rateEl.addEventListener('input', () => {});
+      volumeEl.addEventListener('input', () => {});
+      searchEl.addEventListener('input', (e) => render(e.target.value));
+      document.getElementById('test').addEventListener('click', () => speak('example'));
+
+      window.speechSynthesis.onvoiceschanged = populateVoices;
+      populateVoices();
+      render();
+    </script>
+  </body>
+  </html>
+
+
