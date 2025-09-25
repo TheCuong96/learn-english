@@ -1,62 +1,69 @@
-# Danh sách động từ đã dùng (kèm nghĩa)
+# Danh sách động từ đã dùng (V1 - V2 - V3 và nghĩa)
 
 Mở nghe phát âm: [verbs-audio.html](verbs-audio.html)
 
-- `approve`: phê duyệt
-- `attend`: tham dự
-- `believe`: tin
-- `boil`: sôi/đun sôi
-- `buy`: mua
-- `call`: gọi
-- `check`: kiểm tra
-- `close`: đóng
-- `contain`: chứa
-- `coordinate`: điều phối
-- `cook`: nấu ăn
-- `cost`: có giá
-- `depart`: khởi hành
-- `deliver`: giao (hàng)
-- `do`: làm; trợ động từ hiện tại đơn
-- `drink`: uống
-- `eat`: ăn
-- `expire`: hết hạn
-- `finish`: hoàn thành
-- `give`: đưa/cho
-- `go`: đi
-- `have`: có
-- `help`: giúp
-- `join`: tham gia
-- `leave`: rời đi
-- `like`: thích
-- `live`: sống
-- `manage`: quản lý
-- `matter`: quan trọng/đáng kể
-- `meet`: họp/gặp
-- `need`: cần
-- `offer`: cung cấp/đề nghị
-- `open`: mở
-- `order`: đặt (mua)
-- `own`: sở hữu
-- `play`: chơi
-- `prefer`: thích hơn
-- `rain`: mưa
-- `read`: đọc
-- `remember`: nhớ
-- `rise`: mọc/tăng (Mặt trời mọc)
-- `run`: vận hành/chạy
-- `serve`: phục vụ
-- `speak`: nói
-- `spoil`: hỏng (đồ ăn)
-- `start`: bắt đầu
-- `stay`: ở/lưu lại (stay open: mở muộn)
-- `study`: học
-- `take`: lấy/đi bằng/mất (thời gian)
-- `teach`: dạy
-- `travel`: đi du lịch
-- `understand`: hiểu
-- `use`: dùng/sử dụng
-- `visit`: thăm
-- `watch`: xem
-- `weigh`: nặng/cân nặng
-- `work`: làm việc
-- `be`: thì/là/ở
+**Format:** V1 (hiện tại) - V2 (quá khứ) - V3 (quá khứ phân từ)
+
+- `approve - approved - approved`: phê duyệt
+- `attend - attended - attended`: tham dự
+- `believe - believed - believed`: tin
+- `boil - boiled - boiled`: sôi/đun sôi
+- `buy - bought - bought`: mua
+- `call - called - called`: gọi
+- `check - checked - checked`: kiểm tra
+- `close - closed - closed`: đóng
+- `contain - contained - contained`: chứa
+- `coordinate - coordinated - coordinated`: điều phối
+- `cook - cooked - cooked`: nấu ăn
+- `cost - cost - cost`: có giá
+- `depart - departed - departed`: khởi hành
+- `deliver - delivered - delivered`: giao (hàng)
+- `do - did - done`: làm; trợ động từ
+- `drink - drank - drunk`: uống
+- `eat - ate - eaten`: ăn
+- `expire - expired - expired`: hết hạn
+- `finish - finished - finished`: hoàn thành
+- `give - gave - given`: đưa/cho
+- `go - went - gone`: đi
+- `have - had - had`: có
+- `help - helped - helped`: giúp
+- `join - joined - joined`: tham gia
+- `leave - left - left`: rời đi
+- `like - liked - liked`: thích
+- `live - lived - lived`: sống
+- `manage - managed - managed`: quản lý
+- `matter - mattered - mattered`: quan trọng/đáng kể
+- `meet - met - met`: họp/gặp
+- `need - needed - needed`: cần
+- `offer - offered - offered`: cung cấp/đề nghị
+- `open - opened - opened`: mở
+- `order - ordered - ordered`: đặt (mua)
+- `own - owned - owned`: sở hữu
+- `play - played - played`: chơi
+- `prefer - preferred - preferred`: thích hơn
+- `rain - rained - rained`: mưa
+- `read - read - read`: đọc
+- `remember - remembered - remembered`: nhớ
+- `rise - rose - risen`: mọc/tăng (Mặt trời mọc)
+- `run - ran - run`: vận hành/chạy
+- `serve - served - served`: phục vụ
+- `speak - spoke - spoken`: nói
+- `spoil - spoiled - spoiled`: hỏng (đồ ăn)
+- `start - started - started`: bắt đầu
+- `stay - stayed - stayed`: ở/lưu lại (stay open: mở muộn)
+- `study - studied - studied`: học
+- `take - took - taken`: lấy/đi bằng/mất (thời gian)
+- `teach - taught - taught`: dạy
+- `travel - traveled - traveled`: đi du lịch
+- `understand - understood - understood`: hiểu
+- `use - used - used`: dùng/sử dụng
+- `visit - visited - visited`: thăm
+- `watch - watched - watched`: xem
+- `weigh - weighed - weighed`: nặng/cân nặng
+- `work - worked - worked`: làm việc
+- `be - was/were - been`: thì/là/ở
+- `brush - brushed - brushed`: đánh (răng)
+- `exercise - exercised - exercised`: tập thể dục
+- `get up - got up - gotten up`: thức dậy
+- `listen - listened - listened`: nghe
+- `sleep - slept - slept`: ngủ

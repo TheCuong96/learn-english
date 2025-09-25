@@ -4,19 +4,95 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Nghe phát âm động từ</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     <style>
-      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 20px; }
-      h1 { font-size: 20px; }
-      .controls { margin-bottom: 12px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
-      input[type="search"] { padding: 6px 10px; font-size: 14px; }
-      select, button { padding: 6px 10px; font-size: 14px; }
-      ul { list-style: none; padding: 0; margin: 0; }
-      li { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid #eee; }
-      .verb { min-width: 160px; font-weight: 600; }
-      .meaning { color: #555; }
-      .speak { cursor: pointer; padding: 4px 8px; border-radius: 6px; border: 1px solid #ccc; background: #fafafa; }
-      .speak:hover { background: #f0f0f0; }
-      .small { color: #666; font-size: 12px; }
+      body { font-family: 'Roboto', system-ui, -apple-system, Segoe UI, Arial, sans-serif; margin: 20px; background: rgba(0,0,0,.87); min-height: 100vh; color: #ffffff; }
+      h1 { font-size: 24px; color: #ffffff; text-align: center; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); }
+      .controls { margin-bottom: 20px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; background: rgba(255,255,255,0.1); padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); }
+      input[type="search"] { padding: 8px 12px; font-size: 18px; border: 1px solid rgba(255,255,255,0.3); border-radius: 4px; min-width: 200px; background: rgba(255,255,255,0.1); color: #ffffff; backdrop-filter: blur(5px); }
+      input[type="search"]::placeholder { color: rgba(255,255,255,0.7); }
+      select, button { padding: 8px 12px; font-size: 18px; border: 1px solid rgba(255,255,255,0.3); border-radius: 4px; background: rgba(255,255,255,0.1); color: #ffffff; }
+      button { background: linear-gradient(45deg, #667eea, #764ba2); color: white; border: none; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
+      button:hover { background: linear-gradient(45deg, #5a67d8, #6b46c1); transform: translateY(-1px); }
+      ul { 
+        list-style: none; 
+        padding: 0; 
+        margin: 0; 
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 16px;
+        max-width: 100%;
+      }
+      li { 
+        display: flex; 
+        align-items: center; 
+        gap: 15px; 
+        padding: 16px; 
+        background: rgba(255,255,255,0.1); 
+        border-radius: 12px; 
+        box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+        border: 1px solid rgba(255,255,255,0.2);
+        backdrop-filter: blur(10px);
+        transition: all 0.3s ease;
+      }
+      li:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        background: rgba(255,255,255,0.15);
+      }
+      .speak { 
+        display: none;
+      }
+      .verb-info { display: flex; flex-direction: column; flex: 1; }
+      .verb-forms { 
+        display: flex; 
+        gap: 15px; 
+        margin-bottom: 4px;
+        flex-wrap: wrap;
+      }
+      .verb-form { 
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        padding: 6px 12px; 
+        border-radius: 6px; 
+        min-width: 80px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+      .verb-form:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+      }
+      .v1 { background: rgba(46, 204, 113, 0.2); border: 1px solid #2ecc71; box-shadow: 0 2px 4px rgba(46, 204, 113, 0.3); }
+      .v2 { background: rgba(241, 196, 15, 0.2); border: 1px solid #f1c40f; box-shadow: 0 2px 4px rgba(241, 196, 15, 0.3); }
+      .v3 { background: rgba(52, 152, 219, 0.2); border: 1px solid #3498db; box-shadow: 0 2px 4px rgba(52, 152, 219, 0.3); }
+      .form-label { font-size: 12px; font-weight: bold; text-transform: uppercase; margin-bottom: 2px; opacity: 0.8; }
+      .v1 .form-label { color: rgba(46, 204, 113, 0.7); text-shadow: 0 1px 2px rgba(0,0,0,0.2); font-size: 12px; }
+      .v2 .form-label { color: rgba(241, 196, 15, 0.7); text-shadow: 0 1px 2px rgba(0,0,0,0.2); font-size: 12px; }
+      .v3 .form-label { color: rgba(52, 152, 219, 0.7); text-shadow: 0 1px 2px rgba(0,0,0,0.2); font-size: 12px; }
+      .form-value { 
+        font-weight: 700; 
+        font-size: 20px; 
+        margin-bottom: 4px; 
+        color: yellow; 
+        text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+        letter-spacing: 0.5px;
+      }
+      .form-meaning { 
+        font-size: 12px; 
+        color: rgba(255,255,255,0.5); 
+        font-style: italic; 
+        text-align: center;
+        word-wrap: break-word;
+        max-width: 120px;
+        text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+        font-weight: 300;
+      }
+      .meaning { color: #7f8c8d; font-style: italic; margin-top: 4px; display: none; }
+      .small { color: rgba(255,255,255,0.8); font-size: 16px; }
     </style>
   </head>
   <body>
@@ -32,64 +108,69 @@
 
     <script>
       const verbs = [
-        ["approve", "phê duyệt"],
-        ["attend", "tham dự"],
-        ["believe", "tin"],
-        ["boil", "sôi/đun sôi"],
-        ["buy", "mua"],
-        ["call", "gọi"],
-        ["check", "kiểm tra"],
-        ["close", "đóng"],
-        ["contain", "chứa"],
-        ["coordinate", "điều phối"],
-        ["cook", "nấu ăn"],
-        ["cost", "có giá"],
-        ["depart", "khởi hành"],
-        ["deliver", "giao (hàng)"],
-        ["do", "làm"],
-        ["drink", "uống"],
-        ["eat", "ăn"],
-        ["expire", "hết hạn"],
-        ["finish", "hoàn thành"],
-        ["give", "đưa/cho"],
-        ["go", "đi"],
-        ["have", "có; (3rd: has)"],
-        ["help", "giúp"],
-        ["join", "tham gia"],
-        ["leave", "rời đi"],
-        ["like", "thích"],
-        ["live", "sống"],
-        ["manage", "quản lý"],
-        ["matter", "quan trọng"],
-        ["meet", "họp/gặp"],
-        ["need", "cần"],
-        ["offer", "cung cấp/đề nghị"],
-        ["open", "mở"],
-        ["order", "đặt (mua)"],
-        ["own", "sở hữu"],
-        ["play", "chơi"],
-        ["prefer", "thích hơn"],
-        ["rain", "mưa"],
-        ["read", "đọc"],
-        ["remember", "nhớ"],
-        ["rise", "mọc/tăng"],
-        ["run", "vận hành/chạy"],
-        ["serve", "phục vụ"],
-        ["speak", "nói"],
-        ["spoil", "hỏng (đồ ăn)"],
-        ["start", "bắt đầu"],
-        ["stay", "ở; (stay open: mở muộn)"],
-        ["study", "học"],
-        ["take", "lấy; đi bằng; mất (thời gian)"],
-        ["teach", "dạy"],
-        ["travel", "đi du lịch"],
-        ["understand", "hiểu"],
-        ["use", "dùng/sử dụng"],
-        ["visit", "thăm"],
-        ["watch", "xem"],
-        ["weigh", "nặng/cân nặng"],
-        ["work", "làm việc"],
-        ["be", "thì/là/ở"],
+        ["approve", "approved", "approved", "phê duyệt", "đã phê duyệt", "được phê duyệt"],
+        ["attend", "attended", "attended", "tham dự", "đã tham dự", "được tham dự"],
+        ["believe", "believed", "believed", "tin", "đã tin", "được tin"],
+        ["boil", "boiled", "boiled", "sôi/đun sôi", "đã sôi", "được đun sôi"],
+        ["buy", "bought", "bought", "mua", "đã mua", "được mua"],
+        ["call", "called", "called", "gọi", "đã gọi", "được gọi"],
+        ["check", "checked", "checked", "kiểm tra", "đã kiểm tra", "được kiểm tra"],
+        ["close", "closed", "closed", "đóng", "đã đóng", "được đóng"],
+        ["contain", "contained", "contained", "chứa"],
+        ["coordinate", "coordinated", "coordinated", "điều phối"],
+        ["cook", "cooked", "cooked", "nấu ăn", "đã nấu", "được nấu"],
+        ["cost", "cost", "cost", "có giá"],
+        ["depart", "departed", "departed", "khởi hành"],
+        ["deliver", "delivered", "delivered", "giao (hàng)"],
+        ["do", "did", "done", "làm", "đã làm", "được làm"],
+        ["drink", "drank", "drunk", "uống"],
+        ["eat", "ate", "eaten", "ăn", "đã ăn", "được ăn"],
+        ["expire", "expired", "expired", "hết hạn"],
+        ["finish", "finished", "finished", "hoàn thành"],
+        ["give", "gave", "given", "đưa/cho", "đã đưa", "được đưa"],
+        ["go", "went", "gone", "đi", "đã đi", "đã rời đi"],
+        ["have", "had", "had", "có; (3rd: has)", "đã có", "được có"],
+        ["help", "helped", "helped", "giúp", "đã giúp", "được giúp"],
+        ["join", "joined", "joined", "tham gia"],
+        ["leave", "left", "left", "rời đi"],
+        ["like", "liked", "liked", "thích", "đã thích", "được thích"],
+        ["live", "lived", "lived", "sống", "đã sống", "được sống"],
+        ["manage", "managed", "managed", "quản lý"],
+        ["matter", "mattered", "mattered", "quan trọng"],
+        ["meet", "met", "met", "họp/gặp", "đã gặp", "được gặp"],
+        ["need", "needed", "needed", "cần"],
+        ["offer", "offered", "offered", "cung cấp/đề nghị"],
+        ["open", "opened", "opened", "mở"],
+        ["order", "ordered", "ordered", "đặt (mua)"],
+        ["own", "owned", "owned", "sở hữu"],
+        ["play", "played", "played", "chơi", "đã chơi", "được chơi"],
+        ["prefer", "preferred", "preferred", "thích hơn"],
+        ["rain", "rained", "rained", "mưa"],
+        ["read", "read", "read", "đọc", "đã đọc", "được đọc"],
+        ["remember", "remembered", "remembered", "nhớ"],
+        ["rise", "rose", "risen", "mọc/tăng"],
+        ["run", "ran", "run", "vận hành/chạy", "đã chạy", "được chạy"],
+        ["serve", "served", "served", "phục vụ"],
+        ["speak", "spoke", "spoken", "nói", "đã nói", "được nói"],
+        ["spoil", "spoiled", "spoiled", "hỏng (đồ ăn)"],
+        ["start", "started", "started", "bắt đầu", "đã bắt đầu", "được bắt đầu"],
+        ["stay", "stayed", "stayed", "ở; (stay open: mở muộn)"],
+        ["study", "studied", "studied", "học", "đã học", "được học"],
+        ["take", "took", "taken", "lấy; đi bằng; mất (thời gian)", "đã lấy", "được lấy"],
+        ["teach", "taught", "taught", "dạy", "đã dạy", "được dạy"],
+        ["travel", "traveled", "traveled", "đi du lịch"],
+        ["understand", "understood", "understood", "hiểu", "đã hiểu", "được hiểu"],
+        ["use", "used", "used", "dùng/sử dụng"],
+        ["visit", "visited", "visited", "thăm", "đã thăm", "được thăm"],
+        ["watch", "watched", "watched", "xem", "đã xem", "được xem"],
+        ["weigh", "weighed", "weighed", "nặng/cân nặng"],
+        ["work", "worked", "worked", "làm việc", "đã làm việc", "được làm"],
+        ["be", "was/were", "been", "thì/là/ở", "đã là", "được là"],
+        ["brush", "brushed", "brushed", "đánh (răng)"],
+        ["exercise", "exercised", "exercised", "tập thể dục"],
+        ["get up", "got up", "gotten up", "thức dậy"],
+        ["listen", "listened", "listened", "nghe", "đã nghe", "được nghe"],
+        ["sleep", "slept", "slept", "ngủ", "đã ngủ", "được ngủ"],
       ];
 
       const listEl = document.getElementById('list');
@@ -101,21 +182,58 @@
       function render(filter = '') {
         listEl.innerHTML = '';
         const q = filter.trim().toLowerCase();
-        verbs.filter(([v]) => !q || v.includes(q)).forEach(([verb, meaning]) => {
+        verbs.filter(([v]) => !q || v.includes(q)).forEach((verbData) => {
+          const [v1, v2, v3, meaning1, meaning2, meaning3] = verbData;
           const li = document.createElement('li');
-          const speakBtn = document.createElement('button');
-          speakBtn.textContent = '▶︎';
-          speakBtn.className = 'speak';
-          const verbSpan = document.createElement('span');
-          verbSpan.textContent = verb;
-          verbSpan.className = 'verb';
-          const meaningSpan = document.createElement('span');
-          meaningSpan.textContent = meaning;
-          meaningSpan.className = 'meaning';
-          speakBtn.addEventListener('click', () => speak(verb));
-          li.appendChild(speakBtn);
-          li.appendChild(verbSpan);
-          li.appendChild(meaningSpan);
+          
+          // Verb info container
+          const verbInfo = document.createElement('div');
+          verbInfo.className = 'verb-info';
+          
+          // Verb forms container
+          const verbForms = document.createElement('div');
+          verbForms.className = 'verb-forms';
+          
+          // V1 (Present)
+          const v1Form = document.createElement('div');
+          v1Form.className = 'verb-form v1';
+          const v1Meaning = meaning2 ? meaning1 : meaning1;
+          v1Form.innerHTML = `
+            <div class="form-label">V1 (Hiện tại)</div>
+            <div class="form-value">${v1}</div>
+            <div class="form-meaning">${v1Meaning}</div>
+          `;
+          v1Form.addEventListener('click', () => speak(v1));
+          
+          // V2 (Past)
+          const v2Form = document.createElement('div');
+          v2Form.className = 'verb-form v2';
+          const v2Meaning = meaning2 || `đã ${meaning1}`;
+          v2Form.innerHTML = `
+            <div class="form-label">V2 (Quá khứ)</div>
+            <div class="form-value">${v2}</div>
+            <div class="form-meaning">${v2Meaning}</div>
+          `;
+          v2Form.addEventListener('click', () => speak(v2));
+          
+          // V3 (Past Participle)
+          const v3Form = document.createElement('div');
+          v3Form.className = 'verb-form v3';
+          const v3Meaning = meaning3 || `được ${meaning1}`;
+          v3Form.innerHTML = `
+            <div class="form-label">V3 (Phân từ)</div>
+            <div class="form-value">${v3}</div>
+            <div class="form-meaning">${v3Meaning}</div>
+          `;
+          v3Form.addEventListener('click', () => speak(v3));
+          
+          verbForms.appendChild(v1Form);
+          verbForms.appendChild(v2Form);
+          verbForms.appendChild(v3Form);
+          
+          verbInfo.appendChild(verbForms);
+          
+          li.appendChild(verbInfo);
           listEl.appendChild(li);
         });
       }
