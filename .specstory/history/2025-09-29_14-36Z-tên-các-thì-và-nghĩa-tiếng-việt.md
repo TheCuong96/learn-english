@@ -36,6 +36,123 @@ Tôi sẽ cập nhật `12_tenses_comparison.md` để gắn nghĩa tiếng Vi�
 
 Tool use: **apply_patch**
 
+<details>
+        <summary>Apply patch for 12_tenses_comparison.md</summary>
+      
+
+```diff
+*** Begin Patch
+*** Update File: 12_tenses_comparison.md
+@@
+-| 1 | **Present Simple** | S + V(s/es) | always, usually, often, never | Thói quen, sự thật hiển nhiên |
+-| 2 | **Present Continuous** | S + am/is/are + V-ing | now, at the moment, look! | Hành động đang xảy ra |
+-| 3 | **Present Perfect** | S + have/has + V3 | already, just, yet, ever | Hành động hoàn thành, kinh nghiệm |
+-| 4 | **Present Perfect Continuous** | S + have/has + been + V-ing | for, since, all day | Hành động kéo dài từ quá khứ |
+-| 5 | **Past Simple** | S + V2 | yesterday, last week, ago | Hành động đã xảy ra và kết thúc |
+-| 6 | **Past Continuous** | S + was/were + V-ing | while, when, at that time | Hành động đang xảy ra trong quá khứ |
+-| 7 | **Past Perfect** | S + had + V3 | before, after, by the time | Hành động xảy ra trước một thời điểm |
+-| 8 | **Past Perfect Continuous** | S + had + been + V-ing | for, since, before | Hành động kéo dài trước một thời điểm |
+-| 9 | **Future Simple** | S + will + V | tomorrow, next week, soon | Hành động sẽ xảy ra trong tương lai |
+-| 10 | **Future Continuous** | S + will + be + V-ing | at this time tomorrow | Hành động sẽ đang xảy ra |
+-| 11 | **Future Perfect** | S + will + have + V3 | by, before, by the time | Hành động sẽ hoàn thành |
+-| 12 | **Future Perfect Continuous** | S + will + have + been + V-ing | for, by the time | Hành động sẽ kéo dài đến một thời điểm |
++| 1 | **Present Simple (Hiện tại đơn)** | S + V(s/es) | always, usually, often, never | Thói quen, sự thật hiển nhiên |
++| 2 | **Present Continuous (Hiện tại tiếp diễn)** | S + am/is/are + V-ing | now, at the moment, look! | Hành động đang xảy ra |
++| 3 | **Present Perfect (Hiện tại hoàn thành)** | S + have/has + V3 | already, just, yet, ever | Hành động hoàn thành, kinh nghiệm |
++| 4 | **Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn)** | S + have/has + been + V-ing | for, since, all day | Hành động kéo dài từ quá khứ |
++| 5 | **Past Simple (Quá khứ đơn)** | S + V2 | yesterday, last week, ago | Hành động đã xảy ra và kết thúc |
++| 6 | **Past Continuous (Quá khứ tiếp diễn)** | S + was/were + V-ing | while, when, at that time | Hành động đang xảy ra trong quá khứ |
++| 7 | **Past Perfect (Quá khứ hoàn thành)** | S + had + V3 | before, after, by the time | Hành động xảy ra trước một thời điểm |
++| 8 | **Past Perfect Continuous (Quá khứ hoàn thành tiếp diễn)** | S + had + been + V-ing | for, since, before | Hành động kéo dài trước một thời điểm |
++| 9 | **Future Simple (Tương lai đơn)** | S + will + V | tomorrow, next week, soon | Hành động sẽ xảy ra trong tương lai |
++| 10 | **Future Continuous (Tương lai tiếp diễn)** | S + will + be + V-ing | at this time tomorrow | Hành động sẽ đang xảy ra |
++| 11 | **Future Perfect (Tương lai hoàn thành)** | S + will + have + V3 | by, before, by the time | Hành động sẽ hoàn thành |
++| 12 | **Future Perfect Continuous (Tương lai hoàn thành tiếp diễn)** | S + will + have + been + V-ing | for, by the time | Hành động sẽ kéo dài đến một thời điểm |
+@@
+-#### **1. Present Simple vs Present Continuous**
++#### **1. Present Simple (Hiện tại đơn) vs Present Continuous (Hiện tại tiếp diễn)**
+-| Khía cạnh | Present Simple | Present Continuous |
++| Khía cạnh | Present Simple (Hiện tại đơn) | Present Continuous (Hiện tại tiếp diễn) |
+@@
+-#### **2. Present Perfect vs Present Perfect Continuous**
++#### **2. Present Perfect (Hiện tại hoàn thành) vs Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn)**
+-| Khía cạnh | Present Perfect | Present Perfect Continuous |
++| Khía cạnh | Present Perfect (Hiện tại hoàn thành) | Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn) |
+@@
+-#### **3. Past Simple vs Past Continuous**
++#### **3. Past Simple (Quá khứ đơn) vs Past Continuous (Quá khứ tiếp diễn)**
+-| Khía cạnh | Past Simple | Past Continuous |
++| Khía cạnh | Past Simple (Quá khứ đơn) | Past Continuous (Quá khứ tiếp diễn) |
+@@
+-#### **4. Past Perfect vs Past Perfect Continuous**
++#### **4. Past Perfect (Quá khứ hoàn thành) vs Past Perfect Continuous (Quá khứ hoàn thành tiếp diễn)**
+-| Khía cạnh | Past Perfect | Past Perfect Continuous |
++| Khía cạnh | Past Perfect (Quá khứ hoàn thành) | Past Perfect Continuous (Quá khứ hoàn thành tiếp diễn) |
+@@
+-#### **5. Future Simple vs Future Continuous**
++#### **5. Future Simple (Tương lai đơn) vs Future Continuous (Tương lai tiếp diễn)**
+-| Khía cạnh | Future Simple | Future Continuous |
++| Khía cạnh | Future Simple (Tương lai đơn) | Future Continuous (Tương lai tiếp diễn) |
+@@
+-#### **6. Future Perfect vs Future Perfect Continuous**
++#### **6. Future Perfect (Tương lai hoàn thành) vs Future Perfect Continuous (Tương lai hoàn thành tiếp diễn)**
+-| Khía cạnh | Future Perfect | Future Perfect Continuous |
++| Khía cạnh | Future Perfect (Tương lai hoàn thành) | Future Perfect Continuous (Tương lai hoàn thành tiếp diễn) |
+@@
+-| Present Continuous | Hiện tại | Đang xảy ra bây giờ |
+-| Past Continuous | Quá khứ | Đang xảy ra trong quá khứ |
+-| Future Continuous | Tương lai | Sẽ đang xảy ra |
+-| Present Perfect Continuous | Từ quá khứ đến hiện tại | Đã và đang xảy ra |
++| Present Continuous (Hiện tại tiếp diễn) | Hiện tại | Đang xảy ra bây giờ |
++| Past Continuous (Quá khứ tiếp diễn) | Quá khứ | Đang xảy ra trong quá khứ |
++| Future Continuous (Tương lai tiếp diễn) | Tương lai | Sẽ đang xảy ra |
++| Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn) | Từ quá khứ đến hiện tại | Đã và đang xảy ra |
+@@
+-| Present Perfect | Hiện tại | Đã hoàn thành, có kết quả |
+-| Past Perfect | Quá khứ | Đã hoàn thành trước một thời điểm |
+-| Future Perfect | Tương lai | Sẽ hoàn thành trước một thời điểm |
+-| Present Perfect Continuous | Từ quá khứ đến hiện tại | Đã và đang tiếp tục |
++| Present Perfect (Hiện tại hoàn thành) | Hiện tại | Đã hoàn thành, có kết quả |
++| Past Perfect (Quá khứ hoàn thành) | Quá khứ | Đã hoàn thành trước một thời điểm |
++| Future Perfect (Tương lai hoàn thành) | Tương lai | Sẽ hoàn thành trước một thời điểm |
++| Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn) | Từ quá khứ đến hiện tại | Đã và đang tiếp tục |
+@@
+-| Present Simple | Hiện tại | Thói quen, sự thật |
+-| Past Simple | Quá khứ | Hành động đã xảy ra |
+-| Future Simple | Tương lai | Hành động sẽ xảy ra |
+-| Present Perfect | Từ quá khứ đến hiện tại | Đã hoàn thành |
++| Present Simple (Hiện tại đơn) | Hiện tại | Thói quen, sự thật |
++| Past Simple (Quá khứ đơn) | Quá khứ | Hành động đã xảy ra |
++| Future Simple (Tương lai đơn) | Tương lai | Hành động sẽ xảy ra |
++| Present Perfect (Hiện tại hoàn thành) | Từ quá khứ đến hiện tại | Đã hoàn thành |
+@@
+-1. "I ___ (work) every day." → Present Simple
+-2. "I ___ (work) now." → Present Continuous
+-3. "I ___ (work) for 3 hours." → Present Perfect Continuous
+-4. "I ___ (work) yesterday." → Past Simple
+-5. "I ___ (work) when you called." → Past Continuous
+-6. "I ___ (work) before you came." → Past Perfect
+-7. "I ___ (work) for 2 hours before you came." → Past Perfect Continuous
+-8. "I ___ (work) tomorrow." → Future Simple
+-9. "I ___ (work) at 8 PM tomorrow." → Future Continuous
+-10. "I ___ (work) by 5 PM." → Future Perfect
+-11. "I ___ (work) for 3 hours by 5 PM." → Future Perfect Continuous
+-12. "I ___ (work) here since 2020." → Present Perfect
++1. "I ___ (work) every day." → Present Simple (Hiện tại đơn)
++2. "I ___ (work) now." → Present Continuous (Hiện tại tiếp diễn)
++3. "I ___ (work) for 3 hours." → Present Perfect Continuous (Hiện tại hoàn thành tiếp diễn)
++4. "I ___ (work) yesterday." → Past Simple (Quá khứ đơn)
++5. "I ___ (work) when you called." → Past Continuous (Quá khứ tiếp diễn)
++6. "I ___ (work) before you came." → Past Perfect (Quá khứ hoàn thành)
++7. "I ___ (work) for 2 hours before you came." → Past Perfect Continuous (Quá khứ hoàn thành tiếp diễn)
++8. "I ___ (work) tomorrow." → Future Simple (Tương lai đơn)
++9. "I ___ (work) at 8 PM tomorrow." → Future Continuous (Tương lai tiếp diễn)
++10. "I ___ (work) by 5 PM." → Future Perfect (Tương lai hoàn thành)
++11. "I ___ (work) for 3 hours by 5 PM." → Future Perfect Continuous (Tương lai hoàn thành tiếp diễn)
++12. "I ___ (work) here since 2020." → Present Perfect (Hiện tại hoàn thành)
+*** End Patch
+```
+
 ---
 
 <think><details><summary>Thought Process</summary>**Evaluating tool orchestration**
@@ -58,6 +175,148 @@ AI vừa thêm nghĩa tiếng Việt cạnh tên các thì trong `12_tenses_comp
 ---
 
 Tool use: **read_lints**
+
+<details>
+          <summary>Read lints for 1 file</summary>
+      
+Lint paths:
+
+- `12_tenses_comparison.md`
+
+Lint results
+
+Lint errors for `12_tenses_comparison.md`
+
+
+| Message | Range | Severity |
+|-------|-------|----------|
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 26:1-26:85 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 27:1-27:88 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 34:1-34:112 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 35:1-35:115 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 44:1-44:77 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 45:1-45:80 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 52:1-52:104 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 53:1-53:107 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 62:1-62:85 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 63:1-63:88 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 70:1-70:112 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 71:1-71:115 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 82:1-82:37 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 83:1-83:30 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 90:1-90:34 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 91:1-91:30 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 98:1-98:33 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD058/blanks-around-tables: Tables should be surrounded by blank lines | 99:1-99:30 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 110:1-110:39 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD032/blanks-around-lists: Lists should be surrounded by blank lines | 111:1-111:46 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 118:1-118:29 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD032/blanks-around-lists: Lists should be surrounded by blank lines | 119:1-119:32 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD022/blanks-around-headings: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] | 124:1-124:30 | DIAGNOSTIC_SEVERITY_WARNING |
+| MD032/blanks-around-lists: Lists should be surrounded by blank lines | 125:1-125:28 | DIAGNOSTIC_SEVERITY_WARNING |
+| "SÁNH": Unknown word. | 1:11-1:15 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "PHÂN": Unknown word. | 1:19-1:23 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "BIỆT": Unknown word. | 1:24-1:28 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "TIẾNG": Unknown word. | 1:36-1:41 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "BẢNG": Unknown word. | 3:9-3:13 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "TỔNG": Unknown word. | 3:14-3:18 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "QUAN": Unknown word. | 3:19-3:23 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Công": Unknown word. | 5:15-5:19 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thức": Unknown word. | 5:20-5:24 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hiệu": Unknown word. | 5:31-5:35 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "nghĩa": Unknown word. | 5:40-5:45 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 7:25-7:29 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Thói": Unknown word. | 7:89-7:93 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "quen": Unknown word. | 7:94-7:98 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thật": Unknown word. | 7:103-7:107 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hiển": Unknown word. | 7:108-7:112 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "nhiên": Unknown word. | 7:113-7:118 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 8:29-8:33 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 8:38-8:42 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 8:43-8:47 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 8:105-8:109 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 8:110-8:114 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "đang": Unknown word. | 8:115-8:119 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 9:26-9:30 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 9:35-9:39 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 9:40-9:45 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 9:98-9:102 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 9:103-9:107 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 9:108-9:112 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 9:113-9:118 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "kinh": Unknown word. | 9:120-9:124 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "nghiệm": Unknown word. | 9:125-9:131 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 10:37-10:41 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 10:46-10:50 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 10:51-10:56 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 10:57-10:61 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 10:62-10:66 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 10:124-10:128 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 10:129-10:133 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 11:76-11:80 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 11:81-11:85 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thúc": Unknown word. | 11:103-11:107 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 12:34-12:38 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 12:39-12:43 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 12:100-12:104 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 12:105-12:109 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "đang": Unknown word. | 12:110-12:114 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "trong": Unknown word. | 12:122-12:127 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 13:31-13:35 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 13:36-13:41 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 13:91-13:95 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 13:96-13:100 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "trước": Unknown word. | 13:108-13:113 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thời": Unknown word. | 13:118-13:122 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "điểm": Unknown word. | 13:123-13:127 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 14:42-14:46 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 14:47-14:52 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 14:53-14:57 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 14:58-14:62 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 14:114-14:118 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 14:119-14:123 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "trước": Unknown word. | 14:132-14:137 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thời": Unknown word. | 14:142-14:146 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "điểm": Unknown word. | 14:147-14:151 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Tương": Unknown word. | 15:24-15:29 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 15:86-15:90 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 15:91-15:95 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "trong": Unknown word. | 15:106-15:111 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tương": Unknown word. | 15:112-15:117 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Tương": Unknown word. | 16:29-16:34 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 16:39-16:43 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 16:44-16:48 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 16:102-16:106 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 16:107-16:111 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "đang": Unknown word. | 16:115-16:119 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Tương": Unknown word. | 17:26-17:31 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 17:36-17:40 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 17:41-17:46 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 17:101-17:105 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 17:106-17:110 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 17:114-17:118 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 17:119-17:124 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Tương": Unknown word. | 18:37-18:42 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "hoàn": Unknown word. | 18:47-18:51 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thành": Unknown word. | 18:52-18:57 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 18:58-18:62 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "diễn": Unknown word. | 18:63-18:67 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hành": Unknown word. | 18:125-18:129 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "động": Unknown word. | 18:130-18:134 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "thời": Unknown word. | 18:154-18:158 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "điểm": Unknown word. | 18:159-18:163 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "PHÂN": Unknown word. | 22:9-22:13 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "BIỆT": Unknown word. | 22:14-22:18 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "THEO": Unknown word. | 22:19-22:23 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "NHÓM": Unknown word. | 22:24-22:28 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "NHÓM": Unknown word. | 24:10-24:14 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "HIỆN": Unknown word. | 24:15-24:19 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 26:27-26:31 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "Hiện": Unknown word. | 26:64-26:68 | DIAGNOSTIC_SEVERITY_INFORMATION |
+| "tiếp": Unknown word. | 26:73-26:77 | DIAGNOSTIC_SEVERITY_INFORMATION |
+
+
+</details>
 
 ---
 
