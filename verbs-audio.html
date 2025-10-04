@@ -1100,6 +1100,22 @@
         'wear': { base: 'mặc/đeo', past: 'đã mặc', pp: 'được mặc' },
         'win': { base: 'thắng', past: 'đã thắng', pp: 'được thắng' },
         'write': { base: 'viết', past: 'đã viết', pp: 'được viết' },
+        // Bổ sung một số bất quy tắc/phổ biến còn thiếu
+        'break': { base: 'làm vỡ/phá vỡ', past: 'đã làm vỡ', pp: 'bị/được làm vỡ' },
+        'bleed': { base: 'chảy máu', past: 'đã chảy máu', pp: 'bị chảy máu' },
+        'blow': { base: 'thổi', past: 'đã thổi', pp: 'được thổi' },
+        'bite': { base: 'cắn', past: 'đã cắn', pp: 'bị cắn' },
+        'deal': { base: 'giao dịch/đối phó', past: 'đã giao dịch', pp: 'được giao dịch' },
+        'dig': { base: 'đào/xới', past: 'đã đào', pp: 'được đào' },
+        'dream': { base: 'mơ', past: 'đã mơ', pp: 'được mơ' },
+        'grind': { base: 'xay/nghiền', past: 'đã xay', pp: 'được xay' },
+        'kneel': { base: 'quỳ', past: 'đã quỳ', pp: 'được quỳ' },
+        'lay': { base: 'đặt/đẻ (trứng)', past: 'đã đặt/đẻ', pp: 'được đặt/đẻ' },
+        'shake': { base: 'lắc/rung', past: 'đã lắc', pp: 'được lắc' },
+        'shut': { base: 'đóng/sập', past: 'đã đóng', pp: 'được đóng' },
+        'sing': { base: 'hát', past: 'đã hát', pp: 'được hát' },
+        'sink': { base: 'chìm', past: 'đã chìm', pp: 'bị chìm' },
+        'slide': { base: 'trượt', past: 'đã trượt', pp: 'được trượt' },
       };
 
       function dedupeVerbs(items) {
@@ -1114,23 +1130,46 @@
         return out;
       }
 
+      // Chuẩn hóa chuỗi để tìm kiếm không phân biệt hoa/thường và dấu tiếng Việt
+      function normalizeText(str) {
+        return (str || '')
+          .toString()
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '');
+      }
+
       function render(filter = '') {
         listEl.innerHTML = '';
-        const q = filter.trim().toLowerCase();
+        const q = normalizeText(filter.trim());
         const source = dedupeVerbs(verbs);
-        const filtered = source.filter(([v]) => !q || v.includes(q));
+        const filtered = source.filter((verbData) => {
+          if (!q) return true;
+          let [v1, v2, v3, meaning1, meaning2, meaning3] = verbData;
+          // Bổ sung nghĩa tiếng Việt nếu thiếu để có thể tìm theo nghĩa
+          const vi = viDict[v1 && v1.toLowerCase()];
+          if (vi) {
+            meaning1 = meaning1 || vi.base;
+            meaning2 = meaning2 || vi.past;
+            meaning3 = meaning3 || vi.pp;
+          }
+          const fields = [v1, v2, v3, meaning1, meaning2, meaning3]
+            .filter(Boolean)
+            .map(normalizeText);
+          return fields.some(f => f.includes(q));
+        });
         if (countsEl) {
           countsEl.textContent = `Kết quả: ${filtered.length} / Tổng: ${source.length}`;
         }
         filtered.forEach((verbData) => {
           let [v1, v2, v3, meaning1, meaning2, meaning3, imageQuery, exampleEnRaw, exampleViRaw] = verbData;
-          // Tự điền nghĩa tiếng Việt nếu thiếu
-          if (!meaning1) {
+          // Bổ sung/ghi đè phần thiếu từ từ điển tiếng Việt nếu có
+          {
             const vi = viDict[v1 && v1.toLowerCase()];
             if (vi) {
-              meaning1 = vi.base;
-              meaning2 = meaning2 || vi.past;
-              meaning3 = meaning3 || vi.pp;
+              if (!meaning1) meaning1 = vi.base;
+              if (!meaning2) meaning2 = vi.past;
+              if (!meaning3) meaning3 = vi.pp;
             }
           }
           const li = document.createElement('li');
@@ -1433,12 +1472,38 @@
           'charge': { en: 'I charge my phone.', vi: 'Tôi sạc điện thoại.' },
           'carry': { en: 'I carry a heavy bag.', vi: 'Tôi mang một túi nặng.' },
           'wear': { en: 'I wear a jacket.', vi: 'Tôi mặc áo khoác.' },
+          // Bổ sung ví dụ hiện tại đơn tự nhiên cho các động từ phổ biến còn thiếu
+          'prefer': { en: 'I prefer tea to coffee.', vi: 'Tôi thích trà hơn cà phê.' },
+          'like': { en: 'I like this movie.', vi: 'Tôi thích bộ phim này.' },
+          'need': { en: 'I need more time.', vi: 'Tôi cần thêm thời gian.' },
+          'own': { en: 'I own a small shop.', vi: 'Tôi sở hữu một cửa hàng nhỏ.' },
+          'rain': { en: 'It rains a lot here.', vi: 'Ở đây mưa nhiều.' },
+          'stay': { en: 'I stay at home on Sundays.', vi: 'Tôi ở nhà vào Chủ nhật.' },
+          'start': { en: 'I start work at eight.', vi: 'Tôi bắt đầu làm lúc tám giờ.' },
+          'serve': { en: 'They serve breakfast all day.', vi: 'Họ phục vụ bữa sáng cả ngày.' },
+          'weigh': { en: 'This box weighs five kilos.', vi: 'Cái hộp này nặng năm ký.' },
+          'get up': { en: 'I get up at six.', vi: 'Tôi dậy lúc sáu giờ.' },
+          'research': { en: 'I research new topics online.', vi: 'Tôi nghiên cứu chủ đề mới trực tuyến.' },
+          'recycle': { en: 'I recycle plastic bottles.', vi: 'Tôi tái chế chai nhựa.' },
+          'diagnose': { en: 'Doctors diagnose illnesses.', vi: 'Bác sĩ chẩn đoán bệnh.' },
+          'negotiate': { en: 'We negotiate prices.', vi: 'Chúng tôi đàm phán giá.' },
+          'invest': { en: 'I invest in stocks.', vi: 'Tôi đầu tư vào cổ phiếu.' },
+          'compose': { en: 'She composes music.', vi: 'Cô ấy sáng tác nhạc.' },
+          'rescue': { en: 'They rescue animals.', vi: 'Họ cứu động vật.' },
+          'broadcast': { en: 'They broadcast the news at six.', vi: 'Họ phát sóng bản tin lúc sáu giờ.' },
+          'discover': { en: 'Scientists discover new species.', vi: 'Các nhà khoa học khám phá loài mới.' },
+          'conserve': { en: 'We conserve water.', vi: 'Chúng tôi bảo tồn nước.' },
+          'schedule': { en: 'I schedule my tasks.', vi: 'Tôi lên lịch công việc.' },
+          'enroll': { en: 'I enroll in a course.', vi: 'Tôi ghi danh một khóa học.' },
+          'manufacture': { en: 'They manufacture cars.', vi: 'Họ sản xuất ô tô.' },
+          'donate': { en: 'We donate clothes.', vi: 'Chúng tôi quyên góp quần áo.' },
+          'forecast': { en: 'They forecast rain tomorrow.', vi: 'Họ dự báo ngày mai có mưa.' },
         };
         if (templates[v1]) return templates[v1];
-        // Mặc định: câu đơn giản dùng v1
+        // Mặc định: câu hiện tại đơn tự nhiên, tránh dùng tân ngữ "it"
         return {
-          en: `I ${v1} it every day.`,
-          vi: `Tôi ${meaning1 || ''} nó mỗi ngày.`.trim()
+          en: `I usually ${v1}.`,
+          vi: `Tôi thường ${meaning1 || ''}.`.trim()
         };
       }
 
