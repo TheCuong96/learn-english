@@ -163,6 +163,7 @@
         ["eat", "ate", "eaten", "ăn", "đã ăn", "được ăn"],
         ["expire", "expired", "expired", "hết hạn"],
         ["finish", "finished", "finished", "hoàn thành"],
+        ["finalize", "finalized", "finalized", "hoàn tất/chốt", "đã hoàn tất/chốt", "được hoàn tất/chốt"],
         ["give", "gave", "given", "đưa/cho", "đã đưa", "được đưa"],
         ["go", "went", "gone", "đi", "đã đi", "đã rời đi"],
         ["have", "had", "had", "có; (3rd: has)", "đã có", "được có"],
@@ -178,6 +179,7 @@
         ["offer", "offered", "offered", "cung cấp/đề nghị"],
         ["open", "opened", "opened", "mở"],
         ["order", "ordered", "ordered", "đặt (mua)"],
+        ["organize", "organized", "organized", "tổ chức/sắp xếp", "đã tổ chức/sắp xếp", "được tổ chức/sắp xếp"],
         ["own", "owned", "owned", "sở hữu"],
         ["play", "played", "played", "chơi", "đã chơi", "được chơi"],
         ["prefer", "preferred", "preferred", "thích hơn"],
@@ -230,6 +232,7 @@
         ["come", "came", "come", "đến/đi đến"],
         ["think", "thought", "thought", "nghĩ"],
         ["look", "looked", "looked", "nhìn/tìm"],
+        ["find", "found", "found", "tìm thấy", "đã tìm thấy", "được tìm thấy"],
         ["want", "wanted", "wanted", "muốn"],
         ["tell", "told", "told", "kể/nói với"],
         ["ask", "asked", "asked", "hỏi/yêu cầu"],
@@ -255,6 +258,7 @@
         ["follow", "followed", "followed", "theo dõi/theo sau"],
         ["stop", "stopped", "stopped", "dừng"],
         ["create", "created", "created", "tạo ra"],
+        ["complete", "completed", "completed", "hoàn thành", "đã hoàn thành", "được hoàn thành"],
         ["allow", "allowed", "allowed", "cho phép"],
         ["add", "added", "added", "thêm"],
         ["spend", "spent", "spent", "dành/tiêu (thời gian/tiền)"],
@@ -285,6 +289,7 @@
         ["charge", "charged", "charged", "sạc (pin)"],
         ["carry", "carried", "carried", "mang/vác"],
         ["wear", "wore", "worn", "mặc/đeo"],
+        ["port", "ported", "ported", "chuyển (ứng dụng/mã)", "đã chuyển", "được chuyển"],
         // --- Bổ sung từ danh sách người dùng ---
         ["accept", "accepted", "accepted", "chấp nhận"],
         ["accuse", "accused", "accused", "tố cáo"],
@@ -1457,6 +1462,7 @@
           'ride': { en: 'I ride a bike.', vi: 'Tôi đi xe đạp.' },
           'shop': { en: 'I shop online.', vi: 'Tôi mua sắm trực tuyến.' },
           'order': { en: 'I order food for lunch.', vi: 'Tôi đặt đồ ăn trưa.' },
+          'organize': { en: 'I organize my desk every week.', vi: 'Tôi sắp xếp bàn làm việc mỗi tuần.' },
           'study': { en: 'I study English every day.', vi: 'Tôi học tiếng Anh mỗi ngày.' },
           'teach': { en: 'I teach math.', vi: 'Tôi dạy toán.' },
           'practice': { en: 'I practice speaking.', vi: 'Tôi luyện nói.' },
@@ -1474,7 +1480,10 @@
           'wear': { en: 'I wear a jacket.', vi: 'Tôi mặc áo khoác.' },
           // Bổ sung ví dụ hiện tại đơn tự nhiên cho các động từ phổ biến còn thiếu
           'prefer': { en: 'I prefer tea to coffee.', vi: 'Tôi thích trà hơn cà phê.' },
+          'finalize': { en: 'I finalize the plan today.', vi: 'Hôm nay tôi chốt kế hoạch.' },
           'like': { en: 'I like this movie.', vi: 'Tôi thích bộ phim này.' },
+          'complete': { en: 'I complete my tasks on time.', vi: 'Tôi hoàn thành công việc đúng hạn.' },
+          'port': { en: 'We port the app to Android.', vi: 'Chúng tôi chuyển ứng dụng sang Android.' },
           'need': { en: 'I need more time.', vi: 'Tôi cần thêm thời gian.' },
           'own': { en: 'I own a small shop.', vi: 'Tôi sở hữu một cửa hàng nhỏ.' },
           'rain': { en: 'It rains a lot here.', vi: 'Ở đây mưa nhiều.' },
@@ -1538,8 +1547,8 @@
       searchEl.addEventListener('input', (e) => render(e.target.value));
       document.getElementById('test').addEventListener('click', () => speak('example'));
 
-      window.speechSynthesis.onvoiceschanged = populateVoices;
       populateVoices();
+      window.speechSynthesis.onvoiceschanged = populateVoices;
       render();
     </script>
   </body>
