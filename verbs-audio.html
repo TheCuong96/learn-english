@@ -62,6 +62,7 @@
         min-width: 80px;
         cursor: pointer;
         transition: all 0.2s ease;
+        border: 1px solid rgba(255,255,255,0.2);
       }
       .verb-form:hover {
         transform: translateY(-2px);
@@ -92,6 +93,7 @@
         text-shadow: 0 1px 2px rgba(0,0,0,0.2);
         font-weight: 300;
       }
+      /* Loại bỏ viền đậm; chỉ dùng màu nền để phân biệt */
       .meaning { color: #7f8c8d; font-style: italic; margin-top: 4px; display: none; }
       .small { color: rgba(255,255,255,0.8); font-size: 16px; }
       .counts { margin-left: auto; font-weight: 500; opacity: 0.9; }
@@ -103,14 +105,19 @@
         justify-content: center;
         flex-wrap: wrap;
       }
-      .verb-image {
+      .verb-color {
         width: 160px;
         height: 110px;
-        object-fit: cover;
         border-radius: 8px;
         border: 1px solid rgba(255,255,255,0.2);
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        background: rgba(255,255,255,0.06);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        color: rgba(255,255,255,0.95);
+        text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+        letter-spacing: 0.5px;
       }
       .example {
         display: flex;
@@ -1369,6 +1376,27 @@
           .replace(/[\u0300-\u036f]/g, '');
       }
 
+      function isSameForm(a, b) {
+        return (a || '').toLowerCase() === (b || '').toLowerCase();
+      }
+
+      function computeSameCounts(items) {
+        let sameV2V3 = 0;
+        let sameAll = 0;
+        for (const it of items) {
+          const v1 = (it[0] || '').toString();
+          const v2 = (it[1] || '').toString();
+          const v3 = (it[2] || '').toString();
+          if (!v1 || !v2 || !v3) continue;
+          const a = v1.toLowerCase();
+          const b = v2.toLowerCase();
+          const c = v3.toLowerCase();
+          if (b === c) sameV2V3++;
+          if (a === b && a === c) sameAll++;
+        }
+        return { sameV2V3, sameAll };
+      }
+
       function render(filter = '') {
         listEl.innerHTML = '';
         const q = normalizeText(filter.trim());
@@ -1389,7 +1417,8 @@
           return fields.some(f => f.includes(q));
         });
         if (countsEl) {
-          countsEl.textContent = `Kết quả: ${filtered.length} / Tổng: ${source.length}`;
+          const counts = computeSameCounts(source);
+          countsEl.textContent = `Kết quả: ${filtered.length} / Tổng: ${source.length} | V2=V3: ${counts.sameV2V3} | V1=V2=V3: ${counts.sameAll}`;
         }
         filtered.forEach((verbData) => {
           let [v1, v2, v3, meaning1, meaning2, meaning3, imageQuery, exampleEnRaw, exampleViRaw] = verbData;
@@ -1444,6 +1473,21 @@
             <div class="form-meaning">${v3Meaning}</div>
           `;
           v3Form.addEventListener('click', () => speak(v3));
+
+          // Đồng bộ màu theo quy tắc người dùng
+          const sameV2V3 = isSameForm(v2, v3);
+          const sameAll = isSameForm(v1, v2) && isSameForm(v1, v3);
+          if (sameAll) {
+            v2Form.className = 'verb-form v1';
+            v3Form.className = 'verb-form v1';
+          } else if (sameV2V3) {
+            v3Form.className = 'verb-form v2';
+          }
+
+          // Không áp dụng màu ngẫu nhiên nữa; dùng lớp màu cố định theo v1/v2/v3
+          v1Form.style.background = '';
+          v2Form.style.background = '';
+          v3Form.style.background = '';
           
           verbForms.appendChild(v1Form);
           verbForms.appendChild(v2Form);
@@ -1474,13 +1518,12 @@
           exampleBox.appendChild(exEnEl);
           exampleBox.appendChild(exViEl);
 
-          const img = document.createElement('img');
-          img.className = 'verb-image';
-          img.alt = `${v1} illustration`;
-          img.loading = 'lazy';
-          fillIllustration(img, v1, exampleEn, imageQuery);
+          const colorBox = document.createElement('div');
+          colorBox.className = 'verb-color';
+          colorBox.style.background = colorFromString(v1 || 'verb');
+          colorBox.textContent = v1.toUpperCase();
 
-          extra.appendChild(img);
+          extra.appendChild(colorBox);
           extra.appendChild(exampleBox);
 
           verbInfo.appendChild(extra);
@@ -1490,45 +1533,14 @@
         });
       }
 
-      function getImageCandidates(query) {
-        const text = encodeURIComponent(query);
-        const svg = encodeURIComponent(
-          `<svg xmlns='http://www.w3.org/2000/svg' width='480' height='320'>\n` +
-          `<rect width='100%' height='100%' fill='rgb(30,30,30)'/>` +
-          `<text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-family='Arial' font-size='22'>${query}</text>` +
-          `</svg>`
-        );
-        return [
-          `https://source.unsplash.com/480x320/?${text}`,
-          `https://picsum.photos/seed/${text}/480/320`,
-          `https://placehold.co/480x320?text=${text}`,
-          `data:image/svg+xml;charset=utf-8,${svg}`,
-        ];
-      }
+      // Sinh màu ổn định từ chuỗi (verb)
+      // Bỏ hàm sinh màu ngẫu nhiên
+      function colorFromString() { return ''; }
 
-      function getIllustrationCandidates(v1, queryKey) {
-        const key = (v1 || '').toLowerCase();
-        const icon = iconifyMap[key];
-        const list = [];
-        if (icon) {
-          // Ưu tiên icon 1 màu để nổi bật trên nền tối
-          list.push(`https://api.iconify.design/${encodeURIComponent(icon)}.svg?color=%23ffffff`);
-        }
-        // Sau đó mới tới ảnh chụp, tránh lạc nghĩa
-        return list.concat(getImageCandidates(queryKey));
-      }
+      // Không còn cần ảnh minh họa
+      function getIllustrationCandidates() { return []; }
 
-      async function fetchTenorGif(queryKey, apiKey) {
-        try {
-          const url = `https://tenor.googleapis.com/v2/search?q=${encodeURIComponent(queryKey)}&key=${encodeURIComponent(apiKey)}&limit=1&media_filter=gif,tinygif&client_key=learn-english`;
-          const res = await fetch(url);
-          if (!res.ok) return '';
-          const data = await res.json();
-          const item = (data.results && data.results[0]) || null;
-          const formats = item && item.media_formats;
-          return (formats && (formats.tinygif && formats.tinygif.url)) || (formats && formats.gif && formats.gif.url) || '';
-        } catch (e) { return ''; }
-      }
+      async function fetchTenorGif() { return ''; }
 
       mediaEl.addEventListener('change', () => {
         localStorage.setItem('mediaPref', mediaEl.value);
@@ -1538,78 +1550,11 @@
         localStorage.setItem('tenorKey', tenorKeyEl.value);
       });
 
-      function loadImageWithFallback(imgEl, urls) {
-        let idx = 0;
-        const tryNext = () => {
-          if (idx >= urls.length) return;
-          imgEl.src = urls[idx++];
-        };
-        imgEl.onerror = tryNext;
-        tryNext();
-      }
+      function loadImageWithFallback() {}
 
-      function fillIllustration(imgEl, v1, exampleEn, imageQuery) {
-        const derived = deriveImageQueryFromExample(exampleEn, v1);
-        const queryKey = (imageQuery || imageHints[v1] || derived || v1).replaceAll(' ', '+');
-        const media = mediaEl.value;
-        const key = (tenorKeyEl.value || '').trim();
-        if (media === 'gif' && key) {
-          fetchTenorGif(queryKey, key)
-            .then(url => {
-              if (url) {
-                imgEl.src = url;
-              } else {
-                const candidates = getIllustrationCandidates(v1, queryKey);
-                loadImageWithFallback(imgEl, candidates);
-              }
-            })
-            .catch(() => {
-              const candidates = getIllustrationCandidates(v1, queryKey);
-              loadImageWithFallback(imgEl, candidates);
-            });
-          return;
-        }
-        const candidates = getIllustrationCandidates(v1, queryKey);
-        loadImageWithFallback(imgEl, candidates);
-      }
+      function fillIllustration() {}
 
-      function deriveImageQueryFromExample(exampleEn, v1) {
-        // Lấy các danh từ/khái niệm thường gặp từ câu ví dụ để làm từ khóa ảnh
-        const lower = exampleEn.toLowerCase();
-        const map = [
-          ['breakfast', 'breakfast table food'],
-          ['bus', 'bus commute'],
-          ['friends', 'friends group'],
-          ['home', 'home door'],
-          ['keys', 'lost keys'],
-          ['phone', 'smartphone phone'],
-          ['gift', 'gift present'],
-          ['noise', 'noise sound'],
-          ['soccer', 'soccer football'],
-          ['run', 'jogging running'],
-          ['window', 'window seat'],
-          ['line', 'queue line'],
-          ['card', 'credit card'],
-          ['email', 'sending email'],
-          ['book', 'reading book'],
-          ['plants', 'plant growing'],
-          ['water', 'glass of water'],
-          ['dishes', 'washing dishes'],
-          ['teeth', 'toothbrush'],
-          ['bike', 'riding bicycle'],
-          ['school', 'walking to school'],
-          ['tv', 'watching tv'],
-          ['study', 'studying desk'],
-          ['train', 'train travel'],
-          ['grandparents', 'family grandparents'],
-          ['station', 'train station'],
-          ['money', 'savings piggy bank'],
-        ];
-        for (const [k, v] of map) {
-          if (lower.includes(k)) return v;
-        }
-        return v1;
-      }
+      function deriveImageQueryFromExample() { return ''; }
 
       function generateExample(v1, meaning1) {
         const templates = {
