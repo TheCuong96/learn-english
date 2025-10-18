@@ -1,4 +1,24 @@
-"*.pdf"  
-"*.docx"  
-"*.xlsx"  
-lesson-plans/**
+# Environment variables
+.env
+.env.local
+.env.production
+
+# API Keys and secrets
+*.key
+secrets.txt
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+lesson-plans
