@@ -1,5 +1,6 @@
 'use client';
 
+import Navigation from '@/components/Navigation';
 import ResultsScreen from '@/components/ResultsScreen';
 import SessionScreen from '@/components/SessionScreen';
 import { ReviewWord, SessionType, Verb } from '@/types/verb';
@@ -170,6 +171,9 @@ export default function Home() {
           )}
         </div>
       </header>
+
+      {/* Navigation */}
+      {currentScreen === 'home' && <Navigation />}
 
       {/* Main Content */}
       <main className="container mx-auto p-4 flex-grow">
