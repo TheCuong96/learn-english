@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Be Vietnam Pro', 'Roboto', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+}
+
+.card {
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.card-face-back {
+  transform: rotateY(180deg);
+}
+
+.btn-answer.correct {
+  background-color: #22c55e;
+  border-color: #16a34a;
+}
+
+.btn-answer.incorrect {
+  background-color: #ef4444;
+  border-color: #dc2626;
+}
+
+.progress-bar-inner {
+  transition: width 0.3s ease-in-out;
+}
+
+.mode-card {
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.mode-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}

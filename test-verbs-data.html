@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luyện tập động từ - 804 verbs</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+        }
+        .card {
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+        }
+        .card.is-flipped {
+            transform: rotateY(180deg);
+        }
+        .card-face {
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+        }
+        .card-face-back {
+            transform: rotateY(180deg);
+        }
+        .btn-answer.correct {
+            background-color: #22c55e;
+            border-color: #16a34a;
+        }
+        .btn-answer.incorrect {
+            background-color: #ef4444;
+            border-color: #dc2626;
+        }
+        .progress-bar-inner {
+            transition: width 0.3s ease-in-out;
+        }
+        .mode-card {
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .mode-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+        }
+    </style>
+</head>
+<body class="bg-slate-100 text-slate-800 flex flex-col min-h-screen">
+
+    <!-- Header -->
+    <header class="bg-white shadow-md">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 class="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400">
+                Luyện tập động từ (804 verbs)
+            </h1>
+            <button id="home-button" class="hidden text-blue-500 hover:text-blue-700">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
+                  <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
+                </svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="app" class="container mx-auto p-4 flex-grow">
+
+        <!-- Home Screen -->
+        <div id="home-screen">
+            <div class="text-center mb-8">
+                <h2 class="text-2xl font-semibold mb-2">Chào mừng bạn!</h2>
+                <p class="text-slate-600">Luyện tập với 804 động từ từ verbs-data.json. Chọn một hoạt động bên dưới.</p>
+                <div id="stats" class="mt-4 flex justify-center gap-4 text-sm"></div>
+            </div>
+            <div id="mode-cards-container" class="grid grid-cols-1 md:grid-cols-2 gap-6 opacity-50 pointer-events-none">
+                <div data-mode="flashcards" class="mode-card bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-blue-600 mb-2">📚 Học với thẻ ghi nhớ</h3>
+                    <p class="text-slate-600">Lật thẻ để học từ mới, V1-V2-V3 và ví dụ.</p>
+                </div>
+                <div data-mode="multiple-choice" class="mode-card bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-green-600 mb-2">✅ Bài tập trắc nghiệm</h3>
+                    <p class="text-slate-600">Chọn đúng nghĩa của từ.</p>
+                </div>
+                <div data-mode="fill-in-blank" class="mode-card bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-purple-600 mb-2">✏️ Điền vào chỗ trống</h3>
+                    <p class="text-slate-600">Hoàn thành câu với từ vựng đúng.</p>
+                </div>
+                <div data-mode="verb-forms" class="mode-card bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-orange-600 mb-2">🔄 Chia động từ</h3>
+                    <p class="text-slate-600">Điền dạng V2 và V3 của động từ.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Session Screen -->
+        <div id="session-screen" class="hidden">
+            <!-- Progress Bar -->
+            <div class="mb-4">
+                <div class="flex justify-between mb-1">
+                    <span class="text-base font-medium text-blue-700">Tiến độ</span>
+                    <span id="progress-text" class="text-sm font-medium text-blue-700">0 / 10</span>
+                </div>
+                <div class="w-full bg-gray-200 rounded-full h-2.5">
+                    <div id="progress-bar" class="bg-blue-600 h-2.5 rounded-full" style="width: 0%"></div>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div id="session-content" class="min-h-[350px]"></div>
+
+            <!-- Feedback Area -->
+            <div id="feedback-area" class="mt-4 min-h-[50px] text-center"></div>
+
+            <!-- Controls -->
+            <div class="mt-6 flex justify-center">
+                <button id="next-button" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-lg shadow-md transition-transform transform hover:scale-105">Tiếp theo</button>
+            </div>
+        </div>
+
+        <!-- Loading Screen -->
+        <div id="loading-screen" class="text-center py-20">
+             <div class="animate-spin rounded-full h-16 w-16 border-b-4 border-blue-500 mx-auto"></div>
+             <p class="mt-4 text-lg font-semibold text-slate-700">Đang tải dữ liệu...</p>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="hidden text-center">
+            <h2 class="text-3xl font-bold mb-4 text-green-500">🎉 Hoàn thành!</h2>
+            <p class="text-xl mb-6">Điểm của bạn: <span id="score" class="font-bold"></span></p>
+            <div id="review-area" class="mb-8 text-left max-w-2xl mx-auto"></div>
+            <div class="flex justify-center gap-4">
+                <button id="retry-btn" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-lg shadow-md transition-transform transform hover:scale-105">Làm lại</button>
+                <button id="download-report-btn" class="bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg shadow-md transition-transform transform hover:scale-105">Tải báo cáo (.txt)</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white mt-8">
+        <div class="container mx-auto px-4 py-4 text-center text-slate-500">
+            <p>&copy; 2025 Luyện tập động từ. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="verbs-data.js"></script>
+    <script>
+        const app = {
+            // --- STATE ---
+            vocabulary: [],
+            currentSessionWords: [],
+            currentWordIndex: 0,
+            score: 0,
+            sessionType: '',
+            sessionLength: 10,
+            reviewedWords: [],
+
+            // --- UI ELEMENTS ---
+            ui: {
+                homeScreen: document.getElementById('home-screen'),
+                sessionScreen: document.getElementById('session-screen'),
+                resultsScreen: document.getElementById('results-screen'),
+                loadingScreen: document.getElementById('loading-screen'),
+                sessionContent: document.getElementById('session-content'),
+                feedbackArea: document.getElementById('feedback-area'),
+                nextButton: document.getElementById('next-button'),
+                homeButton: document.getElementById('home-button'),
+                progressBar: document.getElementById('progress-bar'),
+                progressText: document.getElementById('progress-text'),
+                scoreDisplay: document.getElementById('score'),
+                reviewArea: document.getElementById('review-area'),
+                retryBtn: document.getElementById('retry-btn'),
+                downloadReportBtn: document.getElementById('download-report-btn'),
+                stats: document.getElementById('stats'),
+            },
+
+            // --- INITIALIZATION ---
+            async init() {
+                // Load dữ liệu từ verbs-data.json
+                try {
+                    this.vocabulary = await VerbsData.load();
+                    console.log(`✅ Đã tải ${this.vocabulary.length} động từ`);
+                    
+                    // Kiểm tra xem có dữ liệu không
+                    if (!this.vocabulary || this.vocabulary.length === 0) {
+                        throw new Error('File verbs-data.json rỗng hoặc không hợp lệ');
+                    }
+                    
+                    // Hiển thị thống kê
+                    const stats = VerbsData.stats(this.vocabulary);
+                    this.ui.stats.innerHTML = `
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded">📊 Tổng: ${stats.total}</span>
+                        <span class="px-3 py-1 bg-red-100 text-red-800 rounded">🔴 Bất quy tắc: ${stats.irregular}</span>
+                        <span class="px-3 py-1 bg-green-100 text-green-800 rounded">🟢 Quy tắc: ${stats.regular}</span>
+                    `;
+                    
+                    // Enable mode cards sau khi load xong
+                    const modeCardsContainer = document.getElementById('mode-cards-container');
+                    modeCardsContainer.classList.remove('opacity-50', 'pointer-events-none');
+                    modeCardsContainer.classList.add('opacity-100');
+                    
+                    // Ẩn loading screen
+                    this.ui.loadingScreen.classList.add('hidden');
+                } catch (error) {
+                    console.error('Lỗi tải dữ liệu:', error);
+                    this.ui.loadingScreen.innerHTML = `
+                        <div class="text-red-600">
+                            <p class="text-xl font-bold mb-2">❌ Lỗi tải dữ liệu</p>
+                            <p>Không thể tải file verbs-data.json</p>
+                            <p class="text-sm mt-2">Vui lòng kiểm tra:</p>
+                            <ul class="text-sm list-disc list-inside">
+                                <li>File verbs-data.json có tồn tại không</li>
+                                <li>Đang chạy trên local server (không phải file://)</li>
+                            </ul>
+                            <button onclick="location.reload()" class="mt-4 bg-blue-500 text-white px-4 py-2 rounded">Tải lại</button>
+                        </div>
+                    `;
+                    return;
+                }
+
+                this.ui.nextButton.addEventListener('click', () => this.nextStep());
+                this.ui.homeButton.addEventListener('click', () => this.reset());
+                this.ui.retryBtn.addEventListener('click', () => this.reset());
+                this.ui.downloadReportBtn.addEventListener('click', () => this.downloadReport());
+
+                document.querySelectorAll('.mode-card').forEach(card => {
+                    card.addEventListener('click', (e) => {
+                        this.startSession(e.currentTarget.dataset.mode);
+                    });
+                });
+            },
+
+            // --- SESSION MANAGEMENT ---
+            startSession(type) {
+                // Kiểm tra dữ liệu đã load chưa
+                if (!this.vocabulary || this.vocabulary.length === 0) {
+                    alert('Dữ liệu chưa được tải. Vui lòng đợi...');
+                    return;
+                }
+                
+                this.sessionType = type;
+                this.currentWordIndex = 0;
+                this.score = 0;
+                this.reviewedWords = [];
+                
+                this.ui.homeScreen.classList.add('hidden');
+                this.ui.homeButton.classList.remove('hidden');
+
+                // Random 10 động từ từ tất cả 804 động từ
+                this.currentSessionWords = VerbsData.random(this.vocabulary, this.sessionLength);
+                
+                console.log(`🎮 Bắt đầu ${type} với ${this.currentSessionWords.length} từ`);
+                console.log('Từ đầu tiên:', this.currentSessionWords[0]);
+                
+                this.ui.sessionScreen.classList.remove('hidden');
+                this.renderCurrentStep();
+            },
+
+            reset() {
+                this.ui.sessionScreen.classList.add('hidden');
+                this.ui.resultsScreen.classList.add('hidden');
+                this.ui.homeScreen.classList.remove('hidden');
+                this.ui.homeButton.classList.add('hidden');
+            },
+
+            // --- RENDERING ---
+            renderCurrentStep() {
+                this.ui.feedbackArea.innerHTML = '';
+                this.ui.nextButton.classList.add('hidden');
+                
+                console.log(`📝 Render step: ${this.currentWordIndex} / ${this.currentSessionWords.length}`);
+                
+                // Kiểm tra xem có từ nào để hiển thị không
+                if (!this.currentSessionWords || this.currentSessionWords.length === 0) {
+                    console.error('❌ Không có từ nào trong session!');
+                    alert('Lỗi: Không có từ vựng. Vui lòng tải lại trang.');
+                    return;
+                }
+                
+                if (this.currentWordIndex >= this.currentSessionWords.length) {
+                    console.log('✅ Đã hoàn thành tất cả câu hỏi');
+                    this.showResults();
+                    return;
+                }
+
+                this.updateProgress();
+                const word = this.currentSessionWords[this.currentWordIndex];
+                console.log(`📖 Hiển thị từ: ${word.word}`);
+
+                switch (this.sessionType) {
+                    case 'flashcards': this.renderFlashcard(word); break;
+                    case 'multiple-choice': this.renderMultipleChoice(word); break;
+                    case 'fill-in-blank': this.renderFillInBlank(word); break;
+                    case 'verb-forms': this.renderVerbForms(word); break;
+                }
+            },
+            
+            updateProgress() {
+                const progress = (this.currentWordIndex / this.sessionLength) * 100;
+                this.ui.progressBar.style.width = `${progress}%`;
+                this.ui.progressText.textContent = `${this.currentWordIndex} / ${this.sessionLength}`;
+            },
+
+            renderFlashcard(word) {
+                this.ui.sessionContent.innerHTML = `
+                    <div class="perspective-1000 mx-auto w-full max-w-md h-64">
+                        <div class="card relative w-full h-full">
+                            <!-- Front -->
+                            <div class="card-face absolute w-full h-full flex items-center justify-center bg-white rounded-xl shadow-lg border-2 border-blue-200">
+                                <h2 class="text-5xl font-bold">${word.word}</h2>
+                            </div>
+                            <!-- Back -->
+                            <div class="card-face card-face-back absolute w-full h-full flex flex-col items-center justify-center bg-blue-50 rounded-xl shadow-lg p-4 border-2 border-blue-200">
+                                <p class="text-2xl font-semibold text-blue-800">${word.definition}</p>
+                                <p class="text-slate-500 font-medium mt-1">(Động từ)</p>
+                                <div class="mt-4 text-center">
+                                    <span class="font-semibold bg-blue-100 text-blue-800 px-2 py-1 rounded">V1:</span> ${word.v1} &nbsp;
+                                    <span class="font-semibold bg-green-100 text-green-800 px-2 py-1 rounded">V2:</span> ${word.v2} &nbsp;
+                                    <span class="font-semibold bg-purple-100 text-purple-800 px-2 py-1 rounded">V3:</span> ${word.v3}
+                                </div>
+                                <p class="text-slate-700 italic mt-4 text-center">VD: ${word.example}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center mt-4">
+                        <button id="flip-button" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-2 px-4 rounded-lg">Lật thẻ</button>
+                    </div>`;
+                
+                const card = this.ui.sessionContent.querySelector('.card');
+                document.getElementById('flip-button').addEventListener('click', () => {
+                    card.classList.toggle('is-flipped');
+                    this.ui.nextButton.classList.remove('hidden');
+                });
+            },
+
+            renderMultipleChoice(word) {
+                const options = this.generateOptions(word);
+                const optionsHTML = options.map(opt => 
+                    `<button class="btn-answer w-full text-left p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm hover:bg-blue-50 hover:border-blue-300 transition-all">${opt.definition}</button>`
+                ).join('');
+                
+                this.ui.sessionContent.innerHTML = `
+                    <div class="text-center mb-6">
+                        <p class="text-lg text-slate-600">Từ nào có nghĩa là:</p>
+                        <h2 class="text-4xl font-bold text-blue-600">${word.word}</h2>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-2xl mx-auto">${optionsHTML}</div>`;
+                
+                this.ui.sessionContent.querySelectorAll('.btn-answer').forEach((button, index) => {
+                    button.addEventListener('click', () => this.checkAnswer(options[index].word === word.word, button));
+                });
+            },
+            
+            renderFillInBlank(word) {
+                let sentence = word.example;
+                let wordToReplace = word.word;
+
+                const verbForms = [word.v1, word.v2, word.v3].filter(Boolean).sort((a, b) => b.length - a.length);
+                const uniqueVerbForms = [...new Set(verbForms)];
+                for (const form of uniqueVerbForms) {
+                    const regex = new RegExp(`\\b${form}\\b`, 'i');
+                    if (regex.test(sentence)) {
+                        wordToReplace = form;
+                        break;
+                    }
+                }
+                
+                const finalRegex = new RegExp(`\\b${wordToReplace}\\b`, 'i');
+                sentence = sentence.replace(finalRegex, '______');
+
+                this.ui.sessionContent.innerHTML = `
+                    <div class="text-center max-w-2xl mx-auto">
+                        <p class="text-xl text-slate-700 mb-4">Điền từ còn thiếu vào câu:</p>
+                        <p class="text-2xl bg-white p-6 rounded-lg shadow-inner mb-2">${sentence}</p>
+                        <p class="text-base text-slate-500 mt-4 italic">Gợi ý: ${word.english_definition}</p>
+                        <input id="blank-input" type="text" class="text-center text-xl w-full max-w-sm p-3 border-2 border-gray-300 rounded-lg mt-4" placeholder="Nhập câu trả lời...">
+                        <button id="check-blank-button" class="mt-4 bg-purple-500 hover:bg-purple-600 text-white font-bold py-3 px-8 rounded-lg shadow-md">Kiểm tra</button>
+                    </div>`;
+                
+                const input = document.getElementById('blank-input');
+                const checkBtn = document.getElementById('check-blank-button');
+                checkBtn.addEventListener('click', () => this.checkAnswer(input.value.trim().toLowerCase() === wordToReplace.toLowerCase(), input));
+                input.addEventListener('keypress', (e) => { if (e.key === 'Enter') checkBtn.click(); });
+            },
+            
+            renderVerbForms(word) {
+                this.ui.sessionContent.innerHTML = `
+                     <div class="text-center max-w-2xl mx-auto">
+                        <p class="text-xl text-slate-700 mb-4">Điền dạng V2 và V3 của động từ:</p>
+                        <h2 class="text-5xl font-bold text-orange-500 mb-8">${word.v1}</h2>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div>
+                                <label for="v2-input" class="block text-lg font-medium text-slate-600">V2 (quá khứ)</label>
+                                <input id="v2-input" type="text" class="mt-1 text-center text-xl w-full p-3 border-2 border-gray-300 rounded-lg">
+                            </div>
+                             <div>
+                                <label for="v3-input" class="block text-lg font-medium text-slate-600">V3 (quá khứ phân từ)</label>
+                                <input id="v3-input" type="text" class="mt-1 text-center text-xl w-full p-3 border-2 border-gray-300 rounded-lg">
+                            </div>
+                        </div>
+                        <button id="check-verb-button" class="mt-8 bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-lg shadow-md">Kiểm tra</button>
+                    </div>`;
+                
+                const v2Input = document.getElementById('v2-input');
+                const v3Input = document.getElementById('v3-input');
+                document.getElementById('check-verb-button').addEventListener('click', () => 
+                    this.checkAnswer(
+                        v2Input.value.trim().toLowerCase() === word.v2.toLowerCase() && 
+                        v3Input.value.trim().toLowerCase() === word.v3.toLowerCase(), 
+                        [v2Input, v3Input]
+                    )
+                );
+            },
+
+            showResults() {
+                console.log(`🏆 Hiển thị kết quả: ${this.score} / ${this.sessionLength}`);
+                console.log('Từ sai:', this.reviewedWords.length);
+                
+                this.ui.sessionScreen.classList.add('hidden');
+                this.ui.resultsScreen.classList.remove('hidden');
+                this.ui.scoreDisplay.textContent = `${this.score} / ${this.sessionLength}`;
+                
+                let reviewHTML = '<h3 class="text-xl font-bold mb-4">Những từ cần xem lại:</h3>';
+                if (this.reviewedWords.length > 0) {
+                    reviewHTML += '<ul class="space-y-3">';
+                    this.reviewedWords.forEach(item => {
+                        reviewHTML += `<li class="p-3 bg-red-50 rounded-lg border border-red-200">
+                            <span class="font-bold text-red-700">${item.word}</span>: ${item.definition}
+                            <br><span class="text-sm text-gray-600">${item.v1} - ${item.v2} - ${item.v3}</span>
+                        </li>`;
+                    });
+                    reviewHTML += '</ul>';
+                } else {
+                    reviewHTML += '<p class="text-green-600">🎉 Tuyệt vời! Bạn đã trả lời đúng tất cả các câu hỏi.</p>';
+                }
+                this.ui.reviewArea.innerHTML = reviewHTML;
+            },
+
+            // --- LOGIC & ACTIONS ---
+            nextStep() {
+                this.currentWordIndex++;
+                this.renderCurrentStep();
+            },
+            
+            generateOptions(correctWord) {
+                let options = [correctWord];
+                let distractors = this.shuffleArray(
+                    this.vocabulary.filter(w => w.word !== correctWord.word && w.definition !== correctWord.definition)
+                );
+                
+                for (let i = 0; options.length < 4 && i < distractors.length; i++) {
+                    options.push(distractors[i]);
+                }
+                
+                return this.shuffleArray(options);
+            },
+
+            checkAnswer(isCorrect, element) {
+                const currentWord = this.currentSessionWords[this.currentWordIndex];
+                let feedbackHTML = '';
+
+                if (isCorrect) {
+                    this.score++;
+                    feedbackHTML = `<div class="bg-green-100 border-l-4 border-green-500 text-green-700 p-4 rounded-md" role="alert">
+                        <p class="font-bold">✅ Chính xác!</p>
+                    </div>`;
+                    
+                    if (Array.isArray(element)) {
+                        element.forEach(el => el.classList.add('border-green-500', 'ring-2', 'ring-green-300'));
+                    } else if (element.tagName === 'BUTTON') {
+                        element.classList.add('correct');
+                    } else {
+                        element.classList.add('border-green-500', 'ring-2', 'ring-green-300');
+                    }
+                } else {
+                    this.reviewedWords.push(currentWord);
+                    let correctAnswerText = `Đáp án đúng là "${currentWord.word}".`;
+                    
+                    if (this.sessionType === 'verb-forms') {
+                         correctAnswerText = `Đáp án đúng là V2: <b>${currentWord.v2}</b>, V3: <b>${currentWord.v3}</b>.`;
+                    }
+                    
+                    feedbackHTML = `<div class="bg-red-100 border-l-4 border-red-500 text-red-700 p-4 rounded-md" role="alert">
+                        <p class="font-bold">❌ Chưa đúng!</p>
+                        <p>${correctAnswerText}</p>
+                    </div>`;
+                    
+                    if (Array.isArray(element)) {
+                        element.forEach(el => el.classList.add('border-red-500', 'ring-2', 'ring-red-300'));
+                    } else if (element.tagName === 'BUTTON') {
+                        element.classList.add('incorrect');
+                    } else {
+                        element.classList.add('border-red-500', 'ring-2', 'ring-red-300');
+                    }
+                }
+                
+                this.ui.feedbackArea.innerHTML = feedbackHTML;
+                this.ui.nextButton.classList.remove('hidden');
+                this.ui.sessionContent.querySelectorAll('button, input').forEach(el => el.disabled = true);
+            },
+
+            downloadReport() {
+                let reportContent = `BÁO CÁO HỌC TẬP - Luyện tập động từ\n`;
+                reportContent += `Ngày: ${new Date().toLocaleDateString('vi-VN')}\n`;
+                reportContent += `Loại bài: ${this.sessionType}\n`;
+                reportContent += `Điểm số: ${this.score} / ${this.sessionLength}\n`;
+                reportContent += `====================================\n\n`;
+
+                this.currentSessionWords.forEach((word, index) => {
+                    reportContent += `TỪ VỰNG ${index + 1}:\n`;
+                    reportContent += `--------------------\n`;
+                    reportContent += `Từ: ${word.word}\n`;
+                    reportContent += `Dạng động từ: ${word.v1} - ${word.v2} - ${word.v3}\n`;
+                    reportContent += `Định nghĩa (VN): ${word.definition}\n`;
+                    reportContent += `Định nghĩa (EN): ${word.english_definition}\n`;
+                    reportContent += `Ví dụ: ${word.example}\n\n`;
+                });
+
+                const blob = new Blob([reportContent], { type: 'text/plain;charset=utf-8' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `Verbs_Report_${new Date().getTime()}.txt`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            },
+
+            // --- UTILITY ---
+            shuffleArray(array) { 
+                const arr = [...array];
+                for (let i = arr.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [arr[i], arr[j]] = [arr[j], arr[i]];
+                }
+                return arr;
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => app.init());
+    </script>
+</body>
+</html>

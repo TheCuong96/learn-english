@@ -1,0 +1,8042 @@
+[
+  {
+    "word": "approve",
+    "type": "verb",
+    "v1": "approve",
+    "v2": "approved",
+    "v3": "approved",
+    "definition": "phê duyệt",
+    "english_definition": "to officially accept or agree to something",
+    "example": "I approve every day."
+  },
+  {
+    "word": "attend",
+    "type": "verb",
+    "v1": "attend",
+    "v2": "attended",
+    "v3": "attended",
+    "definition": "tham dự",
+    "english_definition": "to go to or be present at an event, meeting, etc.",
+    "example": "I attend every day."
+  },
+  {
+    "word": "believe",
+    "type": "verb",
+    "v1": "believe",
+    "v2": "believed",
+    "v3": "believed",
+    "definition": "tin",
+    "english_definition": "to think that something is true or that someone is telling the truth",
+    "example": "I believe every day."
+  },
+  {
+    "word": "boil",
+    "type": "verb",
+    "v1": "boil",
+    "v2": "boiled",
+    "v3": "boiled",
+    "definition": "sôi/đun sôi",
+    "english_definition": "to heat a liquid until it reaches the temperature at which it bubbles and turns to steam",
+    "example": "I boil every day."
+  },
+  {
+    "word": "buy",
+    "type": "verb",
+    "v1": "buy",
+    "v2": "bought",
+    "v3": "bought",
+    "definition": "mua",
+    "english_definition": "to get something by paying money for it",
+    "example": "I buy groceries on Saturday."
+  },
+  {
+    "word": "call",
+    "type": "verb",
+    "v1": "call",
+    "v2": "called",
+    "v3": "called",
+    "definition": "gọi",
+    "english_definition": "to use the phone to talk to someone",
+    "example": "I call my parents on Sundays."
+  },
+  {
+    "word": "check",
+    "type": "verb",
+    "v1": "check",
+    "v2": "checked",
+    "v3": "checked",
+    "definition": "kiểm tra",
+    "english_definition": "to make certain that something is correct, safe, or satisfactory",
+    "example": "I check every day."
+  },
+  {
+    "word": "close",
+    "type": "verb",
+    "v1": "close",
+    "v2": "closed",
+    "v3": "closed",
+    "definition": "đóng",
+    "english_definition": "to shut something",
+    "example": "I close every day."
+  },
+  {
+    "word": "contain",
+    "type": "verb",
+    "v1": "contain",
+    "v2": "contained",
+    "v3": "contained",
+    "definition": "chứa",
+    "english_definition": "to have something inside or include something as a part",
+    "example": "I contain every day."
+  },
+  {
+    "word": "coordinate",
+    "type": "verb",
+    "v1": "coordinate",
+    "v2": "coordinated",
+    "v3": "coordinated",
+    "definition": "điều phối",
+    "english_definition": "to organize the different parts of an activity and the people involved",
+    "example": "I coordinate every day."
+  },
+  {
+    "word": "cook",
+    "type": "verb",
+    "v1": "cook",
+    "v2": "cooked",
+    "v3": "cooked",
+    "definition": "nấu ăn",
+    "english_definition": "to prepare food for eating by using heat",
+    "example": "I cook dinner."
+  },
+  {
+    "word": "cost",
+    "type": "verb",
+    "v1": "cost",
+    "v2": "cost",
+    "v3": "cost",
+    "definition": "có giá",
+    "english_definition": "to have a particular price",
+    "example": "I cost every day."
+  },
+  {
+    "word": "depart",
+    "type": "verb",
+    "v1": "depart",
+    "v2": "departed",
+    "v3": "departed",
+    "definition": "khởi hành",
+    "english_definition": "to leave, especially to start a journey",
+    "example": "I depart every day."
+  },
+  {
+    "word": "deliver",
+    "type": "verb",
+    "v1": "deliver",
+    "v2": "delivered",
+    "v3": "delivered",
+    "definition": "giao (hàng)",
+    "english_definition": "to take something to a person or place",
+    "example": "I deliver every day."
+  },
+  {
+    "word": "disassemble",
+    "type": "verb",
+    "v1": "disassemble",
+    "v2": "disassembled",
+    "v3": "disassembled",
+    "definition": "tháo rời/tháo lắp",
+    "english_definition": "to take something apart",
+    "example": "I disassemble the device."
+  },
+  {
+    "word": "do",
+    "type": "verb",
+    "v1": "do",
+    "v2": "did",
+    "v3": "done",
+    "definition": "làm",
+    "english_definition": "to perform an action or activity",
+    "example": "I do it every day."
+  },
+  {
+    "word": "drink",
+    "type": "verb",
+    "v1": "drink",
+    "v2": "drank",
+    "v3": "drunk",
+    "definition": "uống",
+    "english_definition": "to take liquid into your body through your mouth",
+    "example": "I drink water all day."
+  },
+  {
+    "word": "eat",
+    "type": "verb",
+    "v1": "eat",
+    "v2": "ate",
+    "v3": "eaten",
+    "definition": "ăn",
+    "english_definition": "to put food into your mouth, chew it, and swallow it",
+    "example": "I eat breakfast at seven."
+  },
+  {
+    "word": "expire",
+    "type": "verb",
+    "v1": "expire",
+    "v2": "expired",
+    "v3": "expired",
+    "definition": "hết hạn",
+    "english_definition": "to come to an end or no longer be valid",
+    "example": "I expire every day."
+  },
+  {
+    "word": "finish",
+    "type": "verb",
+    "v1": "finish",
+    "v2": "finished",
+    "v3": "finished",
+    "definition": "hoàn thành",
+    "english_definition": "to complete or bring to an end",
+    "example": "I finish every day."
+  },
+  {
+    "word": "finalize",
+    "type": "verb",
+    "v1": "finalize",
+    "v2": "finalized",
+    "v3": "finalized",
+    "definition": "hoàn tất/chốt",
+    "english_definition": "to make a final decision about something",
+    "example": "I finalize the plan today."
+  },
+  {
+    "word": "give",
+    "type": "verb",
+    "v1": "give",
+    "v2": "gave",
+    "v3": "given",
+    "definition": "đưa/cho",
+    "english_definition": "to offer something to someone",
+    "example": "I give her a gift."
+  },
+  {
+    "word": "go",
+    "type": "verb",
+    "v1": "go",
+    "v2": "went",
+    "v3": "gone",
+    "definition": "đi",
+    "english_definition": "to move from one place to another",
+    "example": "I go to work every day."
+  },
+  {
+    "word": "have",
+    "type": "verb",
+    "v1": "have",
+    "v2": "had",
+    "v3": "had",
+    "definition": "có; (3rd: has)",
+    "english_definition": "to own, possess, or hold something",
+    "example": "I have a meeting at nine."
+  },
+  {
+    "word": "help",
+    "type": "verb",
+    "v1": "help",
+    "v2": "helped",
+    "v3": "helped",
+    "definition": "giúp",
+    "english_definition": "to make it easier for someone to do something",
+    "example": "I help my friend."
+  },
+  {
+    "word": "join",
+    "type": "verb",
+    "v1": "join",
+    "v2": "joined",
+    "v3": "joined",
+    "definition": "tham gia",
+    "english_definition": "to become a member of an organization or group",
+    "example": "I join every day."
+  },
+  {
+    "word": "leave",
+    "type": "verb",
+    "v1": "leave",
+    "v2": "left",
+    "v3": "left",
+    "definition": "rời đi",
+    "english_definition": "to go away from a place or person",
+    "example": "I leave at five p.m."
+  },
+  {
+    "word": "like",
+    "type": "verb",
+    "v1": "like",
+    "v2": "liked",
+    "v3": "liked",
+    "definition": "thích",
+    "english_definition": "to enjoy or approve of something",
+    "example": "I like this movie."
+  },
+  {
+    "word": "live",
+    "type": "verb",
+    "v1": "live",
+    "v2": "lived",
+    "v3": "lived",
+    "definition": "sống",
+    "english_definition": "to have your home somewhere",
+    "example": "I live in Hanoi."
+  },
+  {
+    "word": "manage",
+    "type": "verb",
+    "v1": "manage",
+    "v2": "managed",
+    "v3": "managed",
+    "definition": "quản lý",
+    "english_definition": "to be in charge of or control something",
+    "example": "I manage every day."
+  },
+  {
+    "word": "matter",
+    "type": "verb",
+    "v1": "matter",
+    "v2": "mattered",
+    "v3": "mattered",
+    "definition": "quan trọng",
+    "english_definition": "to be important or have an effect",
+    "example": "I matter every day."
+  },
+  {
+    "word": "meet",
+    "type": "verb",
+    "v1": "meet",
+    "v2": "met",
+    "v3": "met",
+    "definition": "họp/gặp",
+    "english_definition": "to see and talk to someone for the first time or after not seeing them",
+    "example": "I meet new people."
+  },
+  {
+    "word": "need",
+    "type": "verb",
+    "v1": "need",
+    "v2": "needed",
+    "v3": "needed",
+    "definition": "cần",
+    "english_definition": "to require something or have to have something",
+    "example": "I need more time."
+  },
+  {
+    "word": "offer",
+    "type": "verb",
+    "v1": "offer",
+    "v2": "offered",
+    "v3": "offered",
+    "definition": "cung cấp/đề nghị",
+    "english_definition": "to give something to someone or provide something",
+    "example": "I offer every day."
+  },
+  {
+    "word": "open",
+    "type": "verb",
+    "v1": "open",
+    "v2": "opened",
+    "v3": "opened",
+    "definition": "mở",
+    "english_definition": "to move something so that it is no longer closed",
+    "example": "I open the window."
+  },
+  {
+    "word": "order",
+    "type": "verb",
+    "v1": "order",
+    "v2": "ordered",
+    "v3": "ordered",
+    "definition": "đặt (mua)",
+    "english_definition": "to ask for something to be made, supplied, or delivered",
+    "example": "I order food for lunch."
+  },
+  {
+    "word": "ship",
+    "type": "verb",
+    "v1": "ship",
+    "v2": "shipped",
+    "v3": "shipped",
+    "definition": "giao hàng/vận chuyển",
+    "english_definition": "to send goods to someone",
+    "example": "We ship orders every day."
+  },
+  {
+    "word": "organize",
+    "type": "verb",
+    "v1": "organize",
+    "v2": "organized",
+    "v3": "organized",
+    "definition": "tổ chức/sắp xếp",
+    "english_definition": "to plan or arrange something",
+    "example": "I organize my desk every week."
+  },
+  {
+    "word": "own",
+    "type": "verb",
+    "v1": "own",
+    "v2": "owned",
+    "v3": "owned",
+    "definition": "sở hữu",
+    "english_definition": "to have something that legally belongs to you",
+    "example": "I own a small shop."
+  },
+  {
+    "word": "play",
+    "type": "verb",
+    "v1": "play",
+    "v2": "played",
+    "v3": "played",
+    "definition": "chơi",
+    "english_definition": "to take part in a game or sport",
+    "example": "I play soccer on Sundays."
+  },
+  {
+    "word": "prefer",
+    "type": "verb",
+    "v1": "prefer",
+    "v2": "preferred",
+    "v3": "preferred",
+    "definition": "thích hơn",
+    "english_definition": "to like one thing or person better than another",
+    "example": "I prefer tea to coffee."
+  },
+  {
+    "word": "rain",
+    "type": "verb",
+    "v1": "rain",
+    "v2": "rained",
+    "v3": "rained",
+    "definition": "mưa",
+    "english_definition": "to fall as drops of water from clouds",
+    "example": "It rains a lot here."
+  },
+  {
+    "word": "read",
+    "type": "verb",
+    "v1": "read",
+    "v2": "read",
+    "v3": "read",
+    "definition": "đọc",
+    "english_definition": "to look at and understand words in a letter, book, newspaper, etc.",
+    "example": "I read books at night."
+  },
+  {
+    "word": "remember",
+    "type": "verb",
+    "v1": "remember",
+    "v2": "remembered",
+    "v3": "remembered",
+    "definition": "nhớ",
+    "english_definition": "to be able to bring back a piece of information into your mind",
+    "example": "I remember your name."
+  },
+  {
+    "word": "rise",
+    "type": "verb",
+    "v1": "rise",
+    "v2": "rose",
+    "v3": "risen",
+    "definition": "mọc/tăng",
+    "english_definition": "to move upwards or increase",
+    "example": "I rise every day."
+  },
+  {
+    "word": "run",
+    "type": "verb",
+    "v1": "run",
+    "v2": "ran",
+    "v3": "run",
+    "definition": "vận hành/chạy",
+    "english_definition": "to move on your feet at a faster speed than walking",
+    "example": "I run every morning."
+  },
+  {
+    "word": "serve",
+    "type": "verb",
+    "v1": "serve",
+    "v2": "served",
+    "v3": "served",
+    "definition": "phục vụ",
+    "english_definition": "to provide food or drinks to someone",
+    "example": "They serve breakfast all day."
+  },
+  {
+    "word": "speak",
+    "type": "verb",
+    "v1": "speak",
+    "v2": "spoke",
+    "v3": "spoken",
+    "definition": "nói",
+    "english_definition": "to say words, or to talk to someone",
+    "example": "I speak every day."
+  },
+  {
+    "word": "spoil",
+    "type": "verb",
+    "v1": "spoil",
+    "v2": "spoiled",
+    "v3": "spoiled",
+    "definition": "hỏng (đồ ăn)",
+    "english_definition": "to become bad or go bad, especially food",
+    "example": "I spoil every day."
+  },
+  {
+    "word": "start",
+    "type": "verb",
+    "v1": "start",
+    "v2": "started",
+    "v3": "started",
+    "definition": "bắt đầu",
+    "english_definition": "to begin doing something",
+    "example": "I start work at eight."
+  },
+  {
+    "word": "stay",
+    "type": "verb",
+    "v1": "stay",
+    "v2": "stayed",
+    "v3": "stayed",
+    "definition": "ở; (stay open: mở muộn)",
+    "english_definition": "to continue to be in a place",
+    "example": "I stay at home on Sundays."
+  },
+  {
+    "word": "study",
+    "type": "verb",
+    "v1": "study",
+    "v2": "studied",
+    "v3": "studied",
+    "definition": "học",
+    "english_definition": "to learn about a subject",
+    "example": "I study English every day."
+  },
+  {
+    "word": "take",
+    "type": "verb",
+    "v1": "take",
+    "v2": "took",
+    "v3": "taken",
+    "definition": "lấy; đi bằng; mất (thời gian)",
+    "english_definition": "to move or go with something or someone from one place to another",
+    "example": "I take the bus to work."
+  },
+  {
+    "word": "teach",
+    "type": "verb",
+    "v1": "teach",
+    "v2": "taught",
+    "v3": "taught",
+    "definition": "dạy",
+    "english_definition": "to give someone knowledge or to instruct someone",
+    "example": "I teach math."
+  },
+  {
+    "word": "travel",
+    "type": "verb",
+    "v1": "travel",
+    "v2": "traveled",
+    "v3": "traveled",
+    "definition": "đi du lịch",
+    "english_definition": "to make a journey",
+    "example": "I travel by train."
+  },
+  {
+    "word": "understand",
+    "type": "verb",
+    "v1": "understand",
+    "v2": "understood",
+    "v3": "understood",
+    "definition": "hiểu",
+    "english_definition": "to know the meaning of something",
+    "example": "I understand the rules."
+  },
+  {
+    "word": "use",
+    "type": "verb",
+    "v1": "use",
+    "v2": "used",
+    "v3": "used",
+    "definition": "dùng/sử dụng",
+    "english_definition": "to do something with an object, machine, person, method, etc.",
+    "example": "I use this app daily."
+  },
+  {
+    "word": "visit",
+    "type": "verb",
+    "v1": "visit",
+    "v2": "visited",
+    "v3": "visited",
+    "definition": "thăm",
+    "english_definition": "to go to see a person or place",
+    "example": "I visit my grandparents."
+  },
+  {
+    "word": "watch",
+    "type": "verb",
+    "v1": "watch",
+    "v2": "watched",
+    "v3": "watched",
+    "definition": "xem",
+    "english_definition": "to look at something for a period of time",
+    "example": "I watch TV at night."
+  },
+  {
+    "word": "weigh",
+    "type": "verb",
+    "v1": "weigh",
+    "v2": "weighed",
+    "v3": "weighed",
+    "definition": "nặng/cân nặng",
+    "english_definition": "to have a particular weight",
+    "example": "This box weighs five kilos."
+  },
+  {
+    "word": "work",
+    "type": "verb",
+    "v1": "work",
+    "v2": "worked",
+    "v3": "worked",
+    "definition": "làm việc",
+    "english_definition": "to do a job, especially the job you do to earn money",
+    "example": "I work from home."
+  },
+  {
+    "word": "be",
+    "type": "verb",
+    "v1": "be",
+    "v2": "was/were",
+    "v3": "been",
+    "definition": "thì/là/ở",
+    "english_definition": "to exist or live",
+    "example": "I am happy today."
+  },
+  {
+    "word": "brush",
+    "type": "verb",
+    "v1": "brush",
+    "v2": "brushed",
+    "v3": "brushed",
+    "definition": "đánh (răng)",
+    "english_definition": "to clean something with a brush",
+    "example": "I brush my teeth."
+  },
+  {
+    "word": "exercise",
+    "type": "verb",
+    "v1": "exercise",
+    "v2": "exercised",
+    "v3": "exercised",
+    "definition": "tập thể dục",
+    "english_definition": "to do physical activity to make your body strong and healthy",
+    "example": "I exercise every day."
+  },
+  {
+    "word": "get up",
+    "type": "verb",
+    "v1": "get up",
+    "v2": "got up",
+    "v3": "gotten up",
+    "definition": "thức dậy",
+    "english_definition": "to wake and get out of bed",
+    "example": "I get up at six."
+  },
+  {
+    "word": "listen",
+    "type": "verb",
+    "v1": "listen",
+    "v2": "listened",
+    "v3": "listened",
+    "definition": "nghe",
+    "english_definition": "to give attention to someone or something in order to hear them",
+    "example": "I listen to music."
+  },
+  {
+    "word": "sleep",
+    "type": "verb",
+    "v1": "sleep",
+    "v2": "slept",
+    "v3": "slept",
+    "definition": "ngủ",
+    "english_definition": "to be in the state of rest when your eyes are closed",
+    "example": "I sleep eight hours."
+  },
+  {
+    "word": "research",
+    "type": "verb",
+    "v1": "research",
+    "v2": "researched",
+    "v3": "researched",
+    "definition": "nghiên cứu",
+    "english_definition": "to study something in detail, especially to discover new information",
+    "example": "I research new topics online."
+  },
+  {
+    "word": "recycle",
+    "type": "verb",
+    "v1": "recycle",
+    "v2": "recycled",
+    "v3": "recycled",
+    "definition": "tái chế",
+    "english_definition": "to collect and treat waste materials so they can be used again",
+    "example": "I recycle plastic bottles."
+  },
+  {
+    "word": "diagnose",
+    "type": "verb",
+    "v1": "diagnose",
+    "v2": "diagnosed",
+    "v3": "diagnosed",
+    "definition": "chẩn đoán",
+    "english_definition": "to recognize and name an illness by examining someone",
+    "example": "Doctors diagnose illnesses."
+  },
+  {
+    "word": "negotiate",
+    "type": "verb",
+    "v1": "negotiate",
+    "v2": "negotiated",
+    "v3": "negotiated",
+    "definition": "đàm phán",
+    "english_definition": "to have formal discussions to reach an agreement",
+    "example": "We negotiate prices."
+  },
+  {
+    "word": "invest",
+    "type": "verb",
+    "v1": "invest",
+    "v2": "invested",
+    "v3": "invested",
+    "definition": "đầu tư",
+    "english_definition": "to put money into something to make a profit",
+    "example": "I invest in stocks."
+  },
+  {
+    "word": "compose",
+    "type": "verb",
+    "v1": "compose",
+    "v2": "composed",
+    "v3": "composed",
+    "definition": "sáng tác/soạn",
+    "english_definition": "to write music or create something",
+    "example": "She composes music."
+  },
+  {
+    "word": "rescue",
+    "type": "verb",
+    "v1": "rescue",
+    "v2": "rescued",
+    "v3": "rescued",
+    "definition": "cứu hộ/cứu",
+    "english_definition": "to save someone from a dangerous situation",
+    "example": "They rescue animals."
+  },
+  {
+    "word": "broadcast",
+    "type": "verb",
+    "v1": "broadcast",
+    "v2": "broadcast",
+    "v3": "broadcast",
+    "definition": "phát sóng",
+    "english_definition": "to send out a program on television or radio",
+    "example": "They broadcast the news at six."
+  },
+  {
+    "word": "discover",
+    "type": "verb",
+    "v1": "discover",
+    "v2": "discovered",
+    "v3": "discovered",
+    "definition": "khám phá",
+    "english_definition": "to find something for the first time",
+    "example": "Scientists discover new species."
+  },
+  {
+    "word": "conserve",
+    "type": "verb",
+    "v1": "conserve",
+    "v2": "conserved",
+    "v3": "conserved",
+    "definition": "bảo tồn",
+    "english_definition": "to keep and protect something from damage or change",
+    "example": "We conserve water."
+  },
+  {
+    "word": "schedule",
+    "type": "verb",
+    "v1": "schedule",
+    "v2": "scheduled",
+    "v3": "scheduled",
+    "definition": "lên lịch",
+    "english_definition": "to arrange that something will happen at a particular time",
+    "example": "I schedule my tasks."
+  },
+  {
+    "word": "enroll",
+    "type": "verb",
+    "v1": "enroll",
+    "v2": "enrolled",
+    "v3": "enrolled",
+    "definition": "ghi danh/đăng ký",
+    "english_definition": "to put yourself or someone else on an official list",
+    "example": "I enroll in a course."
+  },
+  {
+    "word": "manufacture",
+    "type": "verb",
+    "v1": "manufacture",
+    "v2": "manufactured",
+    "v3": "manufactured",
+    "definition": "sản xuất/chế tạo",
+    "english_definition": "to produce goods in large quantities using machines",
+    "example": "They manufacture cars."
+  },
+  {
+    "word": "donate",
+    "type": "verb",
+    "v1": "donate",
+    "v2": "donated",
+    "v3": "donated",
+    "definition": "quyên góp/hiến tặng",
+    "english_definition": "to give money or goods to help a person or organization",
+    "example": "We donate clothes."
+  },
+  {
+    "word": "forecast",
+    "type": "verb",
+    "v1": "forecast",
+    "v2": "forecast",
+    "v3": "forecast",
+    "definition": "dự báo",
+    "english_definition": "to say what you think will happen in the future",
+    "example": "They forecast rain tomorrow."
+  },
+  {
+    "word": "say",
+    "type": "verb",
+    "v1": "say",
+    "v2": "said",
+    "v3": "said",
+    "definition": "nói",
+    "english_definition": "to speak words",
+    "example": "I say every day."
+  },
+  {
+    "word": "get",
+    "type": "verb",
+    "v1": "get",
+    "v2": "got",
+    "v3": "gotten",
+    "definition": "nhận/được",
+    "english_definition": "to receive, obtain or buy something",
+    "example": "I get up at six."
+  },
+  {
+    "word": "make",
+    "type": "verb",
+    "v1": "make",
+    "v2": "made",
+    "v3": "made",
+    "definition": "làm/tạo",
+    "english_definition": "to produce or create something",
+    "example": "I make breakfast every morning."
+  },
+  {
+    "word": "see",
+    "type": "verb",
+    "v1": "see",
+    "v2": "saw",
+    "v3": "seen",
+    "definition": "nhìn thấy",
+    "english_definition": "to notice or become aware of something using your eyes",
+    "example": "I see my friends on weekends."
+  },
+  {
+    "word": "come",
+    "type": "verb",
+    "v1": "come",
+    "v2": "came",
+    "v3": "come",
+    "definition": "đến/đi đến",
+    "english_definition": "to move toward or arrive at a place",
+    "example": "I come home late."
+  },
+  {
+    "word": "think",
+    "type": "verb",
+    "v1": "think",
+    "v2": "thought",
+    "v3": "thought",
+    "definition": "nghĩ",
+    "english_definition": "to have an opinion or believe something",
+    "example": "I think about it often."
+  },
+  {
+    "word": "look",
+    "type": "verb",
+    "v1": "look",
+    "v2": "looked",
+    "v3": "looked",
+    "definition": "nhìn/tìm",
+    "english_definition": "to direct your eyes toward something",
+    "example": "I look for my keys."
+  },
+  {
+    "word": "find",
+    "type": "verb",
+    "v1": "find",
+    "v2": "found",
+    "v3": "found",
+    "definition": "tìm thấy",
+    "english_definition": "to discover something or someone",
+    "example": "I find it useful."
+  },
+  {
+    "word": "want",
+    "type": "verb",
+    "v1": "want",
+    "v2": "wanted",
+    "v3": "wanted",
+    "definition": "muốn",
+    "english_definition": "to desire or wish for something",
+    "example": "I want a new phone."
+  },
+  {
+    "word": "tell",
+    "type": "verb",
+    "v1": "tell",
+    "v2": "told",
+    "v3": "told",
+    "definition": "kể/nói với",
+    "english_definition": "to give information to someone",
+    "example": "I tell the truth."
+  },
+  {
+    "word": "ask",
+    "type": "verb",
+    "v1": "ask",
+    "v2": "asked",
+    "v3": "asked",
+    "definition": "hỏi/yêu cầu",
+    "english_definition": "to say or write something as a question",
+    "example": "I ask a lot of questions."
+  },
+  {
+    "word": "put",
+    "type": "verb",
+    "v1": "put",
+    "v2": "put",
+    "v3": "put",
+    "definition": "đặt/để",
+    "english_definition": "to move something to a place or position",
+    "example": "I put the keys on the table."
+  },
+  {
+    "word": "keep",
+    "type": "verb",
+    "v1": "keep",
+    "v2": "kept",
+    "v3": "kept",
+    "definition": "giữ",
+    "english_definition": "to continue to have something",
+    "example": "I keep my room clean."
+  },
+  {
+    "word": "know",
+    "type": "verb",
+    "v1": "know",
+    "v2": "knew",
+    "v3": "known",
+    "definition": "biết",
+    "english_definition": "to have information in your mind",
+    "example": "I know every day."
+  },
+  {
+    "word": "begin",
+    "type": "verb",
+    "v1": "begin",
+    "v2": "began",
+    "v3": "begun",
+    "definition": "bắt đầu",
+    "english_definition": "to start to happen or exist",
+    "example": "I begin work at nine."
+  },
+  {
+    "word": "turn",
+    "type": "verb",
+    "v1": "turn",
+    "v2": "turned",
+    "v3": "turned",
+    "definition": "xoay/bật/tắt",
+    "english_definition": "to move or make something move in a circle",
+    "example": "I turn every day."
+  },
+  {
+    "word": "show",
+    "type": "verb",
+    "v1": "show",
+    "v2": "showed",
+    "v3": "shown",
+    "definition": "cho xem",
+    "english_definition": "to let someone see something",
+    "example": "I show him the picture."
+  },
+  {
+    "word": "hear",
+    "type": "verb",
+    "v1": "hear",
+    "v2": "heard",
+    "v3": "heard",
+    "definition": "nghe thấy",
+    "english_definition": "to be aware of sounds with your ears",
+    "example": "I hear a noise."
+  },
+  {
+    "word": "move",
+    "type": "verb",
+    "v1": "move",
+    "v2": "moved",
+    "v3": "moved",
+    "definition": "di chuyển",
+    "english_definition": "to change position or go from one place to another",
+    "example": "I move the chair."
+  },
+  {
+    "word": "bring",
+    "type": "verb",
+    "v1": "bring",
+    "v2": "brought",
+    "v3": "brought",
+    "definition": "mang/đem",
+    "english_definition": "to take something or someone with you to a place",
+    "example": "I bring lunch to work."
+  },
+  {
+    "word": "write",
+    "type": "verb",
+    "v1": "write",
+    "v2": "wrote",
+    "v3": "written",
+    "definition": "viết",
+    "english_definition": "to make letters or numbers on a surface with a pen or pencil",
+    "example": "I write emails every day."
+  },
+  {
+    "word": "sit",
+    "type": "verb",
+    "v1": "sit",
+    "v2": "sat",
+    "v3": "sat",
+    "definition": "ngồi",
+    "english_definition": "to be in a position with your bottom on a chair and your back upright",
+    "example": "I sit near the window."
+  },
+  {
+    "word": "stand",
+    "type": "verb",
+    "v1": "stand",
+    "v2": "stood",
+    "v3": "stood",
+    "definition": "đứng",
+    "english_definition": "to be in a vertical position on your feet",
+    "example": "I stand in line."
+  },
+  {
+    "word": "lose",
+    "type": "verb",
+    "v1": "lose",
+    "v2": "lost",
+    "v3": "lost",
+    "definition": "mất/đánh mất",
+    "english_definition": "to not be able to find something",
+    "example": "I lose my keys sometimes."
+  },
+  {
+    "word": "pay",
+    "type": "verb",
+    "v1": "pay",
+    "v2": "paid",
+    "v3": "paid",
+    "definition": "trả (tiền)",
+    "english_definition": "to give money to someone for something",
+    "example": "I pay by card."
+  },
+  {
+    "word": "pass",
+    "type": "verb",
+    "v1": "pass",
+    "v2": "passed",
+    "v3": "passed",
+    "definition": "vượt qua/chuyền",
+    "english_definition": "to go past something or someone",
+    "example": "I pass the exam."
+  },
+  {
+    "word": "post",
+    "type": "verb",
+    "v1": "post",
+    "v2": "posted",
+    "v3": "posted",
+    "definition": "đăng/gửi",
+    "english_definition": "to send or put information on the internet",
+    "example": "I post photos online."
+  },
+  {
+    "word": "include",
+    "type": "verb",
+    "v1": "include",
+    "v2": "included",
+    "v3": "included",
+    "definition": "bao gồm",
+    "english_definition": "to contain something as a part",
+    "example": "I include every day."
+  },
+  {
+    "word": "continue",
+    "type": "verb",
+    "v1": "continue",
+    "v2": "continued",
+    "v3": "continued",
+    "definition": "tiếp tục",
+    "english_definition": "to keep happening or doing something",
+    "example": "I continue every day."
+  },
+  {
+    "word": "set",
+    "type": "verb",
+    "v1": "set",
+    "v2": "set",
+    "v3": "set",
+    "definition": "đặt/thiết lập",
+    "english_definition": "to put something in a particular place or position",
+    "example": "I set every day."
+  },
+  {
+    "word": "learn",
+    "type": "verb",
+    "v1": "learn",
+    "v2": "learned",
+    "v3": "learned",
+    "definition": "học",
+    "english_definition": "to get knowledge or skill in a subject",
+    "example": "I learn English online."
+  },
+  {
+    "word": "change",
+    "type": "verb",
+    "v1": "change",
+    "v2": "changed",
+    "v3": "changed",
+    "definition": "thay đổi",
+    "english_definition": "to become different or make something different",
+    "example": "I change my plan."
+  },
+  {
+    "word": "lead",
+    "type": "verb",
+    "v1": "lead",
+    "v2": "led",
+    "v3": "led",
+    "definition": "dẫn dắt",
+    "english_definition": "to show the way to a group of people",
+    "example": "I lead every day."
+  },
+  {
+    "word": "follow",
+    "type": "verb",
+    "v1": "follow",
+    "v2": "followed",
+    "v3": "followed",
+    "definition": "theo dõi/theo sau",
+    "english_definition": "to move behind someone or something",
+    "example": "I follow the instructions."
+  },
+  {
+    "word": "stop",
+    "type": "verb",
+    "v1": "stop",
+    "v2": "stopped",
+    "v3": "stopped",
+    "definition": "dừng",
+    "english_definition": "to finish doing something or not continue",
+    "example": "I stop the car."
+  },
+  {
+    "word": "create",
+    "type": "verb",
+    "v1": "create",
+    "v2": "created",
+    "v3": "created",
+    "definition": "tạo ra",
+    "english_definition": "to make something new",
+    "example": "I create every day."
+  },
+  {
+    "word": "complete",
+    "type": "verb",
+    "v1": "complete",
+    "v2": "completed",
+    "v3": "completed",
+    "definition": "hoàn thành",
+    "english_definition": "to finish doing something",
+    "example": "I complete my tasks on time."
+  },
+  {
+    "word": "allow",
+    "type": "verb",
+    "v1": "allow",
+    "v2": "allowed",
+    "v3": "allowed",
+    "definition": "cho phép",
+    "english_definition": "to let someone do something or let something happen",
+    "example": "They allow pets here."
+  },
+  {
+    "word": "add",
+    "type": "verb",
+    "v1": "add",
+    "v2": "added",
+    "v3": "added",
+    "definition": "thêm",
+    "english_definition": "to put something with something else",
+    "example": "I add sugar to my coffee."
+  },
+  {
+    "word": "spend",
+    "type": "verb",
+    "v1": "spend",
+    "v2": "spent",
+    "v3": "spent",
+    "definition": "dành/tiêu (thời gian/tiền)",
+    "english_definition": "to use money to pay for something",
+    "example": "I spend time with family."
+  },
+  {
+    "word": "grow",
+    "type": "verb",
+    "v1": "grow",
+    "v2": "grew",
+    "v3": "grown",
+    "definition": "phát triển/lớn lên",
+    "english_definition": "to increase in size or develop",
+    "example": "Plants grow fast."
+  },
+  {
+    "word": "walk",
+    "type": "verb",
+    "v1": "walk",
+    "v2": "walked",
+    "v3": "walked",
+    "definition": "đi bộ",
+    "english_definition": "to move along on foot",
+    "example": "I walk to school."
+  },
+  {
+    "word": "win",
+    "type": "verb",
+    "v1": "win",
+    "v2": "won",
+    "v3": "won",
+    "definition": "thắng",
+    "english_definition": "to achieve first position or succeed in a competition",
+    "example": "We win the game."
+  },
+  {
+    "word": "love",
+    "type": "verb",
+    "v1": "love",
+    "v2": "loved",
+    "v3": "loved",
+    "definition": "yêu/thích",
+    "english_definition": "to love",
+    "example": "I love this song."
+  },
+  {
+    "word": "consider",
+    "type": "verb",
+    "v1": "consider",
+    "v2": "considered",
+    "v3": "considered",
+    "definition": "cân nhắc/xem xét",
+    "english_definition": "to think about something carefully",
+    "example": "I consider every day."
+  },
+  {
+    "word": "appear",
+    "type": "verb",
+    "v1": "appear",
+    "v2": "appeared",
+    "v3": "appeared",
+    "definition": "xuất hiện",
+    "english_definition": "to become visible or start to exist",
+    "example": "I appear every day."
+  },
+  {
+    "word": "wait",
+    "type": "verb",
+    "v1": "wait",
+    "v2": "waited",
+    "v3": "waited",
+    "definition": "chờ/đợi",
+    "english_definition": "to stay in a place until someone comes or something happens",
+    "example": "I wait for the bus."
+  },
+  {
+    "word": "send",
+    "type": "verb",
+    "v1": "send",
+    "v2": "sent",
+    "v3": "sent",
+    "definition": "gửi",
+    "english_definition": "to cause something to go from one place to another",
+    "example": "I send an email."
+  },
+  {
+    "word": "expect",
+    "type": "verb",
+    "v1": "expect",
+    "v2": "expected",
+    "v3": "expected",
+    "definition": "mong đợi",
+    "english_definition": "to think that something will happen",
+    "example": "I expect every day."
+  },
+  {
+    "word": "build",
+    "type": "verb",
+    "v1": "build",
+    "v2": "built",
+    "v3": "built",
+    "definition": "xây dựng",
+    "english_definition": "to make something by putting materials together",
+    "example": "They build a house."
+  },
+  {
+    "word": "fall",
+    "type": "verb",
+    "v1": "fall",
+    "v2": "fell",
+    "v3": "fallen",
+    "definition": "ngã/rơi",
+    "english_definition": "to move down toward the ground",
+    "example": "Leaves fall in autumn."
+  },
+  {
+    "word": "cut",
+    "type": "verb",
+    "v1": "cut",
+    "v2": "cut",
+    "v3": "cut",
+    "definition": "cắt",
+    "english_definition": "to use a knife or scissors to divide something",
+    "example": "I cut the paper."
+  },
+  {
+    "word": "reach",
+    "type": "verb",
+    "v1": "reach",
+    "v2": "reached",
+    "v3": "reached",
+    "definition": "đến/chạm tới",
+    "english_definition": "to arrive at a place",
+    "example": "I reach the station at ten."
+  },
+  {
+    "word": "remain",
+    "type": "verb",
+    "v1": "remain",
+    "v2": "remained",
+    "v3": "remained",
+    "definition": "vẫn/duy trì",
+    "english_definition": "to stay in the same place or condition",
+    "example": "Prices remain high."
+  },
+  {
+    "word": "clean",
+    "type": "verb",
+    "v1": "clean",
+    "v2": "cleaned",
+    "v3": "cleaned",
+    "definition": "dọn dẹp",
+    "english_definition": "to remove dirt from something",
+    "example": "I clean my room."
+  },
+  {
+    "word": "wash",
+    "type": "verb",
+    "v1": "wash",
+    "v2": "washed",
+    "v3": "washed",
+    "definition": "rửa/giặt",
+    "english_definition": "to clean something using water",
+    "example": "I wash the dishes."
+  },
+  {
+    "word": "drive",
+    "type": "verb",
+    "v1": "drive",
+    "v2": "drove",
+    "v3": "driven",
+    "definition": "lái (xe)",
+    "english_definition": "to make a car move and control where it goes",
+    "example": "I drive to work."
+  },
+  {
+    "word": "ride",
+    "type": "verb",
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden",
+    "definition": "đi (xe đạp/xe máy/ngựa)",
+    "english_definition": "to sit on a horse, bicycle, or motorcycle and control it",
+    "example": "I ride a bike."
+  },
+  {
+    "word": "shop",
+    "type": "verb",
+    "v1": "shop",
+    "v2": "shopped",
+    "v3": "shopped",
+    "definition": "mua sắm",
+    "english_definition": "to buy things from shops",
+    "example": "I shop online."
+  },
+  {
+    "word": "fix",
+    "type": "verb",
+    "v1": "fix",
+    "v2": "fixed",
+    "v3": "fixed",
+    "definition": "sửa/chỉnh",
+    "english_definition": "to repair something",
+    "example": "I fix the computer."
+  },
+  {
+    "word": "repair",
+    "type": "verb",
+    "v1": "repair",
+    "v2": "repaired",
+    "v3": "repaired",
+    "definition": "sửa chữa",
+    "english_definition": "to put something old or damaged back into good condition",
+    "example": "I repair my bike."
+  },
+  {
+    "word": "charge",
+    "type": "verb",
+    "v1": "charge",
+    "v2": "charged",
+    "v3": "charged",
+    "definition": "sạc (pin)",
+    "english_definition": "to put electricity into something such as a battery",
+    "example": "I charge my phone."
+  },
+  {
+    "word": "carry",
+    "type": "verb",
+    "v1": "carry",
+    "v2": "carried",
+    "v3": "carried",
+    "definition": "mang/vác",
+    "english_definition": "to hold something and take it somewhere",
+    "example": "I carry a heavy bag."
+  },
+  {
+    "word": "wear",
+    "type": "verb",
+    "v1": "wear",
+    "v2": "wore",
+    "v3": "worn",
+    "definition": "mặc/đeo",
+    "english_definition": "to have clothing, jewelry, etc. on your body",
+    "example": "I wear a jacket."
+  },
+  {
+    "word": "port",
+    "type": "verb",
+    "v1": "port",
+    "v2": "ported",
+    "v3": "ported",
+    "definition": "chuyển (ứng dụng/mã)",
+    "english_definition": "to transfer software from one system to another",
+    "example": "We port the app to Android."
+  },
+  {
+    "word": "compile",
+    "type": "verb",
+    "v1": "compile",
+    "v2": "compiled",
+    "v3": "compiled",
+    "definition": "biên dịch",
+    "english_definition": "to translate program code into machine language",
+    "example": "I compile every day."
+  },
+  {
+    "word": "execute",
+    "type": "verb",
+    "v1": "execute",
+    "v2": "executed",
+    "v3": "executed",
+    "definition": "thực thi",
+    "english_definition": "to run a computer program",
+    "example": "I execute every day."
+  },
+  {
+    "word": "deploy",
+    "type": "verb",
+    "v1": "deploy",
+    "v2": "deployed",
+    "v3": "deployed",
+    "definition": "triển khai",
+    "english_definition": "to put software into use",
+    "example": "I deploy every day."
+  },
+  {
+    "word": "release",
+    "type": "verb",
+    "v1": "release",
+    "v2": "released",
+    "v3": "released",
+    "definition": "phát hành",
+    "english_definition": "to make software available to users",
+    "example": "I release every day."
+  },
+  {
+    "word": "commit",
+    "type": "verb",
+    "v1": "commit",
+    "v2": "committed",
+    "v3": "committed",
+    "definition": "commit (lưu thay đổi)",
+    "english_definition": "to save changes to a version control system",
+    "example": "I commit every day."
+  },
+  {
+    "word": "push",
+    "type": "verb",
+    "v1": "push",
+    "v2": "pushed",
+    "v3": "pushed",
+    "definition": "đẩy (mã lên)",
+    "english_definition": "to send code to a remote repository",
+    "example": "I push every day."
+  },
+  {
+    "word": "pull",
+    "type": "verb",
+    "v1": "pull",
+    "v2": "pulled",
+    "v3": "pulled",
+    "definition": "kéo (mã về)",
+    "english_definition": "to download code from a remote repository",
+    "example": "I pull every day."
+  },
+  {
+    "word": "merge",
+    "type": "verb",
+    "v1": "merge",
+    "v2": "merged",
+    "v3": "merged",
+    "definition": "gộp nhánh",
+    "english_definition": "to combine different versions of code",
+    "example": "I merge every day."
+  },
+  {
+    "word": "branch",
+    "type": "verb",
+    "v1": "branch",
+    "v2": "branched",
+    "v3": "branched",
+    "definition": "tạo nhánh",
+    "english_definition": "to create a separate line of development",
+    "example": "I branch every day."
+  },
+  {
+    "word": "rebase",
+    "type": "verb",
+    "v1": "rebase",
+    "v2": "rebased",
+    "v3": "rebased",
+    "definition": "rebase (sắp xếp lại lịch sử)",
+    "english_definition": "to reapply commits on top of another base",
+    "example": "I rebase every day."
+  },
+  {
+    "word": "stash",
+    "type": "verb",
+    "v1": "stash",
+    "v2": "stashed",
+    "v3": "stashed",
+    "definition": "stash (cất tạm thay đổi)",
+    "english_definition": "to temporarily store changes",
+    "example": "I stash every day."
+  },
+  {
+    "word": "clone",
+    "type": "verb",
+    "v1": "clone",
+    "v2": "cloned",
+    "v3": "cloned",
+    "definition": "nhân bản kho mã",
+    "english_definition": "to make a copy of a repository",
+    "example": "I clone every day."
+  },
+  {
+    "word": "fork",
+    "type": "verb",
+    "v1": "fork",
+    "v2": "forked",
+    "v3": "forked",
+    "definition": "fork (tách kho mã)",
+    "english_definition": "to create a personal copy of someone else's project",
+    "example": "I fork every day."
+  },
+  {
+    "word": "debug",
+    "type": "verb",
+    "v1": "debug",
+    "v2": "debugged",
+    "v3": "debugged",
+    "definition": "gỡ lỗi",
+    "english_definition": "to find and remove errors from code",
+    "example": "I debug every day."
+  },
+  {
+    "word": "log",
+    "type": "verb",
+    "v1": "log",
+    "v2": "logged",
+    "v3": "logged",
+    "definition": "ghi log",
+    "english_definition": "to record information about events",
+    "example": "I log every day."
+  },
+  {
+    "word": "trace",
+    "type": "verb",
+    "v1": "trace",
+    "v2": "traced",
+    "v3": "traced",
+    "definition": "theo vết",
+    "english_definition": "to follow the execution of a program",
+    "example": "I trace every day."
+  },
+  {
+    "word": "profile",
+    "type": "verb",
+    "v1": "profile",
+    "v2": "profiled",
+    "v3": "profiled",
+    "definition": "dò hiệu năng",
+    "english_definition": "to analyze the performance of code",
+    "example": "I profile every day."
+  },
+  {
+    "word": "optimize",
+    "type": "verb",
+    "v1": "optimize",
+    "v2": "optimized",
+    "v3": "optimized",
+    "definition": "tối ưu",
+    "english_definition": "to make code run faster or use less resources",
+    "example": "I optimize every day."
+  },
+  {
+    "word": "refactor",
+    "type": "verb",
+    "v1": "refactor",
+    "v2": "refactored",
+    "v3": "refactored",
+    "definition": "tái cấu trúc mã",
+    "english_definition": "to restructure code without changing its behavior",
+    "example": "I refactor every day."
+  },
+  {
+    "word": "test",
+    "type": "verb",
+    "v1": "test",
+    "v2": "tested",
+    "v3": "tested",
+    "definition": "kiểm thử",
+    "english_definition": "to check if code works correctly",
+    "example": "I test every day."
+  },
+  {
+    "word": "mock",
+    "type": "verb",
+    "v1": "mock",
+    "v2": "mocked",
+    "v3": "mocked",
+    "definition": "giả lập (mock)",
+    "english_definition": "to create fake objects for testing",
+    "example": "I mock every day."
+  },
+  {
+    "word": "stub",
+    "type": "verb",
+    "v1": "stub",
+    "v2": "stubbed",
+    "v3": "stubbed",
+    "definition": "stub (giả đối tượng)",
+    "english_definition": "to replace parts of code with simple implementations",
+    "example": "I stub every day."
+  },
+  {
+    "word": "lint",
+    "type": "verb",
+    "v1": "lint",
+    "v2": "linted",
+    "v3": "linted",
+    "definition": "kiểm tra style (lint)",
+    "english_definition": "to check code for style and syntax errors",
+    "example": "I lint every day."
+  },
+  {
+    "word": "format",
+    "type": "verb",
+    "v1": "format",
+    "v2": "formatted",
+    "v3": "formatted",
+    "definition": "định dạng (mã)",
+    "english_definition": "to arrange code in a standard way",
+    "example": "I format every day."
+  },
+  {
+    "word": "package",
+    "type": "verb",
+    "v1": "package",
+    "v2": "packaged",
+    "v3": "packaged",
+    "definition": "đóng gói",
+    "english_definition": "to prepare software for distribution",
+    "example": "I package every day."
+  },
+  {
+    "word": "bundle",
+    "type": "verb",
+    "v1": "bundle",
+    "v2": "bundled",
+    "v3": "bundled",
+    "definition": "bundle (đóng gói)",
+    "english_definition": "to combine multiple files into one",
+    "example": "I bundle every day."
+  },
+  {
+    "word": "install",
+    "type": "verb",
+    "v1": "install",
+    "v2": "installed",
+    "v3": "installed",
+    "definition": "cài đặt",
+    "english_definition": "to set up software on a computer",
+    "example": "I install every day."
+  },
+  {
+    "word": "update",
+    "type": "verb",
+    "v1": "update",
+    "v2": "updated",
+    "v3": "updated",
+    "definition": "cập nhật",
+    "english_definition": "to install a newer version of software",
+    "example": "I update every day."
+  },
+  {
+    "word": "upgrade",
+    "type": "verb",
+    "v1": "upgrade",
+    "v2": "upgraded",
+    "v3": "upgraded",
+    "definition": "nâng cấp",
+    "english_definition": "to move to a better version of software",
+    "example": "I upgrade every day."
+  },
+  {
+    "word": "rollback",
+    "type": "verb",
+    "v1": "rollback",
+    "v2": "rollbacked",
+    "v3": "rollbacked",
+    "definition": "khôi phục phiên bản",
+    "english_definition": "to return to a previous version",
+    "example": "I rollback every day."
+  },
+  {
+    "word": "migrate",
+    "type": "verb",
+    "v1": "migrate",
+    "v2": "migrated",
+    "v3": "migrated",
+    "definition": "di chuyển (dữ liệu/lược đồ)",
+    "english_definition": "to move data or code to a new system",
+    "example": "I migrate every day."
+  },
+  {
+    "word": "seed",
+    "type": "verb",
+    "v1": "seed",
+    "v2": "seeded",
+    "v3": "seeded",
+    "definition": "seed (gieo dữ liệu)",
+    "english_definition": "to add initial data to a database",
+    "example": "I seed every day."
+  },
+  {
+    "word": "provision",
+    "type": "verb",
+    "v1": "provision",
+    "v2": "provisioned",
+    "v3": "provisioned",
+    "definition": "cấp phát (hạ tầng)",
+    "english_definition": "to set up infrastructure",
+    "example": "I provision every day."
+  },
+  {
+    "word": "configure",
+    "type": "verb",
+    "v1": "configure",
+    "v2": "configured",
+    "v3": "configured",
+    "definition": "cấu hình",
+    "english_definition": "to set up the settings for software",
+    "example": "I configure every day."
+  },
+  {
+    "word": "authenticate",
+    "type": "verb",
+    "v1": "authenticate",
+    "v2": "authenticated",
+    "v3": "authenticated",
+    "definition": "xác thực",
+    "english_definition": "to verify someone's identity",
+    "example": "I authenticate every day."
+  },
+  {
+    "word": "authorize",
+    "type": "verb",
+    "v1": "authorize",
+    "v2": "authorized",
+    "v3": "authorized",
+    "definition": "phân quyền",
+    "english_definition": "to give permission to access something",
+    "example": "I authorize every day."
+  },
+  {
+    "word": "encrypt",
+    "type": "verb",
+    "v1": "encrypt",
+    "v2": "encrypted",
+    "v3": "encrypted",
+    "definition": "mã hóa",
+    "english_definition": "to convert data into a secret code",
+    "example": "I encrypt every day."
+  },
+  {
+    "word": "decrypt",
+    "type": "verb",
+    "v1": "decrypt",
+    "v2": "decrypted",
+    "v3": "decrypted",
+    "definition": "giải mã",
+    "english_definition": "to convert encrypted data back to normal",
+    "example": "I decrypt every day."
+  },
+  {
+    "word": "hash",
+    "type": "verb",
+    "v1": "hash",
+    "v2": "hashed",
+    "v3": "hashed",
+    "definition": "băm (hash)",
+    "english_definition": "to convert data into a fixed-size value",
+    "example": "I hash every day."
+  },
+  {
+    "word": "sign",
+    "type": "verb",
+    "v1": "sign",
+    "v2": "signed",
+    "v3": "signed",
+    "definition": "ký (số)",
+    "english_definition": "to add a digital signature",
+    "example": "I sign every day."
+  },
+  {
+    "word": "verify",
+    "type": "verb",
+    "v1": "verify",
+    "v2": "verified",
+    "v3": "verified",
+    "definition": "xác minh",
+    "english_definition": "to check if something is correct or true",
+    "example": "I verify every day."
+  },
+  {
+    "word": "fetch",
+    "type": "verb",
+    "v1": "fetch",
+    "v2": "fetched",
+    "v3": "fetched",
+    "definition": "lấy (dữ liệu)",
+    "english_definition": "to get data from a server",
+    "example": "I fetch every day."
+  },
+  {
+    "word": "request",
+    "type": "verb",
+    "v1": "request",
+    "v2": "requested",
+    "v3": "requested",
+    "definition": "gửi yêu cầu",
+    "english_definition": "to ask a server for data",
+    "example": "I request every day."
+  },
+  {
+    "word": "respond",
+    "type": "verb",
+    "v1": "respond",
+    "v2": "responded",
+    "v3": "responded",
+    "definition": "phản hồi",
+    "english_definition": "to send data back to a client",
+    "example": "I respond every day."
+  },
+  {
+    "word": "render",
+    "type": "verb",
+    "v1": "render",
+    "v2": "rendered",
+    "v3": "rendered",
+    "definition": "kết xuất",
+    "english_definition": "to display something on screen",
+    "example": "I render every day."
+  },
+  {
+    "word": "parse",
+    "type": "verb",
+    "v1": "parse",
+    "v2": "parsed",
+    "v3": "parsed",
+    "definition": "phân tích cú pháp",
+    "english_definition": "to analyze text and identify its parts",
+    "example": "I parse every day."
+  },
+  {
+    "word": "stringify",
+    "type": "verb",
+    "v1": "stringify",
+    "v2": "stringified",
+    "v3": "stringified",
+    "definition": "chuỗi hóa",
+    "english_definition": "to convert data to a string format",
+    "example": "I stringify every day."
+  },
+  {
+    "word": "serialize",
+    "type": "verb",
+    "v1": "serialize",
+    "v2": "serialized",
+    "v3": "serialized",
+    "definition": "tuần tự hóa",
+    "english_definition": "to convert data into a format for storage or transmission",
+    "example": "I serialize every day."
+  },
+  {
+    "word": "deserialize",
+    "type": "verb",
+    "v1": "deserialize",
+    "v2": "deserialized",
+    "v3": "deserialized",
+    "definition": "giải tuần tự",
+    "english_definition": "to convert serialized data back to its original form",
+    "example": "I deserialize every day."
+  },
+  {
+    "word": "cache",
+    "type": "verb",
+    "v1": "cache",
+    "v2": "cached",
+    "v3": "cached",
+    "definition": "bộ nhớ đệm",
+    "english_definition": "to store data for quick access",
+    "example": "I cache every day."
+  },
+  {
+    "word": "invalidate",
+    "type": "verb",
+    "v1": "invalidate",
+    "v2": "invalidated",
+    "v3": "invalidated",
+    "definition": "hủy (cache)",
+    "english_definition": "to mark cached data as no longer valid",
+    "example": "I invalidate every day."
+  },
+  {
+    "word": "index",
+    "type": "verb",
+    "v1": "index",
+    "v2": "indexed",
+    "v3": "indexed",
+    "definition": "đánh chỉ mục",
+    "english_definition": "to create an index for faster searching",
+    "example": "I index every day."
+  },
+  {
+    "word": "query",
+    "type": "verb",
+    "v1": "query",
+    "v2": "queried",
+    "v3": "queried",
+    "definition": "truy vấn",
+    "english_definition": "to ask a database for specific data",
+    "example": "I query every day."
+  },
+  {
+    "word": "filter",
+    "type": "verb",
+    "v1": "filter",
+    "v2": "filtered",
+    "v3": "filtered",
+    "definition": "lọc",
+    "english_definition": "to remove unwanted items from a collection",
+    "example": "I filter every day."
+  },
+  {
+    "word": "map",
+    "type": "verb",
+    "v1": "map",
+    "v2": "mapped",
+    "v3": "mapped",
+    "definition": "ánh xạ",
+    "english_definition": "to transform each item in a collection",
+    "example": "I map every day."
+  },
+  {
+    "word": "reduce",
+    "type": "verb",
+    "v1": "reduce",
+    "v2": "reduced",
+    "v3": "reduced",
+    "definition": "rút gọn/tổng hợp",
+    "english_definition": "to combine items in a collection into a single value",
+    "example": "I reduce every day."
+  },
+  {
+    "word": "scan",
+    "type": "verb",
+    "v1": "scan",
+    "v2": "scanned",
+    "v3": "scanned",
+    "definition": "quét",
+    "english_definition": "to examine data systematically",
+    "example": "I scan every day."
+  },
+  {
+    "word": "commit transaction",
+    "type": "verb",
+    "v1": "commit transaction",
+    "v2": "committed transaction",
+    "v3": "committed transaction",
+    "definition": "commit giao dịch",
+    "english_definition": "to commit transaction",
+    "example": "I commit transaction every day."
+  },
+  {
+    "word": "rollback transaction",
+    "type": "verb",
+    "v1": "rollback transaction",
+    "v2": "rolled back transaction",
+    "v3": "rolled back transaction",
+    "definition": "rollback giao dịch",
+    "english_definition": "to rollback transaction",
+    "example": "I rollback transaction every day."
+  },
+  {
+    "word": "connect",
+    "type": "verb",
+    "v1": "connect",
+    "v2": "connected",
+    "v3": "connected",
+    "definition": "kết nối",
+    "english_definition": "to establish a connection",
+    "example": "I connect every day."
+  },
+  {
+    "word": "disconnect",
+    "type": "verb",
+    "v1": "disconnect",
+    "v2": "disconnected",
+    "v3": "disconnected",
+    "definition": "ngắt kết nối",
+    "english_definition": "to end a connection",
+    "example": "I disconnect every day."
+  },
+  {
+    "word": "subscribe",
+    "type": "verb",
+    "v1": "subscribe",
+    "v2": "subscribed",
+    "v3": "subscribed",
+    "definition": "đăng ký (sự kiện)",
+    "english_definition": "to sign up to receive updates",
+    "example": "I subscribe every day."
+  },
+  {
+    "word": "publish",
+    "type": "verb",
+    "v1": "publish",
+    "v2": "published",
+    "v3": "published",
+    "definition": "phát (sự kiện)",
+    "english_definition": "to make information available",
+    "example": "I publish every day."
+  },
+  {
+    "word": "queue",
+    "type": "verb",
+    "v1": "queue",
+    "v2": "queued",
+    "v3": "queued",
+    "definition": "xếp hàng (tác vụ)",
+    "english_definition": "to put tasks in a waiting list",
+    "example": "I queue every day."
+  },
+  {
+    "word": "retry",
+    "type": "verb",
+    "v1": "retry",
+    "v2": "retried",
+    "v3": "retried",
+    "definition": "thử lại",
+    "english_definition": "to try again after a failure",
+    "example": "I retry every day."
+  },
+  {
+    "word": "throttle",
+    "type": "verb",
+    "v1": "throttle",
+    "v2": "throttled",
+    "v3": "throttled",
+    "definition": "giới hạn tần suất",
+    "english_definition": "to limit the rate of something",
+    "example": "I throttle every day."
+  },
+  {
+    "word": "debounce",
+    "type": "verb",
+    "v1": "debounce",
+    "v2": "debounced",
+    "v3": "debounced",
+    "definition": "chống dội",
+    "english_definition": "to delay execution until after a pause",
+    "example": "I debounce every day."
+  },
+  {
+    "word": "paginate",
+    "type": "verb",
+    "v1": "paginate",
+    "v2": "paginated",
+    "v3": "paginated",
+    "definition": "phân trang",
+    "english_definition": "to divide content into pages",
+    "example": "I paginate every day."
+  },
+  {
+    "word": "validate",
+    "type": "verb",
+    "v1": "validate",
+    "v2": "validated",
+    "v3": "validated",
+    "definition": "xác nhận/kiểm tra hợp lệ",
+    "english_definition": "to check if data meets requirements",
+    "example": "I validate every day."
+  },
+  {
+    "word": "sanitize",
+    "type": "verb",
+    "v1": "sanitize",
+    "v2": "sanitized",
+    "v3": "sanitized",
+    "definition": "làm sạch dữ liệu",
+    "english_definition": "to clean data to remove dangerous content",
+    "example": "I sanitize every day."
+  },
+  {
+    "word": "escape",
+    "type": "verb",
+    "v1": "escape",
+    "v2": "escaped",
+    "v3": "escaped",
+    "definition": "escape (ký tự)",
+    "english_definition": "to encode special characters",
+    "example": "I escape every day."
+  },
+  {
+    "word": "transform",
+    "type": "verb",
+    "v1": "transform",
+    "v2": "transformed",
+    "v3": "transformed",
+    "definition": "biến đổi",
+    "english_definition": "to change from one form to another",
+    "example": "I transform every day."
+  },
+  {
+    "word": "compress",
+    "type": "verb",
+    "v1": "compress",
+    "v2": "compressed",
+    "v3": "compressed",
+    "definition": "nén",
+    "english_definition": "to reduce the size of data",
+    "example": "I compress every day."
+  },
+  {
+    "word": "decompress",
+    "type": "verb",
+    "v1": "decompress",
+    "v2": "decompressed",
+    "v3": "decompressed",
+    "definition": "giải nén",
+    "english_definition": "to restore compressed data to original size",
+    "example": "I decompress every day."
+  },
+  {
+    "word": "mount",
+    "type": "verb",
+    "v1": "mount",
+    "v2": "mounted",
+    "v3": "mounted",
+    "definition": "gắn (thành phần/hệ thống)",
+    "english_definition": "to attach a component or file system",
+    "example": "I mount every day."
+  },
+  {
+    "word": "unmount",
+    "type": "verb",
+    "v1": "unmount",
+    "v2": "unmounted",
+    "v3": "unmounted",
+    "definition": "gỡ (thành phần)",
+    "english_definition": "to detach a component or file system",
+    "example": "I unmount every day."
+  },
+  {
+    "word": "initialize",
+    "type": "verb",
+    "v1": "initialize",
+    "v2": "initialized",
+    "v3": "initialized",
+    "definition": "khởi tạo",
+    "english_definition": "to set up something for first use",
+    "example": "I initialize every day."
+  },
+  {
+    "word": "bootstrap",
+    "type": "verb",
+    "v1": "bootstrap",
+    "v2": "bootstrapped",
+    "v3": "bootstrapped",
+    "definition": "khởi động (ứng dụng)",
+    "english_definition": "to start an application",
+    "example": "I bootstrap every day."
+  },
+  {
+    "word": "monitor",
+    "type": "verb",
+    "v1": "monitor",
+    "v2": "monitored",
+    "v3": "monitored",
+    "definition": "giám sát",
+    "english_definition": "to watch and check something regularly",
+    "example": "I monitor every day."
+  },
+  {
+    "word": "alert",
+    "type": "verb",
+    "v1": "alert",
+    "v2": "alerted",
+    "v3": "alerted",
+    "definition": "cảnh báo",
+    "english_definition": "to notify about something important",
+    "example": "I alert every day."
+  },
+  {
+    "word": "scale",
+    "type": "verb",
+    "v1": "scale",
+    "v2": "scaled",
+    "v3": "scaled",
+    "definition": "mở rộng (quy mô)",
+    "english_definition": "to adjust capacity to meet demand",
+    "example": "I scale every day."
+  },
+  {
+    "word": "balance",
+    "type": "verb",
+    "v1": "balance",
+    "v2": "balanced",
+    "v3": "balanced",
+    "definition": "cân bằng tải",
+    "english_definition": "to distribute load evenly",
+    "example": "I balance every day."
+  },
+  {
+    "word": "containerize",
+    "type": "verb",
+    "v1": "containerize",
+    "v2": "containerized",
+    "v3": "containerized",
+    "definition": "đóng gói container",
+    "english_definition": "to package application in containers",
+    "example": "I containerize every day."
+  },
+  {
+    "word": "orchestrate",
+    "type": "verb",
+    "v1": "orchestrate",
+    "v2": "orchestrated",
+    "v3": "orchestrated",
+    "definition": "điều phối (k8s)",
+    "english_definition": "to coordinate multiple services",
+    "example": "I orchestrate every day."
+  },
+  {
+    "word": "login",
+    "type": "verb",
+    "v1": "login",
+    "v2": "logged in",
+    "v3": "logged in",
+    "definition": "đăng nhập",
+    "english_definition": "to sign in to a system",
+    "example": "I login every day."
+  },
+  {
+    "word": "log out",
+    "type": "verb",
+    "v1": "log out",
+    "v2": "logged out",
+    "v3": "logged out",
+    "definition": "đăng xuất",
+    "english_definition": "to sign out of a system",
+    "example": "I log out every day."
+  },
+  {
+    "word": "sign up",
+    "type": "verb",
+    "v1": "sign up",
+    "v2": "signed up",
+    "v3": "signed up",
+    "definition": "đăng ký (tài khoản)",
+    "english_definition": "to create a new account",
+    "example": "I sign up every day."
+  },
+  {
+    "word": "reset",
+    "type": "verb",
+    "v1": "reset",
+    "v2": "reset",
+    "v3": "reset",
+    "definition": "đặt lại",
+    "english_definition": "to return something to its original state",
+    "example": "I reset every day."
+  },
+  {
+    "word": "crash",
+    "type": "verb",
+    "v1": "crash",
+    "v2": "crashed",
+    "v3": "crashed",
+    "definition": "sập (ứng dụng)",
+    "english_definition": "to stop working suddenly",
+    "example": "I crash every day."
+  },
+  {
+    "word": "recover",
+    "type": "verb",
+    "v1": "recover",
+    "v2": "recovered",
+    "v3": "recovered",
+    "definition": "khôi phục",
+    "english_definition": "to restore after a problem",
+    "example": "I recover every day."
+  },
+  {
+    "word": "back up",
+    "type": "verb",
+    "v1": "back up",
+    "v2": "backed up",
+    "v3": "backed up",
+    "definition": "sao lưu",
+    "english_definition": "to make a copy of data",
+    "example": "I back up every day."
+  },
+  {
+    "word": "restore",
+    "type": "verb",
+    "v1": "restore",
+    "v2": "restored",
+    "v3": "restored",
+    "definition": "phục hồi",
+    "english_definition": "to bring back from a backup",
+    "example": "I restore every day."
+  },
+  {
+    "word": "track",
+    "type": "verb",
+    "v1": "track",
+    "v2": "tracked",
+    "v3": "tracked",
+    "definition": "theo dõi",
+    "english_definition": "to follow or monitor something",
+    "example": "I track every day."
+  },
+  {
+    "word": "instrument",
+    "type": "verb",
+    "v1": "instrument",
+    "v2": "instrumented",
+    "v3": "instrumented",
+    "definition": "gắn đo (telemetry)",
+    "english_definition": "to add monitoring code",
+    "example": "I instrument every day."
+  },
+  {
+    "word": "observe",
+    "type": "verb",
+    "v1": "observe",
+    "v2": "observed",
+    "v3": "observed",
+    "definition": "quan sát (observability)",
+    "english_definition": "to watch and record behavior",
+    "example": "I observe every day."
+  },
+  {
+    "word": "rotate",
+    "type": "verb",
+    "v1": "rotate",
+    "v2": "rotated",
+    "v3": "rotated",
+    "definition": "xoay (khóa/log)",
+    "english_definition": "to rotate",
+    "example": "I rotate every day."
+  },
+  {
+    "word": "expose",
+    "type": "verb",
+    "v1": "expose",
+    "v2": "exposed",
+    "v3": "exposed",
+    "definition": "phơi bày/công bố (API)",
+    "english_definition": "to make available for use",
+    "example": "I expose every day."
+  },
+  {
+    "word": "consume",
+    "type": "verb",
+    "v1": "consume",
+    "v2": "consumed",
+    "v3": "consumed",
+    "definition": "tiêu thụ (API)",
+    "english_definition": "to use a service or API",
+    "example": "I consume every day."
+  },
+  {
+    "word": "generate",
+    "type": "verb",
+    "v1": "generate",
+    "v2": "generated",
+    "v3": "generated",
+    "definition": "tạo (mã/báo cáo)",
+    "english_definition": "to create something automatically",
+    "example": "I generate every day."
+  },
+  {
+    "word": "hydrate",
+    "type": "verb",
+    "v1": "hydrate",
+    "v2": "hydrated",
+    "v3": "hydrated",
+    "definition": "hydrate (client)",
+    "english_definition": "to add data to a component",
+    "example": "I hydrate every day."
+  },
+  {
+    "word": "snapshot",
+    "type": "verb",
+    "v1": "snapshot",
+    "v2": "snapshotted",
+    "v3": "snapshotted",
+    "definition": "chụp snapshot",
+    "english_definition": "to capture the state at a point in time",
+    "example": "I snapshot every day."
+  },
+  {
+    "word": "diff",
+    "type": "verb",
+    "v1": "diff",
+    "v2": "diffed",
+    "v3": "diffed",
+    "definition": "so sánh khác biệt",
+    "english_definition": "to find differences between versions",
+    "example": "I diff every day."
+  },
+  {
+    "word": "patch",
+    "type": "verb",
+    "v1": "patch",
+    "v2": "patched",
+    "v3": "patched",
+    "definition": "vá (cập nhật)",
+    "english_definition": "to apply a small update",
+    "example": "I patch every day."
+  },
+  {
+    "word": "audit",
+    "type": "verb",
+    "v1": "audit",
+    "v2": "audited",
+    "v3": "audited",
+    "definition": "kiểm toán",
+    "english_definition": "to examine and verify",
+    "example": "I audit every day."
+  },
+  {
+    "word": "comply",
+    "type": "verb",
+    "v1": "comply",
+    "v2": "complied",
+    "v3": "complied",
+    "definition": "tuân thủ",
+    "english_definition": "to follow rules or standards",
+    "example": "I comply every day."
+  },
+  {
+    "word": "threat-model",
+    "type": "verb",
+    "v1": "threat-model",
+    "v2": "threat-modeled",
+    "v3": "threat-modeled",
+    "definition": "mô hình mối đe dọa",
+    "english_definition": "to threat-model",
+    "example": "I threat-model every day."
+  },
+  {
+    "word": "pen-test",
+    "type": "verb",
+    "v1": "pen-test",
+    "v2": "pen-tested",
+    "v3": "pen-tested",
+    "definition": "kiểm thử xâm nhập",
+    "english_definition": "to pen-test",
+    "example": "I pen-test every day."
+  },
+  {
+    "word": "rate limit",
+    "type": "verb",
+    "v1": "rate limit",
+    "v2": "rate limited",
+    "v3": "rate limited",
+    "definition": "giới hạn tốc độ",
+    "english_definition": "to rate limit",
+    "example": "I rate limit every day."
+  },
+  {
+    "word": "whitelist",
+    "type": "verb",
+    "v1": "whitelist",
+    "v2": "whitelisted",
+    "v3": "whitelisted",
+    "definition": "trắng danh sách",
+    "english_definition": "to whitelist",
+    "example": "I whitelist every day."
+  },
+  {
+    "word": "blacklist",
+    "type": "verb",
+    "v1": "blacklist",
+    "v2": "blacklisted",
+    "v3": "blacklisted",
+    "definition": "đen danh sách",
+    "english_definition": "to blacklist",
+    "example": "I blacklist every day."
+  },
+  {
+    "word": "allowlist",
+    "type": "verb",
+    "v1": "allowlist",
+    "v2": "allowlisted",
+    "v3": "allowlisted",
+    "definition": "cho phép (danh sách)",
+    "english_definition": "to allowlist",
+    "example": "I allowlist every day."
+  },
+  {
+    "word": "blocklist",
+    "type": "verb",
+    "v1": "blocklist",
+    "v2": "blocklisted",
+    "v3": "blocklisted",
+    "definition": "chặn (danh sách)",
+    "english_definition": "to blocklist",
+    "example": "I blocklist every day."
+  },
+  {
+    "word": "accept",
+    "type": "verb",
+    "v1": "accept",
+    "v2": "accepted",
+    "v3": "accepted",
+    "definition": "chấp nhận",
+    "english_definition": "to agree to receive or do something",
+    "example": "I accept every day."
+  },
+  {
+    "word": "accuse",
+    "type": "verb",
+    "v1": "accuse",
+    "v2": "accused",
+    "v3": "accused",
+    "definition": "tố cáo",
+    "english_definition": "to say that someone has done something wrong",
+    "example": "I accuse every day."
+  },
+  {
+    "word": "achieve",
+    "type": "verb",
+    "v1": "achieve",
+    "v2": "achieved",
+    "v3": "achieved",
+    "definition": "đạt được",
+    "english_definition": "to succeed in doing or getting something",
+    "example": "I achieve every day."
+  },
+  {
+    "word": "act",
+    "type": "verb",
+    "v1": "act",
+    "v2": "acted",
+    "v3": "acted",
+    "definition": "hành động/thực hiện",
+    "english_definition": "to do something or take action",
+    "example": "I act every day."
+  },
+  {
+    "word": "admire",
+    "type": "verb",
+    "v1": "admire",
+    "v2": "admired",
+    "v3": "admired",
+    "definition": "ngưỡng mộ",
+    "english_definition": "to respect and approve of someone",
+    "example": "I admire every day."
+  },
+  {
+    "word": "admit",
+    "type": "verb",
+    "v1": "admit",
+    "v2": "admitted",
+    "v3": "admitted",
+    "definition": "thừa nhận",
+    "english_definition": "to agree that something is true",
+    "example": "I admit every day."
+  },
+  {
+    "word": "adopt",
+    "type": "verb",
+    "v1": "adopt",
+    "v2": "adopted",
+    "v3": "adopted",
+    "definition": "nhận nuôi/áp dụng",
+    "english_definition": "to take someone else's child into your family",
+    "example": "I adopt every day."
+  },
+  {
+    "word": "advise",
+    "type": "verb",
+    "v1": "advise",
+    "v2": "advised",
+    "v3": "advised",
+    "definition": "khuyên",
+    "english_definition": "to give someone advice",
+    "example": "I advise every day."
+  },
+  {
+    "word": "affect",
+    "type": "verb",
+    "v1": "affect",
+    "v2": "affected",
+    "v3": "affected",
+    "definition": "ảnh hưởng",
+    "english_definition": "to have an influence on someone or something",
+    "example": "I affect every day."
+  },
+  {
+    "word": "agree",
+    "type": "verb",
+    "v1": "agree",
+    "v2": "agreed",
+    "v3": "agreed",
+    "definition": "đồng ý",
+    "english_definition": "to have the same opinion",
+    "example": "I agree every day."
+  },
+  {
+    "word": "announce",
+    "type": "verb",
+    "v1": "announce",
+    "v2": "announced",
+    "v3": "announced",
+    "definition": "công bố",
+    "english_definition": "to make something known publicly",
+    "example": "I announce every day."
+  },
+  {
+    "word": "appreciate",
+    "type": "verb",
+    "v1": "appreciate",
+    "v2": "appreciated",
+    "v3": "appreciated",
+    "definition": "đánh giá cao",
+    "english_definition": "to be grateful for something",
+    "example": "I appreciate every day."
+  },
+  {
+    "word": "argue",
+    "type": "verb",
+    "v1": "argue",
+    "v2": "argued",
+    "v3": "argued",
+    "definition": "tranh luận",
+    "english_definition": "to disagree in words",
+    "example": "I argue every day."
+  },
+  {
+    "word": "arrive",
+    "type": "verb",
+    "v1": "arrive",
+    "v2": "arrived",
+    "v3": "arrived",
+    "definition": "đến",
+    "english_definition": "to reach a place",
+    "example": "I arrive every day."
+  },
+  {
+    "word": "assist",
+    "type": "verb",
+    "v1": "assist",
+    "v2": "assisted",
+    "v3": "assisted",
+    "definition": "hỗ trợ",
+    "english_definition": "to help someone",
+    "example": "I assist every day."
+  },
+  {
+    "word": "attack",
+    "type": "verb",
+    "v1": "attack",
+    "v2": "attacked",
+    "v3": "attacked",
+    "definition": "tấn công",
+    "english_definition": "to try to hurt someone or something",
+    "example": "I attack every day."
+  },
+  {
+    "word": "attempt",
+    "type": "verb",
+    "v1": "attempt",
+    "v2": "attempted",
+    "v3": "attempted",
+    "definition": "cố gắng",
+    "english_definition": "to try to do something",
+    "example": "I attempt every day."
+  },
+  {
+    "word": "avoid",
+    "type": "verb",
+    "v1": "avoid",
+    "v2": "avoided",
+    "v3": "avoided",
+    "definition": "tránh",
+    "english_definition": "to stay away from something",
+    "example": "I avoid every day."
+  },
+  {
+    "word": "bake",
+    "type": "verb",
+    "v1": "bake",
+    "v2": "baked",
+    "v3": "baked",
+    "definition": "nướng",
+    "english_definition": "to cook in an oven",
+    "example": "I bake every day."
+  },
+  {
+    "word": "banish",
+    "type": "verb",
+    "v1": "banish",
+    "v2": "banished",
+    "v3": "banished",
+    "definition": "trục xuất",
+    "english_definition": "to send someone away as a punishment",
+    "example": "I banish every day."
+  },
+  {
+    "word": "beg",
+    "type": "verb",
+    "v1": "beg",
+    "v2": "begged",
+    "v3": "begged",
+    "definition": "năn nỉ/van xin",
+    "english_definition": "to ask for something in an anxious or urgent way",
+    "example": "I beg every day."
+  },
+  {
+    "word": "behave",
+    "type": "verb",
+    "v1": "behave",
+    "v2": "behaved",
+    "v3": "behaved",
+    "definition": "cư xử",
+    "english_definition": "to act in a particular way",
+    "example": "I behave every day."
+  },
+  {
+    "word": "belittle",
+    "type": "verb",
+    "v1": "belittle",
+    "v2": "belittled",
+    "v3": "belittled",
+    "definition": "xem thường",
+    "english_definition": "to make someone seem unimportant",
+    "example": "I belittle every day."
+  },
+  {
+    "word": "blame",
+    "type": "verb",
+    "v1": "blame",
+    "v2": "blamed",
+    "v3": "blamed",
+    "definition": "đổ lỗi",
+    "english_definition": "to say that someone is responsible for something bad",
+    "example": "I blame every day."
+  },
+  {
+    "word": "bother",
+    "type": "verb",
+    "v1": "bother",
+    "v2": "bothered",
+    "v3": "bothered",
+    "definition": "làm phiền",
+    "english_definition": "to make someone feel worried or upset",
+    "example": "I bother every day."
+  },
+  {
+    "word": "brake",
+    "type": "verb",
+    "v1": "brake",
+    "v2": "braked",
+    "v3": "braked",
+    "definition": "phanh",
+    "english_definition": "to make a vehicle go slower or stop",
+    "example": "I brake every day."
+  },
+  {
+    "word": "bury",
+    "type": "verb",
+    "v1": "bury",
+    "v2": "buried",
+    "v3": "buried",
+    "definition": "chôn cất",
+    "english_definition": "to put a dead body in the ground",
+    "example": "I bury every day."
+  },
+  {
+    "word": "cause",
+    "type": "verb",
+    "v1": "cause",
+    "v2": "caused",
+    "v3": "caused",
+    "definition": "gây ra",
+    "english_definition": "to make something happen",
+    "example": "I cause every day."
+  },
+  {
+    "word": "celebrate",
+    "type": "verb",
+    "v1": "celebrate",
+    "v2": "celebrated",
+    "v3": "celebrated",
+    "definition": "ăn mừng/tôn vinh",
+    "english_definition": "to do something enjoyable because of a special occasion",
+    "example": "I celebrate every day."
+  },
+  {
+    "word": "challenge",
+    "type": "verb",
+    "v1": "challenge",
+    "v2": "challenged",
+    "v3": "challenged",
+    "definition": "thử thách",
+    "english_definition": "to test someone's abilities",
+    "example": "I challenge every day."
+  },
+  {
+    "word": "chase",
+    "type": "verb",
+    "v1": "chase",
+    "v2": "chased",
+    "v3": "chased",
+    "definition": "đuổi theo",
+    "english_definition": "to run after someone to catch them",
+    "example": "I chase every day."
+  },
+  {
+    "word": "chat",
+    "type": "verb",
+    "v1": "chat",
+    "v2": "chatted",
+    "v3": "chatted",
+    "definition": "tán gẫu",
+    "english_definition": "to talk in a friendly way",
+    "example": "I chat every day."
+  },
+  {
+    "word": "cheat",
+    "type": "verb",
+    "v1": "cheat",
+    "v2": "cheated",
+    "v3": "cheated",
+    "definition": "gian lận/lừa dối",
+    "english_definition": "to act dishonestly to gain an advantage",
+    "example": "I cheat every day."
+  },
+  {
+    "word": "cheer",
+    "type": "verb",
+    "v1": "cheer",
+    "v2": "cheered",
+    "v3": "cheered",
+    "definition": "cổ vũ",
+    "english_definition": "to shout to show you like something",
+    "example": "I cheer every day."
+  },
+  {
+    "word": "chew",
+    "type": "verb",
+    "v1": "chew",
+    "v2": "chewed",
+    "v3": "chewed",
+    "definition": "nhai",
+    "english_definition": "to crush food with your teeth",
+    "example": "I chew every day."
+  },
+  {
+    "word": "clap",
+    "type": "verb",
+    "v1": "clap",
+    "v2": "clapped",
+    "v3": "clapped",
+    "definition": "vỗ tay",
+    "english_definition": "to hit your hands together to show approval",
+    "example": "I clap every day."
+  },
+  {
+    "word": "clear",
+    "type": "verb",
+    "v1": "clear",
+    "v2": "cleared",
+    "v3": "cleared",
+    "definition": "xóa/dọn sạch",
+    "english_definition": "to remove things from a place",
+    "example": "I clear every day."
+  },
+  {
+    "word": "climb",
+    "type": "verb",
+    "v1": "climb",
+    "v2": "climbed",
+    "v3": "climbed",
+    "definition": "leo",
+    "english_definition": "to go up something",
+    "example": "I climb every day."
+  },
+  {
+    "word": "coax",
+    "type": "verb",
+    "v1": "coax",
+    "v2": "coaxed",
+    "v3": "coaxed",
+    "definition": "dỗ ngọt",
+    "english_definition": "to gently persuade someone",
+    "example": "I coax every day."
+  },
+  {
+    "word": "coexist",
+    "type": "verb",
+    "v1": "coexist",
+    "v2": "coexisted",
+    "v3": "coexisted",
+    "definition": "cùng tồn tại",
+    "english_definition": "to exist together",
+    "example": "I coexist every day."
+  },
+  {
+    "word": "collect",
+    "type": "verb",
+    "v1": "collect",
+    "v2": "collected",
+    "v3": "collected",
+    "definition": "thu thập",
+    "english_definition": "to bring things together",
+    "example": "I collect every day."
+  },
+  {
+    "word": "compare",
+    "type": "verb",
+    "v1": "compare",
+    "v2": "compared",
+    "v3": "compared",
+    "definition": "so sánh/đối chiếu",
+    "english_definition": "to examine how things are similar or different",
+    "example": "I compare every day."
+  },
+  {
+    "word": "compete",
+    "type": "verb",
+    "v1": "compete",
+    "v2": "competed",
+    "v3": "competed",
+    "definition": "cạnh tranh",
+    "english_definition": "to try to win or be more successful",
+    "example": "I compete every day."
+  },
+  {
+    "word": "complain",
+    "type": "verb",
+    "v1": "complain",
+    "v2": "complained",
+    "v3": "complained",
+    "definition": "khiếu nại/phàn nàn",
+    "english_definition": "to say that something is wrong",
+    "example": "I complain every day."
+  },
+  {
+    "word": "concoct",
+    "type": "verb",
+    "v1": "concoct",
+    "v2": "concocted",
+    "v3": "concocted",
+    "definition": "pha chế/kết hợp",
+    "english_definition": "to create by mixing things together",
+    "example": "I concoct every day."
+  },
+  {
+    "word": "confess",
+    "type": "verb",
+    "v1": "confess",
+    "v2": "confessed",
+    "v3": "confessed",
+    "definition": "thú nhận",
+    "english_definition": "to admit that you have done something wrong",
+    "example": "I confess every day."
+  },
+  {
+    "word": "construct",
+    "type": "verb",
+    "v1": "construct",
+    "v2": "constructed",
+    "v3": "constructed",
+    "definition": "xây dựng",
+    "english_definition": "to build something",
+    "example": "I construct every day."
+  },
+  {
+    "word": "contact",
+    "type": "verb",
+    "v1": "contact",
+    "v2": "contacted",
+    "v3": "contacted",
+    "definition": "liên hệ",
+    "english_definition": "to communicate with someone",
+    "example": "I contact every day."
+  },
+  {
+    "word": "control",
+    "type": "verb",
+    "v1": "control",
+    "v2": "controlled",
+    "v3": "controlled",
+    "definition": "kiểm soát",
+    "english_definition": "to make someone or something do what you want",
+    "example": "I control every day."
+  },
+  {
+    "word": "copy",
+    "type": "verb",
+    "v1": "copy",
+    "v2": "copied",
+    "v3": "copied",
+    "definition": "sao chép",
+    "english_definition": "to make something that is exactly like something else",
+    "example": "I copy every day."
+  },
+  {
+    "word": "cough",
+    "type": "verb",
+    "v1": "cough",
+    "v2": "coughed",
+    "v3": "coughed",
+    "definition": "ho",
+    "english_definition": "to force air through your throat with a sudden sound",
+    "example": "I cough every day."
+  },
+  {
+    "word": "count",
+    "type": "verb",
+    "v1": "count",
+    "v2": "counted",
+    "v3": "counted",
+    "definition": "đếm",
+    "english_definition": "to say numbers in order",
+    "example": "I count every day."
+  },
+  {
+    "word": "cry",
+    "type": "verb",
+    "v1": "cry",
+    "v2": "cried",
+    "v3": "cried",
+    "definition": "khóc",
+    "english_definition": "to produce tears from your eyes",
+    "example": "I cry every day."
+  },
+  {
+    "word": "curse",
+    "type": "verb",
+    "v1": "curse",
+    "v2": "cursed",
+    "v3": "cursed",
+    "definition": "nguyền rủa/chửi thề",
+    "english_definition": "to say rude words",
+    "example": "I curse every day."
+  },
+  {
+    "word": "cycle",
+    "type": "verb",
+    "v1": "cycle",
+    "v2": "cycled",
+    "v3": "cycled",
+    "definition": "đi xe đạp",
+    "english_definition": "to ride a bicycle",
+    "example": "I cycle every day."
+  },
+  {
+    "word": "damage",
+    "type": "verb",
+    "v1": "damage",
+    "v2": "damaged",
+    "v3": "damaged",
+    "definition": "làm hư hại",
+    "english_definition": "to harm or break something",
+    "example": "I damage every day."
+  },
+  {
+    "word": "dance",
+    "type": "verb",
+    "v1": "dance",
+    "v2": "danced",
+    "v3": "danced",
+    "definition": "nhảy/khiêu vũ",
+    "english_definition": "to move your body to music",
+    "example": "I dance every day."
+  },
+  {
+    "word": "decide",
+    "type": "verb",
+    "v1": "decide",
+    "v2": "decided",
+    "v3": "decided",
+    "definition": "quyết định",
+    "english_definition": "to choose something",
+    "example": "I decide every day."
+  },
+  {
+    "word": "demand",
+    "type": "verb",
+    "v1": "demand",
+    "v2": "demanded",
+    "v3": "demanded",
+    "definition": "yêu cầu/đòi hỏi",
+    "english_definition": "to ask for something forcefully",
+    "example": "I demand every day."
+  },
+  {
+    "word": "design",
+    "type": "verb",
+    "v1": "design",
+    "v2": "designed",
+    "v3": "designed",
+    "definition": "thiết kế",
+    "english_definition": "to plan how something will look",
+    "example": "I design every day."
+  },
+  {
+    "word": "destroy",
+    "type": "verb",
+    "v1": "destroy",
+    "v2": "destroyed",
+    "v3": "destroyed",
+    "definition": "phá hủy",
+    "english_definition": "to damage something so badly that it cannot be used",
+    "example": "I destroy every day."
+  },
+  {
+    "word": "develop",
+    "type": "verb",
+    "v1": "develop",
+    "v2": "developed",
+    "v3": "developed",
+    "definition": "phát triển",
+    "english_definition": "to grow or create something over time",
+    "example": "I develop every day."
+  },
+  {
+    "word": "die",
+    "type": "verb",
+    "v1": "die",
+    "v2": "died",
+    "v3": "died",
+    "definition": "chết",
+    "english_definition": "to stop living",
+    "example": "I die every day."
+  },
+  {
+    "word": "disappoint",
+    "type": "verb",
+    "v1": "disappoint",
+    "v2": "disappointed",
+    "v3": "disappointed",
+    "definition": "làm thất vọng",
+    "english_definition": "to make someone feel unhappy",
+    "example": "I disappoint every day."
+  },
+  {
+    "word": "discuss",
+    "type": "verb",
+    "v1": "discuss",
+    "v2": "discussed",
+    "v3": "discussed",
+    "definition": "thảo luận",
+    "english_definition": "to talk about something",
+    "example": "I discuss every day."
+  },
+  {
+    "word": "disregard",
+    "type": "verb",
+    "v1": "disregard",
+    "v2": "disregarded",
+    "v3": "disregarded",
+    "definition": "phớt lờ/không quan tâm",
+    "english_definition": "to ignore something",
+    "example": "I disregard every day."
+  },
+  {
+    "word": "disturb",
+    "type": "verb",
+    "v1": "disturb",
+    "v2": "disturbed",
+    "v3": "disturbed",
+    "definition": "làm phiền",
+    "english_definition": "to interrupt someone",
+    "example": "I disturb every day."
+  },
+  {
+    "word": "divide",
+    "type": "verb",
+    "v1": "divide",
+    "v2": "divided",
+    "v3": "divided",
+    "definition": "chia",
+    "english_definition": "to separate into parts",
+    "example": "I divide every day."
+  },
+  {
+    "word": "drag",
+    "type": "verb",
+    "v1": "drag",
+    "v2": "dragged",
+    "v3": "dragged",
+    "definition": "kéo lê",
+    "english_definition": "to pull something along",
+    "example": "I drag every day."
+  },
+  {
+    "word": "dress",
+    "type": "verb",
+    "v1": "dress",
+    "v2": "dressed",
+    "v3": "dressed",
+    "definition": "ăn mặc",
+    "english_definition": "to put on clothes",
+    "example": "I dress every day."
+  },
+  {
+    "word": "dry",
+    "type": "verb",
+    "v1": "dry",
+    "v2": "dried",
+    "v3": "dried",
+    "definition": "làm khô",
+    "english_definition": "to remove water from something",
+    "example": "I dry every day."
+  },
+  {
+    "word": "dunk",
+    "type": "verb",
+    "v1": "dunk",
+    "v2": "dunked",
+    "v3": "dunked",
+    "definition": "nhúng/chìm",
+    "english_definition": "to put something briefly into liquid",
+    "example": "I dunk every day."
+  },
+  {
+    "word": "earn",
+    "type": "verb",
+    "v1": "earn",
+    "v2": "earned",
+    "v3": "earned",
+    "definition": "kiếm được",
+    "english_definition": "to get money for work",
+    "example": "I earn every day."
+  },
+  {
+    "word": "eliminate",
+    "type": "verb",
+    "v1": "eliminate",
+    "v2": "eliminated",
+    "v3": "eliminated",
+    "definition": "loại bỏ",
+    "english_definition": "to remove something",
+    "example": "I eliminate every day."
+  },
+  {
+    "word": "emigrate",
+    "type": "verb",
+    "v1": "emigrate",
+    "v2": "emigrated",
+    "v3": "emigrated",
+    "definition": "di cư",
+    "english_definition": "to leave your country to live in another",
+    "example": "I emigrate every day."
+  },
+  {
+    "word": "employ",
+    "type": "verb",
+    "v1": "employ",
+    "v2": "employed",
+    "v3": "employed",
+    "definition": "tuyển dụng",
+    "english_definition": "to pay someone to work for you",
+    "example": "I employ every day."
+  },
+  {
+    "word": "encourage",
+    "type": "verb",
+    "v1": "encourage",
+    "v2": "encouraged",
+    "v3": "encouraged",
+    "definition": "động viên/khuyến khích",
+    "english_definition": "to give someone confidence to do something",
+    "example": "I encourage every day."
+  },
+  {
+    "word": "end",
+    "type": "verb",
+    "v1": "end",
+    "v2": "ended",
+    "v3": "ended",
+    "definition": "kết thúc",
+    "english_definition": "to finish",
+    "example": "I end every day."
+  },
+  {
+    "word": "enjoy",
+    "type": "verb",
+    "v1": "enjoy",
+    "v2": "enjoyed",
+    "v3": "enjoyed",
+    "definition": "thích/thưởng thức",
+    "english_definition": "to get pleasure from something",
+    "example": "I enjoy every day."
+  },
+  {
+    "word": "establish",
+    "type": "verb",
+    "v1": "establish",
+    "v2": "established",
+    "v3": "established",
+    "definition": "thành lập",
+    "english_definition": "to create or set up something",
+    "example": "I establish every day."
+  },
+  {
+    "word": "estimate",
+    "type": "verb",
+    "v1": "estimate",
+    "v2": "estimated",
+    "v3": "estimated",
+    "definition": "ước lượng",
+    "english_definition": "to guess the amount or size",
+    "example": "I estimate every day."
+  },
+  {
+    "word": "expand",
+    "type": "verb",
+    "v1": "expand",
+    "v2": "expanded",
+    "v3": "expanded",
+    "definition": "mở rộng",
+    "english_definition": "to become bigger",
+    "example": "I expand every day."
+  },
+  {
+    "word": "explain",
+    "type": "verb",
+    "v1": "explain",
+    "v2": "explained",
+    "v3": "explained",
+    "definition": "giải thích",
+    "english_definition": "to make something clear",
+    "example": "I explain every day."
+  },
+  {
+    "word": "fake",
+    "type": "verb",
+    "v1": "fake",
+    "v2": "faked",
+    "v3": "faked",
+    "definition": "giả mạo",
+    "english_definition": "to make something seem real when it is not",
+    "example": "I fake every day."
+  },
+  {
+    "word": "film",
+    "type": "verb",
+    "v1": "film",
+    "v2": "filmed",
+    "v3": "filmed",
+    "definition": "quay phim",
+    "english_definition": "to record moving images",
+    "example": "I film every day."
+  },
+  {
+    "word": "fish",
+    "type": "verb",
+    "v1": "fish",
+    "v2": "fished",
+    "v3": "fished",
+    "definition": "câu cá",
+    "english_definition": "to try to catch fish",
+    "example": "I fish every day."
+  },
+  {
+    "word": "flush",
+    "type": "verb",
+    "v1": "flush",
+    "v2": "flushed",
+    "v3": "flushed",
+    "definition": "đỏ mặt/xả nước",
+    "english_definition": "to become red in the face",
+    "example": "I flush every day."
+  },
+  {
+    "word": "force",
+    "type": "verb",
+    "v1": "force",
+    "v2": "forced",
+    "v3": "forced",
+    "definition": "ép buộc",
+    "english_definition": "to make someone do something",
+    "example": "I force every day."
+  },
+  {
+    "word": "foster",
+    "type": "verb",
+    "v1": "foster",
+    "v2": "fostered",
+    "v3": "fostered",
+    "definition": "bồi dưỡng/nuôi dưỡng",
+    "english_definition": "to help develop or grow",
+    "example": "I foster every day."
+  },
+  {
+    "word": "fry",
+    "type": "verb",
+    "v1": "fry",
+    "v2": "fried",
+    "v3": "fried",
+    "definition": "chiên/rán",
+    "english_definition": "to cook in hot oil",
+    "example": "I fry every day."
+  },
+  {
+    "word": "gather",
+    "type": "verb",
+    "v1": "gather",
+    "v2": "gathered",
+    "v3": "gathered",
+    "definition": "tập hợp/thu thập",
+    "english_definition": "to come together or collect",
+    "example": "I gather every day."
+  },
+  {
+    "word": "grab",
+    "type": "verb",
+    "v1": "grab",
+    "v2": "grabbed",
+    "v3": "grabbed",
+    "definition": "chộp/nắm lấy",
+    "english_definition": "to take something quickly",
+    "example": "I grab every day."
+  },
+  {
+    "word": "grade",
+    "type": "verb",
+    "v1": "grade",
+    "v2": "graded",
+    "v3": "graded",
+    "definition": "chấm điểm/phân loại",
+    "english_definition": "to give a score or mark",
+    "example": "I grade every day."
+  },
+  {
+    "word": "greet",
+    "type": "verb",
+    "v1": "greet",
+    "v2": "greeted",
+    "v3": "greeted",
+    "definition": "chào hỏi",
+    "english_definition": "to welcome someone",
+    "example": "I greet every day."
+  },
+  {
+    "word": "ground",
+    "type": "verb",
+    "v1": "ground",
+    "v2": "grounded",
+    "v3": "grounded",
+    "definition": "phạt cấm túc/tiếp đất",
+    "english_definition": "to punish by not allowing to go out",
+    "example": "I ground every day."
+  },
+  {
+    "word": "guess",
+    "type": "verb",
+    "v1": "guess",
+    "v2": "guessed",
+    "v3": "guessed",
+    "definition": "đoán",
+    "english_definition": "to give an answer without knowing",
+    "example": "I guess every day."
+  },
+  {
+    "word": "happen",
+    "type": "verb",
+    "v1": "happen",
+    "v2": "happened",
+    "v3": "happened",
+    "definition": "xảy ra",
+    "english_definition": "to take place",
+    "example": "I happen every day."
+  },
+  {
+    "word": "harass",
+    "type": "verb",
+    "v1": "harass",
+    "v2": "harassed",
+    "v3": "harassed",
+    "definition": "quấy rối",
+    "english_definition": "to annoy someone repeatedly",
+    "example": "I harass every day."
+  },
+  {
+    "word": "harm",
+    "type": "verb",
+    "v1": "harm",
+    "v2": "harmed",
+    "v3": "harmed",
+    "definition": "làm hại",
+    "english_definition": "to hurt someone or something",
+    "example": "I harm every day."
+  },
+  {
+    "word": "hate",
+    "type": "verb",
+    "v1": "hate",
+    "v2": "hated",
+    "v3": "hated",
+    "definition": "ghét",
+    "english_definition": "to dislike very much",
+    "example": "I hate every day."
+  },
+  {
+    "word": "heal",
+    "type": "verb",
+    "v1": "heal",
+    "v2": "healed",
+    "v3": "healed",
+    "definition": "chữa lành",
+    "english_definition": "to make healthy again",
+    "example": "I heal every day."
+  },
+  {
+    "word": "heat",
+    "type": "verb",
+    "v1": "heat",
+    "v2": "heated",
+    "v3": "heated",
+    "definition": "đun nóng",
+    "english_definition": "to make something hot",
+    "example": "I heat every day."
+  },
+  {
+    "word": "hesitate",
+    "type": "verb",
+    "v1": "hesitate",
+    "v2": "hesitated",
+    "v3": "hesitated",
+    "definition": "do dự",
+    "english_definition": "to pause before doing something",
+    "example": "I hesitate every day."
+  },
+  {
+    "word": "hire",
+    "type": "verb",
+    "v1": "hire",
+    "v2": "hired",
+    "v3": "hired",
+    "definition": "thuê",
+    "english_definition": "to pay someone to work for you",
+    "example": "I hire every day."
+  },
+  {
+    "word": "hitchhike",
+    "type": "verb",
+    "v1": "hitchhike",
+    "v2": "hitchhiked",
+    "v3": "hitchhiked",
+    "definition": "đi nhờ xe",
+    "english_definition": "to travel by getting free rides",
+    "example": "I hitchhike every day."
+  },
+  {
+    "word": "hope",
+    "type": "verb",
+    "v1": "hope",
+    "v2": "hoped",
+    "v3": "hoped",
+    "definition": "hy vọng",
+    "english_definition": "to want something to happen",
+    "example": "I hope every day."
+  },
+  {
+    "word": "hunt",
+    "type": "verb",
+    "v1": "hunt",
+    "v2": "hunted",
+    "v3": "hunted",
+    "definition": "săn bắn",
+    "english_definition": "to chase and kill animals",
+    "example": "I hunt every day."
+  },
+  {
+    "word": "hurry",
+    "type": "verb",
+    "v1": "hurry",
+    "v2": "hurried",
+    "v3": "hurried",
+    "definition": "vội vàng",
+    "english_definition": "to move or do something quickly",
+    "example": "I hurry every day."
+  },
+  {
+    "word": "identify",
+    "type": "verb",
+    "v1": "identify",
+    "v2": "identified",
+    "v3": "identified",
+    "definition": "xác định",
+    "english_definition": "to recognize who someone is",
+    "example": "I identify every day."
+  },
+  {
+    "word": "imagine",
+    "type": "verb",
+    "v1": "imagine",
+    "v2": "imagined",
+    "v3": "imagined",
+    "definition": "tưởng tượng",
+    "english_definition": "to form a picture in your mind",
+    "example": "I imagine every day."
+  },
+  {
+    "word": "insist",
+    "type": "verb",
+    "v1": "insist",
+    "v2": "insisted",
+    "v3": "insisted",
+    "definition": "khăng khăng",
+    "english_definition": "to say firmly that something must happen",
+    "example": "I insist every day."
+  },
+  {
+    "word": "intend",
+    "type": "verb",
+    "v1": "intend",
+    "v2": "intended",
+    "v3": "intended",
+    "definition": "dự định",
+    "english_definition": "to plan to do something",
+    "example": "I intend every day."
+  },
+  {
+    "word": "interest",
+    "type": "verb",
+    "v1": "interest",
+    "v2": "interested",
+    "v3": "interested",
+    "definition": "gây hứng thú",
+    "english_definition": "to make someone want to know more",
+    "example": "I interest every day."
+  },
+  {
+    "word": "interrupt",
+    "type": "verb",
+    "v1": "interrupt",
+    "v2": "interrupted",
+    "v3": "interrupted",
+    "definition": "gián đoạn",
+    "english_definition": "to stop someone while they are speaking",
+    "example": "I interrupt every day."
+  },
+  {
+    "word": "introduce",
+    "type": "verb",
+    "v1": "introduce",
+    "v2": "introduced",
+    "v3": "introduced",
+    "definition": "giới thiệu",
+    "english_definition": "to tell people each other's names",
+    "example": "I introduce every day."
+  },
+  {
+    "word": "invent",
+    "type": "verb",
+    "v1": "invent",
+    "v2": "invented",
+    "v3": "invented",
+    "definition": "phát minh",
+    "english_definition": "to create something new",
+    "example": "I invent every day."
+  },
+  {
+    "word": "investigate",
+    "type": "verb",
+    "v1": "investigate",
+    "v2": "investigated",
+    "v3": "investigated",
+    "definition": "điều tra",
+    "english_definition": "to try to find out about something",
+    "example": "I investigate every day."
+  },
+  {
+    "word": "irritate",
+    "type": "verb",
+    "v1": "irritate",
+    "v2": "irritated",
+    "v3": "irritated",
+    "definition": "gây kích thích/khó chịu",
+    "english_definition": "to annoy someone",
+    "example": "I irritate every day."
+  },
+  {
+    "word": "jinx",
+    "type": "verb",
+    "v1": "jinx",
+    "v2": "jinxed",
+    "v3": "jinxed",
+    "definition": "ám vận/xui xẻo",
+    "english_definition": "to bring bad luck",
+    "example": "I jinx every day."
+  },
+  {
+    "word": "joke",
+    "type": "verb",
+    "v1": "joke",
+    "v2": "joked",
+    "v3": "joked",
+    "definition": "nói đùa",
+    "english_definition": "to say something funny",
+    "example": "I joke every day."
+  },
+  {
+    "word": "jump",
+    "type": "verb",
+    "v1": "jump",
+    "v2": "jumped",
+    "v3": "jumped",
+    "definition": "nhảy",
+    "english_definition": "to push yourself off the ground",
+    "example": "I jump every day."
+  },
+  {
+    "word": "kick",
+    "type": "verb",
+    "v1": "kick",
+    "v2": "kicked",
+    "v3": "kicked",
+    "definition": "đá/sút",
+    "english_definition": "to hit with your foot",
+    "example": "I kick every day."
+  },
+  {
+    "word": "kill",
+    "type": "verb",
+    "v1": "kill",
+    "v2": "killed",
+    "v3": "killed",
+    "definition": "giết",
+    "english_definition": "to make someone or something die",
+    "example": "I kill every day."
+  },
+  {
+    "word": "kiss",
+    "type": "verb",
+    "v1": "kiss",
+    "v2": "kissed",
+    "v3": "kissed",
+    "definition": "hôn",
+    "english_definition": "to touch with your lips",
+    "example": "I kiss every day."
+  },
+  {
+    "word": "knock",
+    "type": "verb",
+    "v1": "knock",
+    "v2": "knocked",
+    "v3": "knocked",
+    "definition": "gõ/đánh ngã",
+    "english_definition": "to hit something to make a noise",
+    "example": "I knock every day."
+  },
+  {
+    "word": "land",
+    "type": "verb",
+    "v1": "land",
+    "v2": "landed",
+    "v3": "landed",
+    "definition": "hạ cánh",
+    "english_definition": "to arrive on the ground",
+    "example": "I land every day."
+  },
+  {
+    "word": "last",
+    "type": "verb",
+    "v1": "last",
+    "v2": "lasted",
+    "v3": "lasted",
+    "definition": "kéo dài",
+    "english_definition": "to continue for a period of time",
+    "example": "I last every day."
+  },
+  {
+    "word": "laugh",
+    "type": "verb",
+    "v1": "laugh",
+    "v2": "laughed",
+    "v3": "laughed",
+    "definition": "cười",
+    "english_definition": "to make sounds with your voice showing you think something is funny",
+    "example": "I laugh every day."
+  },
+  {
+    "word": "lie",
+    "type": "verb",
+    "v1": "lie",
+    "v2": "lied",
+    "v3": "lied",
+    "definition": "nói dối",
+    "english_definition": "to say something that is not true",
+    "example": "I lie every day."
+  },
+  {
+    "word": "lift",
+    "type": "verb",
+    "v1": "lift",
+    "v2": "lifted",
+    "v3": "lifted",
+    "definition": "nâng",
+    "english_definition": "to move something upward",
+    "example": "I lift every day."
+  },
+  {
+    "word": "link",
+    "type": "verb",
+    "v1": "link",
+    "v2": "linked",
+    "v3": "linked",
+    "definition": "liên kết",
+    "english_definition": "to connect",
+    "example": "I link every day."
+  },
+  {
+    "word": "list",
+    "type": "verb",
+    "v1": "list",
+    "v2": "listed",
+    "v3": "listed",
+    "definition": "liệt kê",
+    "english_definition": "to write names or things one after another",
+    "example": "I list every day."
+  },
+  {
+    "word": "locate",
+    "type": "verb",
+    "v1": "locate",
+    "v2": "located",
+    "v3": "located",
+    "definition": "định vị/đặt ở",
+    "english_definition": "to find the position of something",
+    "example": "I locate every day."
+  },
+  {
+    "word": "lock",
+    "type": "verb",
+    "v1": "lock",
+    "v2": "locked",
+    "v3": "locked",
+    "definition": "khóa",
+    "english_definition": "to close with a key",
+    "example": "I lock every day."
+  },
+  {
+    "word": "mail",
+    "type": "verb",
+    "v1": "mail",
+    "v2": "mailed",
+    "v3": "mailed",
+    "definition": "gửi thư",
+    "english_definition": "to send a letter",
+    "example": "I mail every day."
+  },
+  {
+    "word": "marry",
+    "type": "verb",
+    "v1": "marry",
+    "v2": "married",
+    "v3": "married",
+    "definition": "kết hôn",
+    "english_definition": "to become husband and wife",
+    "example": "I marry every day."
+  },
+  {
+    "word": "measure",
+    "type": "verb",
+    "v1": "measure",
+    "v2": "measured",
+    "v3": "measured",
+    "definition": "đo lường",
+    "english_definition": "to find the size or amount",
+    "example": "I measure every day."
+  },
+  {
+    "word": "mind",
+    "type": "verb",
+    "v1": "mind",
+    "v2": "minded",
+    "v3": "minded",
+    "definition": "phiền/để ý",
+    "english_definition": "to be annoyed by something",
+    "example": "I mind every day."
+  },
+  {
+    "word": "miss",
+    "type": "verb",
+    "v1": "miss",
+    "v2": "missed",
+    "v3": "missed",
+    "definition": "bỏ lỡ/nhớ",
+    "english_definition": "to feel sad because someone is not there",
+    "example": "I miss every day."
+  },
+  {
+    "word": "mistreat",
+    "type": "verb",
+    "v1": "mistreat",
+    "v2": "mistreated",
+    "v3": "mistreated",
+    "definition": "ngược đãi",
+    "english_definition": "to treat badly",
+    "example": "I mistreat every day."
+  },
+  {
+    "word": "mix",
+    "type": "verb",
+    "v1": "mix",
+    "v2": "mixed",
+    "v3": "mixed",
+    "definition": "trộn",
+    "english_definition": "to combine different things",
+    "example": "I mix every day."
+  },
+  {
+    "word": "murder",
+    "type": "verb",
+    "v1": "murder",
+    "v2": "murdered",
+    "v3": "murdered",
+    "definition": "giết người",
+    "english_definition": "to kill someone intentionally",
+    "example": "I murder every day."
+  },
+  {
+    "word": "name",
+    "type": "verb",
+    "v1": "name",
+    "v2": "named",
+    "v3": "named",
+    "definition": "đặt tên",
+    "english_definition": "to give a name to",
+    "example": "I name every day."
+  },
+  {
+    "word": "note",
+    "type": "verb",
+    "v1": "note",
+    "v2": "noted",
+    "v3": "noted",
+    "definition": "ghi chú",
+    "english_definition": "to write something down",
+    "example": "I note every day."
+  },
+  {
+    "word": "notice",
+    "type": "verb",
+    "v1": "notice",
+    "v2": "noticed",
+    "v3": "noticed",
+    "definition": "nhận thấy",
+    "english_definition": "to see or become aware of",
+    "example": "I notice every day."
+  },
+  {
+    "word": "number",
+    "type": "verb",
+    "v1": "number",
+    "v2": "numbered",
+    "v3": "numbered",
+    "definition": "đánh số",
+    "english_definition": "to give a number to",
+    "example": "I number every day."
+  },
+  {
+    "word": "obey",
+    "type": "verb",
+    "v1": "obey",
+    "v2": "obeyed",
+    "v3": "obeyed",
+    "definition": "vâng lời",
+    "english_definition": "to do what you are told",
+    "example": "I obey every day."
+  },
+  {
+    "word": "offend",
+    "type": "verb",
+    "v1": "offend",
+    "v2": "offended",
+    "v3": "offended",
+    "definition": "xúc phạm",
+    "english_definition": "to make someone upset or angry",
+    "example": "I offend every day."
+  },
+  {
+    "word": "outsmart",
+    "type": "verb",
+    "v1": "outsmart",
+    "v2": "outsmarted",
+    "v3": "outsmarted",
+    "definition": "cao tay hơn",
+    "english_definition": "to be more clever than someone",
+    "example": "I outsmart every day."
+  },
+  {
+    "word": "overreact",
+    "type": "verb",
+    "v1": "overreact",
+    "v2": "overreacted",
+    "v3": "overreacted",
+    "definition": "phản ứng thái quá",
+    "english_definition": "to react too strongly",
+    "example": "I overreact every day."
+  },
+  {
+    "word": "paint",
+    "type": "verb",
+    "v1": "paint",
+    "v2": "painted",
+    "v3": "painted",
+    "definition": "sơn/vẽ",
+    "english_definition": "to put paint on something",
+    "example": "I paint every day."
+  },
+  {
+    "word": "park",
+    "type": "verb",
+    "v1": "park",
+    "v2": "parked",
+    "v3": "parked",
+    "definition": "đậu xe",
+    "english_definition": "to stop a car and leave it",
+    "example": "I park every day."
+  },
+  {
+    "word": "phone",
+    "type": "verb",
+    "v1": "phone",
+    "v2": "phoned",
+    "v3": "phoned",
+    "definition": "gọi điện",
+    "english_definition": "to call someone",
+    "example": "I phone every day."
+  },
+  {
+    "word": "pick",
+    "type": "verb",
+    "v1": "pick",
+    "v2": "picked",
+    "v3": "picked",
+    "definition": "nhặt/chọn",
+    "english_definition": "to choose or take",
+    "example": "I pick every day."
+  },
+  {
+    "word": "place",
+    "type": "verb",
+    "v1": "place",
+    "v2": "placed",
+    "v3": "placed",
+    "definition": "đặt để",
+    "english_definition": "to put something somewhere",
+    "example": "I place every day."
+  },
+  {
+    "word": "plan",
+    "type": "verb",
+    "v1": "plan",
+    "v2": "planned",
+    "v3": "planned",
+    "definition": "lên kế hoạch",
+    "english_definition": "to decide what you are going to do",
+    "example": "I plan every day."
+  },
+  {
+    "word": "please",
+    "type": "verb",
+    "v1": "please",
+    "v2": "pleased",
+    "v3": "pleased",
+    "definition": "làm hài lòng",
+    "english_definition": "to make someone happy",
+    "example": "I please every day."
+  },
+  {
+    "word": "pluck",
+    "type": "verb",
+    "v1": "pluck",
+    "v2": "plucked",
+    "v3": "plucked",
+    "definition": "nhổ/hái",
+    "english_definition": "to pull something",
+    "example": "I pluck every day."
+  },
+  {
+    "word": "praise",
+    "type": "verb",
+    "v1": "praise",
+    "v2": "praised",
+    "v3": "praised",
+    "definition": "khen ngợi",
+    "english_definition": "to say good things about someone",
+    "example": "I praise every day."
+  },
+  {
+    "word": "pray",
+    "type": "verb",
+    "v1": "pray",
+    "v2": "prayed",
+    "v3": "prayed",
+    "definition": "cầu nguyện",
+    "english_definition": "to speak to God",
+    "example": "I pray every day."
+  },
+  {
+    "word": "pretend",
+    "type": "verb",
+    "v1": "pretend",
+    "v2": "pretended",
+    "v3": "pretended",
+    "definition": "giả vờ",
+    "english_definition": "to act as if something is true when it is not",
+    "example": "I pretend every day."
+  },
+  {
+    "word": "print",
+    "type": "verb",
+    "v1": "print",
+    "v2": "printed",
+    "v3": "printed",
+    "definition": "in",
+    "english_definition": "to produce text or images on paper",
+    "example": "I print every day."
+  },
+  {
+    "word": "proceed",
+    "type": "verb",
+    "v1": "proceed",
+    "v2": "proceeded",
+    "v3": "proceeded",
+    "definition": "tiến hành/tiếp tục",
+    "english_definition": "to continue",
+    "example": "I proceed every day."
+  },
+  {
+    "word": "promise",
+    "type": "verb",
+    "v1": "promise",
+    "v2": "promised",
+    "v3": "promised",
+    "definition": "hứa",
+    "english_definition": "to say you will definitely do something",
+    "example": "I promise every day."
+  },
+  {
+    "word": "punch",
+    "type": "verb",
+    "v1": "punch",
+    "v2": "punched",
+    "v3": "punched",
+    "definition": "đấm/đục lỗ",
+    "english_definition": "to hit with your fist",
+    "example": "I punch every day."
+  },
+  {
+    "word": "punish",
+    "type": "verb",
+    "v1": "punish",
+    "v2": "punished",
+    "v3": "punished",
+    "definition": "trừng phạt",
+    "english_definition": "to make someone suffer for doing wrong",
+    "example": "I punish every day."
+  },
+  {
+    "word": "purchase",
+    "type": "verb",
+    "v1": "purchase",
+    "v2": "purchased",
+    "v3": "purchased",
+    "definition": "mua",
+    "english_definition": "to buy",
+    "example": "I purchase every day."
+  },
+  {
+    "word": "question",
+    "type": "verb",
+    "v1": "question",
+    "v2": "questioned",
+    "v3": "questioned",
+    "definition": "hỏi/chất vấn",
+    "english_definition": "to ask someone",
+    "example": "I question every day."
+  },
+  {
+    "word": "race",
+    "type": "verb",
+    "v1": "race",
+    "v2": "raced",
+    "v3": "raced",
+    "definition": "đua",
+    "english_definition": "to compete in speed",
+    "example": "I race every day."
+  },
+  {
+    "word": "rate",
+    "type": "verb",
+    "v1": "rate",
+    "v2": "rated",
+    "v3": "rated",
+    "definition": "đánh giá",
+    "english_definition": "to judge the quality or value",
+    "example": "I rate every day."
+  },
+  {
+    "word": "recommend",
+    "type": "verb",
+    "v1": "recommend",
+    "v2": "recommended",
+    "v3": "recommended",
+    "definition": "đề xuất/khuyến nghị",
+    "english_definition": "to suggest something as good",
+    "example": "I recommend every day."
+  },
+  {
+    "word": "refuse",
+    "type": "verb",
+    "v1": "refuse",
+    "v2": "refused",
+    "v3": "refused",
+    "definition": "từ chối",
+    "english_definition": "to say no",
+    "example": "I refuse every day."
+  },
+  {
+    "word": "regret",
+    "type": "verb",
+    "v1": "regret",
+    "v2": "regretted",
+    "v3": "regretted",
+    "definition": "hối hận",
+    "english_definition": "to feel sorry about something",
+    "example": "I regret every day."
+  },
+  {
+    "word": "rehearse",
+    "type": "verb",
+    "v1": "rehearse",
+    "v2": "rehearsed",
+    "v3": "rehearsed",
+    "definition": "diễn tập",
+    "english_definition": "to practice",
+    "example": "I rehearse every day."
+  },
+  {
+    "word": "relax",
+    "type": "verb",
+    "v1": "relax",
+    "v2": "relaxed",
+    "v3": "relaxed",
+    "definition": "thư giãn",
+    "english_definition": "to rest and become calm",
+    "example": "I relax every day."
+  },
+  {
+    "word": "reply",
+    "type": "verb",
+    "v1": "reply",
+    "v2": "replied",
+    "v3": "replied",
+    "definition": "trả lời",
+    "english_definition": "to answer",
+    "example": "I reply every day."
+  },
+  {
+    "word": "retire",
+    "type": "verb",
+    "v1": "retire",
+    "v2": "retired",
+    "v3": "retired",
+    "definition": "nghỉ hưu",
+    "english_definition": "to stop working because of age",
+    "example": "I retire every day."
+  },
+  {
+    "word": "rob",
+    "type": "verb",
+    "v1": "rob",
+    "v2": "robbed",
+    "v3": "robbed",
+    "definition": "cướp",
+    "english_definition": "to steal from someone",
+    "example": "I rob every day."
+  },
+  {
+    "word": "rub",
+    "type": "verb",
+    "v1": "rub",
+    "v2": "rubbed",
+    "v3": "rubbed",
+    "definition": "chà xát",
+    "english_definition": "to move your hand over a surface",
+    "example": "I rub every day."
+  },
+  {
+    "word": "rush",
+    "type": "verb",
+    "v1": "rush",
+    "v2": "rushed",
+    "v3": "rushed",
+    "definition": "vội vàng",
+    "english_definition": "to hurry",
+    "example": "I rush every day."
+  },
+  {
+    "word": "scare",
+    "type": "verb",
+    "v1": "scare",
+    "v2": "scared",
+    "v3": "scared",
+    "definition": "làm sợ hãi",
+    "english_definition": "to make afraid",
+    "example": "I scare every day."
+  },
+  {
+    "word": "scold",
+    "type": "verb",
+    "v1": "scold",
+    "v2": "scolded",
+    "v3": "scolded",
+    "definition": "mắng",
+    "english_definition": "to speak angrily to someone",
+    "example": "I scold every day."
+  },
+  {
+    "word": "seem",
+    "type": "verb",
+    "v1": "seem",
+    "v2": "seemed",
+    "v3": "seemed",
+    "definition": "dường như",
+    "english_definition": "to appear to be",
+    "example": "I seem every day."
+  },
+  {
+    "word": "select",
+    "type": "verb",
+    "v1": "select",
+    "v2": "selected",
+    "v3": "selected",
+    "definition": "chọn",
+    "english_definition": "to choose",
+    "example": "I select every day."
+  },
+  {
+    "word": "share",
+    "type": "verb",
+    "v1": "share",
+    "v2": "shared",
+    "v3": "shared",
+    "definition": "chia sẻ",
+    "english_definition": "to have or use something with others",
+    "example": "I share every day."
+  },
+  {
+    "word": "shout",
+    "type": "verb",
+    "v1": "shout",
+    "v2": "shouted",
+    "v3": "shouted",
+    "definition": "la hét",
+    "english_definition": "to speak very loudly",
+    "example": "I shout every day."
+  },
+  {
+    "word": "shrug",
+    "type": "verb",
+    "v1": "shrug",
+    "v2": "shrugged",
+    "v3": "shrugged",
+    "definition": "nhún vai",
+    "english_definition": "to raise your shoulders",
+    "example": "I shrug every day."
+  },
+  {
+    "word": "skate",
+    "type": "verb",
+    "v1": "skate",
+    "v2": "skated",
+    "v3": "skated",
+    "definition": "trượt băng",
+    "english_definition": "to move on ice or wheels",
+    "example": "I skate every day."
+  },
+  {
+    "word": "slap",
+    "type": "verb",
+    "v1": "slap",
+    "v2": "slapped",
+    "v3": "slapped",
+    "definition": "tát",
+    "english_definition": "to hit with your hand",
+    "example": "I slap every day."
+  },
+  {
+    "word": "slip",
+    "type": "verb",
+    "v1": "slip",
+    "v2": "slipped",
+    "v3": "slipped",
+    "definition": "trượt chân",
+    "english_definition": "to slide accidentally",
+    "example": "I slip every day."
+  },
+  {
+    "word": "smoke",
+    "type": "verb",
+    "v1": "smoke",
+    "v2": "smoked",
+    "v3": "smoked",
+    "definition": "hút thuốc",
+    "english_definition": "to breathe smoke from cigarettes",
+    "example": "I smoke every day."
+  },
+  {
+    "word": "snatch",
+    "type": "verb",
+    "v1": "snatch",
+    "v2": "snatched",
+    "v3": "snatched",
+    "definition": "giật lấy",
+    "english_definition": "to take quickly",
+    "example": "I snatch every day."
+  },
+  {
+    "word": "snore",
+    "type": "verb",
+    "v1": "snore",
+    "v2": "snored",
+    "v3": "snored",
+    "definition": "ngáy",
+    "english_definition": "to breathe noisily while sleeping",
+    "example": "I snore every day."
+  },
+  {
+    "word": "sort",
+    "type": "verb",
+    "v1": "sort",
+    "v2": "sorted",
+    "v3": "sorted",
+    "definition": "sắp xếp",
+    "english_definition": "to arrange in groups",
+    "example": "I sort every day."
+  },
+  {
+    "word": "sound",
+    "type": "verb",
+    "v1": "sound",
+    "v2": "sounded",
+    "v3": "sounded",
+    "definition": "phát ra âm/âm thanh",
+    "english_definition": "to seem when heard",
+    "example": "I sound every day."
+  },
+  {
+    "word": "stalk",
+    "type": "verb",
+    "v1": "stalk",
+    "v2": "stalked",
+    "v3": "stalked",
+    "definition": "rình rập",
+    "english_definition": "to follow secretly",
+    "example": "I stalk every day."
+  },
+  {
+    "word": "stare",
+    "type": "verb",
+    "v1": "stare",
+    "v2": "stared",
+    "v3": "stared",
+    "definition": "nhìn chằm chằm",
+    "english_definition": "to look for a long time",
+    "example": "I stare every day."
+  },
+  {
+    "word": "state",
+    "type": "verb",
+    "v1": "state",
+    "v2": "stated",
+    "v3": "stated",
+    "definition": "nêu/phát biểu",
+    "english_definition": "to say formally",
+    "example": "I state every day."
+  },
+  {
+    "word": "step",
+    "type": "verb",
+    "v1": "step",
+    "v2": "stepped",
+    "v3": "stepped",
+    "definition": "bước",
+    "english_definition": "to move your foot",
+    "example": "I step every day."
+  },
+  {
+    "word": "store",
+    "type": "verb",
+    "v1": "store",
+    "v2": "stored",
+    "v3": "stored",
+    "definition": "lưu trữ",
+    "english_definition": "to keep for future use",
+    "example": "I store every day."
+  },
+  {
+    "word": "stroll",
+    "type": "verb",
+    "v1": "stroll",
+    "v2": "strolled",
+    "v3": "strolled",
+    "definition": "tản bộ",
+    "english_definition": "to walk slowly for pleasure",
+    "example": "I stroll every day."
+  },
+  {
+    "word": "succeed",
+    "type": "verb",
+    "v1": "succeed",
+    "v2": "succeeded",
+    "v3": "succeeded",
+    "definition": "thành công",
+    "english_definition": "to achieve what you wanted",
+    "example": "I succeed every day."
+  },
+  {
+    "word": "sue",
+    "type": "verb",
+    "v1": "sue",
+    "v2": "sued",
+    "v3": "sued",
+    "definition": "kiện",
+    "english_definition": "to take legal action",
+    "example": "I sue every day."
+  },
+  {
+    "word": "suggest",
+    "type": "verb",
+    "v1": "suggest",
+    "v2": "suggested",
+    "v3": "suggested",
+    "definition": "đề xuất",
+    "english_definition": "to mention an idea",
+    "example": "I suggest every day."
+  },
+  {
+    "word": "talk",
+    "type": "verb",
+    "v1": "talk",
+    "v2": "talked",
+    "v3": "talked",
+    "definition": "nói chuyện",
+    "english_definition": "to speak",
+    "example": "I talk every day."
+  },
+  {
+    "word": "taste",
+    "type": "verb",
+    "v1": "taste",
+    "v2": "tasted",
+    "v3": "tasted",
+    "definition": "nếm",
+    "english_definition": "to eat a small amount",
+    "example": "I taste every day."
+  },
+  {
+    "word": "tease",
+    "type": "verb",
+    "v1": "tease",
+    "v2": "teased",
+    "v3": "teased",
+    "definition": "trêu chọc",
+    "english_definition": "to laugh at someone",
+    "example": "I tease every day."
+  },
+  {
+    "word": "thank",
+    "type": "verb",
+    "v1": "thank",
+    "v2": "thanked",
+    "v3": "thanked",
+    "definition": "cảm ơn",
+    "english_definition": "to express gratitude",
+    "example": "I thank every day."
+  },
+  {
+    "word": "touch",
+    "type": "verb",
+    "v1": "touch",
+    "v2": "touched",
+    "v3": "touched",
+    "definition": "chạm",
+    "english_definition": "to put your hand on something",
+    "example": "I touch every day."
+  },
+  {
+    "word": "tour",
+    "type": "verb",
+    "v1": "tour",
+    "v2": "toured",
+    "v3": "toured",
+    "definition": "tham quan",
+    "english_definition": "to visit places",
+    "example": "I tour every day."
+  },
+  {
+    "word": "trade",
+    "type": "verb",
+    "v1": "trade",
+    "v2": "traded",
+    "v3": "traded",
+    "definition": "giao dịch/trao đổi",
+    "english_definition": "to buy and sell",
+    "example": "I trade every day."
+  },
+  {
+    "word": "trip",
+    "type": "verb",
+    "v1": "trip",
+    "v2": "tripped",
+    "v3": "tripped",
+    "definition": "vấp ngã",
+    "english_definition": "to catch your foot and fall",
+    "example": "I trip every day."
+  },
+  {
+    "word": "trouble",
+    "type": "verb",
+    "v1": "trouble",
+    "v2": "troubled",
+    "v3": "troubled",
+    "definition": "làm phiền/gây rắc rối",
+    "english_definition": "to cause problems",
+    "example": "I trouble every day."
+  },
+  {
+    "word": "try",
+    "type": "verb",
+    "v1": "try",
+    "v2": "tried",
+    "v3": "tried",
+    "definition": "cố gắng",
+    "english_definition": "to attempt to do something",
+    "example": "I try every day."
+  },
+  {
+    "word": "twist",
+    "type": "verb",
+    "v1": "twist",
+    "v2": "twisted",
+    "v3": "twisted",
+    "definition": "vặn/xoắn",
+    "english_definition": "to turn something",
+    "example": "I twist every day."
+  },
+  {
+    "word": "type",
+    "type": "verb",
+    "v1": "type",
+    "v2": "typed",
+    "v3": "typed",
+    "definition": "đánh máy",
+    "english_definition": "to write using a keyboard",
+    "example": "I type every day."
+  },
+  {
+    "word": "underline",
+    "type": "verb",
+    "v1": "underline",
+    "v2": "underlined",
+    "v3": "underlined",
+    "definition": "gạch chân",
+    "english_definition": "to draw a line under",
+    "example": "I underline every day."
+  },
+  {
+    "word": "vary",
+    "type": "verb",
+    "v1": "vary",
+    "v2": "varied",
+    "v3": "varied",
+    "definition": "thay đổi/đa dạng",
+    "english_definition": "to be different",
+    "example": "I vary every day."
+  },
+  {
+    "word": "vote",
+    "type": "verb",
+    "v1": "vote",
+    "v2": "voted",
+    "v3": "voted",
+    "definition": "bình chọn/bỏ phiếu",
+    "english_definition": "to make a choice in an election",
+    "example": "I vote every day."
+  },
+  {
+    "word": "warn",
+    "type": "verb",
+    "v1": "warn",
+    "v2": "warned",
+    "v3": "warned",
+    "definition": "cảnh báo",
+    "english_definition": "to tell about danger",
+    "example": "I warn every day."
+  },
+  {
+    "word": "waste",
+    "type": "verb",
+    "v1": "waste",
+    "v2": "wasted",
+    "v3": "wasted",
+    "definition": "lãng phí",
+    "english_definition": "to use too much",
+    "example": "I waste every day."
+  },
+  {
+    "word": "water",
+    "type": "verb",
+    "v1": "water",
+    "v2": "watered",
+    "v3": "watered",
+    "definition": "tưới",
+    "english_definition": "to pour water on plants",
+    "example": "I water every day."
+  },
+  {
+    "word": "wave",
+    "type": "verb",
+    "v1": "wave",
+    "v2": "waved",
+    "v3": "waved",
+    "definition": "vẫy tay",
+    "english_definition": "to move your hand as a greeting",
+    "example": "I wave every day."
+  },
+  {
+    "word": "welcome",
+    "type": "verb",
+    "v1": "welcome",
+    "v2": "welcomed",
+    "v3": "welcomed",
+    "definition": "chào mừng",
+    "english_definition": "to greet in a friendly way",
+    "example": "I welcome every day."
+  },
+  {
+    "word": "wink",
+    "type": "verb",
+    "v1": "wink",
+    "v2": "winked",
+    "v3": "winked",
+    "definition": "nháy mắt",
+    "english_definition": "to close one eye quickly",
+    "example": "I wink every day."
+  },
+  {
+    "word": "wish",
+    "type": "verb",
+    "v1": "wish",
+    "v2": "wished",
+    "v3": "wished",
+    "definition": "ước/chúc",
+    "english_definition": "to want something to happen",
+    "example": "I wish every day."
+  },
+  {
+    "word": "witness",
+    "type": "verb",
+    "v1": "witness",
+    "v2": "witnessed",
+    "v3": "witnessed",
+    "definition": "chứng kiến",
+    "english_definition": "to see something happen",
+    "example": "I witness every day."
+  },
+  {
+    "word": "wonder",
+    "type": "verb",
+    "v1": "wonder",
+    "v2": "wondered",
+    "v3": "wondered",
+    "definition": "tự hỏi/băn khoăn",
+    "english_definition": "to think about something with curiosity",
+    "example": "I wonder every day."
+  },
+  {
+    "word": "worry",
+    "type": "verb",
+    "v1": "worry",
+    "v2": "worried",
+    "v3": "worried",
+    "definition": "lo lắng",
+    "english_definition": "to feel anxious",
+    "example": "I worry every day."
+  },
+  {
+    "word": "wrap",
+    "type": "verb",
+    "v1": "wrap",
+    "v2": "wrapped",
+    "v3": "wrapped",
+    "definition": "gói/bọc",
+    "english_definition": "to cover something",
+    "example": "I wrap every day."
+  },
+  {
+    "word": "yell",
+    "type": "verb",
+    "v1": "yell",
+    "v2": "yelled",
+    "v3": "yelled",
+    "definition": "la hét",
+    "english_definition": "to shout loudly",
+    "example": "I yell every day."
+  },
+  {
+    "word": "abide",
+    "type": "verb",
+    "v1": "abide",
+    "v2": "abode/abided",
+    "v3": "abode/abided",
+    "definition": "",
+    "english_definition": "to abide",
+    "example": "I abide every day."
+  },
+  {
+    "word": "arise",
+    "type": "verb",
+    "v1": "arise",
+    "v2": "arose",
+    "v3": "arisen",
+    "definition": "",
+    "english_definition": "to arise",
+    "example": "I arise every day."
+  },
+  {
+    "word": "awake",
+    "type": "verb",
+    "v1": "awake",
+    "v2": "awoke",
+    "v3": "awoken",
+    "definition": "",
+    "english_definition": "to awake",
+    "example": "I awake every day."
+  },
+  {
+    "word": "backslide",
+    "type": "verb",
+    "v1": "backslide",
+    "v2": "backslid",
+    "v3": "backslide/backslid",
+    "definition": "",
+    "english_definition": "to backslide",
+    "example": "I backslide every day."
+  },
+  {
+    "word": "befall",
+    "type": "verb",
+    "v1": "befall",
+    "v2": "befell",
+    "v3": "befallen",
+    "definition": "",
+    "english_definition": "to befall",
+    "example": "I befall every day."
+  },
+  {
+    "word": "behold",
+    "type": "verb",
+    "v1": "behold",
+    "v2": "beheld",
+    "v3": "beheld",
+    "definition": "",
+    "english_definition": "to behold",
+    "example": "I behold every day."
+  },
+  {
+    "word": "bend",
+    "type": "verb",
+    "v1": "bend",
+    "v2": "bent",
+    "v3": "bent",
+    "definition": "",
+    "english_definition": "to bend",
+    "example": "I bend every day."
+  },
+  {
+    "word": "beset",
+    "type": "verb",
+    "v1": "beset",
+    "v2": "beset",
+    "v3": "beset",
+    "definition": "",
+    "english_definition": "to beset",
+    "example": "I beset every day."
+  },
+  {
+    "word": "bespeak",
+    "type": "verb",
+    "v1": "bespeak",
+    "v2": "bespoke",
+    "v3": "bespoken",
+    "definition": "",
+    "english_definition": "to bespeak",
+    "example": "I bespeak every day."
+  },
+  {
+    "word": "bet",
+    "type": "verb",
+    "v1": "bet",
+    "v2": "bet/betted",
+    "v3": "bet/betted",
+    "definition": "",
+    "english_definition": "to bet",
+    "example": "I bet every day."
+  },
+  {
+    "word": "bid",
+    "type": "verb",
+    "v1": "bid",
+    "v2": "bid",
+    "v3": "bid",
+    "definition": "",
+    "english_definition": "to bid",
+    "example": "I bid every day."
+  },
+  {
+    "word": "bind",
+    "type": "verb",
+    "v1": "bind",
+    "v2": "bound",
+    "v3": "bound",
+    "definition": "",
+    "english_definition": "to bind",
+    "example": "I bind every day."
+  },
+  {
+    "word": "bite",
+    "type": "verb",
+    "v1": "bite",
+    "v2": "bit",
+    "v3": "bitten",
+    "definition": "",
+    "english_definition": "to bite",
+    "example": "I bite every day."
+  },
+  {
+    "word": "bleed",
+    "type": "verb",
+    "v1": "bleed",
+    "v2": "bled",
+    "v3": "bled",
+    "definition": "",
+    "english_definition": "to bleed",
+    "example": "I bleed every day."
+  },
+  {
+    "word": "blow",
+    "type": "verb",
+    "v1": "blow",
+    "v2": "blew",
+    "v3": "blown",
+    "definition": "",
+    "english_definition": "to blow",
+    "example": "I blow every day."
+  },
+  {
+    "word": "break",
+    "type": "verb",
+    "v1": "break",
+    "v2": "broke",
+    "v3": "broken",
+    "definition": "",
+    "english_definition": "to break",
+    "example": "I break every day."
+  },
+  {
+    "word": "breed",
+    "type": "verb",
+    "v1": "breed",
+    "v2": "bred",
+    "v3": "bred",
+    "definition": "",
+    "english_definition": "to breed",
+    "example": "I breed every day."
+  },
+  {
+    "word": "browbeat",
+    "type": "verb",
+    "v1": "browbeat",
+    "v2": "browbeat",
+    "v3": "browbeaten/browbeat",
+    "definition": "",
+    "english_definition": "to browbeat",
+    "example": "I browbeat every day."
+  },
+  {
+    "word": "burn",
+    "type": "verb",
+    "v1": "burn",
+    "v2": "burnt/burned",
+    "v3": "burnt/burned",
+    "definition": "",
+    "english_definition": "to burn",
+    "example": "I burn every day."
+  },
+  {
+    "word": "burst",
+    "type": "verb",
+    "v1": "burst",
+    "v2": "burst",
+    "v3": "burst",
+    "definition": "",
+    "english_definition": "to burst",
+    "example": "I burst every day."
+  },
+  {
+    "word": "bust",
+    "type": "verb",
+    "v1": "bust",
+    "v2": "busted/bust",
+    "v3": "busted/bust",
+    "definition": "",
+    "english_definition": "to bust",
+    "example": "I bust every day."
+  },
+  {
+    "word": "cast",
+    "type": "verb",
+    "v1": "cast",
+    "v2": "cast",
+    "v3": "cast",
+    "definition": "",
+    "english_definition": "to cast",
+    "example": "I cast every day."
+  },
+  {
+    "word": "catch",
+    "type": "verb",
+    "v1": "catch",
+    "v2": "caught",
+    "v3": "caught",
+    "definition": "",
+    "english_definition": "to catch",
+    "example": "I catch every day."
+  },
+  {
+    "word": "chide",
+    "type": "verb",
+    "v1": "chide",
+    "v2": "chid/chided",
+    "v3": "chid/chidden/chided",
+    "definition": "",
+    "english_definition": "to chide",
+    "example": "I chide every day."
+  },
+  {
+    "word": "choose",
+    "type": "verb",
+    "v1": "choose",
+    "v2": "chose",
+    "v3": "chosen",
+    "definition": "",
+    "english_definition": "to choose",
+    "example": "I choose every day."
+  },
+  {
+    "word": "cleave",
+    "type": "verb",
+    "v1": "cleave",
+    "v2": "clove/cleft/cleaved",
+    "v3": "cloven/cleft/cleaved",
+    "definition": "",
+    "english_definition": "to cleave",
+    "example": "I cleave every day."
+  },
+  {
+    "word": "cling",
+    "type": "verb",
+    "v1": "cling",
+    "v2": "clung",
+    "v3": "clung",
+    "definition": "",
+    "english_definition": "to cling",
+    "example": "I cling every day."
+  },
+  {
+    "word": "clothe",
+    "type": "verb",
+    "v1": "clothe",
+    "v2": "clothed/clad",
+    "v3": "clothed/clad",
+    "definition": "",
+    "english_definition": "to clothe",
+    "example": "I clothe every day."
+  },
+  {
+    "word": "creep",
+    "type": "verb",
+    "v1": "creep",
+    "v2": "crept",
+    "v3": "crept",
+    "definition": "",
+    "english_definition": "to creep",
+    "example": "I creep every day."
+  },
+  {
+    "word": "crossbreed",
+    "type": "verb",
+    "v1": "crossbreed",
+    "v2": "crossbred",
+    "v3": "crossbred",
+    "definition": "",
+    "english_definition": "to crossbreed",
+    "example": "I crossbreed every day."
+  },
+  {
+    "word": "crow",
+    "type": "verb",
+    "v1": "crow",
+    "v2": "crew/crewed",
+    "v3": "crowed",
+    "definition": "",
+    "english_definition": "to crow",
+    "example": "I crow every day."
+  },
+  {
+    "word": "daydream",
+    "type": "verb",
+    "v1": "daydream",
+    "v2": "daydreamed/daydreamt",
+    "v3": "daydreamed/daydreamt",
+    "definition": "",
+    "english_definition": "to daydream",
+    "example": "I daydream every day."
+  },
+  {
+    "word": "deal",
+    "type": "verb",
+    "v1": "deal",
+    "v2": "dealt",
+    "v3": "dealt",
+    "definition": "",
+    "english_definition": "to deal",
+    "example": "I deal every day."
+  },
+  {
+    "word": "dig",
+    "type": "verb",
+    "v1": "dig",
+    "v2": "dug",
+    "v3": "dug",
+    "definition": "",
+    "english_definition": "to dig",
+    "example": "I dig every day."
+  },
+  {
+    "word": "disprove",
+    "type": "verb",
+    "v1": "disprove",
+    "v2": "disproved",
+    "v3": "disproved/disproven",
+    "definition": "",
+    "english_definition": "to disprove",
+    "example": "I disprove every day."
+  },
+  {
+    "word": "dive",
+    "type": "verb",
+    "v1": "dive",
+    "v2": "dove/dived",
+    "v3": "dived",
+    "definition": "",
+    "english_definition": "to dive",
+    "example": "I dive every day."
+  },
+  {
+    "word": "draw",
+    "type": "verb",
+    "v1": "draw",
+    "v2": "drew",
+    "v3": "drawn",
+    "definition": "",
+    "english_definition": "to draw",
+    "example": "I draw every day."
+  },
+  {
+    "word": "dream",
+    "type": "verb",
+    "v1": "dream",
+    "v2": "dreamt/dreamed",
+    "v3": "dreamt/dreamed",
+    "definition": "",
+    "english_definition": "to dream",
+    "example": "I dream every day."
+  },
+  {
+    "word": "dwell",
+    "type": "verb",
+    "v1": "dwell",
+    "v2": "dwelt",
+    "v3": "dwelt",
+    "definition": "",
+    "english_definition": "to dwell",
+    "example": "I dwell every day."
+  },
+  {
+    "word": "feed",
+    "type": "verb",
+    "v1": "feed",
+    "v2": "fed",
+    "v3": "fed",
+    "definition": "",
+    "english_definition": "to feed",
+    "example": "I feed every day."
+  },
+  {
+    "word": "fight",
+    "type": "verb",
+    "v1": "fight",
+    "v2": "fought",
+    "v3": "fought",
+    "definition": "",
+    "english_definition": "to fight",
+    "example": "I fight every day."
+  },
+  {
+    "word": "fit",
+    "type": "verb",
+    "v1": "fit",
+    "v2": "fitted/fit",
+    "v3": "fitted/fit",
+    "definition": "",
+    "english_definition": "to fit",
+    "example": "I fit every day."
+  },
+  {
+    "word": "flee",
+    "type": "verb",
+    "v1": "flee",
+    "v2": "fled",
+    "v3": "fled",
+    "definition": "",
+    "english_definition": "to flee",
+    "example": "I flee every day."
+  },
+  {
+    "word": "fling",
+    "type": "verb",
+    "v1": "fling",
+    "v2": "flung",
+    "v3": "flung",
+    "definition": "",
+    "english_definition": "to fling",
+    "example": "I fling every day."
+  },
+  {
+    "word": "fly",
+    "type": "verb",
+    "v1": "fly",
+    "v2": "flew",
+    "v3": "flown",
+    "definition": "",
+    "english_definition": "to fly",
+    "example": "I fly every day."
+  },
+  {
+    "word": "forbear",
+    "type": "verb",
+    "v1": "forbear",
+    "v2": "forbore",
+    "v3": "forborne",
+    "definition": "",
+    "english_definition": "to forbear",
+    "example": "I forbear every day."
+  },
+  {
+    "word": "forbid",
+    "type": "verb",
+    "v1": "forbid",
+    "v2": "forbade/forbad",
+    "v3": "forbidden",
+    "definition": "",
+    "english_definition": "to forbid",
+    "example": "I forbid every day."
+  },
+  {
+    "word": "forego (forgo)",
+    "type": "verb",
+    "v1": "forego (forgo)",
+    "v2": "forewent",
+    "v3": "foregone",
+    "definition": "",
+    "english_definition": "to forego (forgo)",
+    "example": "I forego (forgo) every day."
+  },
+  {
+    "word": "foresee",
+    "type": "verb",
+    "v1": "foresee",
+    "v2": "foresaw",
+    "v3": "foreseen",
+    "definition": "",
+    "english_definition": "to foresee",
+    "example": "I foresee every day."
+  },
+  {
+    "word": "foretell",
+    "type": "verb",
+    "v1": "foretell",
+    "v2": "foretold",
+    "v3": "foretold",
+    "definition": "",
+    "english_definition": "to foretell",
+    "example": "I foretell every day."
+  },
+  {
+    "word": "forget",
+    "type": "verb",
+    "v1": "forget",
+    "v2": "forgot",
+    "v3": "forgotten",
+    "definition": "",
+    "english_definition": "to forget",
+    "example": "I forget every day."
+  },
+  {
+    "word": "forgive",
+    "type": "verb",
+    "v1": "forgive",
+    "v2": "forgave",
+    "v3": "forgiven",
+    "definition": "",
+    "english_definition": "to forgive",
+    "example": "I forgive every day."
+  },
+  {
+    "word": "forsake",
+    "type": "verb",
+    "v1": "forsake",
+    "v2": "forsook",
+    "v3": "forsaken",
+    "definition": "",
+    "english_definition": "to forsake",
+    "example": "I forsake every day."
+  },
+  {
+    "word": "freeze",
+    "type": "verb",
+    "v1": "freeze",
+    "v2": "froze",
+    "v3": "frozen",
+    "definition": "",
+    "english_definition": "to freeze",
+    "example": "I freeze every day."
+  },
+  {
+    "word": "frostbite",
+    "type": "verb",
+    "v1": "frostbite",
+    "v2": "frostbit",
+    "v3": "frostbitten",
+    "definition": "",
+    "english_definition": "to frostbite",
+    "example": "I frostbite every day."
+  },
+  {
+    "word": "gild",
+    "type": "verb",
+    "v1": "gild",
+    "v2": "gilt/gilded",
+    "v3": "gilt/gilded",
+    "definition": "",
+    "english_definition": "to gild",
+    "example": "I gild every day."
+  },
+  {
+    "word": "gird",
+    "type": "verb",
+    "v1": "gird",
+    "v2": "girt/girded",
+    "v3": "girt/girded",
+    "definition": "",
+    "english_definition": "to gird",
+    "example": "I gird every day."
+  },
+  {
+    "word": "grind",
+    "type": "verb",
+    "v1": "grind",
+    "v2": "ground",
+    "v3": "ground",
+    "definition": "",
+    "english_definition": "to grind",
+    "example": "I grind every day."
+  },
+  {
+    "word": "hand-feed",
+    "type": "verb",
+    "v1": "hand-feed",
+    "v2": "hand-fed",
+    "v3": "hand-fed",
+    "definition": "",
+    "english_definition": "to hand-feed",
+    "example": "I hand-feed every day."
+  },
+  {
+    "word": "handwrite",
+    "type": "verb",
+    "v1": "handwrite",
+    "v2": "handwrote",
+    "v3": "handwritten",
+    "definition": "",
+    "english_definition": "to handwrite",
+    "example": "I handwrite every day."
+  },
+  {
+    "word": "hang",
+    "type": "verb",
+    "v1": "hang",
+    "v2": "hung",
+    "v3": "hung",
+    "definition": "",
+    "english_definition": "to hang",
+    "example": "I hang every day."
+  },
+  {
+    "word": "heave",
+    "type": "verb",
+    "v1": "heave",
+    "v2": "hove/heaved",
+    "v3": "hove/heaved",
+    "definition": "",
+    "english_definition": "to heave",
+    "example": "I heave every day."
+  },
+  {
+    "word": "hew",
+    "type": "verb",
+    "v1": "hew",
+    "v2": "hewed",
+    "v3": "hewn/hewed",
+    "definition": "",
+    "english_definition": "to hew",
+    "example": "I hew every day."
+  },
+  {
+    "word": "hide",
+    "type": "verb",
+    "v1": "hide",
+    "v2": "hid",
+    "v3": "hidden",
+    "definition": "",
+    "english_definition": "to hide",
+    "example": "I hide every day."
+  },
+  {
+    "word": "hit",
+    "type": "verb",
+    "v1": "hit",
+    "v2": "hit",
+    "v3": "hit",
+    "definition": "",
+    "english_definition": "to hit",
+    "example": "I hit every day."
+  },
+  {
+    "word": "hurt",
+    "type": "verb",
+    "v1": "hurt",
+    "v2": "hurt",
+    "v3": "hurt",
+    "definition": "",
+    "english_definition": "to hurt",
+    "example": "I hurt every day."
+  },
+  {
+    "word": "inbreed",
+    "type": "verb",
+    "v1": "inbreed",
+    "v2": "inbred",
+    "v3": "inbred",
+    "definition": "",
+    "english_definition": "to inbreed",
+    "example": "I inbreed every day."
+  },
+  {
+    "word": "inlay",
+    "type": "verb",
+    "v1": "inlay",
+    "v2": "inlaid",
+    "v3": "inlaid",
+    "definition": "",
+    "english_definition": "to inlay",
+    "example": "I inlay every day."
+  },
+  {
+    "word": "input",
+    "type": "verb",
+    "v1": "input",
+    "v2": "input",
+    "v3": "input",
+    "definition": "",
+    "english_definition": "to input",
+    "example": "I input every day."
+  },
+  {
+    "word": "inset",
+    "type": "verb",
+    "v1": "inset",
+    "v2": "inset",
+    "v3": "inset",
+    "definition": "",
+    "english_definition": "to inset",
+    "example": "I inset every day."
+  },
+  {
+    "word": "interbreed",
+    "type": "verb",
+    "v1": "interbreed",
+    "v2": "interbred",
+    "v3": "interbred",
+    "definition": "",
+    "english_definition": "to interbreed",
+    "example": "I interbreed every day."
+  },
+  {
+    "word": "interweave",
+    "type": "verb",
+    "v1": "interweave",
+    "v2": "interwove/interweaved",
+    "v3": "interwoven/interweaved",
+    "definition": "",
+    "english_definition": "to interweave",
+    "example": "I interweave every day."
+  },
+  {
+    "word": "interwind",
+    "type": "verb",
+    "v1": "interwind",
+    "v2": "interwound",
+    "v3": "interwound",
+    "definition": "",
+    "english_definition": "to interwind",
+    "example": "I interwind every day."
+  },
+  {
+    "word": "jerry-build",
+    "type": "verb",
+    "v1": "jerry-build",
+    "v2": "jerry-built",
+    "v3": "jerry-built",
+    "definition": "",
+    "english_definition": "to jerry-build",
+    "example": "I jerry-build every day."
+  },
+  {
+    "word": "kneel",
+    "type": "verb",
+    "v1": "kneel",
+    "v2": "knelt/kneeled",
+    "v3": "knelt/kneeled",
+    "definition": "",
+    "english_definition": "to kneel",
+    "example": "I kneel every day."
+  },
+  {
+    "word": "knit",
+    "type": "verb",
+    "v1": "knit",
+    "v2": "knit/knitted",
+    "v3": "knit/knitted",
+    "definition": "",
+    "english_definition": "to knit",
+    "example": "I knit every day."
+  },
+  {
+    "word": "lay",
+    "type": "verb",
+    "v1": "lay",
+    "v2": "laid",
+    "v3": "laid",
+    "definition": "",
+    "english_definition": "to lay",
+    "example": "I lay every day."
+  },
+  {
+    "word": "lean",
+    "type": "verb",
+    "v1": "lean",
+    "v2": "leaned/leant",
+    "v3": "leaned/leant",
+    "definition": "",
+    "english_definition": "to lean",
+    "example": "I lean every day."
+  },
+  {
+    "word": "leap",
+    "type": "verb",
+    "v1": "leap",
+    "v2": "leapt",
+    "v3": "leapt",
+    "definition": "",
+    "english_definition": "to leap",
+    "example": "I leap every day."
+  },
+  {
+    "word": "lend",
+    "type": "verb",
+    "v1": "lend",
+    "v2": "lent",
+    "v3": "lent",
+    "definition": "",
+    "english_definition": "to lend",
+    "example": "I lend him my pen."
+  },
+  {
+    "word": "let",
+    "type": "verb",
+    "v1": "let",
+    "v2": "let",
+    "v3": "let",
+    "definition": "",
+    "english_definition": "to let",
+    "example": "I let every day."
+  },
+  {
+    "word": "light",
+    "type": "verb",
+    "v1": "light",
+    "v2": "lit/lighted",
+    "v3": "lit/lighted",
+    "definition": "",
+    "english_definition": "to light",
+    "example": "I light every day."
+  },
+  {
+    "word": "lip-read",
+    "type": "verb",
+    "v1": "lip-read",
+    "v2": "lip-read",
+    "v3": "lip-read",
+    "definition": "",
+    "english_definition": "to lip-read",
+    "example": "I lip-read every day."
+  },
+  {
+    "word": "mean",
+    "type": "verb",
+    "v1": "mean",
+    "v2": "meant",
+    "v3": "meant",
+    "definition": "",
+    "english_definition": "to mean",
+    "example": "I mean every day."
+  },
+  {
+    "word": "miscast",
+    "type": "verb",
+    "v1": "miscast",
+    "v2": "miscast",
+    "v3": "miscast",
+    "definition": "",
+    "english_definition": "to miscast",
+    "example": "I miscast every day."
+  },
+  {
+    "word": "misdeal",
+    "type": "verb",
+    "v1": "misdeal",
+    "v2": "misdealt",
+    "v3": "misdealt",
+    "definition": "",
+    "english_definition": "to misdeal",
+    "example": "I misdeal every day."
+  },
+  {
+    "word": "misdo",
+    "type": "verb",
+    "v1": "misdo",
+    "v2": "misdid",
+    "v3": "misdone",
+    "definition": "",
+    "english_definition": "to misdo",
+    "example": "I misdo every day."
+  },
+  {
+    "word": "mishear",
+    "type": "verb",
+    "v1": "mishear",
+    "v2": "misheard",
+    "v3": "misheard",
+    "definition": "",
+    "english_definition": "to mishear",
+    "example": "I mishear every day."
+  },
+  {
+    "word": "mislay",
+    "type": "verb",
+    "v1": "mislay",
+    "v2": "mislaid",
+    "v3": "mislaid",
+    "definition": "",
+    "english_definition": "to mislay",
+    "example": "I mislay every day."
+  },
+  {
+    "word": "mislead",
+    "type": "verb",
+    "v1": "mislead",
+    "v2": "misled",
+    "v3": "misled",
+    "definition": "",
+    "english_definition": "to mislead",
+    "example": "I mislead every day."
+  },
+  {
+    "word": "mislearn",
+    "type": "verb",
+    "v1": "mislearn",
+    "v2": "mislearned/mislearnt",
+    "v3": "mislearned/mislearnt",
+    "definition": "",
+    "english_definition": "to mislearn",
+    "example": "I mislearn every day."
+  },
+  {
+    "word": "misread",
+    "type": "verb",
+    "v1": "misread",
+    "v2": "misread",
+    "v3": "misread",
+    "definition": "",
+    "english_definition": "to misread",
+    "example": "I misread every day."
+  },
+  {
+    "word": "misset",
+    "type": "verb",
+    "v1": "misset",
+    "v2": "misset",
+    "v3": "misset",
+    "definition": "",
+    "english_definition": "to misset",
+    "example": "I misset every day."
+  },
+  {
+    "word": "misspeak",
+    "type": "verb",
+    "v1": "misspeak",
+    "v2": "misspoke",
+    "v3": "misspoken",
+    "definition": "",
+    "english_definition": "to misspeak",
+    "example": "I misspeak every day."
+  },
+  {
+    "word": "misspell",
+    "type": "verb",
+    "v1": "misspell",
+    "v2": "misspelt/misspelled",
+    "v3": "misspelt/misspelled",
+    "definition": "",
+    "english_definition": "to misspell",
+    "example": "I misspell every day."
+  },
+  {
+    "word": "misspend",
+    "type": "verb",
+    "v1": "misspend",
+    "v2": "misspent",
+    "v3": "misspent",
+    "definition": "",
+    "english_definition": "to misspend",
+    "example": "I misspend every day."
+  },
+  {
+    "word": "mistake",
+    "type": "verb",
+    "v1": "mistake",
+    "v2": "mistook",
+    "v3": "mistaken",
+    "definition": "",
+    "english_definition": "to mistake",
+    "example": "I mistake every day."
+  },
+  {
+    "word": "misteach",
+    "type": "verb",
+    "v1": "misteach",
+    "v2": "mistaught",
+    "v3": "mistaught",
+    "definition": "",
+    "english_definition": "to misteach",
+    "example": "I misteach every day."
+  },
+  {
+    "word": "misunderstand",
+    "type": "verb",
+    "v1": "misunderstand",
+    "v2": "misunderstood",
+    "v3": "misunderstood",
+    "definition": "",
+    "english_definition": "to misunderstand",
+    "example": "I misunderstand every day."
+  },
+  {
+    "word": "miswrite",
+    "type": "verb",
+    "v1": "miswrite",
+    "v2": "miswrote",
+    "v3": "miswritten",
+    "definition": "",
+    "english_definition": "to miswrite",
+    "example": "I miswrite every day."
+  },
+  {
+    "word": "mow",
+    "type": "verb",
+    "v1": "mow",
+    "v2": "mowed",
+    "v3": "mown/mowed",
+    "definition": "",
+    "english_definition": "to mow",
+    "example": "I mow every day."
+  },
+  {
+    "word": "offset",
+    "type": "verb",
+    "v1": "offset",
+    "v2": "offset",
+    "v3": "offset",
+    "definition": "",
+    "english_definition": "to offset",
+    "example": "I offset every day."
+  },
+  {
+    "word": "outbid",
+    "type": "verb",
+    "v1": "outbid",
+    "v2": "outbid",
+    "v3": "outbid",
+    "definition": "",
+    "english_definition": "to outbid",
+    "example": "I outbid every day."
+  },
+  {
+    "word": "outbreed",
+    "type": "verb",
+    "v1": "outbreed",
+    "v2": "outbred",
+    "v3": "outbred",
+    "definition": "",
+    "english_definition": "to outbreed",
+    "example": "I outbreed every day."
+  },
+  {
+    "word": "outdo",
+    "type": "verb",
+    "v1": "outdo",
+    "v2": "outdid",
+    "v3": "outdone",
+    "definition": "",
+    "english_definition": "to outdo",
+    "example": "I outdo every day."
+  },
+  {
+    "word": "outdraw",
+    "type": "verb",
+    "v1": "outdraw",
+    "v2": "outdrew",
+    "v3": "outdrawn",
+    "definition": "",
+    "english_definition": "to outdraw",
+    "example": "I outdraw every day."
+  },
+  {
+    "word": "outdrink",
+    "type": "verb",
+    "v1": "outdrink",
+    "v2": "outdrank",
+    "v3": "outdrunk",
+    "definition": "",
+    "english_definition": "to outdrink",
+    "example": "I outdrink every day."
+  },
+  {
+    "word": "outdrive",
+    "type": "verb",
+    "v1": "outdrive",
+    "v2": "outdrove",
+    "v3": "outdriven",
+    "definition": "",
+    "english_definition": "to outdrive",
+    "example": "I outdrive every day."
+  },
+  {
+    "word": "outfight",
+    "type": "verb",
+    "v1": "outfight",
+    "v2": "outfought",
+    "v3": "outfought",
+    "definition": "",
+    "english_definition": "to outfight",
+    "example": "I outfight every day."
+  },
+  {
+    "word": "outfly",
+    "type": "verb",
+    "v1": "outfly",
+    "v2": "outflew",
+    "v3": "outflown",
+    "definition": "",
+    "english_definition": "to outfly",
+    "example": "I outfly every day."
+  },
+  {
+    "word": "outgrow",
+    "type": "verb",
+    "v1": "outgrow",
+    "v2": "outgrew",
+    "v3": "outgrown",
+    "definition": "",
+    "english_definition": "to outgrow",
+    "example": "I outgrow every day."
+  },
+  {
+    "word": "outleap",
+    "type": "verb",
+    "v1": "outleap",
+    "v2": "outleaped/outleapt",
+    "v3": "outleaped/outleapt",
+    "definition": "",
+    "english_definition": "to outleap",
+    "example": "I outleap every day."
+  },
+  {
+    "word": "outlie",
+    "type": "verb",
+    "v1": "outlie",
+    "v2": "outlied",
+    "v3": "outlied",
+    "definition": "",
+    "english_definition": "to outlie",
+    "example": "I outlie every day."
+  },
+  {
+    "word": "output",
+    "type": "verb",
+    "v1": "output",
+    "v2": "output",
+    "v3": "output",
+    "definition": "",
+    "english_definition": "to output",
+    "example": "I output every day."
+  },
+  {
+    "word": "outride",
+    "type": "verb",
+    "v1": "outride",
+    "v2": "outrode",
+    "v3": "outridden",
+    "definition": "",
+    "english_definition": "to outride",
+    "example": "I outride every day."
+  },
+  {
+    "word": "outrun",
+    "type": "verb",
+    "v1": "outrun",
+    "v2": "outran",
+    "v3": "outrun",
+    "definition": "",
+    "english_definition": "to outrun",
+    "example": "I outrun every day."
+  },
+  {
+    "word": "outsell",
+    "type": "verb",
+    "v1": "outsell",
+    "v2": "outsold",
+    "v3": "outsold",
+    "definition": "",
+    "english_definition": "to outsell",
+    "example": "I outsell every day."
+  },
+  {
+    "word": "outshine",
+    "type": "verb",
+    "v1": "outshine",
+    "v2": "outshined/outshone",
+    "v3": "outshined/outshone",
+    "definition": "",
+    "english_definition": "to outshine",
+    "example": "I outshine every day."
+  },
+  {
+    "word": "outshoot",
+    "type": "verb",
+    "v1": "outshoot",
+    "v2": "outshot",
+    "v3": "outshot",
+    "definition": "",
+    "english_definition": "to outshoot",
+    "example": "I outshoot every day."
+  },
+  {
+    "word": "outsing",
+    "type": "verb",
+    "v1": "outsing",
+    "v2": "outsang",
+    "v3": "outsung",
+    "definition": "",
+    "english_definition": "to outsing",
+    "example": "I outsing every day."
+  },
+  {
+    "word": "outsit",
+    "type": "verb",
+    "v1": "outsit",
+    "v2": "outsat",
+    "v3": "outsat",
+    "definition": "",
+    "english_definition": "to outsit",
+    "example": "I outsit every day."
+  },
+  {
+    "word": "outsleep",
+    "type": "verb",
+    "v1": "outsleep",
+    "v2": "outslept",
+    "v3": "outslept",
+    "definition": "",
+    "english_definition": "to outsleep",
+    "example": "I outsleep every day."
+  },
+  {
+    "word": "outsmell",
+    "type": "verb",
+    "v1": "outsmell",
+    "v2": "outsmelled/outsmelt",
+    "v3": "outsmelled/outsmelt",
+    "definition": "",
+    "english_definition": "to outsmell",
+    "example": "I outsmell every day."
+  },
+  {
+    "word": "outspeak",
+    "type": "verb",
+    "v1": "outspeak",
+    "v2": "outspoke",
+    "v3": "outspoken",
+    "definition": "",
+    "english_definition": "to outspeak",
+    "example": "I outspeak every day."
+  },
+  {
+    "word": "outspeed",
+    "type": "verb",
+    "v1": "outspeed",
+    "v2": "outsped",
+    "v3": "outsped",
+    "definition": "",
+    "english_definition": "to outspeed",
+    "example": "I outspeed every day."
+  },
+  {
+    "word": "outspend",
+    "type": "verb",
+    "v1": "outspend",
+    "v2": "outspent",
+    "v3": "outspent",
+    "definition": "",
+    "english_definition": "to outspend",
+    "example": "I outspend every day."
+  },
+  {
+    "word": "outswear",
+    "type": "verb",
+    "v1": "outswear",
+    "v2": "outswore",
+    "v3": "outsworn",
+    "definition": "",
+    "english_definition": "to outswear",
+    "example": "I outswear every day."
+  },
+  {
+    "word": "outswim",
+    "type": "verb",
+    "v1": "outswim",
+    "v2": "outswam",
+    "v3": "outswum",
+    "definition": "",
+    "english_definition": "to outswim",
+    "example": "I outswim every day."
+  },
+  {
+    "word": "outthink",
+    "type": "verb",
+    "v1": "outthink",
+    "v2": "outthought",
+    "v3": "outthought",
+    "definition": "",
+    "english_definition": "to outthink",
+    "example": "I outthink every day."
+  },
+  {
+    "word": "outthrow",
+    "type": "verb",
+    "v1": "outthrow",
+    "v2": "outthrew",
+    "v3": "outthrown",
+    "definition": "",
+    "english_definition": "to outthrow",
+    "example": "I outthrow every day."
+  },
+  {
+    "word": "outwrite",
+    "type": "verb",
+    "v1": "outwrite",
+    "v2": "outwrote",
+    "v3": "outwritten",
+    "definition": "",
+    "english_definition": "to outwrite",
+    "example": "I outwrite every day."
+  },
+  {
+    "word": "overbid",
+    "type": "verb",
+    "v1": "overbid",
+    "v2": "overbid",
+    "v3": "overbid",
+    "definition": "",
+    "english_definition": "to overbid",
+    "example": "I overbid every day."
+  },
+  {
+    "word": "overbreed",
+    "type": "verb",
+    "v1": "overbreed",
+    "v2": "overbred",
+    "v3": "overbred",
+    "definition": "",
+    "english_definition": "to overbreed",
+    "example": "I overbreed every day."
+  },
+  {
+    "word": "overbuild",
+    "type": "verb",
+    "v1": "overbuild",
+    "v2": "overbuilt",
+    "v3": "overbuilt",
+    "definition": "",
+    "english_definition": "to overbuild",
+    "example": "I overbuild every day."
+  },
+  {
+    "word": "overbuy",
+    "type": "verb",
+    "v1": "overbuy",
+    "v2": "overbought",
+    "v3": "overbought",
+    "definition": "",
+    "english_definition": "to overbuy",
+    "example": "I overbuy every day."
+  },
+  {
+    "word": "overcome",
+    "type": "verb",
+    "v1": "overcome",
+    "v2": "overcame",
+    "v3": "overcome",
+    "definition": "",
+    "english_definition": "to overcome",
+    "example": "I overcome every day."
+  },
+  {
+    "word": "overdo",
+    "type": "verb",
+    "v1": "overdo",
+    "v2": "overdid",
+    "v3": "overdone",
+    "definition": "",
+    "english_definition": "to overdo",
+    "example": "I overdo every day."
+  },
+  {
+    "word": "overdraw",
+    "type": "verb",
+    "v1": "overdraw",
+    "v2": "overdrew",
+    "v3": "overdrawn",
+    "definition": "",
+    "english_definition": "to overdraw",
+    "example": "I overdraw every day."
+  },
+  {
+    "word": "overdrink",
+    "type": "verb",
+    "v1": "overdrink",
+    "v2": "overdrank",
+    "v3": "overdrunk",
+    "definition": "",
+    "english_definition": "to overdrink",
+    "example": "I overdrink every day."
+  },
+  {
+    "word": "overeat",
+    "type": "verb",
+    "v1": "overeat",
+    "v2": "overate",
+    "v3": "overeaten",
+    "definition": "",
+    "english_definition": "to overeat",
+    "example": "I overeat every day."
+  },
+  {
+    "word": "overfeed",
+    "type": "verb",
+    "v1": "overfeed",
+    "v2": "overfed",
+    "v3": "overfed",
+    "definition": "",
+    "english_definition": "to overfeed",
+    "example": "I overfeed every day."
+  },
+  {
+    "word": "overfly",
+    "type": "verb",
+    "v1": "overfly",
+    "v2": "overflew",
+    "v3": "overflown",
+    "definition": "",
+    "english_definition": "to overfly",
+    "example": "I overfly every day."
+  },
+  {
+    "word": "overhang",
+    "type": "verb",
+    "v1": "overhang",
+    "v2": "overhung",
+    "v3": "overhung",
+    "definition": "",
+    "english_definition": "to overhang",
+    "example": "I overhang every day."
+  },
+  {
+    "word": "overhear",
+    "type": "verb",
+    "v1": "overhear",
+    "v2": "overheard",
+    "v3": "overheard",
+    "definition": "",
+    "english_definition": "to overhear",
+    "example": "I overhear every day."
+  },
+  {
+    "word": "overlay",
+    "type": "verb",
+    "v1": "overlay",
+    "v2": "overlaid",
+    "v3": "overlaid",
+    "definition": "",
+    "english_definition": "to overlay",
+    "example": "I overlay every day."
+  },
+  {
+    "word": "overpay",
+    "type": "verb",
+    "v1": "overpay",
+    "v2": "overpaid",
+    "v3": "overpaid",
+    "definition": "",
+    "english_definition": "to overpay",
+    "example": "I overpay every day."
+  },
+  {
+    "word": "override",
+    "type": "verb",
+    "v1": "override",
+    "v2": "overrode",
+    "v3": "overridden",
+    "definition": "",
+    "english_definition": "to override",
+    "example": "I override every day."
+  },
+  {
+    "word": "overrun",
+    "type": "verb",
+    "v1": "overrun",
+    "v2": "overran",
+    "v3": "overrun",
+    "definition": "",
+    "english_definition": "to overrun",
+    "example": "I overrun every day."
+  },
+  {
+    "word": "oversee",
+    "type": "verb",
+    "v1": "oversee",
+    "v2": "oversaw",
+    "v3": "overseen",
+    "definition": "",
+    "english_definition": "to oversee",
+    "example": "I oversee every day."
+  },
+  {
+    "word": "oversell",
+    "type": "verb",
+    "v1": "oversell",
+    "v2": "oversold",
+    "v3": "oversold",
+    "definition": "",
+    "english_definition": "to oversell",
+    "example": "I oversell every day."
+  },
+  {
+    "word": "oversew",
+    "type": "verb",
+    "v1": "oversew",
+    "v2": "oversewed",
+    "v3": "oversewn/oversewed",
+    "definition": "",
+    "english_definition": "to oversew",
+    "example": "I oversew every day."
+  },
+  {
+    "word": "overshoot",
+    "type": "verb",
+    "v1": "overshoot",
+    "v2": "overshot",
+    "v3": "overshot",
+    "definition": "",
+    "english_definition": "to overshoot",
+    "example": "I overshoot every day."
+  },
+  {
+    "word": "oversleep",
+    "type": "verb",
+    "v1": "oversleep",
+    "v2": "overslept",
+    "v3": "overslept",
+    "definition": "",
+    "english_definition": "to oversleep",
+    "example": "I oversleep every day."
+  },
+  {
+    "word": "overspeak",
+    "type": "verb",
+    "v1": "overspeak",
+    "v2": "overspoke",
+    "v3": "overspoken",
+    "definition": "",
+    "english_definition": "to overspeak",
+    "example": "I overspeak every day."
+  },
+  {
+    "word": "overspend",
+    "type": "verb",
+    "v1": "overspend",
+    "v2": "overspent",
+    "v3": "overspent",
+    "definition": "",
+    "english_definition": "to overspend",
+    "example": "I overspend every day."
+  },
+  {
+    "word": "overspill",
+    "type": "verb",
+    "v1": "overspill",
+    "v2": "overspilled/overspilt",
+    "v3": "overspilled/overspilt",
+    "definition": "",
+    "english_definition": "to overspill",
+    "example": "I overspill every day."
+  },
+  {
+    "word": "overtake",
+    "type": "verb",
+    "v1": "overtake",
+    "v2": "overtook",
+    "v3": "overtaken",
+    "definition": "",
+    "english_definition": "to overtake",
+    "example": "I overtake every day."
+  },
+  {
+    "word": "overthink",
+    "type": "verb",
+    "v1": "overthink",
+    "v2": "overthought",
+    "v3": "overthought",
+    "definition": "",
+    "english_definition": "to overthink",
+    "example": "I overthink every day."
+  },
+  {
+    "word": "overthrow",
+    "type": "verb",
+    "v1": "overthrow",
+    "v2": "overthrew",
+    "v3": "overthrown",
+    "definition": "",
+    "english_definition": "to overthrow",
+    "example": "I overthrow every day."
+  },
+  {
+    "word": "overwind",
+    "type": "verb",
+    "v1": "overwind",
+    "v2": "overwound",
+    "v3": "overwound",
+    "definition": "",
+    "english_definition": "to overwind",
+    "example": "I overwind every day."
+  },
+  {
+    "word": "overwrite",
+    "type": "verb",
+    "v1": "overwrite",
+    "v2": "overwrote",
+    "v3": "overwritten",
+    "definition": "",
+    "english_definition": "to overwrite",
+    "example": "I overwrite every day."
+  },
+  {
+    "word": "partake",
+    "type": "verb",
+    "v1": "partake",
+    "v2": "partook",
+    "v3": "partaken",
+    "definition": "",
+    "english_definition": "to partake",
+    "example": "I partake every day."
+  },
+  {
+    "word": "plead",
+    "type": "verb",
+    "v1": "plead",
+    "v2": "pleaded/pled",
+    "v3": "pleaded/pled",
+    "definition": "",
+    "english_definition": "to plead",
+    "example": "I plead every day."
+  },
+  {
+    "word": "prebuild",
+    "type": "verb",
+    "v1": "prebuild",
+    "v2": "prebuilt",
+    "v3": "prebuilt",
+    "definition": "",
+    "english_definition": "to prebuild",
+    "example": "I prebuild every day."
+  },
+  {
+    "word": "predo",
+    "type": "verb",
+    "v1": "predo",
+    "v2": "predid",
+    "v3": "predone",
+    "definition": "",
+    "english_definition": "to predo",
+    "example": "I predo every day."
+  },
+  {
+    "word": "premake",
+    "type": "verb",
+    "v1": "premake",
+    "v2": "premade",
+    "v3": "premade",
+    "definition": "",
+    "english_definition": "to premake",
+    "example": "I premake every day."
+  },
+  {
+    "word": "prepay",
+    "type": "verb",
+    "v1": "prepay",
+    "v2": "prepaid",
+    "v3": "prepaid",
+    "definition": "",
+    "english_definition": "to prepay",
+    "example": "I prepay every day."
+  },
+  {
+    "word": "presell",
+    "type": "verb",
+    "v1": "presell",
+    "v2": "presold",
+    "v3": "presold",
+    "definition": "",
+    "english_definition": "to presell",
+    "example": "I presell every day."
+  },
+  {
+    "word": "preset",
+    "type": "verb",
+    "v1": "preset",
+    "v2": "preset",
+    "v3": "preset",
+    "definition": "",
+    "english_definition": "to preset",
+    "example": "I preset every day."
+  },
+  {
+    "word": "preshrink",
+    "type": "verb",
+    "v1": "preshrink",
+    "v2": "preshrank",
+    "v3": "preshrunk",
+    "definition": "",
+    "english_definition": "to preshrink",
+    "example": "I preshrink every day."
+  },
+  {
+    "word": "prove",
+    "type": "verb",
+    "v1": "prove",
+    "v2": "proved",
+    "v3": "proven/proved",
+    "definition": "",
+    "english_definition": "to prove",
+    "example": "I prove every day."
+  },
+  {
+    "word": "quick-freeze",
+    "type": "verb",
+    "v1": "quick-freeze",
+    "v2": "quick-froze",
+    "v3": "quick-frozen",
+    "definition": "",
+    "english_definition": "to quick-freeze",
+    "example": "I quick-freeze every day."
+  },
+  {
+    "word": "quit",
+    "type": "verb",
+    "v1": "quit",
+    "v2": "quit/quitted",
+    "v3": "quit/quitted",
+    "definition": "",
+    "english_definition": "to quit",
+    "example": "I quit every day."
+  },
+  {
+    "word": "reawake",
+    "type": "verb",
+    "v1": "reawake",
+    "v2": "reawoke",
+    "v3": "reawaken",
+    "definition": "",
+    "english_definition": "to reawake",
+    "example": "I reawake every day."
+  },
+  {
+    "word": "rebid",
+    "type": "verb",
+    "v1": "rebid",
+    "v2": "rebid",
+    "v3": "rebid",
+    "definition": "",
+    "english_definition": "to rebid",
+    "example": "I rebid every day."
+  },
+  {
+    "word": "rebind",
+    "type": "verb",
+    "v1": "rebind",
+    "v2": "rebound",
+    "v3": "rebound",
+    "definition": "",
+    "english_definition": "to rebind",
+    "example": "I rebind every day."
+  },
+  {
+    "word": "rebroadcast",
+    "type": "verb",
+    "v1": "rebroadcast",
+    "v2": "rebroadcast/rebroadcasted",
+    "v3": "rebroadcast/rebroadcasted",
+    "definition": "",
+    "english_definition": "to rebroadcast",
+    "example": "I rebroadcast every day."
+  },
+  {
+    "word": "rebuild",
+    "type": "verb",
+    "v1": "rebuild",
+    "v2": "rebuilt",
+    "v3": "rebuilt",
+    "definition": "",
+    "english_definition": "to rebuild",
+    "example": "I rebuild every day."
+  },
+  {
+    "word": "recast",
+    "type": "verb",
+    "v1": "recast",
+    "v2": "recast",
+    "v3": "recast",
+    "definition": "",
+    "english_definition": "to recast",
+    "example": "I recast every day."
+  },
+  {
+    "word": "recut",
+    "type": "verb",
+    "v1": "recut",
+    "v2": "recut",
+    "v3": "recut",
+    "definition": "",
+    "english_definition": "to recut",
+    "example": "I recut every day."
+  },
+  {
+    "word": "redeal",
+    "type": "verb",
+    "v1": "redeal",
+    "v2": "redealt",
+    "v3": "redealt",
+    "definition": "",
+    "english_definition": "to redeal",
+    "example": "I redeal every day."
+  },
+  {
+    "word": "redo",
+    "type": "verb",
+    "v1": "redo",
+    "v2": "redid",
+    "v3": "redone",
+    "definition": "",
+    "english_definition": "to redo",
+    "example": "I redo every day."
+  },
+  {
+    "word": "redraw",
+    "type": "verb",
+    "v1": "redraw",
+    "v2": "redrew",
+    "v3": "redrawn",
+    "definition": "",
+    "english_definition": "to redraw",
+    "example": "I redraw every day."
+  },
+  {
+    "word": "refit",
+    "type": "verb",
+    "v1": "refit",
+    "v2": "refitted/refit",
+    "v3": "refitted/refit",
+    "definition": "",
+    "english_definition": "to refit",
+    "example": "I refit every day."
+  },
+  {
+    "word": "regrind",
+    "type": "verb",
+    "v1": "regrind",
+    "v2": "reground",
+    "v3": "reground",
+    "definition": "",
+    "english_definition": "to regrind",
+    "example": "I regrind every day."
+  },
+  {
+    "word": "regrow",
+    "type": "verb",
+    "v1": "regrow",
+    "v2": "regrew",
+    "v3": "regrown",
+    "definition": "",
+    "english_definition": "to regrow",
+    "example": "I regrow every day."
+  },
+  {
+    "word": "rehang",
+    "type": "verb",
+    "v1": "rehang",
+    "v2": "rehung",
+    "v3": "rehung",
+    "definition": "",
+    "english_definition": "to rehang",
+    "example": "I rehang every day."
+  },
+  {
+    "word": "rehear",
+    "type": "verb",
+    "v1": "rehear",
+    "v2": "reheard",
+    "v3": "reheard",
+    "definition": "",
+    "english_definition": "to rehear",
+    "example": "I rehear every day."
+  },
+  {
+    "word": "reknit",
+    "type": "verb",
+    "v1": "reknit",
+    "v2": "reknitted/reknit",
+    "v3": "reknitted/reknit",
+    "definition": "",
+    "english_definition": "to reknit",
+    "example": "I reknit every day."
+  },
+  {
+    "word": "relay",
+    "type": "verb",
+    "v1": "relay",
+    "v2": "relaid",
+    "v3": "relaid",
+    "definition": "",
+    "english_definition": "to relay",
+    "example": "I relay every day."
+  },
+  {
+    "word": "relearn",
+    "type": "verb",
+    "v1": "relearn",
+    "v2": "relearned/relearnt",
+    "v3": "relearned/relearnt",
+    "definition": "",
+    "english_definition": "to relearn",
+    "example": "I relearn every day."
+  },
+  {
+    "word": "relight",
+    "type": "verb",
+    "v1": "relight",
+    "v2": "relit/relighted",
+    "v3": "relit/relighted",
+    "definition": "",
+    "english_definition": "to relight",
+    "example": "I relight every day."
+  },
+  {
+    "word": "remake",
+    "type": "verb",
+    "v1": "remake",
+    "v2": "remade",
+    "v3": "remade",
+    "definition": "",
+    "english_definition": "to remake",
+    "example": "I remake every day."
+  },
+  {
+    "word": "rend",
+    "type": "verb",
+    "v1": "rend",
+    "v2": "rent",
+    "v3": "rent",
+    "definition": "",
+    "english_definition": "to rend",
+    "example": "I rend every day."
+  },
+  {
+    "word": "repay",
+    "type": "verb",
+    "v1": "repay",
+    "v2": "repaid",
+    "v3": "repaid",
+    "definition": "",
+    "english_definition": "to repay",
+    "example": "I repay every day."
+  },
+  {
+    "word": "reread",
+    "type": "verb",
+    "v1": "reread",
+    "v2": "reread",
+    "v3": "reread",
+    "definition": "",
+    "english_definition": "to reread",
+    "example": "I reread every day."
+  },
+  {
+    "word": "rerun",
+    "type": "verb",
+    "v1": "rerun",
+    "v2": "reran",
+    "v3": "rerun",
+    "definition": "",
+    "english_definition": "to rerun",
+    "example": "I rerun every day."
+  },
+  {
+    "word": "resell",
+    "type": "verb",
+    "v1": "resell",
+    "v2": "resold",
+    "v3": "resold",
+    "definition": "",
+    "english_definition": "to resell",
+    "example": "I resell every day."
+  },
+  {
+    "word": "resend",
+    "type": "verb",
+    "v1": "resend",
+    "v2": "resent",
+    "v3": "resent",
+    "definition": "",
+    "english_definition": "to resend",
+    "example": "I resend every day."
+  },
+  {
+    "word": "resew",
+    "type": "verb",
+    "v1": "resew",
+    "v2": "resewed",
+    "v3": "resewn/resewed",
+    "definition": "",
+    "english_definition": "to resew",
+    "example": "I resew every day."
+  },
+  {
+    "word": "retake",
+    "type": "verb",
+    "v1": "retake",
+    "v2": "retook",
+    "v3": "retaken",
+    "definition": "",
+    "english_definition": "to retake",
+    "example": "I retake every day."
+  },
+  {
+    "word": "reteach",
+    "type": "verb",
+    "v1": "reteach",
+    "v2": "retaught",
+    "v3": "retaught",
+    "definition": "",
+    "english_definition": "to reteach",
+    "example": "I reteach every day."
+  },
+  {
+    "word": "retear",
+    "type": "verb",
+    "v1": "retear",
+    "v2": "retore",
+    "v3": "retorn",
+    "definition": "",
+    "english_definition": "to retear",
+    "example": "I retear every day."
+  },
+  {
+    "word": "retell",
+    "type": "verb",
+    "v1": "retell",
+    "v2": "retold",
+    "v3": "retold",
+    "definition": "",
+    "english_definition": "to retell",
+    "example": "I retell every day."
+  },
+  {
+    "word": "rethink",
+    "type": "verb",
+    "v1": "rethink",
+    "v2": "rethought",
+    "v3": "rethought",
+    "definition": "",
+    "english_definition": "to rethink",
+    "example": "I rethink every day."
+  },
+  {
+    "word": "retread",
+    "type": "verb",
+    "v1": "retread",
+    "v2": "retread",
+    "v3": "retread",
+    "definition": "",
+    "english_definition": "to retread",
+    "example": "I retread every day."
+  },
+  {
+    "word": "retrofit",
+    "type": "verb",
+    "v1": "retrofit",
+    "v2": "retrofitted/retrofit",
+    "v3": "retrofitted/retrofit",
+    "definition": "",
+    "english_definition": "to retrofit",
+    "example": "I retrofit every day."
+  },
+  {
+    "word": "rewake",
+    "type": "verb",
+    "v1": "rewake",
+    "v2": "rewoke/rewaked",
+    "v3": "rewaken/rewaked",
+    "definition": "",
+    "english_definition": "to rewake",
+    "example": "I rewake every day."
+  },
+  {
+    "word": "rewear",
+    "type": "verb",
+    "v1": "rewear",
+    "v2": "rewore",
+    "v3": "reworn",
+    "definition": "",
+    "english_definition": "to rewear",
+    "example": "I rewear every day."
+  },
+  {
+    "word": "reweave",
+    "type": "verb",
+    "v1": "reweave",
+    "v2": "rewove/reweaved",
+    "v3": "rewoven/reweaved",
+    "definition": "",
+    "english_definition": "to reweave",
+    "example": "I reweave every day."
+  },
+  {
+    "word": "rewed",
+    "type": "verb",
+    "v1": "rewed",
+    "v2": "rewed/rewedded",
+    "v3": "rewed/rewedded",
+    "definition": "",
+    "english_definition": "to rewed",
+    "example": "I rewed every day."
+  },
+  {
+    "word": "rewet",
+    "type": "verb",
+    "v1": "rewet",
+    "v2": "rewet/rewetted",
+    "v3": "rewet/rewetted",
+    "definition": "",
+    "english_definition": "to rewet",
+    "example": "I rewet every day."
+  },
+  {
+    "word": "rewin",
+    "type": "verb",
+    "v1": "rewin",
+    "v2": "rewon",
+    "v3": "rewon",
+    "definition": "",
+    "english_definition": "to rewin",
+    "example": "I rewin every day."
+  },
+  {
+    "word": "rewind",
+    "type": "verb",
+    "v1": "rewind",
+    "v2": "rewound",
+    "v3": "rewound",
+    "definition": "",
+    "english_definition": "to rewind",
+    "example": "I rewind every day."
+  },
+  {
+    "word": "rid",
+    "type": "verb",
+    "v1": "rid",
+    "v2": "rid",
+    "v3": "rid",
+    "definition": "",
+    "english_definition": "to rid",
+    "example": "I rid every day."
+  },
+  {
+    "word": "saw",
+    "type": "verb",
+    "v1": "saw",
+    "v2": "sawed",
+    "v3": "sawn",
+    "definition": "",
+    "english_definition": "to saw",
+    "example": "I saw every day."
+  },
+  {
+    "word": "seek",
+    "type": "verb",
+    "v1": "seek",
+    "v2": "sought",
+    "v3": "sought",
+    "definition": "",
+    "english_definition": "to seek",
+    "example": "I seek every day."
+  },
+  {
+    "word": "sell",
+    "type": "verb",
+    "v1": "sell",
+    "v2": "sold",
+    "v3": "sold",
+    "definition": "",
+    "english_definition": "to sell",
+    "example": "I sell every day."
+  },
+  {
+    "word": "sew",
+    "type": "verb",
+    "v1": "sew",
+    "v2": "sewed",
+    "v3": "sewn/sewed",
+    "definition": "",
+    "english_definition": "to sew",
+    "example": "I sew every day."
+  },
+  {
+    "word": "shake",
+    "type": "verb",
+    "v1": "shake",
+    "v2": "shook",
+    "v3": "shaken",
+    "definition": "",
+    "english_definition": "to shake",
+    "example": "I shake every day."
+  },
+  {
+    "word": "shave",
+    "type": "verb",
+    "v1": "shave",
+    "v2": "shaved",
+    "v3": "shaved/shaven",
+    "definition": "",
+    "english_definition": "to shave",
+    "example": "I shave every day."
+  },
+  {
+    "word": "shear",
+    "type": "verb",
+    "v1": "shear",
+    "v2": "sheared",
+    "v3": "shorn",
+    "definition": "",
+    "english_definition": "to shear",
+    "example": "I shear every day."
+  },
+  {
+    "word": "shed",
+    "type": "verb",
+    "v1": "shed",
+    "v2": "shed",
+    "v3": "shed",
+    "definition": "",
+    "english_definition": "to shed",
+    "example": "I shed every day."
+  },
+  {
+    "word": "shine",
+    "type": "verb",
+    "v1": "shine",
+    "v2": "shone",
+    "v3": "shone",
+    "definition": "",
+    "english_definition": "to shine",
+    "example": "I shine every day."
+  },
+  {
+    "word": "shit",
+    "type": "verb",
+    "v1": "shit",
+    "v2": "shit/shat/shitted",
+    "v3": "shit/shat/shitted",
+    "definition": "",
+    "english_definition": "to shit",
+    "example": "I shit every day."
+  },
+  {
+    "word": "shoot",
+    "type": "verb",
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot",
+    "definition": "",
+    "english_definition": "to shoot",
+    "example": "I shoot every day."
+  },
+  {
+    "word": "shrink",
+    "type": "verb",
+    "v1": "shrink",
+    "v2": "shrank",
+    "v3": "shrunk",
+    "definition": "",
+    "english_definition": "to shrink",
+    "example": "I shrink every day."
+  },
+  {
+    "word": "shut",
+    "type": "verb",
+    "v1": "shut",
+    "v2": "shut",
+    "v3": "shut",
+    "definition": "",
+    "english_definition": "to shut",
+    "example": "I shut every day."
+  },
+  {
+    "word": "sight-read",
+    "type": "verb",
+    "v1": "sight-read",
+    "v2": "sight-read",
+    "v3": "sight-read",
+    "definition": "",
+    "english_definition": "to sight-read",
+    "example": "I sight-read every day."
+  },
+  {
+    "word": "sing",
+    "type": "verb",
+    "v1": "sing",
+    "v2": "sang",
+    "v3": "sung",
+    "definition": "",
+    "english_definition": "to sing",
+    "example": "I sing every day."
+  },
+  {
+    "word": "sink",
+    "type": "verb",
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk",
+    "definition": "",
+    "english_definition": "to sink",
+    "example": "I sink every day."
+  },
+  {
+    "word": "slay",
+    "type": "verb",
+    "v1": "slay",
+    "v2": "slew",
+    "v3": "slain",
+    "definition": "",
+    "english_definition": "to slay",
+    "example": "I slay every day."
+  },
+  {
+    "word": "slide",
+    "type": "verb",
+    "v1": "slide",
+    "v2": "slid",
+    "v3": "slid",
+    "definition": "",
+    "english_definition": "to slide",
+    "example": "I slide every day."
+  },
+  {
+    "word": "sling",
+    "type": "verb",
+    "v1": "sling",
+    "v2": "slung",
+    "v3": "slung",
+    "definition": "",
+    "english_definition": "to sling",
+    "example": "I sling every day."
+  },
+  {
+    "word": "slink",
+    "type": "verb",
+    "v1": "slink",
+    "v2": "slunk",
+    "v3": "slunk",
+    "definition": "",
+    "english_definition": "to slink",
+    "example": "I slink every day."
+  },
+  {
+    "word": "slit",
+    "type": "verb",
+    "v1": "slit",
+    "v2": "slit",
+    "v3": "slit",
+    "definition": "",
+    "english_definition": "to slit",
+    "example": "I slit every day."
+  },
+  {
+    "word": "smell",
+    "type": "verb",
+    "v1": "smell",
+    "v2": "smelt",
+    "v3": "smelt",
+    "definition": "",
+    "english_definition": "to smell",
+    "example": "I smell every day."
+  },
+  {
+    "word": "smite",
+    "type": "verb",
+    "v1": "smite",
+    "v2": "smote",
+    "v3": "smitten",
+    "definition": "",
+    "english_definition": "to smite",
+    "example": "I smite every day."
+  },
+  {
+    "word": "sneak",
+    "type": "verb",
+    "v1": "sneak",
+    "v2": "sneaked/snuck",
+    "v3": "sneaked/snuck",
+    "definition": "",
+    "english_definition": "to sneak",
+    "example": "I sneak every day."
+  },
+  {
+    "word": "sow",
+    "type": "verb",
+    "v1": "sow",
+    "v2": "sowed",
+    "v3": "sown/sewed",
+    "definition": "",
+    "english_definition": "to sow",
+    "example": "I sow every day."
+  },
+  {
+    "word": "speed",
+    "type": "verb",
+    "v1": "speed",
+    "v2": "sped/speeded",
+    "v3": "sped/speeded",
+    "definition": "",
+    "english_definition": "to speed",
+    "example": "I speed every day."
+  },
+  {
+    "word": "spell",
+    "type": "verb",
+    "v1": "spell",
+    "v2": "spelt/spelled",
+    "v3": "spelt/spelled",
+    "definition": "",
+    "english_definition": "to spell",
+    "example": "I spell every day."
+  },
+  {
+    "word": "spill",
+    "type": "verb",
+    "v1": "spill",
+    "v2": "spilt/spilled",
+    "v3": "spilt/spilled",
+    "definition": "",
+    "english_definition": "to spill",
+    "example": "I spill every day."
+  },
+  {
+    "word": "spin",
+    "type": "verb",
+    "v1": "spin",
+    "v2": "spun/span",
+    "v3": "spun",
+    "definition": "",
+    "english_definition": "to spin",
+    "example": "I spin every day."
+  },
+  {
+    "word": "spit",
+    "type": "verb",
+    "v1": "spit",
+    "v2": "spat",
+    "v3": "spat",
+    "definition": "",
+    "english_definition": "to spit",
+    "example": "I spit every day."
+  },
+  {
+    "word": "spoon-feed",
+    "type": "verb",
+    "v1": "spoon-feed",
+    "v2": "spoon-fed",
+    "v3": "spoon-fed",
+    "definition": "",
+    "english_definition": "to spoon-feed",
+    "example": "I spoon-feed every day."
+  },
+  {
+    "word": "spread",
+    "type": "verb",
+    "v1": "spread",
+    "v2": "spread",
+    "v3": "spread",
+    "definition": "",
+    "english_definition": "to spread",
+    "example": "I spread every day."
+  },
+  {
+    "word": "spring",
+    "type": "verb",
+    "v1": "spring",
+    "v2": "sprang",
+    "v3": "sprung",
+    "definition": "",
+    "english_definition": "to spring",
+    "example": "I spring every day."
+  },
+  {
+    "word": "stave",
+    "type": "verb",
+    "v1": "stave",
+    "v2": "stove/staved",
+    "v3": "stove/staved",
+    "definition": "",
+    "english_definition": "to stave",
+    "example": "I stave every day."
+  },
+  {
+    "word": "steal",
+    "type": "verb",
+    "v1": "steal",
+    "v2": "stole",
+    "v3": "stolen",
+    "definition": "",
+    "english_definition": "to steal",
+    "example": "I steal every day."
+  },
+  {
+    "word": "stick",
+    "type": "verb",
+    "v1": "stick",
+    "v2": "stuck",
+    "v3": "stuck",
+    "definition": "",
+    "english_definition": "to stick",
+    "example": "I stick every day."
+  },
+  {
+    "word": "sting",
+    "type": "verb",
+    "v1": "sting",
+    "v2": "stung",
+    "v3": "stung",
+    "definition": "",
+    "english_definition": "to sting",
+    "example": "I sting every day."
+  },
+  {
+    "word": "stink",
+    "type": "verb",
+    "v1": "stink",
+    "v2": "stunk/stank",
+    "v3": "stunk",
+    "definition": "",
+    "english_definition": "to stink",
+    "example": "I stink every day."
+  },
+  {
+    "word": "strew",
+    "type": "verb",
+    "v1": "strew",
+    "v2": "strewed",
+    "v3": "strewn/strewed",
+    "definition": "",
+    "english_definition": "to strew",
+    "example": "I strew every day."
+  },
+  {
+    "word": "stride",
+    "type": "verb",
+    "v1": "stride",
+    "v2": "strode",
+    "v3": "stridden",
+    "definition": "",
+    "english_definition": "to stride",
+    "example": "I stride every day."
+  },
+  {
+    "word": "strike",
+    "type": "verb",
+    "v1": "strike",
+    "v2": "struck",
+    "v3": "struck",
+    "definition": "",
+    "english_definition": "to strike",
+    "example": "I strike every day."
+  },
+  {
+    "word": "string",
+    "type": "verb",
+    "v1": "string",
+    "v2": "strung",
+    "v3": "strung",
+    "definition": "",
+    "english_definition": "to string",
+    "example": "I string every day."
+  },
+  {
+    "word": "strive",
+    "type": "verb",
+    "v1": "strive",
+    "v2": "strove",
+    "v3": "striven",
+    "definition": "",
+    "english_definition": "to strive",
+    "example": "I strive every day."
+  },
+  {
+    "word": "sublet",
+    "type": "verb",
+    "v1": "sublet",
+    "v2": "sublet",
+    "v3": "sublet",
+    "definition": "",
+    "english_definition": "to sublet",
+    "example": "I sublet every day."
+  },
+  {
+    "word": "sunburn",
+    "type": "verb",
+    "v1": "sunburn",
+    "v2": "sunburned/sunburnt",
+    "v3": "sunburned/sunburnt",
+    "definition": "",
+    "english_definition": "to sunburn",
+    "example": "I sunburn every day."
+  },
+  {
+    "word": "swear",
+    "type": "verb",
+    "v1": "swear",
+    "v2": "swore",
+    "v3": "sworn",
+    "definition": "",
+    "english_definition": "to swear",
+    "example": "I swear every day."
+  },
+  {
+    "word": "sweat",
+    "type": "verb",
+    "v1": "sweat",
+    "v2": "sweat/sweated",
+    "v3": "sweat/sweated",
+    "definition": "",
+    "english_definition": "to sweat",
+    "example": "I sweat every day."
+  },
+  {
+    "word": "sweep",
+    "type": "verb",
+    "v1": "sweep",
+    "v2": "swept",
+    "v3": "swept",
+    "definition": "",
+    "english_definition": "to sweep",
+    "example": "I sweep every day."
+  },
+  {
+    "word": "swell",
+    "type": "verb",
+    "v1": "swell",
+    "v2": "swelled",
+    "v3": "swollen/swelled",
+    "definition": "",
+    "english_definition": "to swell",
+    "example": "I swell every day."
+  },
+  {
+    "word": "swim",
+    "type": "verb",
+    "v1": "swim",
+    "v2": "swam",
+    "v3": "swum",
+    "definition": "",
+    "english_definition": "to swim",
+    "example": "I swim every day."
+  },
+  {
+    "word": "swing",
+    "type": "verb",
+    "v1": "swing",
+    "v2": "swung",
+    "v3": "swung",
+    "definition": "",
+    "english_definition": "to swing",
+    "example": "I swing every day."
+  },
+  {
+    "word": "telecast",
+    "type": "verb",
+    "v1": "telecast",
+    "v2": "telecast",
+    "v3": "telecast",
+    "definition": "",
+    "english_definition": "to telecast",
+    "example": "I telecast every day."
+  },
+  {
+    "word": "test-drive",
+    "type": "verb",
+    "v1": "test-drive",
+    "v2": "test-drove",
+    "v3": "test-driven",
+    "definition": "",
+    "english_definition": "to test-drive",
+    "example": "I test-drive every day."
+  },
+  {
+    "word": "test-fly",
+    "type": "verb",
+    "v1": "test-fly",
+    "v2": "test-flew",
+    "v3": "test-flown",
+    "definition": "",
+    "english_definition": "to test-fly",
+    "example": "I test-fly every day."
+  },
+  {
+    "word": "thrust",
+    "type": "verb",
+    "v1": "thrust",
+    "v2": "thrust",
+    "v3": "thrust",
+    "definition": "",
+    "english_definition": "to thrust",
+    "example": "I thrust every day."
+  },
+  {
+    "word": "tread",
+    "type": "verb",
+    "v1": "tread",
+    "v2": "trod",
+    "v3": "trodden/trod",
+    "definition": "",
+    "english_definition": "to tread",
+    "example": "I tread every day."
+  },
+  {
+    "word": "typecast",
+    "type": "verb",
+    "v1": "typecast",
+    "v2": "typecast",
+    "v3": "typecast",
+    "definition": "",
+    "english_definition": "to typecast",
+    "example": "I typecast every day."
+  },
+  {
+    "word": "typeset",
+    "type": "verb",
+    "v1": "typeset",
+    "v2": "typeset",
+    "v3": "typeset",
+    "definition": "",
+    "english_definition": "to typeset",
+    "example": "I typeset every day."
+  },
+  {
+    "word": "typewrite",
+    "type": "verb",
+    "v1": "typewrite",
+    "v2": "typewrote",
+    "v3": "typewritten",
+    "definition": "",
+    "english_definition": "to typewrite",
+    "example": "I typewrite every day."
+  },
+  {
+    "word": "unbend",
+    "type": "verb",
+    "v1": "unbend",
+    "v2": "unbent",
+    "v3": "unbent",
+    "definition": "",
+    "english_definition": "to unbend",
+    "example": "I unbend every day."
+  },
+  {
+    "word": "unbind",
+    "type": "verb",
+    "v1": "unbind",
+    "v2": "unbound",
+    "v3": "unbound",
+    "definition": "",
+    "english_definition": "to unbind",
+    "example": "I unbind every day."
+  },
+  {
+    "word": "unclothe",
+    "type": "verb",
+    "v1": "unclothe",
+    "v2": "unclothed/unclad",
+    "v3": "unclothed/unclad",
+    "definition": "",
+    "english_definition": "to unclothe",
+    "example": "I unclothe every day."
+  },
+  {
+    "word": "underbid",
+    "type": "verb",
+    "v1": "underbid",
+    "v2": "underbid",
+    "v3": "underbid",
+    "definition": "",
+    "english_definition": "to underbid",
+    "example": "I underbid every day."
+  },
+  {
+    "word": "undercut",
+    "type": "verb",
+    "v1": "undercut",
+    "v2": "undercut",
+    "v3": "undercut",
+    "definition": "",
+    "english_definition": "to undercut",
+    "example": "I undercut every day."
+  },
+  {
+    "word": "underfeed",
+    "type": "verb",
+    "v1": "underfeed",
+    "v2": "underfed",
+    "v3": "underfed",
+    "definition": "",
+    "english_definition": "to underfeed",
+    "example": "I underfeed every day."
+  },
+  {
+    "word": "undergo",
+    "type": "verb",
+    "v1": "undergo",
+    "v2": "underwent",
+    "v3": "undergone",
+    "definition": "",
+    "english_definition": "to undergo",
+    "example": "I undergo every day."
+  },
+  {
+    "word": "underlie",
+    "type": "verb",
+    "v1": "underlie",
+    "v2": "underlay",
+    "v3": "underlain",
+    "definition": "",
+    "english_definition": "to underlie",
+    "example": "I underlie every day."
+  },
+  {
+    "word": "underpay",
+    "type": "verb",
+    "v1": "underpay",
+    "v2": "underpaid",
+    "v3": "underpaid",
+    "definition": "",
+    "english_definition": "to underpay",
+    "example": "I underpay every day."
+  },
+  {
+    "word": "undersell",
+    "type": "verb",
+    "v1": "undersell",
+    "v2": "undersold",
+    "v3": "undersold",
+    "definition": "",
+    "english_definition": "to undersell",
+    "example": "I undersell every day."
+  },
+  {
+    "word": "underspend",
+    "type": "verb",
+    "v1": "underspend",
+    "v2": "underspent",
+    "v3": "underspent",
+    "definition": "",
+    "english_definition": "to underspend",
+    "example": "I underspend every day."
+  },
+  {
+    "word": "undertake",
+    "type": "verb",
+    "v1": "undertake",
+    "v2": "undertook",
+    "v3": "undertaken",
+    "definition": "",
+    "english_definition": "to undertake",
+    "example": "I undertake every day."
+  },
+  {
+    "word": "underwrite",
+    "type": "verb",
+    "v1": "underwrite",
+    "v2": "underwrote",
+    "v3": "underwritten",
+    "definition": "",
+    "english_definition": "to underwrite",
+    "example": "I underwrite every day."
+  },
+  {
+    "word": "undo",
+    "type": "verb",
+    "v1": "undo",
+    "v2": "undid",
+    "v3": "undone",
+    "definition": "",
+    "english_definition": "to undo",
+    "example": "I undo every day."
+  },
+  {
+    "word": "unfreeze",
+    "type": "verb",
+    "v1": "unfreeze",
+    "v2": "unfroze",
+    "v3": "unfrozen",
+    "definition": "",
+    "english_definition": "to unfreeze",
+    "example": "I unfreeze every day."
+  },
+  {
+    "word": "unhang",
+    "type": "verb",
+    "v1": "unhang",
+    "v2": "unhung",
+    "v3": "unhung",
+    "definition": "",
+    "english_definition": "to unhang",
+    "example": "I unhang every day."
+  },
+  {
+    "word": "unhide",
+    "type": "verb",
+    "v1": "unhide",
+    "v2": "unhid",
+    "v3": "unhidden",
+    "definition": "",
+    "english_definition": "to unhide",
+    "example": "I unhide every day."
+  },
+  {
+    "word": "unknit",
+    "type": "verb",
+    "v1": "unknit",
+    "v2": "unknitted/unknit",
+    "v3": "unknitted/unknit",
+    "definition": "",
+    "english_definition": "to unknit",
+    "example": "I unknit every day."
+  },
+  {
+    "word": "unlearn",
+    "type": "verb",
+    "v1": "unlearn",
+    "v2": "unlearned/unlearnt",
+    "v3": "unlearned/unlearnt",
+    "definition": "",
+    "english_definition": "to unlearn",
+    "example": "I unlearn every day."
+  },
+  {
+    "word": "unsew",
+    "type": "verb",
+    "v1": "unsew",
+    "v2": "unsewed",
+    "v3": "unsewn/unsewed",
+    "definition": "",
+    "english_definition": "to unsew",
+    "example": "I unsew every day."
+  },
+  {
+    "word": "unsling",
+    "type": "verb",
+    "v1": "unsling",
+    "v2": "unslung",
+    "v3": "unslung",
+    "definition": "",
+    "english_definition": "to unsling",
+    "example": "I unsling every day."
+  },
+  {
+    "word": "unspin",
+    "type": "verb",
+    "v1": "unspin",
+    "v2": "unspun",
+    "v3": "unspun",
+    "definition": "",
+    "english_definition": "to unspin",
+    "example": "I unspin every day."
+  },
+  {
+    "word": "unstick",
+    "type": "verb",
+    "v1": "unstick",
+    "v2": "unstuck",
+    "v3": "unstuck",
+    "definition": "",
+    "english_definition": "to unstick",
+    "example": "I unstick every day."
+  },
+  {
+    "word": "unstring",
+    "type": "verb",
+    "v1": "unstring",
+    "v2": "unstrung",
+    "v3": "unstrung",
+    "definition": "",
+    "english_definition": "to unstring",
+    "example": "I unstring every day."
+  },
+  {
+    "word": "unweave",
+    "type": "verb",
+    "v1": "unweave",
+    "v2": "unwove/unweaved",
+    "v3": "unwoven/unweaved",
+    "definition": "",
+    "english_definition": "to unweave",
+    "example": "I unweave every day."
+  },
+  {
+    "word": "unwind",
+    "type": "verb",
+    "v1": "unwind",
+    "v2": "unwound",
+    "v3": "unwound",
+    "definition": "",
+    "english_definition": "to unwind",
+    "example": "I unwind every day."
+  },
+  {
+    "word": "uphold",
+    "type": "verb",
+    "v1": "uphold",
+    "v2": "upheld",
+    "v3": "upheld",
+    "definition": "",
+    "english_definition": "to uphold",
+    "example": "I uphold every day."
+  },
+  {
+    "word": "upset",
+    "type": "verb",
+    "v1": "upset",
+    "v2": "upset",
+    "v3": "upset",
+    "definition": "",
+    "english_definition": "to upset",
+    "example": "I upset every day."
+  },
+  {
+    "word": "wake",
+    "type": "verb",
+    "v1": "wake",
+    "v2": "woke/waked",
+    "v3": "woken/waked",
+    "definition": "",
+    "english_definition": "to wake",
+    "example": "I wake every day."
+  },
+  {
+    "word": "waylay",
+    "type": "verb",
+    "v1": "waylay",
+    "v2": "waylaid",
+    "v3": "waylaid",
+    "definition": "",
+    "english_definition": "to waylay",
+    "example": "I waylay every day."
+  },
+  {
+    "word": "weave",
+    "type": "verb",
+    "v1": "weave",
+    "v2": "wove/weaved",
+    "v3": "woven/weaved",
+    "definition": "",
+    "english_definition": "to weave",
+    "example": "I weave every day."
+  },
+  {
+    "word": "wed",
+    "type": "verb",
+    "v1": "wed",
+    "v2": "wed/wedded",
+    "v3": "wed/wedded",
+    "definition": "",
+    "english_definition": "to wed",
+    "example": "I wed every day."
+  },
+  {
+    "word": "weep",
+    "type": "verb",
+    "v1": "weep",
+    "v2": "wept",
+    "v3": "wept",
+    "definition": "",
+    "english_definition": "to weep",
+    "example": "I weep every day."
+  },
+  {
+    "word": "wet",
+    "type": "verb",
+    "v1": "wet",
+    "v2": "wet/wetted",
+    "v3": "wet/wetted",
+    "definition": "",
+    "english_definition": "to wet",
+    "example": "I wet every day."
+  },
+  {
+    "word": "whet",
+    "type": "verb",
+    "v1": "whet",
+    "v2": "whetted",
+    "v3": "whetted",
+    "definition": "",
+    "english_definition": "to whet",
+    "example": "I whet every day."
+  },
+  {
+    "word": "wind",
+    "type": "verb",
+    "v1": "wind",
+    "v2": "wound",
+    "v3": "wound",
+    "definition": "",
+    "english_definition": "to wind",
+    "example": "I wind every day."
+  },
+  {
+    "word": "withdraw",
+    "type": "verb",
+    "v1": "withdraw",
+    "v2": "withdrew",
+    "v3": "withdrawn",
+    "definition": "",
+    "english_definition": "to withdraw",
+    "example": "I withdraw every day."
+  },
+  {
+    "word": "withhold",
+    "type": "verb",
+    "v1": "withhold",
+    "v2": "withheld",
+    "v3": "withheld",
+    "definition": "",
+    "english_definition": "to withhold",
+    "example": "I withhold every day."
+  },
+  {
+    "word": "withstand",
+    "type": "verb",
+    "v1": "withstand",
+    "v2": "withstood",
+    "v3": "withstood",
+    "definition": "",
+    "english_definition": "to withstand",
+    "example": "I withstand every day."
+  },
+  {
+    "word": "wring",
+    "type": "verb",
+    "v1": "wring",
+    "v2": "wrung",
+    "v3": "wrung",
+    "definition": "",
+    "english_definition": "to wring",
+    "example": "I wring every day."
+  }
+]
