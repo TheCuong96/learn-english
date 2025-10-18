@@ -24,7 +24,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
-      <body className={`${beVietnamPro.variable} antialiased bg-slate-100 text-slate-800 flex flex-col min-h-screen`}>
+      <body className={`${beVietnamPro.variable} antialiased bg-gradient-to-br from-gray-900 via-slate-900 to-zinc-900 text-slate-100 flex flex-col min-h-screen`}>
         {children}
       </body>
     </html>

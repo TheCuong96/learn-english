@@ -66,12 +66,12 @@ export default function SessionScreen({
       {/* Progress Bar */}
       <div className="mb-4">
         <div className="flex justify-between mb-1">
-          <span className="text-base font-medium text-blue-700">Tiến độ</span>
-          <span className="text-sm font-medium text-blue-700">{currentIndex} / {totalWords}</span>
+          <span className="text-base font-medium text-purple-400">Tiến độ</span>
+          <span className="text-sm font-medium text-purple-400">{currentIndex} / {totalWords}</span>
         </div>
-        <div className="w-full bg-gray-200 rounded-full h-2.5">
+        <div className="w-full bg-slate-700/50 rounded-full h-2.5">
           <div 
-            className="bg-blue-600 h-2.5 rounded-full progress-bar-inner" 
+            className="bg-gradient-to-r from-purple-500 to-pink-500 h-2.5 rounded-full progress-bar-inner" 
             style={{ width: `${progress}%` }}
           />
         </div>
@@ -87,8 +87,8 @@ export default function SessionScreen({
         {showFeedback && isCorrect !== null && (
           <div className={`border-l-4 p-4 rounded-md ${
             isCorrect 
-              ? 'bg-green-100 border-green-500 text-green-700'
-              : 'bg-red-100 border-red-500 text-red-700'
+              ? 'bg-green-500/20 border-green-500 text-green-300'
+              : 'bg-red-500/20 border-red-500 text-red-300'
           }`}>
             <p className="font-bold">{isCorrect ? '✅ Chính xác!' : '❌ Chưa đúng!'}</p>
             {!isCorrect && (
@@ -102,7 +102,7 @@ export default function SessionScreen({
       <div className="mt-6 flex justify-center">
         <button
           onClick={onNext}
-          className={`bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-lg shadow-md transition-transform transform hover:scale-105 ${
+          className={`bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
             !showFeedback && sessionType !== 'flashcards' ? 'hidden' : ''
           }`}
         >

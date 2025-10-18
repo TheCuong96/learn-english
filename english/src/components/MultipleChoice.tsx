@@ -49,29 +49,29 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
   };
 
   const getButtonClass = (option: Verb) => {
-    const baseClass = "btn-answer w-full text-left p-4 border-2 rounded-lg shadow-sm transition-all ";
+    const baseClass = "btn-answer w-full text-left p-4 border-2 rounded-lg shadow-sm transition-all text-slate-200 ";
     
     if (!selectedAnswer) {
-      return baseClass + "bg-white border-gray-200 hover:bg-blue-50 hover:border-blue-300 cursor-pointer";
+      return baseClass + "bg-slate-800/60 border-slate-600 hover:bg-slate-700/80 hover:border-purple-500/50 cursor-pointer";
     }
     
     if (option.word === word.word) {
-      return baseClass + "bg-green-100 border-green-500 ring-2 ring-green-300";
+      return baseClass + "bg-green-500/20 border-green-500 ring-2 ring-green-400/50";
     }
     
     if (option.word === selectedAnswer) {
-      return baseClass + "bg-red-100 border-red-500 ring-2 ring-red-300";
+      return baseClass + "bg-red-500/20 border-red-500 ring-2 ring-red-400/50";
     }
     
-    return baseClass + "bg-white border-gray-200 opacity-50";
+    return baseClass + "bg-slate-800/40 border-slate-700 opacity-50";
   };
 
   return (
     <>
       <div className="text-center mb-6">
-        <p className="text-lg text-slate-600">Từ nào có nghĩa là:</p>
+        <p className="text-lg text-slate-300">Từ nào có nghĩa là:</p>
         <div className="flex items-center justify-center gap-3">
-          <h2 className="text-4xl font-bold text-blue-600">{word.word}</h2>
+          <h2 className="text-4xl font-bold text-purple-400">{word.word}</h2>
           <SpeakButton text={word.word} />
         </div>
       </div>

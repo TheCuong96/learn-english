@@ -38,14 +38,14 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
 
   return (
     <div className="text-center max-w-2xl mx-auto">
-      <p className="text-xl text-slate-700 mb-4">Điền dạng V2 và V3 của động từ:</p>
+      <p className="text-xl text-slate-300 mb-4">Điền dạng V2 và V3 của động từ:</p>
       <div className="flex items-center justify-center gap-3 mb-8">
-        <h2 className="text-5xl font-bold text-orange-500">{word.v1}</h2>
+        <h2 className="text-5xl font-bold text-orange-400">{word.v1}</h2>
         <SpeakButton text={word.v1} />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
-          <label htmlFor="v2-input" className="block text-lg font-medium text-slate-600">
+          <label htmlFor="v2-input" className="block text-lg font-medium text-slate-300">
             V2 (quá khứ)
           </label>
           <input
@@ -54,17 +54,17 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
             value={v2Input}
             onChange={(e) => setV2Input(e.target.value)}
             disabled={hasAnswered}
-            className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg ${
+            className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg bg-slate-800/60 text-slate-200 ${
               hasAnswered
                 ? v2Input.trim().toLowerCase() === word.v2.toLowerCase()
-                  ? 'border-green-500 ring-2 ring-green-300'
-                  : 'border-red-500 ring-2 ring-red-300'
-                : 'border-gray-300'
+                  ? 'border-green-500 ring-2 ring-green-400/50'
+                  : 'border-red-500 ring-2 ring-red-400/50'
+                : 'border-slate-600'
             }`}
           />
         </div>
         <div>
-          <label htmlFor="v3-input" className="block text-lg font-medium text-slate-600">
+          <label htmlFor="v3-input" className="block text-lg font-medium text-slate-300">
             V3 (quá khứ phân từ)
           </label>
           <input
@@ -73,12 +73,12 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
             value={v3Input}
             onChange={(e) => setV3Input(e.target.value)}
             disabled={hasAnswered}
-            className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg ${
+            className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg bg-slate-800/60 text-slate-200 ${
               hasAnswered
                 ? v3Input.trim().toLowerCase() === word.v3.toLowerCase()
-                  ? 'border-green-500 ring-2 ring-green-300'
-                  : 'border-red-500 ring-2 ring-red-300'
-                : 'border-gray-300'
+                  ? 'border-green-500 ring-2 ring-green-400/50'
+                  : 'border-red-500 ring-2 ring-red-400/50'
+                : 'border-slate-600'
             }`}
           />
         </div>
@@ -86,7 +86,7 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
       <button
         onClick={handleCheck}
         disabled={hasAnswered || !v2Input.trim() || !v3Input.trim()}
-        className="mt-8 bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-lg shadow-md disabled:opacity-50 disabled:cursor-not-allowed"
+        className="mt-8 bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg disabled:opacity-50 disabled:cursor-not-allowed transition-all"
       >
         Kiểm tra
       </button>

@@ -145,8 +145,8 @@ export default function Home() {
   if (loading) {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen">
-        <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-blue-500"></div>
-        <p className="mt-4 text-lg font-semibold text-slate-700">Đang tải dữ liệu...</p>
+        <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-purple-500"></div>
+        <p className="mt-4 text-lg font-semibold text-slate-200">Đang tải dữ liệu...</p>
       </div>
     );
   }
@@ -154,15 +154,15 @@ export default function Home() {
   return (
     <>
       {/* Header */}
-      <header className="bg-white shadow-md">
+      <header className="bg-slate-800/50 backdrop-blur-md shadow-2xl border-b border-slate-700/50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400">
+          <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400">
             Luyện tập động từ (804 verbs)
           </h1>
           {currentScreen !== 'home' && (
             <button 
               onClick={handleReset}
-              className="text-blue-500 hover:text-blue-700"
+              className="text-purple-400 hover:text-purple-300"
             >
               <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
                 <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
@@ -181,17 +181,17 @@ export default function Home() {
         {currentScreen === 'home' && (
           <div>
             <div className="text-center mb-8">
-              <h2 className="text-2xl font-semibold mb-2">Chào mừng bạn!</h2>
-              <p className="text-slate-600">Luyện tập với 804 động từ từ verbs-data.json. Chọn một hoạt động bên dưới.</p>
+              <h2 className="text-2xl font-semibold mb-2 text-slate-100">Chào mừng bạn!</h2>
+              <p className="text-slate-300">Luyện tập với 804 động từ từ verbs-data.json. Chọn một hoạt động bên dưới.</p>
               {stats && (
                 <div className="mt-4 flex justify-center gap-4 text-sm">
-                  <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">
+                  <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded border border-blue-500/30">
                     📊 Tổng: {stats.total}
                   </span>
-                  <span className="px-3 py-1 bg-red-100 text-red-800 rounded">
+                  <span className="px-3 py-1 bg-red-500/20 text-red-300 rounded border border-red-500/30">
                     🔴 Bất quy tắc: {stats.irregular}
                   </span>
-                  <span className="px-3 py-1 bg-green-100 text-green-800 rounded">
+                  <span className="px-3 py-1 bg-green-500/20 text-green-300 rounded border border-green-500/30">
                     🟢 Quy tắc: {stats.regular}
                   </span>
                 </div>
@@ -201,34 +201,34 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div 
                 onClick={() => startSession('flashcards')}
-                className="mode-card bg-white p-6 rounded-lg shadow-lg"
+                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-blue-500/50"
               >
-                <h3 className="text-xl font-bold text-blue-600 mb-2">📚 Học với thẻ ghi nhớ</h3>
-                <p className="text-slate-600">Lật thẻ để học từ mới, V1-V2-V3 và ví dụ.</p>
+                <h3 className="text-xl font-bold text-blue-400 mb-2">📚 Học với thẻ ghi nhớ</h3>
+                <p className="text-slate-300">Lật thẻ để học từ mới, V1-V2-V3 và ví dụ.</p>
               </div>
               
               <div 
                 onClick={() => startSession('multiple-choice')}
-                className="mode-card bg-white p-6 rounded-lg shadow-lg"
+                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-green-500/50"
               >
-                <h3 className="text-xl font-bold text-green-600 mb-2">✅ Bài tập trắc nghiệm</h3>
-                <p className="text-slate-600">Chọn đúng nghĩa của từ.</p>
+                <h3 className="text-xl font-bold text-green-400 mb-2">✅ Bài tập trắc nghiệm</h3>
+                <p className="text-slate-300">Chọn đúng nghĩa của từ.</p>
               </div>
               
               <div 
                 onClick={() => startSession('fill-in-blank')}
-                className="mode-card bg-white p-6 rounded-lg shadow-lg"
+                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-purple-500/50"
               >
-                <h3 className="text-xl font-bold text-purple-600 mb-2">✏️ Điền vào chỗ trống</h3>
-                <p className="text-slate-600">Hoàn thành câu với từ vựng đúng.</p>
+                <h3 className="text-xl font-bold text-purple-400 mb-2">✏️ Điền vào chỗ trống</h3>
+                <p className="text-slate-300">Hoàn thành câu với từ vựng đúng.</p>
               </div>
               
               <div 
                 onClick={() => startSession('verb-forms')}
-                className="mode-card bg-white p-6 rounded-lg shadow-lg"
+                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-orange-500/50"
               >
-                <h3 className="text-xl font-bold text-orange-600 mb-2">🔄 Chia động từ</h3>
-                <p className="text-slate-600">Điền dạng V2 và V3 của động từ.</p>
+                <h3 className="text-xl font-bold text-orange-400 mb-2">🔄 Chia động từ</h3>
+                <p className="text-slate-300">Điền dạng V2 và V3 của động từ.</p>
               </div>
             </div>
           </div>
@@ -263,8 +263,8 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-white mt-8">
-        <div className="container mx-auto px-4 py-4 text-center text-slate-500">
+      <footer className="bg-slate-800/30 backdrop-blur-md mt-8 border-t border-slate-700/50">
+        <div className="container mx-auto px-4 py-4 text-center text-slate-400">
           <p>&copy; 2025 Luyện tập động từ. All rights reserved.</p>
         </div>
       </footer>
