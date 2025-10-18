@@ -24,7 +24,7 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
     // Phát âm câu ví dụ
     setTimeout(() => speak(word.example), 300);
     
-    let exampleSentence = word.example;
+    const exampleSentence = word.example;
     let targetWord = word.word;
 
     // Tìm verb form trong câu ví dụ

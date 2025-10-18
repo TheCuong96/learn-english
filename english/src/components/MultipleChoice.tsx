@@ -49,7 +49,7 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
   };
 
   const getButtonClass = (option: Verb) => {
-    let baseClass = "btn-answer w-full text-left p-4 border-2 rounded-lg shadow-sm transition-all ";
+    const baseClass = "btn-answer w-full text-left p-4 border-2 rounded-lg shadow-sm transition-all ";
     
     if (!selectedAnswer) {
       return baseClass + "bg-white border-gray-200 hover:bg-blue-50 hover:border-blue-300 cursor-pointer";

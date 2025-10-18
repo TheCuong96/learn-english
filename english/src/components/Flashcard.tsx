@@ -7,10 +7,9 @@ import SpeakButton from './SpeakButton';
 
 interface FlashcardProps {
   word: Verb;
-  onNext: () => void;
 }
 
-export default function Flashcard({ word, onNext }: FlashcardProps) {
+export default function Flashcard({ word }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
 
   // Reset state và phát âm khi chuyển sang thẻ mới

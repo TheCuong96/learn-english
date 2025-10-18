@@ -18,10 +18,12 @@ export default function VerbsAudioPage() {
   useEffect(() => {
     loadData();
     loadVoices();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     filterVerbs();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchQuery, verbs]);
 
   const loadData = async () => {
@@ -188,7 +190,7 @@ export default function VerbsAudioPage() {
           onClick={() => handleSpeak('example')}
           className="px-4 py-2 text-lg border border-white/30 rounded bg-gradient-to-r from-purple-600 to-indigo-700 text-white hover:from-purple-700 hover:to-indigo-800 shadow-lg"
         >
-          Phát thử "example"
+          Phát thử &quot;example&quot;
         </button>
 
         <span className="ml-auto text-sm font-medium opacity-90">

@@ -36,7 +36,7 @@ export default function SessionScreen({
   const renderContent = () => {
     switch (sessionType) {
       case 'flashcards':
-        return <Flashcard word={currentWord} onNext={onNext} />;
+        return <Flashcard word={currentWord} />;
       case 'multiple-choice':
         return <MultipleChoice word={currentWord} allWords={allWords} onAnswer={onAnswer} />;
       case 'fill-in-blank':
