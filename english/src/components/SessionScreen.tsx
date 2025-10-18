@@ -1,6 +1,8 @@
 'use client';
 
 import { SessionType, Verb } from '@/types/verb';
+import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
+import { useEffect } from 'react';
 import FillInBlank from './FillInBlank';
 import Flashcard from './Flashcard';
 import MultipleChoice from './MultipleChoice';
@@ -32,6 +34,17 @@ export default function SessionScreen({
   onNext
 }: SessionScreenProps) {
   const progress = (currentIndex / totalWords) * 100;
+
+  // Phát âm thanh khi có phản hồi
+  useEffect(() => {
+    if (showFeedback && isCorrect !== null) {
+      if (isCorrect) {
+        playCorrectSound();
+      } else {
+        playIncorrectSound();
+      }
+    }
+  }, [showFeedback, isCorrect]);
 
   const renderContent = () => {
     switch (sessionType) {
