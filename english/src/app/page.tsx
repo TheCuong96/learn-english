@@ -20,9 +20,12 @@ export default function Home() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [correctAnswer, setCorrectAnswer] = useState('');
   const [selectedCardIndex, setSelectedCardIndex] = useState(0); // Cho arrow key navigation
+  const [sessionLength, setSessionLength] = useState(20); // Mặc định 20 câu
+  const [customLength, setCustomLength] = useState('');
+  const [showCustomInput, setShowCustomInput] = useState(false);
 
-  const sessionLength = 10;
   const sessionOptions: SessionType[] = ['flashcards', 'multiple-choice', 'fill-in-blank', 'verb-forms'];
+  const quickLengthOptions = [10, 20, 30, 50];
 
   useEffect(() => {
     loadData();
@@ -237,7 +240,7 @@ export default function Home() {
                 hoặc <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 ml-1">1-4</kbd> để chọn nhanh!
               </p>
               {stats && (
-                <div className="mt-4 flex justify-center gap-4 text-sm">
+                <div className="mt-4 flex justify-center gap-4 text-sm flex-wrap">
                   <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded border border-blue-500/30">
                     📊 Tổng: {stats.total}
                   </span>
@@ -249,6 +252,72 @@ export default function Home() {
                   </span>
                 </div>
               )}
+
+              {/* Session Length Selector */}
+              <div className="mt-6 max-w-2xl mx-auto">
+                <div className="bg-slate-800/60 backdrop-blur-sm p-4 rounded-xl border border-slate-700/50">
+                  <p className="text-slate-200 font-semibold mb-3">📝 Số câu hỏi:</p>
+                  <div className="flex gap-2 justify-center flex-wrap">
+                    {quickLengthOptions.map((length) => (
+                      <button
+                        key={length}
+                        onClick={() => {
+                          setSessionLength(length);
+                          setShowCustomInput(false);
+                        }}
+                        className={`px-4 py-2 rounded-lg font-semibold transition-all ${
+                          sessionLength === length && !showCustomInput
+                            ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
+                            : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
+                        }`}
+                      >
+                        {length} câu
+                      </button>
+                    ))}
+                    <button
+                      onClick={() => setShowCustomInput(!showCustomInput)}
+                      className={`px-4 py-2 rounded-lg font-semibold transition-all ${
+                        showCustomInput
+                          ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
+                          : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
+                      }`}
+                    >
+                      ✏️ Tùy chỉnh
+                    </button>
+                  </div>
+                  
+                  {showCustomInput && (
+                    <div className="mt-3 flex gap-2 justify-center items-center">
+                      <input
+                        type="number"
+                        min="1"
+                        max="804"
+                        value={customLength}
+                        onChange={(e) => setCustomLength(e.target.value)}
+                        placeholder="Nhập số câu (1-804)"
+                        className="px-4 py-2 bg-slate-700/50 text-slate-200 border border-slate-600 rounded-lg w-48 text-center"
+                      />
+                      <button
+                        onClick={() => {
+                          const num = parseInt(customLength);
+                          if (num >= 1 && num <= 804) {
+                            setSessionLength(num);
+                          } else {
+                            alert('Vui lòng nhập số từ 1 đến 804');
+                          }
+                        }}
+                        className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-semibold"
+                      >
+                        OK
+                      </button>
+                    </div>
+                  )}
+                  
+                  <p className="text-purple-300 text-sm mt-3">
+                    ✨ Bạn sẽ làm <span className="font-bold text-purple-400">{sessionLength}</span> câu hỏi
+                  </p>
+                </div>
+              </div>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
