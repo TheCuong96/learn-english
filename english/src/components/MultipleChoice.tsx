@@ -128,16 +128,22 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
     <>
       <div className="text-center mb-6">
         <p className="text-lg text-slate-300">Từ nào có nghĩa là:</p>
-        <div className="flex items-center justify-center gap-3">
-          <h2 className="text-4xl font-bold text-purple-400">{word.word}</h2>
-          <SpeakButton text={word.word} />
+        <div className="flex flex-col items-center justify-center gap-2 mt-4">
+          <div className="flex items-center gap-3">
+            <SpeakButton text={word.word} />
+            <h2 className="text-5xl font-bold text-green-400">{word.v1}</h2>
+          </div>
+          <div className="flex items-center gap-4 mt-2">
+            <div className="flex flex-col items-center">
+              <span className="text-xs text-orange-400/70 font-semibold mb-1">V2</span>
+              <h3 className="text-2xl font-semibold text-orange-400">{word.v2}</h3>
+            </div>
+            <div className="flex flex-col items-center">
+              <span className="text-xs text-blue-400/70 font-semibold mb-1">V3</span>
+              <h3 className="text-2xl font-semibold text-blue-400">{word.v3}</h3>
+            </div>
+          </div>
         </div>
-        <p className="text-purple-300 text-sm mt-3">
-          💡 <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P/S</kbd> phát âm, 
-          <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">←→↑↓</kbd> di chuyển, 
-          <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">Enter</kbd> chọn, 
-          hoặc <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">A-D/1-4</kbd>
-        </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-2xl mx-auto">
         {options.map((option, index) => {
@@ -157,6 +163,14 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
             </button>
           );
         })}
+      </div>
+      <div className="text-center mb-6">
+        <p className="text-purple-300 text-sm mt-4">
+          💡 <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P/S</kbd> phát âm, 
+          <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">←→↑↓</kbd> di chuyển, 
+          <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">Enter</kbd> chọn, 
+          hoặc <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">A-D/1-4</kbd>
+        </p>
       </div>
     </>
   );

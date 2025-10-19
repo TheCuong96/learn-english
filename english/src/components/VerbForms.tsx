@@ -54,17 +54,20 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
   };
 
   return (
-    <div className="text-center max-w-2xl mx-auto">
+    <div className="text-center  mx-auto">
       <p className="text-xl text-slate-300 mb-4">Điền dạng V2 và V3 của động từ:</p>
       <div className="flex items-center justify-center gap-3 mb-2">
-        <h2 className="text-5xl font-bold text-orange-400">{word.v1}</h2>
         <SpeakButton text={word.v1} />
+        <div className="flex items-center justify-center gap-3 mb-2">
+          <h2 className="text-5xl font-bold text-orange-400">{word.v1}</h2> =
+          <h2 className="text-5xl font-bold text-cyan-400">{word.definition }</h2>
+        </div>
       </div>
       <p className="text-purple-300 text-sm mb-6">
         💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P</kbd> hoặc 
         <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">S</kbd> để nghe lại phát âm
       </p>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:max-w-2xl mx-auto">
         <div>
           <label htmlFor="v2-input" className="block text-lg font-medium text-slate-300">
             V2 (quá khứ)
