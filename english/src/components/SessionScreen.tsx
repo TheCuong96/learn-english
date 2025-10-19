@@ -2,6 +2,7 @@
 
 import { SessionType, Verb } from '@/types/verb';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
+import { VERB_CATEGORIES } from '@/utils/verb-categories';
 import { useEffect } from 'react';
 import FillInBlank from './FillInBlank';
 import Flashcard from './Flashcard';
@@ -17,6 +18,7 @@ interface SessionScreenProps {
   showFeedback: boolean;
   isCorrect: boolean | null;
   correctAnswer: string;
+  selectedCategories?: string[];
   onAnswer: (isCorrect: boolean, userAnswer?: string) => void;
   onNext: () => void;
   onHome: () => void;
@@ -31,6 +33,7 @@ export default function SessionScreen({
   showFeedback,
   isCorrect,
   correctAnswer,
+  selectedCategories = [],
   onAnswer,
   onNext,
   onHome
@@ -103,23 +106,46 @@ export default function SessionScreen({
 
   return (
     <>
-      {/* Header with Home button */}
-      <div className="mb-4 flex justify-between items-center">
-        <div className="flex-1">
-          <p className="text-purple-300 text-sm">
-            💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Esc</kbd> hoặc 
-            <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">H</kbd> để về trang chủ
-          </p>
+      {/* Header with Categories & Home button */}
+      <div className="mb-4">
+        <div className="flex justify-between items-center mb-3">
+          <div className="flex-1">
+            <p className="text-purple-300 text-sm">
+              💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Esc</kbd> hoặc 
+              <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">H</kbd> để về trang chủ
+            </p>
+          </div>
+          <button
+            onClick={() => {
+              const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
+              if (confirmExit) onHome();
+            }}
+            className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600 transition-all flex items-center gap-2"
+          >
+            🏠 <span className="hidden sm:inline">Trang chủ</span>
+          </button>
         </div>
-        <button
-          onClick={() => {
-            const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
-            if (confirmExit) onHome();
-          }}
-          className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600 transition-all flex items-center gap-2"
-        >
-          🏠 <span className="hidden sm:inline">Trang chủ</span>
-        </button>
+        
+        {/* Selected Categories Display */}
+        {selectedCategories.length > 0 && (
+          <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/50">
+            <p className="text-slate-300 text-sm mb-2">🎯 Chủ đề đang luyện:</p>
+            <div className="flex flex-wrap gap-2">
+              {selectedCategories.map((catId) => {
+                const category = VERB_CATEGORIES.find(c => c.id === catId);
+                if (!category) return null;
+                return (
+                  <span
+                    key={catId}
+                    className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/50 rounded-full text-xs text-purple-300"
+                  >
+                    {category.icon} {category.nameVi}
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Progress Bar */}

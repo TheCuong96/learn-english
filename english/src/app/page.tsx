@@ -434,6 +434,7 @@ export default function Home() {
             showFeedback={showFeedback}
             isCorrect={isCorrect}
             correctAnswer={correctAnswer}
+            selectedCategories={selectedCategories}
             onAnswer={handleAnswer}
             onNext={handleNext}
             onHome={handleReset}
