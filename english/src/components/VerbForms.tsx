@@ -59,8 +59,15 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
       <div className="flex items-center justify-center gap-3 mb-2">
         <SpeakButton text={word.v1} />
         <div className="flex items-center justify-center gap-3 mb-2">
-          <h2 className="text-5xl font-bold text-orange-400">{word.v1}</h2> =
-          <h2 className="text-5xl font-bold text-cyan-400">{word.definition }</h2>
+          <h2 
+            className="text-5xl font-bold text-orange-400 cursor-pointer hover:scale-110 transition-transform select-none"
+            onClick={() => speak(word.v1)}
+            title="Click để nghe phát âm V1 👆"
+          >
+            {word.v1}
+          </h2> 
+          <span className="text-3xl text-slate-400">=</span>
+          <h2 className="text-5xl font-bold text-cyan-400">{word.definition}</h2>
         </div>
       </div>
       <p className="text-purple-300 text-sm mb-6">

@@ -131,15 +131,29 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
         <div className="flex flex-col items-center justify-center gap-2 mt-4">
           <div className="flex items-center gap-3">
             <SpeakButton text={word.word} />
-            <h2 className="text-5xl font-bold text-green-400">{word.v1}</h2>
+            <h2 
+              className="text-5xl font-bold text-green-400 cursor-pointer hover:scale-110 transition-transform select-none" 
+              onClick={() => speak(word.v1)}
+              title="Click để nghe phát âm V1"
+            >
+              {word.v1}
+            </h2>
           </div>
           <div className="flex items-center gap-4 mt-2">
-            <div className="flex flex-col items-center">
-              <span className="text-xs text-orange-400/70 font-semibold mb-1">V2</span>
+            <div 
+              className="flex flex-col items-center cursor-pointer hover:scale-110 transition-transform select-none group"
+              onClick={() => speak(word.v2)}
+              title="Click để nghe phát âm V2"
+            >
+              <span className="text-xs text-orange-400/70 font-semibold mb-1 group-hover:text-orange-400">V2 👆</span>
               <h3 className="text-2xl font-semibold text-orange-400">{word.v2}</h3>
             </div>
-            <div className="flex flex-col items-center">
-              <span className="text-xs text-blue-400/70 font-semibold mb-1">V3</span>
+            <div 
+              className="flex flex-col items-center cursor-pointer hover:scale-110 transition-transform select-none group"
+              onClick={() => speak(word.v3)}
+              title="Click để nghe phát âm V3"
+            >
+              <span className="text-xs text-blue-400/70 font-semibold mb-1 group-hover:text-blue-400">V3 👆</span>
               <h3 className="text-2xl font-semibold text-blue-400">{word.v3}</h3>
             </div>
           </div>

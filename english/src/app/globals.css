@@ -108,3 +108,18 @@ html {
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(180deg, #7a7a7a, #f472b6);
 }
+
+/* Cursor pointer với hand icon */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Thêm hand emoji khi hover vào các phần có thể click để phát âm */
+[title*="Click để nghe"]:hover {
+  cursor: pointer;
+}
+
+/* Optional: Thêm subtle glow effect khi hover */
+[title*="Click để nghe"]:hover {
+  filter: drop-shadow(0 0 8px rgba(147, 51, 234, 0.4));
+}
