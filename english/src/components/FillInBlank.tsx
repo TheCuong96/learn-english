@@ -81,7 +81,13 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
     <div className="text-center max-w-2xl mx-auto">
       <p className="text-xl text-slate-300 mb-4">Điền từ còn thiếu vào câu:</p>
       <div className="flex items-center justify-center gap-3">
-        <p className="text-2xl bg-slate-800/60 text-slate-200 p-6 rounded-lg shadow-xl border border-slate-700/50">{sentence}</p>
+        <p 
+          className="text-2xl bg-slate-800/60 text-slate-200 p-6 rounded-lg shadow-xl border border-slate-700/50 cursor-pointer hover:scale-105 transition-transform select-none"
+          onClick={() => speak(word.example)}
+          title="Click để nghe câu ví dụ 👆"
+        >
+          {sentence}
+        </p>
         <SpeakButton text={word.example} />
       </div>
       <p className="text-base text-slate-400 mt-4 italic">Gợi ý: {word.english_definition}</p>
