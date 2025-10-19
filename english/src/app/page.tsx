@@ -4,6 +4,7 @@ import CategorySelector from '@/components/CategorySelector';
 import Navigation from '@/components/Navigation';
 import ResultsScreen from '@/components/ResultsScreen';
 import SessionScreen from '@/components/SessionScreen';
+import VoiceSelector from '@/components/VoiceSelector';
 import { ReviewWord, SessionType, Verb } from '@/types/verb';
 import { categorizeVerb } from '@/utils/verb-categories';
 import { VerbsData } from '@/utils/verbs-data';
@@ -227,29 +228,30 @@ export default function Home() {
   return (
     <>
       {/* Header */}
-      <header className="bg-slate-800/50 backdrop-blur-md shadow-2xl border-b border-slate-700/50">
-        <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400">
-            Luyện tập động từ (804 verbs)
-          </h1>
-          <h2 className="text-2xl font-semibold mb-2 text-slate-100">Chào mừng bạn!</h2>
-          {currentScreen !== 'home' && (
-            <button 
-              onClick={handleReset}
-              className="text-purple-400 hover:text-purple-300"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
-                <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
-              </svg>
-            </button>
-          )}
+      <header className="bg-slate-800/50  shadow-2xl border-b border-slate-700/50">
+        <div className="container mx-auto px-4 py-4">
+          <div className="flex justify-between items-center flex-wrap gap-3">
+            <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400">
+              Luyện tập động từ (804 verbs)
+            </h1>
+            <div className="flex items-center gap-3">
+              <VoiceSelector />
+              {currentScreen !== 'home' && (
+                <button 
+                  onClick={handleReset}
+                  className="text-purple-400 hover:text-purple-300"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
+                    <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
+                  </svg>
+                </button>
+              )}
+            </div>
+          </div>
           {/* Navigation */}
           {currentScreen === 'home' && <Navigation />}
         </div>
       </header>
-
- 
-
       {/* Main Content */}
       <main className="container mx-auto p-4 flex-grow">
         {/* Home Screen */}
@@ -277,7 +279,7 @@ export default function Home() {
 
               {/* Cài đặt bài tập - Gộp chung 1 khung */}
               <div className="mt-6 max-w-7xl mx-auto">
-                <div className="bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl border border-slate-700/50">
+                <div className="bg-slate-800/60  p-6 rounded-xl border border-slate-700/50">
                   <h3 className="text-xl font-bold text-slate-100 mb-4">⚙️ Cài đặt bài tập</h3>
                   
                   <div className="grid grid-cols-1 lg:grid-cols-1 gap-6">
@@ -359,7 +361,7 @@ export default function Home() {
               <div 
                 onClick={() => startSession('flashcards')}
                 onMouseEnter={() => setSelectedCardIndex(0)}
-                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                className={`mode-card bg-slate-800/60  p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
                   selectedCardIndex === 0 
                     ? 'border-blue-500 ring-2 ring-blue-500/50 bg-slate-800/80' 
                     : 'border-slate-700/50 hover:border-blue-500/50'
@@ -375,7 +377,7 @@ export default function Home() {
               <div 
                 onClick={() => startSession('multiple-choice')}
                 onMouseEnter={() => setSelectedCardIndex(1)}
-                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                className={`mode-card bg-slate-800/60  p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
                   selectedCardIndex === 1 
                     ? 'border-green-500 ring-2 ring-green-500/50 bg-slate-800/80' 
                     : 'border-slate-700/50 hover:border-green-500/50'
@@ -391,7 +393,7 @@ export default function Home() {
               <div 
                 onClick={() => startSession('fill-in-blank')}
                 onMouseEnter={() => setSelectedCardIndex(2)}
-                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                className={`mode-card bg-slate-800/60  p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
                   selectedCardIndex === 2 
                     ? 'border-purple-500 ring-2 ring-purple-500/50 bg-slate-800/80' 
                     : 'border-slate-700/50 hover:border-purple-500/50'
@@ -407,7 +409,7 @@ export default function Home() {
               <div 
                 onClick={() => startSession('verb-forms')}
                 onMouseEnter={() => setSelectedCardIndex(3)}
-                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                className={`mode-card bg-slate-800/60  p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
                   selectedCardIndex === 3 
                     ? 'border-orange-500 ring-2 ring-orange-500/50 bg-slate-800/80' 
                     : 'border-slate-700/50 hover:border-orange-500/50'
@@ -455,7 +457,7 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-slate-800/30 backdrop-blur-md mt-8 border-t border-slate-700/50">
+      <footer className="bg-slate-800/30  mt-8 border-t border-slate-700/50">
         <div className="container mx-auto px-4 py-4 text-center text-slate-400">
           <p>&copy; 2025 Luyện tập động từ. All rights reserved.</p>
         </div>
