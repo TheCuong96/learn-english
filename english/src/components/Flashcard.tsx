@@ -19,6 +19,32 @@ export default function Flashcard({ word }: FlashcardProps) {
     setTimeout(() => speak(word.word), 300);
   }, [word]);
 
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      const key = e.key.toLowerCase();
+      
+      // Phím P hoặc S để phát âm
+      if (key === 'p' || key === 's') {
+        e.preventDefault();
+        speak(word.word);
+        return;
+      }
+      
+      // Phím Space, F, Enter để lật thẻ
+      if (key === ' ' || key === 'f' || key === 'enter') {
+        e.preventDefault();
+        setIsFlipped(!isFlipped);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [isFlipped, word]);
+
   const handleFlip = () => {
     setIsFlipped(!isFlipped);
   };
@@ -46,6 +72,10 @@ export default function Flashcard({ word }: FlashcardProps) {
         </div>
       </div>
       <div className="text-center mt-4">
+        <p className="text-purple-300 text-sm mb-2">
+          💡 <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P/S</kbd> phát âm, 
+          <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">Space/F</kbd> lật thẻ
+        </p>
         <button 
           onClick={handleFlip}
           className="bg-slate-700 hover:bg-slate-600 text-slate-200 font-bold py-2 px-4 rounded-lg border border-slate-600"

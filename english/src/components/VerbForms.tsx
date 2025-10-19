@@ -25,6 +25,23 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
     setTimeout(() => speak(word.v1), 300);
   }, [word]);
 
+  // Keyboard shortcut để phát âm
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      const key = e.key.toUpperCase();
+      if (key === 'P' || key === 'S') {
+        e.preventDefault();
+        speak(word.v1);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [word]);
+
   const handleCheck = () => {
     if (hasAnswered) return;
     
@@ -39,10 +56,14 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
   return (
     <div className="text-center max-w-2xl mx-auto">
       <p className="text-xl text-slate-300 mb-4">Điền dạng V2 và V3 của động từ:</p>
-      <div className="flex items-center justify-center gap-3 mb-8">
+      <div className="flex items-center justify-center gap-3 mb-2">
         <h2 className="text-5xl font-bold text-orange-400">{word.v1}</h2>
         <SpeakButton text={word.v1} />
       </div>
+      <p className="text-purple-300 text-sm mb-6">
+        💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P</kbd> hoặc 
+        <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">S</kbd> để nghe lại phát âm
+      </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <label htmlFor="v2-input" className="block text-lg font-medium text-slate-300">

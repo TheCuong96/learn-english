@@ -46,6 +46,23 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
     setWordToReplace(targetWord);
   }, [word]);
 
+  // Keyboard shortcut để phát âm
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      const key = e.key.toUpperCase();
+      if (key === 'P' || key === 'S') {
+        e.preventDefault();
+        speak(word.example);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [word]);
+
   const handleCheck = () => {
     if (hasAnswered) return;
     
@@ -68,6 +85,10 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
         <SpeakButton text={word.example} />
       </div>
       <p className="text-base text-slate-400 mt-4 italic">Gợi ý: {word.english_definition}</p>
+      <p className="text-purple-300 text-sm mt-2">
+        💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">P</kbd> hoặc 
+        <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">S</kbd> để nghe lại câu
+      </p>
       <input
         type="text"
         value={userInput}

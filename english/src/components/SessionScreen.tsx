@@ -19,6 +19,7 @@ interface SessionScreenProps {
   correctAnswer: string;
   onAnswer: (isCorrect: boolean, userAnswer?: string) => void;
   onNext: () => void;
+  onHome: () => void;
 }
 
 export default function SessionScreen({
@@ -31,7 +32,8 @@ export default function SessionScreen({
   isCorrect,
   correctAnswer,
   onAnswer,
-  onNext
+  onNext,
+  onHome
 }: SessionScreenProps) {
   const progress = (currentIndex / totalWords) * 100;
 
@@ -45,6 +47,44 @@ export default function SessionScreen({
       }
     }
   }, [showFeedback, isCorrect]);
+
+  // Keyboard shortcuts cho nút "Tiếp theo"
+  useEffect(() => {
+    if (!showFeedback && sessionType !== 'flashcards') return;
+
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        onNext();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [showFeedback, sessionType, onNext]);
+
+  // Keyboard shortcut để về trang chủ (Escape hoặc H)
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      
+      if (e.key === 'Escape' || e.key === 'h' || e.key === 'H') {
+        e.preventDefault();
+        // Xác nhận trước khi thoát
+        const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
+        if (confirmExit) {
+          onHome();
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [onHome]);
 
   const renderContent = () => {
     switch (sessionType) {
@@ -63,6 +103,25 @@ export default function SessionScreen({
 
   return (
     <>
+      {/* Header with Home button */}
+      <div className="mb-4 flex justify-between items-center">
+        <div className="flex-1">
+          <p className="text-purple-300 text-sm">
+            💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Esc</kbd> hoặc 
+            <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">H</kbd> để về trang chủ
+          </p>
+        </div>
+        <button
+          onClick={() => {
+            const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
+            if (confirmExit) onHome();
+          }}
+          className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600 transition-all flex items-center gap-2"
+        >
+          🏠 <span className="hidden sm:inline">Trang chủ</span>
+        </button>
+      </div>
+
       {/* Progress Bar */}
       <div className="mb-4">
         <div className="flex justify-between mb-1">
@@ -106,7 +165,7 @@ export default function SessionScreen({
             !showFeedback && sessionType !== 'flashcards' ? 'hidden' : ''
           }`}
         >
-          Tiếp theo
+          Tiếp theo <span className="text-purple-200 text-sm ml-2">(Enter)</span>
         </button>
       </div>
     </>

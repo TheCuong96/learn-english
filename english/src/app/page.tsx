@@ -19,8 +19,10 @@ export default function Home() {
   const [showFeedback, setShowFeedback] = useState(false);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [correctAnswer, setCorrectAnswer] = useState('');
+  const [selectedCardIndex, setSelectedCardIndex] = useState(0); // Cho arrow key navigation
 
   const sessionLength = 10;
+  const sessionOptions: SessionType[] = ['flashcards', 'multiple-choice', 'fill-in-blank', 'verb-forms'];
 
   useEffect(() => {
     loadData();
@@ -36,6 +38,52 @@ export default function Home() {
       }
     }
   }, []);
+
+  // Keyboard shortcuts cho trang chủ
+  useEffect(() => {
+    if (currentScreen !== 'home') return;
+
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      // Arrow keys navigation
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        setSelectedCardIndex((prev) => (prev + 1) % 4);
+      } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        setSelectedCardIndex((prev) => (prev - 1 + 4) % 4);
+      } else if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        startSession(sessionOptions[selectedCardIndex]);
+      } else {
+        // Number keys 1-4
+        switch (e.key) {
+          case '1':
+            setSelectedCardIndex(0);
+            startSession('flashcards');
+            break;
+          case '2':
+            setSelectedCardIndex(1);
+            startSession('multiple-choice');
+            break;
+          case '3':
+            setSelectedCardIndex(2);
+            startSession('fill-in-blank');
+            break;
+          case '4':
+            setSelectedCardIndex(3);
+            startSession('verb-forms');
+            break;
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentScreen, vocabulary, selectedCardIndex]);
 
   const loadData = async () => {
     try {
@@ -183,6 +231,11 @@ export default function Home() {
             <div className="text-center mb-8">
               <h2 className="text-2xl font-semibold mb-2 text-slate-100">Chào mừng bạn!</h2>
               <p className="text-slate-300">Luyện tập với 804 động từ từ verbs-data.json. Chọn một hoạt động bên dưới.</p>
+              <p className="text-purple-300 text-sm mt-2">
+                💡 Mẹo: Dùng phím <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600">←→↑↓</kbd> để di chuyển, 
+                <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 ml-1">Enter</kbd> để chọn, 
+                hoặc <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 ml-1">1-4</kbd> để chọn nhanh!
+              </p>
               {stats && (
                 <div className="mt-4 flex justify-center gap-4 text-sm">
                   <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded border border-blue-500/30">
@@ -201,32 +254,64 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div 
                 onClick={() => startSession('flashcards')}
-                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-blue-500/50"
+                onMouseEnter={() => setSelectedCardIndex(0)}
+                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                  selectedCardIndex === 0 
+                    ? 'border-blue-500 ring-2 ring-blue-500/50 bg-slate-800/80' 
+                    : 'border-slate-700/50 hover:border-blue-500/50'
+                }`}
               >
+                <div className="absolute top-3 right-3 bg-blue-500/20 text-blue-300 px-2 py-1 rounded text-xs font-bold border border-blue-500/30">
+                  Phím 1
+                </div>
                 <h3 className="text-xl font-bold text-blue-400 mb-2">📚 Học với thẻ ghi nhớ</h3>
                 <p className="text-slate-300">Lật thẻ để học từ mới, V1-V2-V3 và ví dụ.</p>
               </div>
               
               <div 
                 onClick={() => startSession('multiple-choice')}
-                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-green-500/50"
+                onMouseEnter={() => setSelectedCardIndex(1)}
+                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                  selectedCardIndex === 1 
+                    ? 'border-green-500 ring-2 ring-green-500/50 bg-slate-800/80' 
+                    : 'border-slate-700/50 hover:border-green-500/50'
+                }`}
               >
+                <div className="absolute top-3 right-3 bg-green-500/20 text-green-300 px-2 py-1 rounded text-xs font-bold border border-green-500/30">
+                  Phím 2
+                </div>
                 <h3 className="text-xl font-bold text-green-400 mb-2">✅ Bài tập trắc nghiệm</h3>
                 <p className="text-slate-300">Chọn đúng nghĩa của từ.</p>
               </div>
               
               <div 
                 onClick={() => startSession('fill-in-blank')}
-                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-purple-500/50"
+                onMouseEnter={() => setSelectedCardIndex(2)}
+                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                  selectedCardIndex === 2 
+                    ? 'border-purple-500 ring-2 ring-purple-500/50 bg-slate-800/80' 
+                    : 'border-slate-700/50 hover:border-purple-500/50'
+                }`}
               >
+                <div className="absolute top-3 right-3 bg-purple-500/20 text-purple-300 px-2 py-1 rounded text-xs font-bold border border-purple-500/30">
+                  Phím 3
+                </div>
                 <h3 className="text-xl font-bold text-purple-400 mb-2">✏️ Điền vào chỗ trống</h3>
                 <p className="text-slate-300">Hoàn thành câu với từ vựng đúng.</p>
               </div>
               
               <div 
                 onClick={() => startSession('verb-forms')}
-                className="mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border border-slate-700/50 hover:bg-slate-800/80 hover:border-orange-500/50"
+                onMouseEnter={() => setSelectedCardIndex(3)}
+                className={`mode-card bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl shadow-2xl border hover:bg-slate-800/80 relative transition-all ${
+                  selectedCardIndex === 3 
+                    ? 'border-orange-500 ring-2 ring-orange-500/50 bg-slate-800/80' 
+                    : 'border-slate-700/50 hover:border-orange-500/50'
+                }`}
               >
+                <div className="absolute top-3 right-3 bg-orange-500/20 text-orange-300 px-2 py-1 rounded text-xs font-bold border border-orange-500/30">
+                  Phím 4
+                </div>
                 <h3 className="text-xl font-bold text-orange-400 mb-2">🔄 Chia động từ</h3>
                 <p className="text-slate-300">Điền dạng V2 và V3 của động từ.</p>
               </div>
@@ -247,6 +332,7 @@ export default function Home() {
             correctAnswer={correctAnswer}
             onAnswer={handleAnswer}
             onNext={handleNext}
+            onHome={handleReset}
           />
         )}
 
@@ -258,6 +344,7 @@ export default function Home() {
             reviewWords={reviewWords}
             onRetry={handleReset}
             onDownloadReport={downloadReport}
+            onHome={handleReset}
           />
         )}
       </main>
