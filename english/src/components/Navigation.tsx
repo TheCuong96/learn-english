@@ -12,8 +12,8 @@ export default function Navigation() {
   ];
 
   return (
-    <nav className="bg-white/5 backdrop-blur-md border-b border-white/10 mb-6">
-      <div className="container mx-auto px-4 py-3 flex gap-2 overflow-x-auto">
+    <nav className=" ">
+      <div className="container mx-auto flex gap-2 overflow-x-auto">
         {links.map((link) => {
           const isActive = pathname === link.href;
           return (

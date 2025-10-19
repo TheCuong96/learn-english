@@ -1,9 +1,11 @@
 'use client';
 
+import CategorySelector from '@/components/CategorySelector';
 import Navigation from '@/components/Navigation';
 import ResultsScreen from '@/components/ResultsScreen';
 import SessionScreen from '@/components/SessionScreen';
 import { ReviewWord, SessionType, Verb } from '@/types/verb';
+import { categorizeVerb } from '@/utils/verb-categories';
 import { VerbsData } from '@/utils/verbs-data';
 import { useEffect, useState } from 'react';
 
@@ -23,6 +25,7 @@ export default function Home() {
   const [sessionLength, setSessionLength] = useState(20); // Mặc định 20 câu
   const [customLength, setCustomLength] = useState('');
   const [showCustomInput, setShowCustomInput] = useState(false);
+  const [selectedCategories, setSelectedCategories] = useState<string[]>([]); // Chọn chủ đề
 
   const sessionOptions: SessionType[] = ['flashcards', 'multiple-choice', 'fill-in-blank', 'verb-forms'];
   const quickLengthOptions = [10, 20, 30, 50];
@@ -116,9 +119,28 @@ export default function Home() {
     setShowFeedback(false);
     setIsCorrect(null);
     
-    // Lọc ra những từ có definition không rỗng (đặc biệt quan trọng cho trắc nghiệm)
-    const validVocab = vocabulary.filter(v => v.definition && v.definition.trim() !== '');
-    const words = VerbsData.random(validVocab, sessionLength);
+    // Lọc ra những từ có definition không rỗng
+    let validVocab = vocabulary.filter(v => v.definition && v.definition.trim() !== '');
+    
+    // Lọc theo categories nếu có chọn
+    if (selectedCategories.length > 0) {
+      validVocab = validVocab.filter(verb => {
+        const verbCategories = categorizeVerb(verb);
+        return selectedCategories.some(catId => verbCategories.includes(catId));
+      });
+      
+      if (validVocab.length === 0) {
+        alert('Không có động từ nào thuộc chủ đề đã chọn. Vui lòng chọn chủ đề khác.');
+        return;
+      }
+      
+      // Nếu số câu yêu cầu lớn hơn số từ có sẵn, điều chỉnh
+      if (validVocab.length < sessionLength) {
+        alert(`Chỉ có ${validVocab.length} động từ trong chủ đề này. Sẽ dùng tất cả.`);
+      }
+    }
+    
+    const words = VerbsData.random(validVocab, Math.min(sessionLength, validVocab.length));
     setCurrentSessionWords(words);
     setCurrentScreen('session');
   };
@@ -210,6 +232,7 @@ export default function Home() {
           <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400">
             Luyện tập động từ (804 verbs)
           </h1>
+          <h2 className="text-2xl font-semibold mb-2 text-slate-100">Chào mừng bạn!</h2>
           {currentScreen !== 'home' && (
             <button 
               onClick={handleReset}
@@ -220,11 +243,12 @@ export default function Home() {
               </svg>
             </button>
           )}
+          {/* Navigation */}
+          {currentScreen === 'home' && <Navigation />}
         </div>
       </header>
 
-      {/* Navigation */}
-      {currentScreen === 'home' && <Navigation />}
+ 
 
       {/* Main Content */}
       <main className="container mx-auto p-4 flex-grow">
@@ -232,8 +256,6 @@ export default function Home() {
         {currentScreen === 'home' && (
           <div>
             <div className="text-center mb-8">
-              <h2 className="text-2xl font-semibold mb-2 text-slate-100">Chào mừng bạn!</h2>
-              <p className="text-slate-300">Luyện tập với 804 động từ từ verbs-data.json. Chọn một hoạt động bên dưới.</p>
               <p className="text-purple-300 text-sm mt-2">
                 💡 Mẹo: Dùng phím <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600">←→↑↓</kbd> để di chuyển, 
                 <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 ml-1">Enter</kbd> để chọn, 
@@ -253,69 +275,82 @@ export default function Home() {
                 </div>
               )}
 
-              {/* Session Length Selector */}
-              <div className="mt-6 max-w-2xl mx-auto">
-                <div className="bg-slate-800/60 backdrop-blur-sm p-4 rounded-xl border border-slate-700/50">
-                  <p className="text-slate-200 font-semibold mb-3">📝 Số câu hỏi:</p>
-                  <div className="flex gap-2 justify-center flex-wrap">
-                    {quickLengthOptions.map((length) => (
-                      <button
-                        key={length}
-                        onClick={() => {
-                          setSessionLength(length);
-                          setShowCustomInput(false);
-                        }}
-                        className={`px-4 py-2 rounded-lg font-semibold transition-all ${
-                          sessionLength === length && !showCustomInput
-                            ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
-                            : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
-                        }`}
-                      >
-                        {length} câu
-                      </button>
-                    ))}
-                    <button
-                      onClick={() => setShowCustomInput(!showCustomInput)}
-                      className={`px-4 py-2 rounded-lg font-semibold transition-all ${
-                        showCustomInput
-                          ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
-                          : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
-                      }`}
-                    >
-                      ✏️ Tùy chỉnh
-                    </button>
-                  </div>
+              {/* Cài đặt bài tập - Gộp chung 1 khung */}
+              <div className="mt-6 max-w-7xl mx-auto">
+                <div className="bg-slate-800/60 backdrop-blur-sm p-6 rounded-xl border border-slate-700/50">
+                  <h3 className="text-xl font-bold text-slate-100 mb-4">⚙️ Cài đặt bài tập</h3>
                   
-                  {showCustomInput && (
-                    <div className="mt-3 flex gap-2 justify-center items-center">
-                      <input
-                        type="number"
-                        min="1"
-                        max="804"
-                        value={customLength}
-                        onChange={(e) => setCustomLength(e.target.value)}
-                        placeholder="Nhập số câu (1-804)"
-                        className="px-4 py-2 bg-slate-700/50 text-slate-200 border border-slate-600 rounded-lg w-48 text-center"
+                  <div className="grid grid-cols-1 lg:grid-cols-1 gap-6">
+                     {/* Số câu hỏi */}
+                     <div className='flex flex-rows justify-center items-center gap-2'>
+                      <p className="text-slate-200 font-semibold">📝 Số câu hỏi:</p>
+                      <div className="flex gap-2 justify-start flex-wrap">
+                        {quickLengthOptions.map((length) => (
+                          <button
+                            key={length}
+                            onClick={() => {
+                              setSessionLength(length);
+                              setShowCustomInput(false);
+                            }}
+                            className={`px-4 py-2 rounded-lg font-semibold transition-all ${
+                              sessionLength === length && !showCustomInput
+                                ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
+                                : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
+                            }`}
+                          >
+                            {length} câu
+                          </button>
+                        ))}
+                        <button
+                          onClick={() => setShowCustomInput(!showCustomInput)}
+                          className={`px-4 py-2 rounded-lg font-semibold transition-all ${
+                            showCustomInput
+                              ? 'bg-purple-600 text-white ring-2 ring-purple-400/50'
+                              : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
+                          }`}
+                        >
+                          ✏️ Tùy chỉnh
+                        </button>
+                      </div>
+                      
+                      {showCustomInput && (
+                        <div className="mt-3 flex gap-2 items-center">
+                          <input
+                            type="number"
+                            min="1"
+                            max="804"
+                            value={customLength}
+                            onChange={(e) => setCustomLength(e.target.value)}
+                            placeholder="Nhập số câu (1-804)"
+                            className="px-4 py-2 bg-slate-700/50 text-slate-200 border border-slate-600 rounded-lg w-48 text-center"
+                          />
+                          <button
+                            onClick={() => {
+                              const num = parseInt(customLength);
+                              if (num >= 1 && num <= 804) {
+                                setSessionLength(num);
+                              } else {
+                                alert('Vui lòng nhập số từ 1 đến 804');
+                              }
+                            }}
+                            className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-semibold"
+                          >
+                            OK
+                          </button>
+                        </div>
+                      )}
+                      
+                      <p className="text-purple-300 text-sm mt-3">
+                        ✨ Bạn sẽ làm <span className="font-bold text-purple-400">{sessionLength}</span> câu hỏi
+                      </p>
+                    
+                     {/* Chọn chủ đề */}
+                     </div>
+                      <CategorySelector
+                        selectedCategories={selectedCategories}
+                        onCategoriesChange={setSelectedCategories}
                       />
-                      <button
-                        onClick={() => {
-                          const num = parseInt(customLength);
-                          if (num >= 1 && num <= 804) {
-                            setSessionLength(num);
-                          } else {
-                            alert('Vui lòng nhập số từ 1 đến 804');
-                          }
-                        }}
-                        className="px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-semibold"
-                      >
-                        OK
-                      </button>
-                    </div>
-                  )}
-                  
-                  <p className="text-purple-300 text-sm mt-3">
-                    ✨ Bạn sẽ làm <span className="font-bold text-purple-400">{sessionLength}</span> câu hỏi
-                  </p>
+                  </div>
                 </div>
               </div>
             </div>
