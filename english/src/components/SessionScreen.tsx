@@ -3,7 +3,7 @@
 import { SessionType, Verb } from '@/types/verb';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
 import { VERB_CATEGORIES } from '@/utils/verb-categories';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import FillInBlank from './FillInBlank';
 import Flashcard from './Flashcard';
 import MultipleChoice from './MultipleChoice';
@@ -40,6 +40,8 @@ export default function SessionScreen({
   onHome
 }: SessionScreenProps) {
   const progress = (currentIndex / totalWords) * 100;
+  const [autoNextProgress, setAutoNextProgress] = useState(0);
+  const AUTO_NEXT_DELAY = 1500; // 1.5 giây
 
   // Phát âm thanh khi có phản hồi
   useEffect(() => {
@@ -51,6 +53,34 @@ export default function SessionScreen({
       }
     }
   }, [showFeedback, isCorrect]);
+
+  // Tự động chuyển bài sau 1.5 giây khi làm đúng với progress bar
+  useEffect(() => {
+    if (showFeedback && isCorrect === true) {
+      setAutoNextProgress(0);
+      const startTime = Date.now();
+      
+      // Update progress bar mỗi 50ms
+      const progressInterval = setInterval(() => {
+        const elapsed = Date.now() - startTime;
+        const newProgress = Math.min((elapsed / AUTO_NEXT_DELAY) * 100, 100);
+        setAutoNextProgress(newProgress);
+      }, 50);
+
+      // Tự động chuyển bài sau 1.5 giây
+      const timer = setTimeout(() => {
+        onNext();
+      }, AUTO_NEXT_DELAY);
+
+      return () => {
+        clearTimeout(timer);
+        clearInterval(progressInterval);
+        setAutoNextProgress(0);
+      };
+    } else {
+      setAutoNextProgress(0);
+    }
+  }, [showFeedback, isCorrect, onNext]);
 
   // Keyboard shortcuts cho nút "Tiếp theo"
   useEffect(() => {
@@ -174,7 +204,7 @@ export default function SessionScreen({
       {/* Feedback Area */}
       <div className="mt-4 min-h-[50px] text-center">
         {showFeedback && isCorrect !== null && (
-          <div className={`border-l-4 p-4 rounded-md ${
+          <div className={`border-l-4 p-4 rounded-md relative overflow-hidden ${
             isCorrect 
               ? 'bg-green-500/20 border-green-500 text-green-300'
               : 'bg-red-500/20 border-red-500 text-red-300'
@@ -182,6 +212,24 @@ export default function SessionScreen({
             <p className="font-bold">{isCorrect ? '✅ Chính xác!' : '❌ Chưa đúng!'}</p>
             {!isCorrect && (
               <p dangerouslySetInnerHTML={{ __html: correctAnswer }} />
+            )}
+            
+            {/* Progress bar khi tự động chuyển bài */}
+            {isCorrect && autoNextProgress > 0 && (
+              <div className="mt-3">
+                <div className="flex items-center justify-between mb-1">
+                  <span className="text-xs text-green-400">Tự động chuyển bài...</span>
+                  <span className="text-xs text-green-400">
+                    {((AUTO_NEXT_DELAY - (autoNextProgress / 100 * AUTO_NEXT_DELAY)) / 1000).toFixed(1)}s
+                  </span>
+                </div>
+                <div className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden">
+                  <div 
+                    className="bg-gradient-to-r from-green-500 to-emerald-400 h-full rounded-full transition-all duration-75 ease-linear shadow-lg shadow-green-500/50"
+                    style={{ width: `${autoNextProgress}%` }}
+                  />
+                </div>
+              </div>
             )}
           </div>
         )}
