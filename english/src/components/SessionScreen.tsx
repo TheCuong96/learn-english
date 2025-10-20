@@ -153,7 +153,7 @@ export default function SessionScreen({
                 const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
                 if (confirmExit) onHome();
               }}
-              className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600 transition-all flex items-center gap-2"
+              className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600/40 transition-all flex items-center gap-2"
             >
               🏠 <span className="hidden sm:inline">Trang chủ</span>
             </button>
@@ -162,7 +162,7 @@ export default function SessionScreen({
         
         {/* Selected Categories Display */}
         {selectedCategories.length > 0 && (
-          <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/50">
+          <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/30">
             <p className="text-slate-300 text-sm mb-2">🎯 Chủ đề đang luyện:</p>
             <div className="flex flex-wrap gap-2">
               {selectedCategories.map((catId) => {
@@ -171,7 +171,7 @@ export default function SessionScreen({
                 return (
                   <span
                     key={catId}
-                    className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/50 rounded-full text-xs text-purple-300"
+                    className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/30 rounded-full text-xs text-purple-300"
                   >
                     {category.icon} {category.nameVi}
                   </span>
@@ -206,8 +206,8 @@ export default function SessionScreen({
         {showFeedback && isCorrect !== null && (
           <div className={`border-l-4 p-4 rounded-md relative overflow-hidden ${
             isCorrect 
-              ? 'bg-green-500/20 border-green-500 text-green-300'
-              : 'bg-red-500/20 border-red-500 text-red-300'
+              ? 'bg-green-500/20 border-green-500/60 text-green-300'
+              : 'bg-red-500/20 border-red-500/60 text-red-300'
           }`}>
             <p className="font-bold">{isCorrect ? '✅ Chính xác!' : '❌ Chưa đúng!'}</p>
             {!isCorrect && (

@@ -41,22 +41,18 @@ export default function CategorySelector({ selectedCategories, onCategoriesChang
           </Badge>
         </h3>
         <div className="flex gap-2">
-          <Button
+          <button
             onClick={handleSelectAll}
-            variant="outline"
-            size="sm"
-            className="h-8 text-xs"
+            className="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all bg-green-600/30 text-green-400 border border-green-400 hover:bg-green-600/40 hover:shadow-lg hover:shadow-green-500/30"
           >
             ✓ Chọn tất cả
-          </Button>
-          <Button
+          </button>
+          <button
             onClick={handleDeselectAll}
-            variant="outline"
-            size="sm"
-            className="h-8 text-xs"
+            className="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all bg-red-600/30 text-red-400 border border-red-400 hover:bg-red-600/40 hover:shadow-lg hover:shadow-red-500/30"
           >
-            ✗ Bỏ chọn
-          </Button>
+            ✗ Bỏ chọn tất cả
+          </button>
           <Button
             onClick={() => setIsExpanded(!isExpanded)}
             variant="ghost"
@@ -85,7 +81,7 @@ export default function CategorySelector({ selectedCategories, onCategoriesChang
               key={category.id}
               className={`cursor-pointer transition-all hover:scale-105 ${
                 selectedCategories.includes(category.id)
-                  ? 'ring-2 ring-primary shadow-lg'
+                  ? 'bg-purple-600/30 ring-4 ring-purple-400 border-purple-400 shadow-xl shadow-purple-500/30'
                   : 'hover:border-primary/50'
               }`}
               onClick={() => handleToggle(category.id)}
@@ -121,19 +117,18 @@ export default function CategorySelector({ selectedCategories, onCategoriesChang
               return (
                 <Badge
                   key={catId}
-                  variant="default"
-                  className="gap-1 cursor-pointer hover:opacity-80"
+                  className="gap-1.5 cursor-pointer hover:opacity-90 transition-all bg-purple-600/60 text-purple-100 border-2 border-purple-400 ring-2 ring-purple-400/50 shadow-lg hover:shadow-xl font-semibold px-3 py-1.5"
                 >
-                  <span>{category.icon}</span>
+                  <span className="text-base">{category.icon}</span>
                   <span>{category.nameVi}</span>
                   <button
                     onClick={(e) => {
                       e.stopPropagation();
                       handleToggle(catId);
                     }}
-                    className="ml-1 hover:text-destructive"
+                    className="ml-1 hover:text-red-300 transition-colors"
                   >
-                    <X className="h-3 w-3" />
+                    <X className="h-3.5 w-3.5" />
                   </button>
                 </Badge>
               );

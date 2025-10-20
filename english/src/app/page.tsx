@@ -306,20 +306,30 @@ export default function HomePage() {
                       {quickLengthOptions.map((length) => (
                         <Button
                           key={length}
-                          variant={sessionLength === length && !showCustomInput ? "default" : "outline"}
+                          variant="outline"
                           size="sm"
                           onClick={() => {
                             setSessionLength(length);
                             setShowCustomInput(false);
                           }}
+                          className={`transition-all ${
+                            sessionLength === length && !showCustomInput
+                              ? 'bg-blue-600/30 border-blue-400 ring-2 ring-blue-400/60 text-blue-300 font-semibold shadow-lg'
+                              : 'hover:border-blue-400/50'
+                          }`}
                         >
                           {length} câu
                         </Button>
                       ))}
                       <Button
-                        variant={showCustomInput ? "default" : "outline"}
+                        variant="outline"
                         size="sm"
                         onClick={() => setShowCustomInput(!showCustomInput)}
+                        className={`transition-all ${
+                          showCustomInput
+                            ? 'bg-purple-600/30 border-purple-400 ring-2 ring-purple-400/60 text-purple-300 font-semibold shadow-lg'
+                            : 'hover:border-purple-400/50'
+                        }`}
                       >
                         ✏️ Tùy chỉnh
                       </Button>
@@ -372,11 +382,37 @@ export default function HomePage() {
                 const Icon = config.icon;
                 const isSelected = selectedCardIndex === index;
                 
+                // Màu sắc riêng cho từng loại
+                const colorClasses = {
+                  blue: {
+                    selected: 'bg-blue-600/30 ring-4 ring-blue-400 border-blue-400 shadow-xl shadow-blue-500/40',
+                    icon: 'text-blue-400',
+                    hover: 'hover:border-blue-400/50'
+                  },
+                  green: {
+                    selected: 'bg-green-600/30 ring-4 ring-green-400 border-green-400 shadow-xl shadow-green-500/40',
+                    icon: 'text-green-400',
+                    hover: 'hover:border-green-400/50'
+                  },
+                  purple: {
+                    selected: 'bg-purple-600/30 ring-4 ring-purple-400 border-purple-400 shadow-xl shadow-purple-500/40',
+                    icon: 'text-purple-400',
+                    hover: 'hover:border-purple-400/50'
+                  },
+                  orange: {
+                    selected: 'bg-orange-600/30 ring-4 ring-orange-400 border-orange-400 shadow-xl shadow-orange-500/40',
+                    icon: 'text-orange-400',
+                    hover: 'hover:border-orange-400/50'
+                  }
+                };
+                
+                const colors = colorClasses[config.color as keyof typeof colorClasses];
+                
                 return (
                   <Card
                     key={type}
-                    className={`cursor-pointer transition-all hover:scale-105 ${
-                      isSelected ? 'ring-2 ring-primary shadow-lg' : ''
+                    className={`cursor-pointer transition-all hover:scale-105 ${colors.hover} ${
+                      isSelected ? colors.selected : ''
                     }`}
                     onClick={() => startSession(type)}
                     onMouseEnter={() => setSelectedCardIndex(index)}
@@ -384,7 +420,7 @@ export default function HomePage() {
                     <CardHeader>
                       <div className="flex items-start justify-between">
                         <div className="flex items-center gap-3">
-                          <Icon className="h-6 w-6" />
+                          <Icon className={`h-6 w-6 ${colors.icon}`} />
                           <div>
                             <CardTitle className="text-xl">{config.title}</CardTitle>
                             <CardDescription>{config.description}</CardDescription>

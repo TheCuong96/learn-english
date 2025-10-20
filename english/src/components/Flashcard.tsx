@@ -70,21 +70,21 @@ export default function Flashcard({ word }: FlashcardProps) {
             <p className="text-slate-400 font-medium mt-1">(Động từ)</p>
             <div className="mt-4 text-center text-slate-200 flex gap-3 justify-center flex-wrap">
               <span 
-                className="font-semibold bg-blue-500/30 text-blue-300 px-2 py-1 rounded border border-blue-500/50 cursor-pointer hover:scale-110 transition-transform select-none"
+                className="font-semibold bg-blue-500/30 text-blue-300 px-2 py-1 rounded border border-blue-500/30 cursor-pointer hover:scale-110 transition-transform select-none"
                 onClick={() => speak(word.v1)}
                 title="Click để nghe V1 👆"
               >
                 V1: {word.v1}
               </span>
               <span 
-                className="font-semibold bg-green-500/30 text-green-300 px-2 py-1 rounded border border-green-500/50 cursor-pointer hover:scale-110 transition-transform select-none"
+                className="font-semibold bg-green-500/30 text-green-300 px-2 py-1 rounded border border-green-500/30 cursor-pointer hover:scale-110 transition-transform select-none"
                 onClick={() => speak(word.v2)}
                 title="Click để nghe V2 👆"
               >
                 V2: {word.v2}
               </span>
               <span 
-                className="font-semibold bg-purple-500/30 text-purple-300 px-2 py-1 rounded border border-purple-500/50 cursor-pointer hover:scale-110 transition-transform select-none"
+                className="font-semibold bg-purple-500/30 text-purple-300 px-2 py-1 rounded border border-purple-500/30 cursor-pointer hover:scale-110 transition-transform select-none"
                 onClick={() => speak(word.v3)}
                 title="Click để nghe V3 👆"
               >
@@ -102,7 +102,7 @@ export default function Flashcard({ word }: FlashcardProps) {
         </p>
         <button 
           onClick={handleFlip}
-          className="bg-slate-700 hover:bg-slate-600 text-slate-200 font-bold py-2 px-4 rounded-lg border border-slate-600"
+          className="bg-slate-700 hover:bg-slate-600 text-slate-200 font-bold py-2 px-4 rounded-lg border border-slate-600/40"
         >
           Lật thẻ
         </button>

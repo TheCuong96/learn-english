@@ -87,7 +87,7 @@ export default function VoiceSelector() {
             setIsOpen(!isOpen);
             setShowSettings(false);
           }}
-          className="flex items-center gap-2 px-4 py-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600 transition-all text-sm"
+          className="flex items-center gap-2 px-4 py-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all text-sm"
         >
           <span>🎤</span>
           <span className="hidden sm:inline">
@@ -102,7 +102,7 @@ export default function VoiceSelector() {
             setShowSettings(!showSettings);
             setIsOpen(false);
           }}
-          className="p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600 transition-all"
+          className="p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all"
           title="Cài đặt tốc độ đọc"
         >
           ⚙️
@@ -122,7 +122,7 @@ export default function VoiceSelector() {
 
       {/* Voice dropdown */}
       {isOpen && (
-        <div className="absolute top-full mt-2 right-0 z-50 bg-slate-800/95 backdrop-blur-md border border-slate-600 rounded-lg shadow-2xl max-h-96 overflow-y-auto custom-scrollbar min-w-[280px]">
+        <div className="absolute top-full mt-2 right-0 z-50 bg-slate-800/95 backdrop-blur-md border border-slate-600/40 rounded-lg shadow-2xl max-h-96 overflow-y-auto custom-scrollbar min-w-[280px]">
           <div className="p-2">
             <p className="text-xs text-slate-400 px-3 py-2 font-semibold">
               🎤 Chọn giọng đọc ({voices.length} giọng):
@@ -141,7 +141,7 @@ export default function VoiceSelector() {
                   }}
                   className={`w-full text-left px-3 py-2 rounded-lg transition-all flex items-center justify-between gap-2 ${
                     voice.name === selectedVoice
-                      ? 'bg-purple-600/30 text-purple-300 border border-purple-500/50'
+                      ? 'bg-purple-600/40 text-purple-200 border-2 border-purple-400 ring-2 ring-purple-400/60 font-semibold'
                       : 'hover:bg-slate-700/50 text-slate-300'
                   }`}
                 >
@@ -156,7 +156,7 @@ export default function VoiceSelector() {
 
       {/* Settings dropdown */}
       {showSettings && (
-        <div className="absolute top-full mt-2 right-0 z-50 bg-slate-800/95 backdrop-blur-md border border-slate-600 rounded-lg shadow-2xl p-4 min-w-[280px]">
+        <div className="absolute top-full mt-2 right-0 z-50 bg-slate-800/95 backdrop-blur-md border border-slate-600/40 rounded-lg shadow-2xl p-4 min-w-[280px]">
           <p className="text-sm text-slate-200 font-semibold mb-3">⚙️ Cài đặt phát âm</p>
           
           {/* Speed control */}
@@ -193,8 +193,8 @@ export default function VoiceSelector() {
                 }}
                 className={`px-3 py-1 rounded text-xs font-semibold transition-all ${
                   Math.abs(rate - speed) < 0.05
-                    ? 'bg-purple-600 text-white'
-                    : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700'
+                    ? 'bg-purple-600/40 border-2 border-purple-400 ring-2 ring-purple-400/60 text-purple-200 shadow-lg'
+                    : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700 border border-transparent'
                 }`}
               >
                 {speed}x
@@ -208,7 +208,7 @@ export default function VoiceSelector() {
               e.stopPropagation();
               speak('The quick brown fox jumps over the lazy dog.', { rate });
             }}
-            className="w-full mt-3 px-3 py-2 bg-green-600/20 hover:bg-green-600/30 text-green-400 border border-green-500/50 rounded-lg text-sm font-semibold transition-all"
+            className="w-full mt-3 px-3 py-2 bg-green-600/20 hover:bg-green-600/30 text-green-400 border border-green-500/30 rounded-lg text-sm font-semibold transition-all"
           >
             🔊 Test phát âm
           </button>

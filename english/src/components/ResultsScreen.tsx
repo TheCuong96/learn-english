@@ -32,7 +32,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Xuất sắc! Bạn đã trả lời đúng tất cả! Bạn là người học giỏi nhất! Tiếp tục phát huy nhé! 💪',
       color: 'text-yellow-300',
       bgColor: 'bg-gradient-to-r from-yellow-500/20 to-orange-500/20',
-      borderColor: 'border-yellow-500'
+      borderColor: 'border-yellow-500/40'
     };
   } else if (percentage >= 90) {
     return {
@@ -41,7 +41,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Rất xuất sắc! Chỉ sai vài câu thôi. Bạn đã làm rất tốt! Hãy tiếp tục nỗ lực! 🎯',
       color: 'text-green-300',
       bgColor: 'bg-gradient-to-r from-green-500/20 to-emerald-500/20',
-      borderColor: 'border-green-500'
+      borderColor: 'border-green-500/40'
     };
   } else if (percentage >= 80) {
     return {
@@ -50,7 +50,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Làm tốt lắm! Bạn đang trên đà tiến bộ rất tốt. Cố gắng thêm một chút nữa bạn sẽ đạt điểm cao hơn! 💫',
       color: 'text-blue-300',
       bgColor: 'bg-gradient-to-r from-blue-500/20 to-cyan-500/20',
-      borderColor: 'border-blue-500'
+      borderColor: 'border-blue-500/40'
     };
   } else if (percentage >= 70) {
     return {
@@ -59,7 +59,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Không tệ! Bạn đã nắm được phần lớn kiến thức. Hãy ôn lại những từ sai để làm tốt hơn lần sau nhé! 📚',
       color: 'text-indigo-300',
       bgColor: 'bg-gradient-to-r from-indigo-500/20 to-purple-500/20',
-      borderColor: 'border-indigo-500'
+      borderColor: 'border-indigo-500/40'
     };
   } else if (percentage >= 60) {
     return {
@@ -68,7 +68,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Bạn đã cố gắng! Hãy xem lại những từ sai bên dưới và luyện tập thêm. Bạn nhất định sẽ tiến bộ! 🌱',
       color: 'text-purple-300',
       bgColor: 'bg-gradient-to-r from-purple-500/20 to-pink-500/20',
-      borderColor: 'border-purple-500'
+      borderColor: 'border-purple-500/40'
     };
   } else if (percentage >= 50) {
     return {
@@ -77,7 +77,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Đừng nản lòng! Mọi người đều phải học từ những sai lầm. Hãy ôn lại và thử lại nhé! Bạn làm được! 🔥',
       color: 'text-orange-300',
       bgColor: 'bg-gradient-to-r from-orange-500/20 to-red-500/20',
-      borderColor: 'border-orange-500'
+      borderColor: 'border-orange-500/40'
     };
   } else {
     return {
@@ -86,7 +86,7 @@ function getMotivationMessage(score: number, totalWords: number): MotivationMess
       message: 'Đừng lo! Học tiếng Anh cần thời gian và kiên trì. Hãy xem lại những từ sai, ôn kỹ và làm lại bài nhé! Tin vào bản thân! 💡',
       color: 'text-red-300',
       bgColor: 'bg-gradient-to-r from-red-500/20 to-pink-500/20',
-      borderColor: 'border-red-500'
+      borderColor: 'border-red-500/40'
     };
   }
 }
@@ -182,7 +182,7 @@ export default function ResultsScreen({
             {reviewWords.map((item, index) => (
               <li 
                 key={index} 
-                className="p-3 bg-red-500/20 rounded-lg border border-red-500/50"
+                className="p-3 bg-red-500/20 rounded-lg border border-red-500/30"
               >
                 <span className="font-bold text-red-300">{item.word}</span>: <span className="text-slate-300">{item.definition}</span>
                 <br />
@@ -209,29 +209,38 @@ export default function ResultsScreen({
         <button
           onClick={onRetry}
           onMouseEnter={() => setFocusedButton(0)}
-          className={`bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
-            focusedButton === 0 ? 'ring-4 ring-purple-400/50 scale-105' : ''
+          className={`relative bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
+            focusedButton === 0 ? 'ring-4 ring-purple-400 scale-105 shadow-2xl shadow-purple-500/50' : ''
           }`}
         >
-          🔄 Làm lại <span className="text-purple-200 text-sm ml-2">(R)</span>
+          {focusedButton === 0 && (
+            <div className="absolute inset-0 bg-white/10 rounded-lg animate-pulse" />
+          )}
+          <span className="relative z-10">🔄 Làm lại <span className="text-purple-200 text-sm ml-2">(R)</span></span>
         </button>
         <button
           onClick={onDownloadReport}
           onMouseEnter={() => setFocusedButton(1)}
-          className={`bg-slate-700 hover:bg-slate-600 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
-            focusedButton === 1 ? 'ring-4 ring-slate-400/50 scale-105' : ''
+          className={`relative bg-slate-700 hover:bg-slate-600 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
+            focusedButton === 1 ? 'ring-4 ring-slate-300 scale-105 shadow-2xl shadow-slate-500/50' : ''
           }`}
         >
-          📥 Tải báo cáo <span className="text-slate-300 text-sm ml-2">(D)</span>
+          {focusedButton === 1 && (
+            <div className="absolute inset-0 bg-white/10 rounded-lg animate-pulse" />
+          )}
+          <span className="relative z-10">📥 Tải báo cáo <span className="text-slate-300 text-sm ml-2">(D)</span></span>
         </button>
         <button
           onClick={onHome}
           onMouseEnter={() => setFocusedButton(2)}
-          className={`bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
-            focusedButton === 2 ? 'ring-4 ring-blue-400/50 scale-105' : ''
+          className={`relative bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 ${
+            focusedButton === 2 ? 'ring-4 ring-blue-400 scale-105 shadow-2xl shadow-blue-500/50' : ''
           }`}
         >
-          🏠 Trang chủ <span className="text-blue-200 text-sm ml-2">(H)</span>
+          {focusedButton === 2 && (
+            <div className="absolute inset-0 bg-white/10 rounded-lg animate-pulse" />
+          )}
+          <span className="relative z-10">🏠 Trang chủ <span className="text-blue-200 text-sm ml-2">(H)</span></span>
         </button>
       </div>
     </div>
