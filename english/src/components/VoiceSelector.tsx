@@ -89,7 +89,7 @@ export default function VoiceSelector() {
             setIsOpen(!isOpen);
             setShowSettings(false);
           }}
-          className="flex items-center gap-2 px-4 py-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all text-sm"
+          className="flex items-center gap-2 px-4 py-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all text-sm cursor-pointer"
         >
           <span>🎤</span>
           <span className="hidden sm:inline">
@@ -104,7 +104,7 @@ export default function VoiceSelector() {
             const newMuteState = toggleMute();
             setIsMuted(newMuteState);
           }}
-          className={`p-2 rounded-lg border transition-all ${
+          className={`p-2 rounded-lg border transition-all cursor-pointer ${
             isMuted 
               ? 'bg-red-600/50 hover:bg-red-600 text-red-300 border-red-400/40' 
               : 'bg-slate-700/50 hover:bg-slate-600 text-slate-200 border-slate-600/40'
@@ -120,7 +120,7 @@ export default function VoiceSelector() {
             setShowSettings(!showSettings);
             setIsOpen(false);
           }}
-          className="p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all"
+          className="p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all cursor-pointer"
           title="Cài đặt tốc độ đọc"
         >
           ⚙️

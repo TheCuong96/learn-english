@@ -257,10 +257,10 @@ export default function HomePage() {
             <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
               Luyện tập động từ (804 verbs)
             </h1>
-            <div className="flex items-center gap-3">
+            <div className="flex items-center gap-3 ">
               <VoiceSelector />
               {currentScreen !== 'home' && (
-                <Button variant="ghost" size="icon" onClick={handleReset}>
+                <Button variant="ghost" size="icon" onClick={handleReset} className="cursor-pointer p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all">
                   <Home className="h-5 w-5" />
                 </Button>
               )}

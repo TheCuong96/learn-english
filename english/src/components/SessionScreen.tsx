@@ -8,7 +8,6 @@ import FillInBlank from './FillInBlank';
 import Flashcard from './Flashcard';
 import MultipleChoice from './MultipleChoice';
 import VerbForms from './VerbForms';
-import VoiceSelector from './VoiceSelector';
 
 interface SessionScreenProps {
   sessionType: SessionType;
@@ -137,7 +136,7 @@ export default function SessionScreen({
 
   return (
     <>
-      {/* Header with Categories & Home button */}
+      {/* Header with Categories */}
       <div className="mb-4">
         <div className="flex justify-between items-center mb-3 flex-wrap gap-2">
           <div className="flex-1 min-w-0">
@@ -145,18 +144,6 @@ export default function SessionScreen({
               💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Esc</kbd> hoặc 
               <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">H</kbd> để về trang chủ
             </p>
-          </div>
-          <div className="flex items-center gap-2">
-            <VoiceSelector />
-            <button
-              onClick={() => {
-                const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
-                if (confirmExit) onHome();
-              }}
-              className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600/40 transition-all flex items-center gap-2"
-            >
-              🏠 <span className="hidden sm:inline">Trang chủ</span>
-            </button>
           </div>
         </div>
         
