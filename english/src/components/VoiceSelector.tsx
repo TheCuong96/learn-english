@@ -1,6 +1,6 @@
 'use client';
 
-import { getEnglishVoices, getSelectedVoice, setSelectedVoice, speak } from '@/utils/speech';
+import { getEnglishVoices, getMuteState, getSelectedVoice, setSelectedVoice, speak, toggleMute } from '@/utils/speech';
 import { useEffect, useState } from 'react';
 
 export default function VoiceSelector() {
@@ -9,9 +9,11 @@ export default function VoiceSelector() {
   const [isOpen, setIsOpen] = useState(false);
   const [rate, setRate] = useState(0.9);
   const [showSettings, setShowSettings] = useState(false);
+  const [isMuted, setIsMuted] = useState(false);
 
   useEffect(() => {
     loadVoices();
+    setIsMuted(getMuteState());
     
     // Load voices khi có sẵn
     if (window.speechSynthesis.onvoiceschanged !== undefined) {
@@ -94,6 +96,22 @@ export default function VoiceSelector() {
             {currentVoice ? getVoiceLabel(currentVoice) : 'Chọn giọng'}
           </span>
           <span className="text-xs">{isOpen ? '▲' : '▼'}</span>
+        </button>
+
+        {/* Mute button */}
+        <button
+          onClick={() => {
+            const newMuteState = toggleMute();
+            setIsMuted(newMuteState);
+          }}
+          className={`p-2 rounded-lg border transition-all ${
+            isMuted 
+              ? 'bg-red-600/50 hover:bg-red-600 text-red-300 border-red-400/40' 
+              : 'bg-slate-700/50 hover:bg-slate-600 text-slate-200 border-slate-600/40'
+          }`}
+          title={isMuted ? "Bật tiếng" : "Tắt tiếng"}
+        >
+          {isMuted ? '🔇' : '🔊'}
         </button>
 
         {/* Settings button */}

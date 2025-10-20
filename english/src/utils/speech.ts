@@ -3,6 +3,9 @@
 // Lưu trữ voice đã chọn
 let selectedVoiceName: string | null = null;
 
+// Lưu trữ trạng thái mute
+let isMuted: boolean = false;
+
 // Lấy rate từ localStorage
 const getSavedRate = (): number => {
   if (typeof window === 'undefined') return 0.9;
@@ -10,8 +13,23 @@ const getSavedRate = (): number => {
   return saved ? parseFloat(saved) : 0.9;
 };
 
+// Lấy trạng thái mute từ localStorage
+const getSavedMuteState = (): boolean => {
+  if (typeof window === 'undefined') return false;
+  const saved = localStorage.getItem('speechMuted');
+  return saved === 'true';
+};
+
+// Khởi tạo trạng thái mute
+if (typeof window !== 'undefined') {
+  isMuted = getSavedMuteState();
+}
+
 export const speak = (text: string, options?: { rate?: number; volume?: number; voiceName?: string }) => {
   if (typeof window === 'undefined') return;
+  
+  // Kiểm tra trạng thái mute
+  if (isMuted) return;
   
   const utterance = new SpeechSynthesisUtterance(text);
   
@@ -66,5 +84,38 @@ export const getEnglishVoices = (): SpeechSynthesisVoice[] => {
   if (typeof window === 'undefined') return [];
   const voices = window.speechSynthesis.getVoices();
   return voices.filter(v => /en-/i.test(v.lang));
+};
+
+// Chức năng mute/unmute
+export const toggleMute = (): boolean => {
+  isMuted = !isMuted;
+  if (typeof window !== 'undefined') {
+    localStorage.setItem('speechMuted', isMuted.toString());
+  }
+  
+  // Dừng audio đang phát khi mute
+  if (isMuted) {
+    stopSpeaking();
+  }
+  
+  return isMuted;
+};
+
+// Lấy trạng thái mute hiện tại
+export const getMuteState = (): boolean => {
+  return isMuted;
+};
+
+// Set trạng thái mute
+export const setMuteState = (muted: boolean) => {
+  isMuted = muted;
+  if (typeof window !== 'undefined') {
+    localStorage.setItem('speechMuted', muted.toString());
+  }
+  
+  // Dừng audio đang phát khi mute
+  if (muted) {
+    stopSpeaking();
+  }
 };
 
