@@ -82,7 +82,7 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
       <p className="text-xl text-slate-300 mb-4">Điền từ còn thiếu vào câu:</p>
       <div className="flex items-center justify-center gap-3">
         <p 
-          className="text-2xl bg-slate-800/60 text-slate-200 p-6 rounded-lg shadow-xl border border-slate-700/50 cursor-pointer hover:scale-105 transition-transform select-none"
+          className="text-2xl bg-slate-800/60 text-slate-200 p-6 rounded-lg shadow-xl border border-slate-700/30 cursor-pointer hover:scale-105 transition-transform select-none"
           onClick={() => speak(word.example)}
           title="Click để nghe câu ví dụ 👆"
         >
@@ -104,8 +104,8 @@ export default function FillInBlank({ word, onAnswer }: FillInBlankProps) {
         className={`text-center text-xl w-full max-w-sm p-3 border-2 rounded-lg mt-4 bg-slate-800/60 text-slate-200 ${
           hasAnswered 
             ? userInput.trim().toLowerCase() === wordToReplace.toLowerCase()
-              ? 'border-green-500 ring-2 ring-green-400/50'
-              : 'border-red-500 ring-2 ring-red-400/50'
+              ? 'border-green-500/60 ring-2 ring-green-400/70'
+              : 'border-red-500/60 ring-2 ring-red-400/70'
             : 'border-slate-600'
         }`}
         placeholder="Nhập câu trả lời..."

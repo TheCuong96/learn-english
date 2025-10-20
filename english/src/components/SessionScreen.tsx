@@ -3,7 +3,7 @@
 import { SessionType, Verb } from '@/types/verb';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
 import { VERB_CATEGORIES } from '@/utils/verb-categories';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import FillInBlank from './FillInBlank';
 import Flashcard from './Flashcard';
 import MultipleChoice from './MultipleChoice';
@@ -39,6 +39,8 @@ export default function SessionScreen({
   onHome
 }: SessionScreenProps) {
   const progress = (currentIndex / totalWords) * 100;
+  const [autoNextProgress, setAutoNextProgress] = useState(0);
+  const AUTO_NEXT_DELAY = 1500; // 1.5 giây
 
   // Phát âm thanh khi có phản hồi
   useEffect(() => {
@@ -50,6 +52,34 @@ export default function SessionScreen({
       }
     }
   }, [showFeedback, isCorrect]);
+
+  // Tự động chuyển bài sau 1.5 giây khi làm đúng với progress bar
+  useEffect(() => {
+    if (showFeedback && isCorrect === true) {
+      setAutoNextProgress(0);
+      const startTime = Date.now();
+      
+      // Update progress bar mỗi 50ms
+      const progressInterval = setInterval(() => {
+        const elapsed = Date.now() - startTime;
+        const newProgress = Math.min((elapsed / AUTO_NEXT_DELAY) * 100, 100);
+        setAutoNextProgress(newProgress);
+      }, 50);
+
+      // Tự động chuyển bài sau 1.5 giây
+      const timer = setTimeout(() => {
+        onNext();
+      }, AUTO_NEXT_DELAY);
+
+      return () => {
+        clearTimeout(timer);
+        clearInterval(progressInterval);
+        setAutoNextProgress(0);
+      };
+    } else {
+      setAutoNextProgress(0);
+    }
+  }, [showFeedback, isCorrect, onNext]);
 
   // Keyboard shortcuts cho nút "Tiếp theo"
   useEffect(() => {
@@ -106,29 +136,20 @@ export default function SessionScreen({
 
   return (
     <>
-      {/* Header with Categories & Home button */}
+      {/* Header with Categories */}
       <div className="mb-4">
-        <div className="flex justify-between items-center mb-3">
-          <div className="flex-1">
+        <div className="flex justify-between items-center mb-3 flex-wrap gap-2">
+          <div className="flex-1 min-w-0">
             <p className="text-purple-300 text-sm">
               💡 Nhấn <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Esc</kbd> hoặc 
               <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs ml-1">H</kbd> để về trang chủ
             </p>
           </div>
-          <button
-            onClick={() => {
-              const confirmExit = window.confirm('Bạn có chắc muốn về trang chủ? Tiến trình hiện tại sẽ bị mất.');
-              if (confirmExit) onHome();
-            }}
-            className="bg-slate-700/50 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg border border-slate-600 transition-all flex items-center gap-2"
-          >
-            🏠 <span className="hidden sm:inline">Trang chủ</span>
-          </button>
         </div>
         
         {/* Selected Categories Display */}
         {selectedCategories.length > 0 && (
-          <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/50">
+          <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/30">
             <p className="text-slate-300 text-sm mb-2">🎯 Chủ đề đang luyện:</p>
             <div className="flex flex-wrap gap-2">
               {selectedCategories.map((catId) => {
@@ -137,7 +158,7 @@ export default function SessionScreen({
                 return (
                   <span
                     key={catId}
-                    className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/50 rounded-full text-xs text-purple-300"
+                    className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/30 rounded-full text-xs text-purple-300"
                   >
                     {category.icon} {category.nameVi}
                   </span>
@@ -170,14 +191,32 @@ export default function SessionScreen({
       {/* Feedback Area */}
       <div className="mt-4 min-h-[50px] text-center">
         {showFeedback && isCorrect !== null && (
-          <div className={`border-l-4 p-4 rounded-md ${
+          <div className={`border-l-4 p-4 rounded-md relative overflow-hidden ${
             isCorrect 
-              ? 'bg-green-500/20 border-green-500 text-green-300'
-              : 'bg-red-500/20 border-red-500 text-red-300'
+              ? 'bg-green-500/20 border-green-500/60 text-green-300'
+              : 'bg-red-500/20 border-red-500/60 text-red-300'
           }`}>
             <p className="font-bold">{isCorrect ? '✅ Chính xác!' : '❌ Chưa đúng!'}</p>
             {!isCorrect && (
               <p dangerouslySetInnerHTML={{ __html: correctAnswer }} />
+            )}
+            
+            {/* Progress bar khi tự động chuyển bài */}
+            {isCorrect && autoNextProgress > 0 && (
+              <div className="mt-3">
+                <div className="flex items-center justify-between mb-1">
+                  <span className="text-xs text-green-400">Tự động chuyển bài...</span>
+                  <span className="text-xs text-green-400">
+                    {((AUTO_NEXT_DELAY - (autoNextProgress / 100 * AUTO_NEXT_DELAY)) / 1000).toFixed(1)}s
+                  </span>
+                </div>
+                <div className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden">
+                  <div 
+                    className="bg-gradient-to-r from-green-500 to-emerald-400 h-full rounded-full transition-all duration-75 ease-linear shadow-lg shadow-green-500/50"
+                    style={{ width: `${autoNextProgress}%` }}
+                  />
+                </div>
+              </div>
             )}
           </div>
         )}

@@ -1,8 +1,14 @@
 // Utility functions cho âm thanh phản hồi
 
+// Import mute state
+import { getMuteState } from './speech';
+
 // Tạo âm thanh đúng (cao và vui)
 export const playCorrectSound = () => {
   if (typeof window === 'undefined') return;
+  
+  // Kiểm tra trạng thái mute
+  if (getMuteState()) return;
   
   const AudioContextClass = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
   const audioContext = new AudioContextClass();
@@ -34,6 +40,9 @@ export const playCorrectSound = () => {
 // Tạo âm thanh sai (thấp và buồn)
 export const playIncorrectSound = () => {
   if (typeof window === 'undefined') return;
+  
+  // Kiểm tra trạng thái mute
+  if (getMuteState()) return;
   
   const AudioContextClass = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
   const audioContext = new AudioContextClass();

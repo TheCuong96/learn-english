@@ -88,8 +88,8 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
             className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg bg-slate-800/60 text-slate-200 ${
               hasAnswered
                 ? v2Input.trim().toLowerCase() === word.v2.toLowerCase()
-                  ? 'border-green-500 ring-2 ring-green-400/50'
-                  : 'border-red-500 ring-2 ring-red-400/50'
+                  ? 'border-green-500/60 ring-2 ring-green-400/70'
+                  : 'border-red-500/60 ring-2 ring-red-400/70'
                 : 'border-slate-600'
             }`}
           />
@@ -107,8 +107,8 @@ export default function VerbForms({ word, onAnswer }: VerbFormsProps) {
             className={`mt-1 text-center text-xl w-full p-3 border-2 rounded-lg bg-slate-800/60 text-slate-200 ${
               hasAnswered
                 ? v3Input.trim().toLowerCase() === word.v3.toLowerCase()
-                  ? 'border-green-500 ring-2 ring-green-400/50'
-                  : 'border-red-500 ring-2 ring-red-400/50'
+                  ? 'border-green-500/60 ring-2 ring-green-400/70'
+                  : 'border-red-500/60 ring-2 ring-red-400/70'
                 : 'border-slate-600'
             }`}
           />

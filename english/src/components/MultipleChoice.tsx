@@ -108,20 +108,20 @@ export default function MultipleChoice({ word, allWords, onAnswer }: MultipleCho
     if (!selectedAnswer) {
       // Highlight focused option
       if (index === focusedIndex) {
-        return baseClass + "bg-slate-700/80 border-purple-500 ring-2 ring-purple-500/50 cursor-pointer";
+        return baseClass + "bg-purple-600/40 border-purple-400 ring-4 ring-purple-400 cursor-pointer shadow-xl shadow-purple-500/50 scale-105";
       }
-      return baseClass + "bg-slate-800/60 border-slate-600 hover:bg-slate-700/80 hover:border-purple-500/50 cursor-pointer";
+      return baseClass + "bg-slate-800/60 border-slate-600/50 hover:bg-slate-700/80 hover:border-purple-500/50 cursor-pointer";
     }
     
     if (option.word === word.word) {
-      return baseClass + "bg-green-500/20 border-green-500 ring-2 ring-green-400/50";
+      return baseClass + "bg-green-500/30 border-green-500 ring-2 ring-green-400";
     }
     
     if (option.word === selectedAnswer) {
-      return baseClass + "bg-red-500/20 border-red-500 ring-2 ring-red-400/50";
+      return baseClass + "bg-red-500/30 border-red-500 ring-2 ring-red-400";
     }
     
-    return baseClass + "bg-slate-800/40 border-slate-700 opacity-50";
+    return baseClass + "bg-slate-800/40 border-slate-700/30 opacity-50";
   };
 
   return (
