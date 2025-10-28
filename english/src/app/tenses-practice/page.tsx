@@ -1,7 +1,9 @@
 'use client';
 
+import Navigation from '@/components/Navigation';
 import TensesExercise from '@/components/TensesExercise';
 import TensesResults from '@/components/TensesResults';
+import VoiceSelector from '@/components/VoiceSelector';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -110,7 +112,7 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
       {/* Header */}
       <header className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
-          <div className="flex justify-between items-center">
+          <div className="flex justify-between items-center flex-wrap gap-3">
             <div className="flex items-center gap-4">
               {currentScreen !== 'home' && (
                 <Button
@@ -125,12 +127,16 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                 12 Thì Tiếng Anh - Luyện tập
               </h1>
             </div>
-            <Link href="/">
-              <Button variant="ghost" size="icon">
-                <Home className="h-5 w-5" />
-              </Button>
-            </Link>
+            <div className="flex items-center gap-3">
+              <VoiceSelector />
+              <Link href="/" className="cursor-pointer">
+                <Button variant="ghost" size="icon" className="cursor-pointer">
+                  <Home className="h-5 w-5" />
+                </Button>
+              </Link>
+            </div>
           </div>
+          {currentScreen === 'home' && <Navigation />}
         </div>
       </header>
 
@@ -211,18 +217,23 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                 {/* Tense Selection */}
                 <Tabs defaultValue="all">
                   <TabsList>
-                    <TabsTrigger value="all">Tất cả</TabsTrigger>
-                    <TabsTrigger value="present">Hiện tại</TabsTrigger>
-                    <TabsTrigger value="past">Quá khứ</TabsTrigger>
-                    <TabsTrigger value="future">Tương lai</TabsTrigger>
+                    <TabsTrigger value="all" className="cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg">Tất cả</TabsTrigger>
+                    <TabsTrigger value="present" className="cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg">Hiện tại</TabsTrigger>
+                    <TabsTrigger value="past" className="cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg">Quá khứ</TabsTrigger>
+                    <TabsTrigger value="future" className="cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg">Tương lai</TabsTrigger>
                   </TabsList>
-                  <TabsContent value="all" className="space-y-2 max-h-64 overflow-y-auto">
+                  <TabsContent value="all" className="space-y-2 max-h-64 overflow-y-auto p-6">
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
                       {tenses.map((tense) => (
                         <Button
                           key={tense.id}
-                          variant={selectedTenses.includes(tense.id) ? 'default' : 'outline'}
+                          variant="outline"
                           size="sm"
+                          className={`cursor-pointer transition-all duration-200 transform hover:scale-105 ${
+                            selectedTenses.includes(tense.id)
+                              ? 'bg-gradient-to-r from-blue-600/40 to-purple-600/40 border-blue-400 ring-2 ring-blue-400/60 text-blue-100 font-semibold shadow-lg shadow-blue-500/25'
+                              : 'border-slate-600 text-slate-300 hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-blue-200 hover:shadow-md hover:shadow-blue-500/20'
+                          }`}
                           onClick={() => {
                             if (selectedTenses.includes(tense.id)) {
                               setSelectedTenses(selectedTenses.filter(t => t !== tense.id));
@@ -236,13 +247,18 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                       ))}
                     </div>
                   </TabsContent>
-                  <TabsContent value="present" className="space-y-2 max-h-64 overflow-y-auto">
+                  <TabsContent value="present" className="space-y-2 max-h-64 overflow-y-auto p-6">
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
                       {tensesByGroup.present.map((tense) => (
                         <Button
                           key={tense.id}
-                          variant={selectedTenses.includes(tense.id) ? 'default' : 'outline'}
+                          variant="outline"
                           size="sm"
+                          className={`cursor-pointer transition-all duration-200 transform hover:scale-105 ${
+                            selectedTenses.includes(tense.id)
+                              ? 'bg-gradient-to-r from-blue-600/40 to-purple-600/40 border-blue-400 ring-2 ring-blue-400/60 text-blue-100 font-semibold shadow-lg shadow-blue-500/25'
+                              : 'border-slate-600 text-slate-300 hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-blue-200 hover:shadow-md hover:shadow-blue-500/20'
+                          }`}
                           onClick={() => {
                             if (selectedTenses.includes(tense.id)) {
                               setSelectedTenses(selectedTenses.filter(t => t !== tense.id));
@@ -256,13 +272,18 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                       ))}
                     </div>
                   </TabsContent>
-                  <TabsContent value="past" className="space-y-2 max-h-64 overflow-y-auto">
+                  <TabsContent value="past" className="space-y-2 max-h-64 overflow-y-auto p-6">
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
                       {tensesByGroup.past.map((tense) => (
                         <Button
                           key={tense.id}
-                          variant={selectedTenses.includes(tense.id) ? 'default' : 'outline'}
+                          variant="outline"
                           size="sm"
+                          className={`cursor-pointer transition-all duration-200 transform hover:scale-105 ${
+                            selectedTenses.includes(tense.id)
+                              ? 'bg-gradient-to-r from-blue-600/40 to-purple-600/40 border-blue-400 ring-2 ring-blue-400/60 text-blue-100 font-semibold shadow-lg shadow-blue-500/25'
+                              : 'border-slate-600 text-slate-300 hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-blue-200 hover:shadow-md hover:shadow-blue-500/20'
+                          }`}
                           onClick={() => {
                             if (selectedTenses.includes(tense.id)) {
                               setSelectedTenses(selectedTenses.filter(t => t !== tense.id));
@@ -276,13 +297,18 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                       ))}
                     </div>
                   </TabsContent>
-                  <TabsContent value="future" className="space-y-2 max-h-64 overflow-y-auto">
+                  <TabsContent value="future" className="space-y-2 max-h-64 overflow-y-auto p-6">
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
                       {tensesByGroup.future.map((tense) => (
                         <Button
                           key={tense.id}
-                          variant={selectedTenses.includes(tense.id) ? 'default' : 'outline'}
+                          variant="outline"
                           size="sm"
+                          className={`cursor-pointer transition-all duration-200 transform hover:scale-105 ${
+                            selectedTenses.includes(tense.id)
+                              ? 'bg-gradient-to-r from-blue-600/40 to-purple-600/40 border-blue-400 ring-2 ring-blue-400/60 text-blue-100 font-semibold shadow-lg shadow-blue-500/25'
+                              : 'border-slate-600 text-slate-300 hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-blue-200 hover:shadow-md hover:shadow-blue-500/20'
+                          }`}
                           onClick={() => {
                             if (selectedTenses.includes(tense.id)) {
                               setSelectedTenses(selectedTenses.filter(t => t !== tense.id));
@@ -307,6 +333,7 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
                       variant="outline"
                       size="sm"
                       onClick={() => setSelectedTenses([])}
+                      className="cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-lg hover:bg-red-500/20 hover:border-red-400/70 hover:text-red-200"
                     >
                       Xóa tất cả
                     </Button>
@@ -320,7 +347,7 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
               <Button
                 onClick={handleStartExercise}
                 size="lg"
-                className="px-12 py-6 text-lg"
+                className="px-12 py-6 text-lg cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700"
               >
                 <CheckCircle2 className="mr-2 h-5 w-5" />
                 Bắt đầu làm bài
@@ -330,11 +357,31 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
         )}
 
         {currentScreen === 'exercise' && questions.length > 0 && (
-          <TensesExercise
-            questions={questions}
-            onComplete={handleComplete}
-            onCancel={handleRetry}
-          />
+          <>
+            {selectedTenses.length > 0 && (
+              <div className="max-w-4xl mx-auto mb-4">
+                <div className="bg-slate-800/40 p-3 rounded-lg border border-slate-700/30">
+                  <p className="text-slate-300 text-sm mb-2">🎯 Đang luyện các thì:</p>
+                  <div className="flex flex-wrap gap-2">
+                    {selectedTenses.map((id) => {
+                      const t = tenses.find(t => t.id === id);
+                      if (!t) return null;
+                      return (
+                        <span key={id} className="inline-flex items-center gap-1 px-3 py-1 bg-purple-600/30 border border-purple-500/30 rounded-full text-xs text-purple-300">
+                          {t.nameVN}
+                        </span>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            )}
+            <TensesExercise
+              questions={questions}
+              onComplete={handleComplete}
+              onCancel={handleRetry}
+            />
+          </>
         )}
 
         {currentScreen === 'results' && (

@@ -21,7 +21,7 @@ export default function Navigation() {
             <Link
               key={link.href}
               href={link.href}
-              className={`px-4 py-2 rounded-lg font-medium whitespace-nowrap transition-all ${
+              className={`px-4 py-2 rounded-lg font-medium whitespace-nowrap transition-all cursor-pointer ${
                 isActive
                   ? 'bg-blue-500 text-white shadow-lg'
                   : 'bg-white/10 text-white/80 hover:bg-white/20 hover:text-white'
