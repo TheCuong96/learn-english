@@ -9,6 +9,7 @@ export default function Navigation() {
   const links = [
     { href: '/', label: '🏠 Trang chủ', emoji: '🏠' },
     { href: '/verbs-audio', label: '🔊 Phát âm động từ', emoji: '🔊' },
+    { href: '/tenses-practice', label: '📚 Luyện tập 12 thì', emoji: '📚' },
   ];
 
   return (
