@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "past-perfect-continuous-001",
+    "question": "We ___ (approve) for two hours before he came.",
+    "options": [
+      "have been approving",
+      "had been approving",
+      "had approved",
+      "was approving"
+    ],
+    "correctAnswer": "had been approving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-002",
+    "question": "She ___ (attend) for two hours before he came.",
+    "options": [
+      "had attended",
+      "was attending",
+      "had been attending",
+      "have been attending"
+    ],
+    "correctAnswer": "had been attending",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-003",
+    "question": "It ___ (boil) since morning before the exam.",
+    "options": [
+      "had boiled",
+      "had been boiling",
+      "have been boiling",
+      "was boiling"
+    ],
+    "correctAnswer": "had been boiling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-004",
+    "question": "You ___ (buy) since morning before the exam.",
+    "options": [
+      "had bought",
+      "had been buyying",
+      "have been buyying",
+      "was buyying"
+    ],
+    "correctAnswer": "had been buyying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-005",
+    "question": "He ___ (call) for two hours before he came.",
+    "options": [
+      "was calling",
+      "had called",
+      "have been calling",
+      "had been calling"
+    ],
+    "correctAnswer": "had been calling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-006",
+    "question": "I ___ (check) for two hours before he came.",
+    "options": [
+      "had been checking",
+      "was checking",
+      "had checked",
+      "have been checking"
+    ],
+    "correctAnswer": "had been checking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-007",
+    "question": "They ___ (close) since morning before the exam.",
+    "options": [
+      "have been closing",
+      "had closed",
+      "was closing",
+      "had been closing"
+    ],
+    "correctAnswer": "had been closing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-008",
+    "question": "We ___ (coordinate) since morning before the exam.",
+    "options": [
+      "was coordinating",
+      "had coordinated",
+      "have been coordinating",
+      "had been coordinating"
+    ],
+    "correctAnswer": "had been coordinating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-009",
+    "question": "She ___ (cook) since morning before the exam.",
+    "options": [
+      "have been cooking",
+      "had cooked",
+      "had been cooking",
+      "was cooking"
+    ],
+    "correctAnswer": "had been cooking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-010",
+    "question": "It ___ (cost) since morning before the exam.",
+    "options": [
+      "had been costing",
+      "had cost",
+      "have been costing",
+      "was costing"
+    ],
+    "correctAnswer": "had been costing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-011",
+    "question": "You ___ (depart) since morning before the exam.",
+    "options": [
+      "have been departing",
+      "had departed",
+      "was departing",
+      "had been departing"
+    ],
+    "correctAnswer": "had been departing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-012",
+    "question": "He ___ (deliver) for two hours before he came.",
+    "options": [
+      "have been deliverring",
+      "had been deliverring",
+      "was deliverring",
+      "had delivered"
+    ],
+    "correctAnswer": "had been deliverring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-013",
+    "question": "I ___ (disassemble) since morning before the exam.",
+    "options": [
+      "had disassembled",
+      "have been disassembling",
+      "had been disassembling",
+      "was disassembling"
+    ],
+    "correctAnswer": "had been disassembling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-014",
+    "question": "They ___ (do) since morning before the exam.",
+    "options": [
+      "had been doing",
+      "have been doing",
+      "was doing",
+      "had done"
+    ],
+    "correctAnswer": "had been doing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-015",
+    "question": "We ___ (drink) since morning before the exam.",
+    "options": [
+      "have been drinking",
+      "was drinking",
+      "had been drinking",
+      "had drunk"
+    ],
+    "correctAnswer": "had been drinking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-016",
+    "question": "She ___ (eat) since morning before the exam.",
+    "options": [
+      "was eating",
+      "had been eating",
+      "had eaten",
+      "have been eating"
+    ],
+    "correctAnswer": "had been eating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-017",
+    "question": "It ___ (expire) for two hours before he came.",
+    "options": [
+      "have been expiring",
+      "had been expiring",
+      "was expiring",
+      "had expired"
+    ],
+    "correctAnswer": "had been expiring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-018",
+    "question": "You ___ (finish) since morning before the exam.",
+    "options": [
+      "have been finishing",
+      "was finishing",
+      "had finished",
+      "had been finishing"
+    ],
+    "correctAnswer": "had been finishing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-019",
+    "question": "He ___ (finalize) since morning before the exam.",
+    "options": [
+      "had finalized",
+      "was finalizing",
+      "have been finalizing",
+      "had been finalizing"
+    ],
+    "correctAnswer": "had been finalizing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-020",
+    "question": "I ___ (give) for two hours before he came.",
+    "options": [
+      "was giving",
+      "had given",
+      "have been giving",
+      "had been giving"
+    ],
+    "correctAnswer": "had been giving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-021",
+    "question": "They ___ (go) for two hours before he came.",
+    "options": [
+      "had been going",
+      "have been going",
+      "was going",
+      "had gone"
+    ],
+    "correctAnswer": "had been going",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-022",
+    "question": "We ___ (help) since morning before the exam.",
+    "options": [
+      "had helped",
+      "have been helping",
+      "had been helping",
+      "was helping"
+    ],
+    "correctAnswer": "had been helping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-023",
+    "question": "She ___ (join) for two hours before he came.",
+    "options": [
+      "had been joining",
+      "had joined",
+      "was joining",
+      "have been joining"
+    ],
+    "correctAnswer": "had been joining",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-024",
+    "question": "It ___ (leave) for two hours before he came.",
+    "options": [
+      "had left",
+      "had been leaving",
+      "was leaving",
+      "have been leaving"
+    ],
+    "correctAnswer": "had been leaving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-025",
+    "question": "You ___ (live) for two hours before he came.",
+    "options": [
+      "have been living",
+      "was living",
+      "had lived",
+      "had been living"
+    ],
+    "correctAnswer": "had been living",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-026",
+    "question": "He ___ (manage) since morning before the exam.",
+    "options": [
+      "had been managing",
+      "was managing",
+      "have been managing",
+      "had managed"
+    ],
+    "correctAnswer": "had been managing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-027",
+    "question": "I ___ (matter) for two hours before he came.",
+    "options": [
+      "had been matterring",
+      "have been matterring",
+      "was matterring",
+      "had mattered"
+    ],
+    "correctAnswer": "had been matterring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-028",
+    "question": "They ___ (meet) since morning before the exam.",
+    "options": [
+      "had met",
+      "was meeting",
+      "have been meeting",
+      "had been meeting"
+    ],
+    "correctAnswer": "had been meeting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-029",
+    "question": "We ___ (offer) for two hours before he came.",
+    "options": [
+      "was offerring",
+      "had been offerring",
+      "had offered",
+      "have been offerring"
+    ],
+    "correctAnswer": "had been offerring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-030",
+    "question": "She ___ (open) since morning before the exam.",
+    "options": [
+      "have been openning",
+      "had opened",
+      "was openning",
+      "had been openning"
+    ],
+    "correctAnswer": "had been openning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-031",
+    "question": "It ___ (order) since morning before the exam.",
+    "options": [
+      "had been orderring",
+      "was orderring",
+      "have been orderring",
+      "had ordered"
+    ],
+    "correctAnswer": "had been orderring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-032",
+    "question": "You ___ (ship) for two hours before he came.",
+    "options": [
+      "had been shipping",
+      "have been shipping",
+      "was shipping",
+      "had shipped"
+    ],
+    "correctAnswer": "had been shipping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-033",
+    "question": "He ___ (organize) since morning before the exam.",
+    "options": [
+      "had organized",
+      "was organizing",
+      "have been organizing",
+      "had been organizing"
+    ],
+    "correctAnswer": "had been organizing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-034",
+    "question": "I ___ (play) since morning before the exam.",
+    "options": [
+      "have been playying",
+      "had played",
+      "had been playying",
+      "was playying"
+    ],
+    "correctAnswer": "had been playying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-035",
+    "question": "They ___ (rain) for two hours before he came.",
+    "options": [
+      "was raining",
+      "had rained",
+      "have been raining",
+      "had been raining"
+    ],
+    "correctAnswer": "had been raining",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-036",
+    "question": "We ___ (read) for two hours before he came.",
+    "options": [
+      "had been reading",
+      "have been reading",
+      "was reading",
+      "had read"
+    ],
+    "correctAnswer": "had been reading",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-037",
+    "question": "She ___ (remember) for two hours before he came.",
+    "options": [
+      "had remembered",
+      "was rememberring",
+      "have been rememberring",
+      "had been rememberring"
+    ],
+    "correctAnswer": "had been rememberring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-038",
+    "question": "It ___ (rise) since morning before the exam.",
+    "options": [
+      "had been rising",
+      "had risen",
+      "have been rising",
+      "was rising"
+    ],
+    "correctAnswer": "had been rising",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-039",
+    "question": "You ___ (run) for two hours before he came.",
+    "options": [
+      "have been running",
+      "was running",
+      "had run",
+      "had been running"
+    ],
+    "correctAnswer": "had been running",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-040",
+    "question": "He ___ (serve) since morning before the exam.",
+    "options": [
+      "have been serving",
+      "had served",
+      "was serving",
+      "had been serving"
+    ],
+    "correctAnswer": "had been serving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-041",
+    "question": "I ___ (speak) since morning before the exam.",
+    "options": [
+      "have been speaking",
+      "had spoken",
+      "had been speaking",
+      "was speaking"
+    ],
+    "correctAnswer": "had been speaking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-042",
+    "question": "They ___ (spoil) for two hours before he came.",
+    "options": [
+      "was spoiling",
+      "have been spoiling",
+      "had spoiled",
+      "had been spoiling"
+    ],
+    "correctAnswer": "had been spoiling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-043",
+    "question": "We ___ (start) for two hours before he came.",
+    "options": [
+      "had started",
+      "was starting",
+      "had been starting",
+      "have been starting"
+    ],
+    "correctAnswer": "had been starting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-044",
+    "question": "She ___ (stay) for two hours before he came.",
+    "options": [
+      "was stayying",
+      "have been stayying",
+      "had stayed",
+      "had been stayying"
+    ],
+    "correctAnswer": "had been stayying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-045",
+    "question": "It ___ (study) for two hours before he came.",
+    "options": [
+      "have been studying",
+      "was studying",
+      "had been studying",
+      "had studied"
+    ],
+    "correctAnswer": "had been studying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-046",
+    "question": "You ___ (take) since morning before the exam.",
+    "options": [
+      "was taking",
+      "had taken",
+      "have been taking",
+      "had been taking"
+    ],
+    "correctAnswer": "had been taking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-047",
+    "question": "He ___ (teach) since morning before the exam.",
+    "options": [
+      "have been teaching",
+      "was teaching",
+      "had been teaching",
+      "had taught"
+    ],
+    "correctAnswer": "had been teaching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-048",
+    "question": "I ___ (travel) since morning before the exam.",
+    "options": [
+      "have been travelling",
+      "was travelling",
+      "had traveled",
+      "had been travelling"
+    ],
+    "correctAnswer": "had been travelling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-049",
+    "question": "They ___ (use) for two hours before he came.",
+    "options": [
+      "had been using",
+      "had used",
+      "was using",
+      "have been using"
+    ],
+    "correctAnswer": "had been using",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-050",
+    "question": "We ___ (visit) for two hours before he came.",
+    "options": [
+      "had visited",
+      "was visitting",
+      "have been visitting",
+      "had been visitting"
+    ],
+    "correctAnswer": "had been visitting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-051",
+    "question": "She ___ (watch) for two hours before he came.",
+    "options": [
+      "was watching",
+      "have been watching",
+      "had been watching",
+      "had watched"
+    ],
+    "correctAnswer": "had been watching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-052",
+    "question": "It ___ (weigh) for two hours before he came.",
+    "options": [
+      "have been weighing",
+      "had been weighing",
+      "had weighed",
+      "was weighing"
+    ],
+    "correctAnswer": "had been weighing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-053",
+    "question": "You ___ (work) since morning before the exam.",
+    "options": [
+      "had been working",
+      "had worked",
+      "was working",
+      "have been working"
+    ],
+    "correctAnswer": "had been working",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-054",
+    "question": "He ___ (brush) since morning before the exam.",
+    "options": [
+      "had brushed",
+      "have been brushing",
+      "was brushing",
+      "had been brushing"
+    ],
+    "correctAnswer": "had been brushing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-055",
+    "question": "I ___ (exercise) for two hours before he came.",
+    "options": [
+      "had exercised",
+      "had been exercising",
+      "have been exercising",
+      "was exercising"
+    ],
+    "correctAnswer": "had been exercising",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-056",
+    "question": "They ___ (listen) since morning before the exam.",
+    "options": [
+      "had been listenning",
+      "have been listenning",
+      "had listened",
+      "was listenning"
+    ],
+    "correctAnswer": "had been listenning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-057",
+    "question": "We ___ (sleep) for two hours before he came.",
+    "options": [
+      "had slept",
+      "had been sleeping",
+      "was sleeping",
+      "have been sleeping"
+    ],
+    "correctAnswer": "had been sleeping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-058",
+    "question": "She ___ (research) since morning before the exam.",
+    "options": [
+      "was researching",
+      "have been researching",
+      "had researched",
+      "had been researching"
+    ],
+    "correctAnswer": "had been researching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-059",
+    "question": "It ___ (recycle) since morning before the exam.",
+    "options": [
+      "was recycling",
+      "had recycled",
+      "have been recycling",
+      "had been recycling"
+    ],
+    "correctAnswer": "had been recycling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-060",
+    "question": "You ___ (diagnose) since morning before the exam.",
+    "options": [
+      "was diagnosing",
+      "have been diagnosing",
+      "had been diagnosing",
+      "had diagnosed"
+    ],
+    "correctAnswer": "had been diagnosing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-061",
+    "question": "He ___ (negotiate) since morning before the exam.",
+    "options": [
+      "have been negotiating",
+      "had negotiated",
+      "had been negotiating",
+      "was negotiating"
+    ],
+    "correctAnswer": "had been negotiating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-062",
+    "question": "I ___ (invest) since morning before the exam.",
+    "options": [
+      "had invested",
+      "have been investing",
+      "had been investing",
+      "was investing"
+    ],
+    "correctAnswer": "had been investing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-063",
+    "question": "They ___ (compose) for two hours before he came.",
+    "options": [
+      "had composed",
+      "had been composing",
+      "was composing",
+      "have been composing"
+    ],
+    "correctAnswer": "had been composing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-064",
+    "question": "We ___ (rescue) since morning before the exam.",
+    "options": [
+      "had rescued",
+      "was rescuing",
+      "have been rescuing",
+      "had been rescuing"
+    ],
+    "correctAnswer": "had been rescuing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-065",
+    "question": "She ___ (broadcast) since morning before the exam.",
+    "options": [
+      "had broadcast",
+      "had been broadcasting",
+      "was broadcasting",
+      "have been broadcasting"
+    ],
+    "correctAnswer": "had been broadcasting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-066",
+    "question": "It ___ (discover) since morning before the exam.",
+    "options": [
+      "have been discoverring",
+      "was discoverring",
+      "had discovered",
+      "had been discoverring"
+    ],
+    "correctAnswer": "had been discoverring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-067",
+    "question": "You ___ (conserve) since morning before the exam.",
+    "options": [
+      "had been conserving",
+      "had conserved",
+      "have been conserving",
+      "was conserving"
+    ],
+    "correctAnswer": "had been conserving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-068",
+    "question": "He ___ (schedule) for two hours before he came.",
+    "options": [
+      "have been scheduling",
+      "had scheduled",
+      "had been scheduling",
+      "was scheduling"
+    ],
+    "correctAnswer": "had been scheduling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-069",
+    "question": "I ___ (enroll) since morning before the exam.",
+    "options": [
+      "have been enrolling",
+      "had enrolled",
+      "was enrolling",
+      "had been enrolling"
+    ],
+    "correctAnswer": "had been enrolling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-070",
+    "question": "They ___ (manufacture) since morning before the exam.",
+    "options": [
+      "had manufactured",
+      "have been manufacturing",
+      "had been manufacturing",
+      "was manufacturing"
+    ],
+    "correctAnswer": "had been manufacturing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-071",
+    "question": "We ___ (donate) for two hours before he came.",
+    "options": [
+      "had been donating",
+      "was donating",
+      "had donated",
+      "have been donating"
+    ],
+    "correctAnswer": "had been donating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-072",
+    "question": "She ___ (forecast) since morning before the exam.",
+    "options": [
+      "had been forecasting",
+      "was forecasting",
+      "had forecast",
+      "have been forecasting"
+    ],
+    "correctAnswer": "had been forecasting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-073",
+    "question": "It ___ (say) since morning before the exam.",
+    "options": [
+      "had said",
+      "had been sayying",
+      "have been sayying",
+      "was sayying"
+    ],
+    "correctAnswer": "had been sayying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-074",
+    "question": "You ___ (get) for two hours before he came.",
+    "options": [
+      "had gotten",
+      "had been getting",
+      "was getting",
+      "have been getting"
+    ],
+    "correctAnswer": "had been getting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-075",
+    "question": "He ___ (make) for two hours before he came.",
+    "options": [
+      "have been making",
+      "was making",
+      "had made",
+      "had been making"
+    ],
+    "correctAnswer": "had been making",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-076",
+    "question": "I ___ (see) for two hours before he came.",
+    "options": [
+      "had seen",
+      "was seeing",
+      "had been seeing",
+      "have been seeing"
+    ],
+    "correctAnswer": "had been seeing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-077",
+    "question": "They ___ (come) for two hours before he came.",
+    "options": [
+      "have been coming",
+      "was coming",
+      "had come",
+      "had been coming"
+    ],
+    "correctAnswer": "had been coming",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-078",
+    "question": "We ___ (think) for two hours before he came.",
+    "options": [
+      "had been thinking",
+      "was thinking",
+      "have been thinking",
+      "had thought"
+    ],
+    "correctAnswer": "had been thinking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-079",
+    "question": "She ___ (look) for two hours before he came.",
+    "options": [
+      "had been looking",
+      "was looking",
+      "had looked",
+      "have been looking"
+    ],
+    "correctAnswer": "had been looking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-080",
+    "question": "It ___ (find) for two hours before he came.",
+    "options": [
+      "had been finding",
+      "had found",
+      "was finding",
+      "have been finding"
+    ],
+    "correctAnswer": "had been finding",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-081",
+    "question": "You ___ (tell) since morning before the exam.",
+    "options": [
+      "have been telling",
+      "was telling",
+      "had been telling",
+      "had told"
+    ],
+    "correctAnswer": "had been telling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-082",
+    "question": "He ___ (ask) since morning before the exam.",
+    "options": [
+      "was asking",
+      "have been asking",
+      "had been asking",
+      "had asked"
+    ],
+    "correctAnswer": "had been asking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-083",
+    "question": "I ___ (put) since morning before the exam.",
+    "options": [
+      "had been putting",
+      "was putting",
+      "had put",
+      "have been putting"
+    ],
+    "correctAnswer": "had been putting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-084",
+    "question": "They ___ (keep) for two hours before he came.",
+    "options": [
+      "had been keeping",
+      "had kept",
+      "have been keeping",
+      "was keeping"
+    ],
+    "correctAnswer": "had been keeping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-085",
+    "question": "We ___ (begin) since morning before the exam.",
+    "options": [
+      "have been beginning",
+      "had begun",
+      "was beginning",
+      "had been beginning"
+    ],
+    "correctAnswer": "had been beginning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-086",
+    "question": "She ___ (turn) for two hours before he came.",
+    "options": [
+      "had been turning",
+      "had turned",
+      "was turning",
+      "have been turning"
+    ],
+    "correctAnswer": "had been turning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-087",
+    "question": "It ___ (show) since morning before the exam.",
+    "options": [
+      "had been showwing",
+      "was showwing",
+      "had shown",
+      "have been showwing"
+    ],
+    "correctAnswer": "had been showwing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-088",
+    "question": "You ___ (hear) for two hours before he came.",
+    "options": [
+      "had heard",
+      "was hearing",
+      "had been hearing",
+      "have been hearing"
+    ],
+    "correctAnswer": "had been hearing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-089",
+    "question": "He ___ (move) since morning before the exam.",
+    "options": [
+      "had moved",
+      "had been moving",
+      "was moving",
+      "have been moving"
+    ],
+    "correctAnswer": "had been moving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-090",
+    "question": "I ___ (bring) for two hours before he came.",
+    "options": [
+      "have been bringing",
+      "had been bringing",
+      "had brought",
+      "was bringing"
+    ],
+    "correctAnswer": "had been bringing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-091",
+    "question": "They ___ (write) since morning before the exam.",
+    "options": [
+      "had been writing",
+      "was writing",
+      "have been writing",
+      "had written"
+    ],
+    "correctAnswer": "had been writing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-092",
+    "question": "We ___ (sit) since morning before the exam.",
+    "options": [
+      "had sat",
+      "had been sitting",
+      "was sitting",
+      "have been sitting"
+    ],
+    "correctAnswer": "had been sitting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-093",
+    "question": "She ___ (stand) since morning before the exam.",
+    "options": [
+      "have been standing",
+      "was standing",
+      "had been standing",
+      "had stood"
+    ],
+    "correctAnswer": "had been standing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-094",
+    "question": "It ___ (lose) since morning before the exam.",
+    "options": [
+      "have been losing",
+      "was losing",
+      "had lost",
+      "had been losing"
+    ],
+    "correctAnswer": "had been losing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-095",
+    "question": "You ___ (pay) since morning before the exam.",
+    "options": [
+      "had paid",
+      "have been payying",
+      "had been payying",
+      "was payying"
+    ],
+    "correctAnswer": "had been payying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-096",
+    "question": "He ___ (pass) since morning before the exam.",
+    "options": [
+      "have been passing",
+      "was passing",
+      "had passed",
+      "had been passing"
+    ],
+    "correctAnswer": "had been passing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-097",
+    "question": "I ___ (post) for two hours before he came.",
+    "options": [
+      "had posted",
+      "was posting",
+      "have been posting",
+      "had been posting"
+    ],
+    "correctAnswer": "had been posting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-098",
+    "question": "They ___ (include) for two hours before he came.",
+    "options": [
+      "was including",
+      "have been including",
+      "had included",
+      "had been including"
+    ],
+    "correctAnswer": "had been including",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-099",
+    "question": "We ___ (continue) since morning before the exam.",
+    "options": [
+      "have been continuing",
+      "was continuing",
+      "had continued",
+      "had been continuing"
+    ],
+    "correctAnswer": "had been continuing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-100",
+    "question": "She ___ (set) since morning before the exam.",
+    "options": [
+      "was setting",
+      "have been setting",
+      "had been setting",
+      "had set"
+    ],
+    "correctAnswer": "had been setting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-101",
+    "question": "It ___ (learn) for two hours before he came.",
+    "options": [
+      "have been learning",
+      "was learning",
+      "had been learning",
+      "had learned"
+    ],
+    "correctAnswer": "had been learning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-102",
+    "question": "You ___ (change) since morning before the exam.",
+    "options": [
+      "had been changing",
+      "was changing",
+      "had changed",
+      "have been changing"
+    ],
+    "correctAnswer": "had been changing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-103",
+    "question": "He ___ (lead) for two hours before he came.",
+    "options": [
+      "have been leading",
+      "had been leading",
+      "had led",
+      "was leading"
+    ],
+    "correctAnswer": "had been leading",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-104",
+    "question": "I ___ (follow) since morning before the exam.",
+    "options": [
+      "have been followwing",
+      "had followed",
+      "was followwing",
+      "had been followwing"
+    ],
+    "correctAnswer": "had been followwing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-105",
+    "question": "They ___ (stop) since morning before the exam.",
+    "options": [
+      "have been stopping",
+      "was stopping",
+      "had been stopping",
+      "had stopped"
+    ],
+    "correctAnswer": "had been stopping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-106",
+    "question": "We ___ (create) since morning before the exam.",
+    "options": [
+      "have been creating",
+      "had created",
+      "was creating",
+      "had been creating"
+    ],
+    "correctAnswer": "had been creating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-107",
+    "question": "She ___ (complete) for two hours before he came.",
+    "options": [
+      "have been completing",
+      "had completed",
+      "had been completing",
+      "was completing"
+    ],
+    "correctAnswer": "had been completing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-108",
+    "question": "It ___ (allow) for two hours before he came.",
+    "options": [
+      "have been allowwing",
+      "was allowwing",
+      "had been allowwing",
+      "had allowed"
+    ],
+    "correctAnswer": "had been allowwing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-109",
+    "question": "You ___ (add) since morning before the exam.",
+    "options": [
+      "had added",
+      "was adding",
+      "have been adding",
+      "had been adding"
+    ],
+    "correctAnswer": "had been adding",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-110",
+    "question": "He ___ (spend) for two hours before he came.",
+    "options": [
+      "had been spending",
+      "have been spending",
+      "was spending",
+      "had spent"
+    ],
+    "correctAnswer": "had been spending",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-111",
+    "question": "I ___ (grow) for two hours before he came.",
+    "options": [
+      "had grown",
+      "had been growwing",
+      "was growwing",
+      "have been growwing"
+    ],
+    "correctAnswer": "had been growwing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-112",
+    "question": "They ___ (walk) since morning before the exam.",
+    "options": [
+      "have been walking",
+      "had walked",
+      "was walking",
+      "had been walking"
+    ],
+    "correctAnswer": "had been walking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-113",
+    "question": "We ___ (win) for two hours before he came.",
+    "options": [
+      "had been winning",
+      "was winning",
+      "have been winning",
+      "had won"
+    ],
+    "correctAnswer": "had been winning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-114",
+    "question": "She ___ (consider) since morning before the exam.",
+    "options": [
+      "have been considerring",
+      "had considered",
+      "was considerring",
+      "had been considerring"
+    ],
+    "correctAnswer": "had been considerring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-115",
+    "question": "It ___ (appear) since morning before the exam.",
+    "options": [
+      "had appeared",
+      "was appearing",
+      "had been appearing",
+      "have been appearing"
+    ],
+    "correctAnswer": "had been appearing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-116",
+    "question": "You ___ (wait) for two hours before he came.",
+    "options": [
+      "was waiting",
+      "had been waiting",
+      "have been waiting",
+      "had waited"
+    ],
+    "correctAnswer": "had been waiting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-117",
+    "question": "He ___ (send) for two hours before he came.",
+    "options": [
+      "had sent",
+      "have been sending",
+      "was sending",
+      "had been sending"
+    ],
+    "correctAnswer": "had been sending",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-118",
+    "question": "I ___ (expect) since morning before the exam.",
+    "options": [
+      "had been expecting",
+      "had expected",
+      "have been expecting",
+      "was expecting"
+    ],
+    "correctAnswer": "had been expecting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-119",
+    "question": "They ___ (build) for two hours before he came.",
+    "options": [
+      "had built",
+      "was building",
+      "had been building",
+      "have been building"
+    ],
+    "correctAnswer": "had been building",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-120",
+    "question": "We ___ (fall) for two hours before he came.",
+    "options": [
+      "had fallen",
+      "had been falling",
+      "was falling",
+      "have been falling"
+    ],
+    "correctAnswer": "had been falling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-121",
+    "question": "She ___ (cut) for two hours before he came.",
+    "options": [
+      "was cutting",
+      "had been cutting",
+      "have been cutting",
+      "had cut"
+    ],
+    "correctAnswer": "had been cutting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-122",
+    "question": "It ___ (reach) since morning before the exam.",
+    "options": [
+      "had been reaching",
+      "had reached",
+      "have been reaching",
+      "was reaching"
+    ],
+    "correctAnswer": "had been reaching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-123",
+    "question": "You ___ (remain) for two hours before he came.",
+    "options": [
+      "was remaining",
+      "have been remaining",
+      "had remained",
+      "had been remaining"
+    ],
+    "correctAnswer": "had been remaining",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-124",
+    "question": "He ___ (clean) for two hours before he came.",
+    "options": [
+      "have been cleaning",
+      "had cleaned",
+      "was cleaning",
+      "had been cleaning"
+    ],
+    "correctAnswer": "had been cleaning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-125",
+    "question": "I ___ (wash) for two hours before he came.",
+    "options": [
+      "was washing",
+      "had been washing",
+      "had washed",
+      "have been washing"
+    ],
+    "correctAnswer": "had been washing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-126",
+    "question": "They ___ (drive) for two hours before he came.",
+    "options": [
+      "have been driving",
+      "had driven",
+      "was driving",
+      "had been driving"
+    ],
+    "correctAnswer": "had been driving",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-127",
+    "question": "We ___ (ride) for two hours before he came.",
+    "options": [
+      "had been riding",
+      "had ridden",
+      "have been riding",
+      "was riding"
+    ],
+    "correctAnswer": "had been riding",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-128",
+    "question": "She ___ (shop) for two hours before he came.",
+    "options": [
+      "had shopped",
+      "was shopping",
+      "have been shopping",
+      "had been shopping"
+    ],
+    "correctAnswer": "had been shopping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-129",
+    "question": "It ___ (fix) since morning before the exam.",
+    "options": [
+      "had been fixxing",
+      "was fixxing",
+      "have been fixxing",
+      "had fixed"
+    ],
+    "correctAnswer": "had been fixxing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-130",
+    "question": "You ___ (repair) since morning before the exam.",
+    "options": [
+      "was repairing",
+      "have been repairing",
+      "had been repairing",
+      "had repaired"
+    ],
+    "correctAnswer": "had been repairing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-131",
+    "question": "He ___ (charge) for two hours before he came.",
+    "options": [
+      "had been charging",
+      "have been charging",
+      "was charging",
+      "had charged"
+    ],
+    "correctAnswer": "had been charging",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-132",
+    "question": "I ___ (carry) for two hours before he came.",
+    "options": [
+      "have been carrying",
+      "had carried",
+      "was carrying",
+      "had been carrying"
+    ],
+    "correctAnswer": "had been carrying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-133",
+    "question": "They ___ (wear) for two hours before he came.",
+    "options": [
+      "have been wearing",
+      "had been wearing",
+      "was wearing",
+      "had worn"
+    ],
+    "correctAnswer": "had been wearing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-134",
+    "question": "We ___ (port) since morning before the exam.",
+    "options": [
+      "have been porting",
+      "had been porting",
+      "was porting",
+      "had ported"
+    ],
+    "correctAnswer": "had been porting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-135",
+    "question": "She ___ (compile) since morning before the exam.",
+    "options": [
+      "was compiling",
+      "had been compiling",
+      "have been compiling",
+      "had compiled"
+    ],
+    "correctAnswer": "had been compiling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-136",
+    "question": "It ___ (execute) since morning before the exam.",
+    "options": [
+      "had been executing",
+      "had executed",
+      "have been executing",
+      "was executing"
+    ],
+    "correctAnswer": "had been executing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-137",
+    "question": "You ___ (deploy) since morning before the exam.",
+    "options": [
+      "had been deployying",
+      "was deployying",
+      "have been deployying",
+      "had deployed"
+    ],
+    "correctAnswer": "had been deployying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-138",
+    "question": "He ___ (release) for two hours before he came.",
+    "options": [
+      "had released",
+      "have been releasing",
+      "had been releasing",
+      "was releasing"
+    ],
+    "correctAnswer": "had been releasing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-139",
+    "question": "I ___ (commit) for two hours before he came.",
+    "options": [
+      "have been committing",
+      "had committed",
+      "had been committing",
+      "was committing"
+    ],
+    "correctAnswer": "had been committing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-140",
+    "question": "They ___ (push) for two hours before he came.",
+    "options": [
+      "was pushing",
+      "had pushed",
+      "had been pushing",
+      "have been pushing"
+    ],
+    "correctAnswer": "had been pushing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-141",
+    "question": "We ___ (pull) for two hours before he came.",
+    "options": [
+      "had pulled",
+      "was pulling",
+      "had been pulling",
+      "have been pulling"
+    ],
+    "correctAnswer": "had been pulling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-142",
+    "question": "She ___ (merge) since morning before the exam.",
+    "options": [
+      "had been merging",
+      "have been merging",
+      "was merging",
+      "had merged"
+    ],
+    "correctAnswer": "had been merging",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-143",
+    "question": "It ___ (branch) for two hours before he came.",
+    "options": [
+      "had branched",
+      "have been branching",
+      "had been branching",
+      "was branching"
+    ],
+    "correctAnswer": "had been branching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-144",
+    "question": "You ___ (rebase) since morning before the exam.",
+    "options": [
+      "had been rebasing",
+      "have been rebasing",
+      "was rebasing",
+      "had rebased"
+    ],
+    "correctAnswer": "had been rebasing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-145",
+    "question": "He ___ (stash) since morning before the exam.",
+    "options": [
+      "was stashing",
+      "had been stashing",
+      "had stashed",
+      "have been stashing"
+    ],
+    "correctAnswer": "had been stashing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-146",
+    "question": "I ___ (clone) for two hours before he came.",
+    "options": [
+      "have been cloning",
+      "had cloned",
+      "had been cloning",
+      "was cloning"
+    ],
+    "correctAnswer": "had been cloning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-147",
+    "question": "They ___ (fork) since morning before the exam.",
+    "options": [
+      "have been forking",
+      "was forking",
+      "had been forking",
+      "had forked"
+    ],
+    "correctAnswer": "had been forking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-148",
+    "question": "We ___ (debug) for two hours before he came.",
+    "options": [
+      "had debugged",
+      "was debugging",
+      "had been debugging",
+      "have been debugging"
+    ],
+    "correctAnswer": "had been debugging",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-149",
+    "question": "She ___ (log) for two hours before he came.",
+    "options": [
+      "was logging",
+      "have been logging",
+      "had logged",
+      "had been logging"
+    ],
+    "correctAnswer": "had been logging",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-150",
+    "question": "It ___ (trace) for two hours before he came.",
+    "options": [
+      "had been tracing",
+      "had traced",
+      "was tracing",
+      "have been tracing"
+    ],
+    "correctAnswer": "had been tracing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-151",
+    "question": "You ___ (profile) since morning before the exam.",
+    "options": [
+      "had been profiling",
+      "have been profiling",
+      "was profiling",
+      "had profiled"
+    ],
+    "correctAnswer": "had been profiling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-152",
+    "question": "He ___ (optimize) for two hours before he came.",
+    "options": [
+      "was optimizing",
+      "had been optimizing",
+      "have been optimizing",
+      "had optimized"
+    ],
+    "correctAnswer": "had been optimizing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-153",
+    "question": "I ___ (refactor) for two hours before he came.",
+    "options": [
+      "had refactored",
+      "was refactorring",
+      "have been refactorring",
+      "had been refactorring"
+    ],
+    "correctAnswer": "had been refactorring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-154",
+    "question": "They ___ (test) since morning before the exam.",
+    "options": [
+      "was testing",
+      "have been testing",
+      "had been testing",
+      "had tested"
+    ],
+    "correctAnswer": "had been testing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-155",
+    "question": "We ___ (mock) for two hours before he came.",
+    "options": [
+      "was mocking",
+      "had been mocking",
+      "have been mocking",
+      "had mocked"
+    ],
+    "correctAnswer": "had been mocking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-156",
+    "question": "She ___ (stub) for two hours before he came.",
+    "options": [
+      "have been stubbing",
+      "had been stubbing",
+      "had stubbed",
+      "was stubbing"
+    ],
+    "correctAnswer": "had been stubbing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-157",
+    "question": "It ___ (lint) since morning before the exam.",
+    "options": [
+      "had been linting",
+      "have been linting",
+      "was linting",
+      "had linted"
+    ],
+    "correctAnswer": "had been linting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-158",
+    "question": "You ___ (format) since morning before the exam.",
+    "options": [
+      "had formatted",
+      "have been formatting",
+      "was formatting",
+      "had been formatting"
+    ],
+    "correctAnswer": "had been formatting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-159",
+    "question": "He ___ (package) for two hours before he came.",
+    "options": [
+      "was packaging",
+      "had been packaging",
+      "have been packaging",
+      "had packaged"
+    ],
+    "correctAnswer": "had been packaging",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-160",
+    "question": "I ___ (bundle) since morning before the exam.",
+    "options": [
+      "had bundled",
+      "had been bundling",
+      "was bundling",
+      "have been bundling"
+    ],
+    "correctAnswer": "had been bundling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-161",
+    "question": "They ___ (install) since morning before the exam.",
+    "options": [
+      "was installing",
+      "have been installing",
+      "had been installing",
+      "had installed"
+    ],
+    "correctAnswer": "had been installing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-162",
+    "question": "We ___ (update) for two hours before he came.",
+    "options": [
+      "had updated",
+      "have been updating",
+      "was updating",
+      "had been updating"
+    ],
+    "correctAnswer": "had been updating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-163",
+    "question": "She ___ (upgrade) for two hours before he came.",
+    "options": [
+      "have been upgrading",
+      "had upgraded",
+      "had been upgrading",
+      "was upgrading"
+    ],
+    "correctAnswer": "had been upgrading",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-164",
+    "question": "It ___ (rollback) for two hours before he came.",
+    "options": [
+      "had been rollbacking",
+      "had rollbacked",
+      "was rollbacking",
+      "have been rollbacking"
+    ],
+    "correctAnswer": "had been rollbacking",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-165",
+    "question": "You ___ (migrate) for two hours before he came.",
+    "options": [
+      "was migrating",
+      "had migrated",
+      "have been migrating",
+      "had been migrating"
+    ],
+    "correctAnswer": "had been migrating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-166",
+    "question": "He ___ (seed) since morning before the exam.",
+    "options": [
+      "had seeded",
+      "have been seeding",
+      "was seeding",
+      "had been seeding"
+    ],
+    "correctAnswer": "had been seeding",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-167",
+    "question": "I ___ (provision) since morning before the exam.",
+    "options": [
+      "have been provisioning",
+      "had provisioned",
+      "was provisioning",
+      "had been provisioning"
+    ],
+    "correctAnswer": "had been provisioning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-168",
+    "question": "They ___ (configure) for two hours before he came.",
+    "options": [
+      "was configuring",
+      "had been configuring",
+      "have been configuring",
+      "had configured"
+    ],
+    "correctAnswer": "had been configuring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-169",
+    "question": "We ___ (authenticate) since morning before the exam.",
+    "options": [
+      "was authenticating",
+      "had authenticated",
+      "have been authenticating",
+      "had been authenticating"
+    ],
+    "correctAnswer": "had been authenticating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-170",
+    "question": "She ___ (authorize) since morning before the exam.",
+    "options": [
+      "have been authorizing",
+      "had authorized",
+      "was authorizing",
+      "had been authorizing"
+    ],
+    "correctAnswer": "had been authorizing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-171",
+    "question": "It ___ (encrypt) since morning before the exam.",
+    "options": [
+      "had been encrypting",
+      "had encrypted",
+      "was encrypting",
+      "have been encrypting"
+    ],
+    "correctAnswer": "had been encrypting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-172",
+    "question": "You ___ (decrypt) since morning before the exam.",
+    "options": [
+      "had been decrypting",
+      "had decrypted",
+      "was decrypting",
+      "have been decrypting"
+    ],
+    "correctAnswer": "had been decrypting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-173",
+    "question": "He ___ (hash) for two hours before he came.",
+    "options": [
+      "had hashed",
+      "was hashing",
+      "have been hashing",
+      "had been hashing"
+    ],
+    "correctAnswer": "had been hashing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-174",
+    "question": "I ___ (sign) for two hours before he came.",
+    "options": [
+      "had been signing",
+      "have been signing",
+      "was signing",
+      "had signed"
+    ],
+    "correctAnswer": "had been signing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-175",
+    "question": "They ___ (verify) since morning before the exam.",
+    "options": [
+      "was verifying",
+      "had verified",
+      "have been verifying",
+      "had been verifying"
+    ],
+    "correctAnswer": "had been verifying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-176",
+    "question": "We ___ (fetch) for two hours before he came.",
+    "options": [
+      "had been fetching",
+      "had fetched",
+      "have been fetching",
+      "was fetching"
+    ],
+    "correctAnswer": "had been fetching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-177",
+    "question": "She ___ (request) since morning before the exam.",
+    "options": [
+      "had requested",
+      "was requesting",
+      "have been requesting",
+      "had been requesting"
+    ],
+    "correctAnswer": "had been requesting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-178",
+    "question": "It ___ (respond) for two hours before he came.",
+    "options": [
+      "had been responding",
+      "have been responding",
+      "had responded",
+      "was responding"
+    ],
+    "correctAnswer": "had been responding",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-179",
+    "question": "You ___ (render) for two hours before he came.",
+    "options": [
+      "have been renderring",
+      "had been renderring",
+      "had rendered",
+      "was renderring"
+    ],
+    "correctAnswer": "had been renderring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-180",
+    "question": "He ___ (parse) since morning before the exam.",
+    "options": [
+      "was parsing",
+      "had parsed",
+      "have been parsing",
+      "had been parsing"
+    ],
+    "correctAnswer": "had been parsing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-181",
+    "question": "I ___ (stringify) for two hours before he came.",
+    "options": [
+      "had been stringifying",
+      "had stringified",
+      "have been stringifying",
+      "was stringifying"
+    ],
+    "correctAnswer": "had been stringifying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-182",
+    "question": "They ___ (serialize) for two hours before he came.",
+    "options": [
+      "had been serializing",
+      "had serialized",
+      "was serializing",
+      "have been serializing"
+    ],
+    "correctAnswer": "had been serializing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-183",
+    "question": "We ___ (deserialize) since morning before the exam.",
+    "options": [
+      "had deserialized",
+      "was deserializing",
+      "had been deserializing",
+      "have been deserializing"
+    ],
+    "correctAnswer": "had been deserializing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-184",
+    "question": "She ___ (cache) for two hours before he came.",
+    "options": [
+      "had been caching",
+      "had cached",
+      "have been caching",
+      "was caching"
+    ],
+    "correctAnswer": "had been caching",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-185",
+    "question": "It ___ (invalidate) for two hours before he came.",
+    "options": [
+      "had been invalidating",
+      "was invalidating",
+      "had invalidated",
+      "have been invalidating"
+    ],
+    "correctAnswer": "had been invalidating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-186",
+    "question": "You ___ (index) since morning before the exam.",
+    "options": [
+      "had been indexxing",
+      "have been indexxing",
+      "had indexed",
+      "was indexxing"
+    ],
+    "correctAnswer": "had been indexxing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-187",
+    "question": "He ___ (query) since morning before the exam.",
+    "options": [
+      "had queried",
+      "had been querying",
+      "was querying",
+      "have been querying"
+    ],
+    "correctAnswer": "had been querying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-188",
+    "question": "I ___ (filter) for two hours before he came.",
+    "options": [
+      "was filterring",
+      "had been filterring",
+      "have been filterring",
+      "had filtered"
+    ],
+    "correctAnswer": "had been filterring",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-189",
+    "question": "They ___ (map) for two hours before he came.",
+    "options": [
+      "had been mapping",
+      "have been mapping",
+      "was mapping",
+      "had mapped"
+    ],
+    "correctAnswer": "had been mapping",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-190",
+    "question": "We ___ (reduce) since morning before the exam.",
+    "options": [
+      "have been reducing",
+      "was reducing",
+      "had reduced",
+      "had been reducing"
+    ],
+    "correctAnswer": "had been reducing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-191",
+    "question": "She ___ (scan) for two hours before he came.",
+    "options": [
+      "was scanning",
+      "have been scanning",
+      "had scanned",
+      "had been scanning"
+    ],
+    "correctAnswer": "had been scanning",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-192",
+    "question": "It ___ (connect) for two hours before he came.",
+    "options": [
+      "was connecting",
+      "have been connecting",
+      "had been connecting",
+      "had connected"
+    ],
+    "correctAnswer": "had been connecting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-193",
+    "question": "You ___ (disconnect) for two hours before he came.",
+    "options": [
+      "had disconnected",
+      "have been disconnecting",
+      "was disconnecting",
+      "had been disconnecting"
+    ],
+    "correctAnswer": "had been disconnecting",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-194",
+    "question": "He ___ (subscribe) since morning before the exam.",
+    "options": [
+      "have been subscribing",
+      "was subscribing",
+      "had been subscribing",
+      "had subscribed"
+    ],
+    "correctAnswer": "had been subscribing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-195",
+    "question": "I ___ (publish) for two hours before he came.",
+    "options": [
+      "have been publishing",
+      "had published",
+      "had been publishing",
+      "was publishing"
+    ],
+    "correctAnswer": "had been publishing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-196",
+    "question": "They ___ (queue) since morning before the exam.",
+    "options": [
+      "was queuing",
+      "had queued",
+      "had been queuing",
+      "have been queuing"
+    ],
+    "correctAnswer": "had been queuing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-197",
+    "question": "We ___ (retry) since morning before the exam.",
+    "options": [
+      "had been retrying",
+      "was retrying",
+      "have been retrying",
+      "had retried"
+    ],
+    "correctAnswer": "had been retrying",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-198",
+    "question": "She ___ (throttle) since morning before the exam.",
+    "options": [
+      "had been throttling",
+      "was throttling",
+      "had throttled",
+      "have been throttling"
+    ],
+    "correctAnswer": "had been throttling",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-199",
+    "question": "It ___ (debounce) since morning before the exam.",
+    "options": [
+      "had debounced",
+      "was debouncing",
+      "have been debouncing",
+      "had been debouncing"
+    ],
+    "correctAnswer": "had been debouncing",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "past-perfect-continuous-200",
+    "question": "You ___ (paginate) since morning before the exam.",
+    "options": [
+      "had paginated",
+      "had been paginating",
+      "have been paginating",
+      "was paginating"
+    ],
+    "correctAnswer": "had been paginating",
+    "explanation": "Past Perfect Continuous: had been + V-ing.",
+    "tenseType": "past-perfect-continuous",
+    "difficulty": "hard"
+  }
+]

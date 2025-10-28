@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "present-perfect-continuous-001",
+    "question": "She ___ (approve) since 2020.",
+    "options": [
+      "has been approve",
+      "has been approving",
+      "is approving",
+      "has approved"
+    ],
+    "correctAnswer": "has been approving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-002",
+    "question": "It ___ (attend) for two hours.",
+    "options": [
+      "has attended",
+      "is attending",
+      "has been attending",
+      "has been attend"
+    ],
+    "correctAnswer": "has been attending",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-003",
+    "question": "I ___ (boil) since morning.",
+    "options": [
+      "is boiling",
+      "have boiled",
+      "have been boiling",
+      "have been boil"
+    ],
+    "correctAnswer": "have been boiling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-004",
+    "question": "You ___ (buy) for a long time.",
+    "options": [
+      "have been buy",
+      "have been buyying",
+      "have bought",
+      "is buyying"
+    ],
+    "correctAnswer": "have been buyying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-005",
+    "question": "He ___ (call) for a long time.",
+    "options": [
+      "has called",
+      "is calling",
+      "has been calling",
+      "has been call"
+    ],
+    "correctAnswer": "has been calling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-006",
+    "question": "They ___ (check) for two hours.",
+    "options": [
+      "is checking",
+      "have been check",
+      "have been checking",
+      "have checked"
+    ],
+    "correctAnswer": "have been checking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-007",
+    "question": "We ___ (close) since morning.",
+    "options": [
+      "have been closing",
+      "is closing",
+      "have been close",
+      "have closed"
+    ],
+    "correctAnswer": "have been closing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-008",
+    "question": "She ___ (coordinate) since morning.",
+    "options": [
+      "has been coordinate",
+      "has coordinated",
+      "has been coordinating",
+      "is coordinating"
+    ],
+    "correctAnswer": "has been coordinating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-009",
+    "question": "It ___ (cook) for a long time.",
+    "options": [
+      "has cooked",
+      "has been cook",
+      "is cooking",
+      "has been cooking"
+    ],
+    "correctAnswer": "has been cooking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-010",
+    "question": "I ___ (cost) for two hours.",
+    "options": [
+      "have been cost",
+      "have cost",
+      "have been costing",
+      "is costing"
+    ],
+    "correctAnswer": "have been costing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-011",
+    "question": "You ___ (depart) for two hours.",
+    "options": [
+      "is departing",
+      "have been depart",
+      "have been departing",
+      "have departed"
+    ],
+    "correctAnswer": "have been departing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-012",
+    "question": "He ___ (deliver) for two hours.",
+    "options": [
+      "has been deliver",
+      "has delivered",
+      "is deliverring",
+      "has been deliverring"
+    ],
+    "correctAnswer": "has been deliverring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-013",
+    "question": "They ___ (disassemble) for a long time.",
+    "options": [
+      "have been disassembling",
+      "is disassembling",
+      "have been disassemble",
+      "have disassembled"
+    ],
+    "correctAnswer": "have been disassembling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-014",
+    "question": "We ___ (do) since 2020.",
+    "options": [
+      "have been doing",
+      "have done",
+      "have been do",
+      "is doing"
+    ],
+    "correctAnswer": "have been doing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-015",
+    "question": "She ___ (drink) for two hours.",
+    "options": [
+      "has been drink",
+      "has been drinking",
+      "is drinking",
+      "has drunk"
+    ],
+    "correctAnswer": "has been drinking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-016",
+    "question": "It ___ (eat) since 2020.",
+    "options": [
+      "has been eating",
+      "has eaten",
+      "is eating",
+      "has been eat"
+    ],
+    "correctAnswer": "has been eating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-017",
+    "question": "I ___ (expire) for two hours.",
+    "options": [
+      "have been expire",
+      "have expired",
+      "is expiring",
+      "have been expiring"
+    ],
+    "correctAnswer": "have been expiring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-018",
+    "question": "You ___ (finish) for two hours.",
+    "options": [
+      "have been finish",
+      "have been finishing",
+      "have finished",
+      "is finishing"
+    ],
+    "correctAnswer": "have been finishing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-019",
+    "question": "He ___ (finalize) since morning.",
+    "options": [
+      "has finalized",
+      "is finalizing",
+      "has been finalize",
+      "has been finalizing"
+    ],
+    "correctAnswer": "has been finalizing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-020",
+    "question": "They ___ (give) since 2020.",
+    "options": [
+      "have been give",
+      "have given",
+      "is giving",
+      "have been giving"
+    ],
+    "correctAnswer": "have been giving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-021",
+    "question": "We ___ (go) since 2020.",
+    "options": [
+      "is going",
+      "have gone",
+      "have been go",
+      "have been going"
+    ],
+    "correctAnswer": "have been going",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-022",
+    "question": "She ___ (help) since morning.",
+    "options": [
+      "has been helping",
+      "has been help",
+      "has helped",
+      "is helping"
+    ],
+    "correctAnswer": "has been helping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-023",
+    "question": "It ___ (join) for a long time.",
+    "options": [
+      "has been join",
+      "is joining",
+      "has been joining",
+      "has joined"
+    ],
+    "correctAnswer": "has been joining",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-024",
+    "question": "I ___ (leave) for two hours.",
+    "options": [
+      "have been leaving",
+      "have been leave",
+      "have left",
+      "is leaving"
+    ],
+    "correctAnswer": "have been leaving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-025",
+    "question": "You ___ (live) for a long time.",
+    "options": [
+      "have been live",
+      "have been living",
+      "have lived",
+      "is living"
+    ],
+    "correctAnswer": "have been living",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-026",
+    "question": "He ___ (manage) for two hours.",
+    "options": [
+      "has been managing",
+      "has managed",
+      "has been manage",
+      "is managing"
+    ],
+    "correctAnswer": "has been managing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-027",
+    "question": "They ___ (matter) since 2020.",
+    "options": [
+      "is matterring",
+      "have been matter",
+      "have been matterring",
+      "have mattered"
+    ],
+    "correctAnswer": "have been matterring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-028",
+    "question": "We ___ (meet) for two hours.",
+    "options": [
+      "have been meeting",
+      "have been meet",
+      "is meeting",
+      "have met"
+    ],
+    "correctAnswer": "have been meeting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-029",
+    "question": "She ___ (offer) for two hours.",
+    "options": [
+      "has been offer",
+      "is offerring",
+      "has been offerring",
+      "has offered"
+    ],
+    "correctAnswer": "has been offerring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-030",
+    "question": "It ___ (open) since 2020.",
+    "options": [
+      "has opened",
+      "is openning",
+      "has been openning",
+      "has been open"
+    ],
+    "correctAnswer": "has been openning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-031",
+    "question": "I ___ (order) for a long time.",
+    "options": [
+      "have been order",
+      "have been orderring",
+      "have ordered",
+      "is orderring"
+    ],
+    "correctAnswer": "have been orderring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-032",
+    "question": "You ___ (ship) since morning.",
+    "options": [
+      "have been ship",
+      "have been shipping",
+      "is shipping",
+      "have shipped"
+    ],
+    "correctAnswer": "have been shipping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-033",
+    "question": "He ___ (organize) since 2020.",
+    "options": [
+      "has been organize",
+      "has been organizing",
+      "is organizing",
+      "has organized"
+    ],
+    "correctAnswer": "has been organizing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-034",
+    "question": "They ___ (play) for two hours.",
+    "options": [
+      "is playying",
+      "have been playying",
+      "have been play",
+      "have played"
+    ],
+    "correctAnswer": "have been playying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-035",
+    "question": "We ___ (rain) since 2020.",
+    "options": [
+      "is raining",
+      "have been rain",
+      "have rained",
+      "have been raining"
+    ],
+    "correctAnswer": "have been raining",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-036",
+    "question": "She ___ (read) for a long time.",
+    "options": [
+      "has been reading",
+      "is reading",
+      "has been read",
+      "has read"
+    ],
+    "correctAnswer": "has been reading",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-037",
+    "question": "It ___ (remember) for a long time.",
+    "options": [
+      "is rememberring",
+      "has remembered",
+      "has been rememberring",
+      "has been remember"
+    ],
+    "correctAnswer": "has been rememberring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-038",
+    "question": "I ___ (rise) for two hours.",
+    "options": [
+      "have risen",
+      "is rising",
+      "have been rise",
+      "have been rising"
+    ],
+    "correctAnswer": "have been rising",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-039",
+    "question": "You ___ (run) since morning.",
+    "options": [
+      "have been run",
+      "is running",
+      "have run",
+      "have been running"
+    ],
+    "correctAnswer": "have been running",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-040",
+    "question": "He ___ (serve) since morning.",
+    "options": [
+      "has been serving",
+      "is serving",
+      "has served",
+      "has been serve"
+    ],
+    "correctAnswer": "has been serving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-041",
+    "question": "They ___ (speak) since morning.",
+    "options": [
+      "is speaking",
+      "have been speaking",
+      "have spoken",
+      "have been speak"
+    ],
+    "correctAnswer": "have been speaking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-042",
+    "question": "We ___ (spoil) for a long time.",
+    "options": [
+      "have been spoiling",
+      "have spoiled",
+      "have been spoil",
+      "is spoiling"
+    ],
+    "correctAnswer": "have been spoiling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-043",
+    "question": "She ___ (start) since morning.",
+    "options": [
+      "has been start",
+      "has been starting",
+      "has started",
+      "is starting"
+    ],
+    "correctAnswer": "has been starting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-044",
+    "question": "It ___ (stay) for a long time.",
+    "options": [
+      "has been stay",
+      "is stayying",
+      "has been stayying",
+      "has stayed"
+    ],
+    "correctAnswer": "has been stayying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-045",
+    "question": "I ___ (study) for two hours.",
+    "options": [
+      "have been study",
+      "is studying",
+      "have been studying",
+      "have studied"
+    ],
+    "correctAnswer": "have been studying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-046",
+    "question": "You ___ (take) for two hours.",
+    "options": [
+      "have been taking",
+      "is taking",
+      "have been take",
+      "have taken"
+    ],
+    "correctAnswer": "have been taking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-047",
+    "question": "He ___ (teach) since 2020.",
+    "options": [
+      "has taught",
+      "is teaching",
+      "has been teaching",
+      "has been teach"
+    ],
+    "correctAnswer": "has been teaching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-048",
+    "question": "They ___ (travel) since 2020.",
+    "options": [
+      "have been travel",
+      "is travelling",
+      "have traveled",
+      "have been travelling"
+    ],
+    "correctAnswer": "have been travelling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-049",
+    "question": "We ___ (use) for a long time.",
+    "options": [
+      "is using",
+      "have been using",
+      "have used",
+      "have been use"
+    ],
+    "correctAnswer": "have been using",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-050",
+    "question": "She ___ (visit) for a long time.",
+    "options": [
+      "has visited",
+      "has been visit",
+      "is visitting",
+      "has been visitting"
+    ],
+    "correctAnswer": "has been visitting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-051",
+    "question": "It ___ (watch) for two hours.",
+    "options": [
+      "has been watching",
+      "is watching",
+      "has been watch",
+      "has watched"
+    ],
+    "correctAnswer": "has been watching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-052",
+    "question": "I ___ (weigh) since morning.",
+    "options": [
+      "have been weigh",
+      "have weighed",
+      "have been weighing",
+      "is weighing"
+    ],
+    "correctAnswer": "have been weighing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-053",
+    "question": "You ___ (work) since morning.",
+    "options": [
+      "is working",
+      "have been working",
+      "have worked",
+      "have been work"
+    ],
+    "correctAnswer": "have been working",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-054",
+    "question": "He ___ (brush) since morning.",
+    "options": [
+      "has been brush",
+      "has been brushing",
+      "has brushed",
+      "is brushing"
+    ],
+    "correctAnswer": "has been brushing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-055",
+    "question": "They ___ (exercise) for a long time.",
+    "options": [
+      "have exercised",
+      "is exercising",
+      "have been exercise",
+      "have been exercising"
+    ],
+    "correctAnswer": "have been exercising",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-056",
+    "question": "We ___ (listen) for a long time.",
+    "options": [
+      "have been listen",
+      "have been listenning",
+      "have listened",
+      "is listenning"
+    ],
+    "correctAnswer": "have been listenning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-057",
+    "question": "She ___ (sleep) since 2020.",
+    "options": [
+      "is sleeping",
+      "has slept",
+      "has been sleep",
+      "has been sleeping"
+    ],
+    "correctAnswer": "has been sleeping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-058",
+    "question": "It ___ (research) for a long time.",
+    "options": [
+      "has been researching",
+      "has been research",
+      "is researching",
+      "has researched"
+    ],
+    "correctAnswer": "has been researching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-059",
+    "question": "I ___ (recycle) for two hours.",
+    "options": [
+      "is recycling",
+      "have been recycle",
+      "have been recycling",
+      "have recycled"
+    ],
+    "correctAnswer": "have been recycling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-060",
+    "question": "You ___ (diagnose) since morning.",
+    "options": [
+      "have been diagnose",
+      "is diagnosing",
+      "have been diagnosing",
+      "have diagnosed"
+    ],
+    "correctAnswer": "have been diagnosing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-061",
+    "question": "He ___ (negotiate) since 2020.",
+    "options": [
+      "is negotiating",
+      "has negotiated",
+      "has been negotiating",
+      "has been negotiate"
+    ],
+    "correctAnswer": "has been negotiating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-062",
+    "question": "They ___ (invest) since morning.",
+    "options": [
+      "is investing",
+      "have been investing",
+      "have invested",
+      "have been invest"
+    ],
+    "correctAnswer": "have been investing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-063",
+    "question": "We ___ (compose) since morning.",
+    "options": [
+      "have composed",
+      "have been compose",
+      "is composing",
+      "have been composing"
+    ],
+    "correctAnswer": "have been composing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-064",
+    "question": "She ___ (rescue) for a long time.",
+    "options": [
+      "has rescued",
+      "has been rescuing",
+      "is rescuing",
+      "has been rescue"
+    ],
+    "correctAnswer": "has been rescuing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-065",
+    "question": "It ___ (broadcast) for two hours.",
+    "options": [
+      "has broadcast",
+      "is broadcasting",
+      "has been broadcast",
+      "has been broadcasting"
+    ],
+    "correctAnswer": "has been broadcasting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-066",
+    "question": "I ___ (discover) for two hours.",
+    "options": [
+      "is discoverring",
+      "have been discover",
+      "have discovered",
+      "have been discoverring"
+    ],
+    "correctAnswer": "have been discoverring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-067",
+    "question": "You ___ (conserve) since 2020.",
+    "options": [
+      "have conserved",
+      "is conserving",
+      "have been conserving",
+      "have been conserve"
+    ],
+    "correctAnswer": "have been conserving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-068",
+    "question": "He ___ (schedule) for two hours.",
+    "options": [
+      "has been schedule",
+      "has scheduled",
+      "has been scheduling",
+      "is scheduling"
+    ],
+    "correctAnswer": "has been scheduling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-069",
+    "question": "They ___ (enroll) for two hours.",
+    "options": [
+      "is enrolling",
+      "have been enroll",
+      "have been enrolling",
+      "have enrolled"
+    ],
+    "correctAnswer": "have been enrolling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-070",
+    "question": "We ___ (manufacture) for a long time.",
+    "options": [
+      "have been manufacture",
+      "is manufacturing",
+      "have manufactured",
+      "have been manufacturing"
+    ],
+    "correctAnswer": "have been manufacturing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-071",
+    "question": "She ___ (donate) for two hours.",
+    "options": [
+      "is donating",
+      "has donated",
+      "has been donate",
+      "has been donating"
+    ],
+    "correctAnswer": "has been donating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-072",
+    "question": "It ___ (forecast) for two hours.",
+    "options": [
+      "has been forecast",
+      "has been forecasting",
+      "has forecast",
+      "is forecasting"
+    ],
+    "correctAnswer": "has been forecasting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-073",
+    "question": "I ___ (say) for a long time.",
+    "options": [
+      "is sayying",
+      "have been say",
+      "have been sayying",
+      "have said"
+    ],
+    "correctAnswer": "have been sayying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-074",
+    "question": "You ___ (get) since 2020.",
+    "options": [
+      "have been get",
+      "have been getting",
+      "have gotten",
+      "is getting"
+    ],
+    "correctAnswer": "have been getting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-075",
+    "question": "He ___ (make) since morning.",
+    "options": [
+      "is making",
+      "has made",
+      "has been making",
+      "has been make"
+    ],
+    "correctAnswer": "has been making",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-076",
+    "question": "They ___ (see) since morning.",
+    "options": [
+      "have seen",
+      "is seeing",
+      "have been see",
+      "have been seeing"
+    ],
+    "correctAnswer": "have been seeing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-077",
+    "question": "We ___ (come) since 2020.",
+    "options": [
+      "have been coming",
+      "have come",
+      "have been come",
+      "is coming"
+    ],
+    "correctAnswer": "have been coming",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-078",
+    "question": "She ___ (think) for two hours.",
+    "options": [
+      "has thought",
+      "has been thinking",
+      "has been think",
+      "is thinking"
+    ],
+    "correctAnswer": "has been thinking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-079",
+    "question": "It ___ (look) for two hours.",
+    "options": [
+      "has been look",
+      "has looked",
+      "is looking",
+      "has been looking"
+    ],
+    "correctAnswer": "has been looking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-080",
+    "question": "I ___ (find) since 2020.",
+    "options": [
+      "have been find",
+      "have found",
+      "is finding",
+      "have been finding"
+    ],
+    "correctAnswer": "have been finding",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-081",
+    "question": "You ___ (tell) since 2020.",
+    "options": [
+      "have been tell",
+      "is telling",
+      "have told",
+      "have been telling"
+    ],
+    "correctAnswer": "have been telling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-082",
+    "question": "He ___ (ask) for a long time.",
+    "options": [
+      "has been ask",
+      "has asked",
+      "is asking",
+      "has been asking"
+    ],
+    "correctAnswer": "has been asking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-083",
+    "question": "They ___ (put) since morning.",
+    "options": [
+      "is putting",
+      "have been put",
+      "have been putting",
+      "have put"
+    ],
+    "correctAnswer": "have been putting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-084",
+    "question": "We ___ (keep) for a long time.",
+    "options": [
+      "have been keeping",
+      "have kept",
+      "have been keep",
+      "is keeping"
+    ],
+    "correctAnswer": "have been keeping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-085",
+    "question": "She ___ (begin) since morning.",
+    "options": [
+      "is beginning",
+      "has begun",
+      "has been begin",
+      "has been beginning"
+    ],
+    "correctAnswer": "has been beginning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-086",
+    "question": "It ___ (turn) since morning.",
+    "options": [
+      "has turned",
+      "is turning",
+      "has been turn",
+      "has been turning"
+    ],
+    "correctAnswer": "has been turning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-087",
+    "question": "I ___ (show) since 2020.",
+    "options": [
+      "have been showwing",
+      "have shown",
+      "is showwing",
+      "have been show"
+    ],
+    "correctAnswer": "have been showwing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-088",
+    "question": "You ___ (hear) for a long time.",
+    "options": [
+      "have been hear",
+      "have been hearing",
+      "is hearing",
+      "have heard"
+    ],
+    "correctAnswer": "have been hearing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-089",
+    "question": "He ___ (move) for a long time.",
+    "options": [
+      "has moved",
+      "has been moving",
+      "has been move",
+      "is moving"
+    ],
+    "correctAnswer": "has been moving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-090",
+    "question": "They ___ (bring) for two hours.",
+    "options": [
+      "is bringing",
+      "have been bringing",
+      "have been bring",
+      "have brought"
+    ],
+    "correctAnswer": "have been bringing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-091",
+    "question": "We ___ (write) since morning.",
+    "options": [
+      "have been write",
+      "have written",
+      "is writing",
+      "have been writing"
+    ],
+    "correctAnswer": "have been writing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-092",
+    "question": "She ___ (sit) for two hours.",
+    "options": [
+      "has sat",
+      "has been sitting",
+      "has been sit",
+      "is sitting"
+    ],
+    "correctAnswer": "has been sitting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-093",
+    "question": "It ___ (stand) since 2020.",
+    "options": [
+      "has stood",
+      "has been standing",
+      "has been stand",
+      "is standing"
+    ],
+    "correctAnswer": "has been standing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-094",
+    "question": "I ___ (lose) for two hours.",
+    "options": [
+      "is losing",
+      "have been losing",
+      "have lost",
+      "have been lose"
+    ],
+    "correctAnswer": "have been losing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-095",
+    "question": "You ___ (pay) since 2020.",
+    "options": [
+      "is payying",
+      "have been pay",
+      "have been payying",
+      "have paid"
+    ],
+    "correctAnswer": "have been payying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-096",
+    "question": "He ___ (pass) for two hours.",
+    "options": [
+      "has passed",
+      "has been passing",
+      "has been pass",
+      "is passing"
+    ],
+    "correctAnswer": "has been passing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-097",
+    "question": "They ___ (post) since 2020.",
+    "options": [
+      "have been posting",
+      "have been post",
+      "is posting",
+      "have posted"
+    ],
+    "correctAnswer": "have been posting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-098",
+    "question": "We ___ (include) since morning.",
+    "options": [
+      "is including",
+      "have been include",
+      "have been including",
+      "have included"
+    ],
+    "correctAnswer": "have been including",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-099",
+    "question": "She ___ (continue) for two hours.",
+    "options": [
+      "is continuing",
+      "has continued",
+      "has been continue",
+      "has been continuing"
+    ],
+    "correctAnswer": "has been continuing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-100",
+    "question": "It ___ (set) since 2020.",
+    "options": [
+      "is setting",
+      "has been set",
+      "has been setting",
+      "has set"
+    ],
+    "correctAnswer": "has been setting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-101",
+    "question": "I ___ (learn) since 2020.",
+    "options": [
+      "have been learning",
+      "have been learn",
+      "have learned",
+      "is learning"
+    ],
+    "correctAnswer": "have been learning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-102",
+    "question": "You ___ (change) since morning.",
+    "options": [
+      "have been change",
+      "have been changing",
+      "is changing",
+      "have changed"
+    ],
+    "correctAnswer": "have been changing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-103",
+    "question": "He ___ (lead) for two hours.",
+    "options": [
+      "has led",
+      "has been leading",
+      "is leading",
+      "has been lead"
+    ],
+    "correctAnswer": "has been leading",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-104",
+    "question": "They ___ (follow) for two hours.",
+    "options": [
+      "have been followwing",
+      "have followed",
+      "have been follow",
+      "is followwing"
+    ],
+    "correctAnswer": "have been followwing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-105",
+    "question": "We ___ (stop) since 2020.",
+    "options": [
+      "is stopping",
+      "have been stopping",
+      "have been stop",
+      "have stopped"
+    ],
+    "correctAnswer": "have been stopping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-106",
+    "question": "She ___ (create) for two hours.",
+    "options": [
+      "is creating",
+      "has been create",
+      "has created",
+      "has been creating"
+    ],
+    "correctAnswer": "has been creating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-107",
+    "question": "It ___ (complete) since 2020.",
+    "options": [
+      "is completing",
+      "has been complete",
+      "has completed",
+      "has been completing"
+    ],
+    "correctAnswer": "has been completing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-108",
+    "question": "I ___ (allow) for two hours.",
+    "options": [
+      "have been allowwing",
+      "have been allow",
+      "is allowwing",
+      "have allowed"
+    ],
+    "correctAnswer": "have been allowwing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-109",
+    "question": "You ___ (add) for a long time.",
+    "options": [
+      "have been add",
+      "have added",
+      "is adding",
+      "have been adding"
+    ],
+    "correctAnswer": "have been adding",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-110",
+    "question": "He ___ (spend) since 2020.",
+    "options": [
+      "is spending",
+      "has been spend",
+      "has been spending",
+      "has spent"
+    ],
+    "correctAnswer": "has been spending",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-111",
+    "question": "They ___ (grow) for a long time.",
+    "options": [
+      "have been growwing",
+      "have grown",
+      "is growwing",
+      "have been grow"
+    ],
+    "correctAnswer": "have been growwing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-112",
+    "question": "We ___ (walk) since 2020.",
+    "options": [
+      "have walked",
+      "is walking",
+      "have been walking",
+      "have been walk"
+    ],
+    "correctAnswer": "have been walking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-113",
+    "question": "She ___ (win) since morning.",
+    "options": [
+      "has been win",
+      "is winning",
+      "has won",
+      "has been winning"
+    ],
+    "correctAnswer": "has been winning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-114",
+    "question": "It ___ (consider) for two hours.",
+    "options": [
+      "is considerring",
+      "has been considerring",
+      "has considered",
+      "has been consider"
+    ],
+    "correctAnswer": "has been considerring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-115",
+    "question": "I ___ (appear) since morning.",
+    "options": [
+      "is appearing",
+      "have been appear",
+      "have appeared",
+      "have been appearing"
+    ],
+    "correctAnswer": "have been appearing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-116",
+    "question": "You ___ (wait) since morning.",
+    "options": [
+      "have been waiting",
+      "is waiting",
+      "have waited",
+      "have been wait"
+    ],
+    "correctAnswer": "have been waiting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-117",
+    "question": "He ___ (send) since morning.",
+    "options": [
+      "has been sending",
+      "is sending",
+      "has been send",
+      "has sent"
+    ],
+    "correctAnswer": "has been sending",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-118",
+    "question": "They ___ (expect) for two hours.",
+    "options": [
+      "have been expecting",
+      "have been expect",
+      "have expected",
+      "is expecting"
+    ],
+    "correctAnswer": "have been expecting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-119",
+    "question": "We ___ (build) since 2020.",
+    "options": [
+      "have been build",
+      "is building",
+      "have been building",
+      "have built"
+    ],
+    "correctAnswer": "have been building",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-120",
+    "question": "She ___ (fall) since 2020.",
+    "options": [
+      "has been fall",
+      "has been falling",
+      "is falling",
+      "has fallen"
+    ],
+    "correctAnswer": "has been falling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-121",
+    "question": "It ___ (cut) since morning.",
+    "options": [
+      "has cut",
+      "has been cut",
+      "is cutting",
+      "has been cutting"
+    ],
+    "correctAnswer": "has been cutting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-122",
+    "question": "I ___ (reach) since 2020.",
+    "options": [
+      "have reached",
+      "is reaching",
+      "have been reaching",
+      "have been reach"
+    ],
+    "correctAnswer": "have been reaching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-123",
+    "question": "You ___ (remain) since 2020.",
+    "options": [
+      "is remaining",
+      "have been remain",
+      "have been remaining",
+      "have remained"
+    ],
+    "correctAnswer": "have been remaining",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-124",
+    "question": "He ___ (clean) for two hours.",
+    "options": [
+      "has been cleaning",
+      "has cleaned",
+      "is cleaning",
+      "has been clean"
+    ],
+    "correctAnswer": "has been cleaning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-125",
+    "question": "They ___ (wash) since 2020.",
+    "options": [
+      "have been washing",
+      "have washed",
+      "have been wash",
+      "is washing"
+    ],
+    "correctAnswer": "have been washing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-126",
+    "question": "We ___ (drive) since 2020.",
+    "options": [
+      "is driving",
+      "have driven",
+      "have been drive",
+      "have been driving"
+    ],
+    "correctAnswer": "have been driving",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-127",
+    "question": "She ___ (ride) since 2020.",
+    "options": [
+      "has been ride",
+      "has been riding",
+      "has ridden",
+      "is riding"
+    ],
+    "correctAnswer": "has been riding",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-128",
+    "question": "It ___ (shop) for a long time.",
+    "options": [
+      "has shopped",
+      "is shopping",
+      "has been shop",
+      "has been shopping"
+    ],
+    "correctAnswer": "has been shopping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-129",
+    "question": "I ___ (fix) since 2020.",
+    "options": [
+      "have fixed",
+      "is fixxing",
+      "have been fixxing",
+      "have been fix"
+    ],
+    "correctAnswer": "have been fixxing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-130",
+    "question": "You ___ (repair) for two hours.",
+    "options": [
+      "have been repair",
+      "is repairing",
+      "have repaired",
+      "have been repairing"
+    ],
+    "correctAnswer": "have been repairing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-131",
+    "question": "He ___ (charge) since morning.",
+    "options": [
+      "has charged",
+      "has been charge",
+      "has been charging",
+      "is charging"
+    ],
+    "correctAnswer": "has been charging",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-132",
+    "question": "They ___ (carry) since 2020.",
+    "options": [
+      "have carried",
+      "have been carry",
+      "is carrying",
+      "have been carrying"
+    ],
+    "correctAnswer": "have been carrying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-133",
+    "question": "We ___ (wear) for a long time.",
+    "options": [
+      "have worn",
+      "have been wear",
+      "have been wearing",
+      "is wearing"
+    ],
+    "correctAnswer": "have been wearing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-134",
+    "question": "She ___ (port) for a long time.",
+    "options": [
+      "is porting",
+      "has ported",
+      "has been porting",
+      "has been port"
+    ],
+    "correctAnswer": "has been porting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-135",
+    "question": "It ___ (compile) since 2020.",
+    "options": [
+      "has compiled",
+      "has been compile",
+      "has been compiling",
+      "is compiling"
+    ],
+    "correctAnswer": "has been compiling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-136",
+    "question": "I ___ (execute) since 2020.",
+    "options": [
+      "have been execute",
+      "have executed",
+      "is executing",
+      "have been executing"
+    ],
+    "correctAnswer": "have been executing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-137",
+    "question": "You ___ (deploy) for two hours.",
+    "options": [
+      "have been deploy",
+      "have deployed",
+      "is deployying",
+      "have been deployying"
+    ],
+    "correctAnswer": "have been deployying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-138",
+    "question": "He ___ (release) for two hours.",
+    "options": [
+      "has been releasing",
+      "has been release",
+      "is releasing",
+      "has released"
+    ],
+    "correctAnswer": "has been releasing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-139",
+    "question": "They ___ (commit) since morning.",
+    "options": [
+      "have been commit",
+      "have committed",
+      "have been committing",
+      "is committing"
+    ],
+    "correctAnswer": "have been committing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-140",
+    "question": "We ___ (push) since morning.",
+    "options": [
+      "have been pushing",
+      "have been push",
+      "is pushing",
+      "have pushed"
+    ],
+    "correctAnswer": "have been pushing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-141",
+    "question": "She ___ (pull) since 2020.",
+    "options": [
+      "has been pull",
+      "has pulled",
+      "has been pulling",
+      "is pulling"
+    ],
+    "correctAnswer": "has been pulling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-142",
+    "question": "It ___ (merge) since morning.",
+    "options": [
+      "has been merge",
+      "is merging",
+      "has merged",
+      "has been merging"
+    ],
+    "correctAnswer": "has been merging",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-143",
+    "question": "I ___ (branch) since 2020.",
+    "options": [
+      "have branched",
+      "have been branch",
+      "is branching",
+      "have been branching"
+    ],
+    "correctAnswer": "have been branching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-144",
+    "question": "You ___ (rebase) since 2020.",
+    "options": [
+      "have been rebase",
+      "is rebasing",
+      "have been rebasing",
+      "have rebased"
+    ],
+    "correctAnswer": "have been rebasing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-145",
+    "question": "He ___ (stash) for a long time.",
+    "options": [
+      "has been stash",
+      "has been stashing",
+      "is stashing",
+      "has stashed"
+    ],
+    "correctAnswer": "has been stashing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-146",
+    "question": "They ___ (clone) for a long time.",
+    "options": [
+      "have been cloning",
+      "is cloning",
+      "have cloned",
+      "have been clone"
+    ],
+    "correctAnswer": "have been cloning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-147",
+    "question": "We ___ (fork) for a long time.",
+    "options": [
+      "have forked",
+      "is forking",
+      "have been forking",
+      "have been fork"
+    ],
+    "correctAnswer": "have been forking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-148",
+    "question": "She ___ (debug) for a long time.",
+    "options": [
+      "has debugged",
+      "has been debugging",
+      "is debugging",
+      "has been debug"
+    ],
+    "correctAnswer": "has been debugging",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-149",
+    "question": "It ___ (log) since morning.",
+    "options": [
+      "is logging",
+      "has logged",
+      "has been log",
+      "has been logging"
+    ],
+    "correctAnswer": "has been logging",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-150",
+    "question": "I ___ (trace) since 2020.",
+    "options": [
+      "have been tracing",
+      "have been trace",
+      "is tracing",
+      "have traced"
+    ],
+    "correctAnswer": "have been tracing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-151",
+    "question": "You ___ (profile) since morning.",
+    "options": [
+      "have been profiling",
+      "have profiled",
+      "have been profile",
+      "is profiling"
+    ],
+    "correctAnswer": "have been profiling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-152",
+    "question": "He ___ (optimize) for a long time.",
+    "options": [
+      "has been optimizing",
+      "is optimizing",
+      "has been optimize",
+      "has optimized"
+    ],
+    "correctAnswer": "has been optimizing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-153",
+    "question": "They ___ (refactor) since 2020.",
+    "options": [
+      "have been refactor",
+      "is refactorring",
+      "have been refactorring",
+      "have refactored"
+    ],
+    "correctAnswer": "have been refactorring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-154",
+    "question": "We ___ (test) since morning.",
+    "options": [
+      "have been testing",
+      "have tested",
+      "have been test",
+      "is testing"
+    ],
+    "correctAnswer": "have been testing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-155",
+    "question": "She ___ (mock) for a long time.",
+    "options": [
+      "is mocking",
+      "has been mocking",
+      "has been mock",
+      "has mocked"
+    ],
+    "correctAnswer": "has been mocking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-156",
+    "question": "It ___ (stub) since morning.",
+    "options": [
+      "is stubbing",
+      "has stubbed",
+      "has been stubbing",
+      "has been stub"
+    ],
+    "correctAnswer": "has been stubbing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-157",
+    "question": "I ___ (lint) since morning.",
+    "options": [
+      "is linting",
+      "have been linting",
+      "have linted",
+      "have been lint"
+    ],
+    "correctAnswer": "have been linting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-158",
+    "question": "You ___ (format) for two hours.",
+    "options": [
+      "have been formatting",
+      "have been format",
+      "is formatting",
+      "have formatted"
+    ],
+    "correctAnswer": "have been formatting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-159",
+    "question": "He ___ (package) for two hours.",
+    "options": [
+      "is packaging",
+      "has been package",
+      "has been packaging",
+      "has packaged"
+    ],
+    "correctAnswer": "has been packaging",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-160",
+    "question": "They ___ (bundle) since morning.",
+    "options": [
+      "have bundled",
+      "is bundling",
+      "have been bundling",
+      "have been bundle"
+    ],
+    "correctAnswer": "have been bundling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-161",
+    "question": "We ___ (install) for two hours.",
+    "options": [
+      "have installed",
+      "is installing",
+      "have been install",
+      "have been installing"
+    ],
+    "correctAnswer": "have been installing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-162",
+    "question": "She ___ (update) for two hours.",
+    "options": [
+      "is updating",
+      "has updated",
+      "has been update",
+      "has been updating"
+    ],
+    "correctAnswer": "has been updating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-163",
+    "question": "It ___ (upgrade) since morning.",
+    "options": [
+      "has upgraded",
+      "has been upgrade",
+      "is upgrading",
+      "has been upgrading"
+    ],
+    "correctAnswer": "has been upgrading",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-164",
+    "question": "I ___ (rollback) for a long time.",
+    "options": [
+      "have been rollbacking",
+      "have rollbacked",
+      "is rollbacking",
+      "have been rollback"
+    ],
+    "correctAnswer": "have been rollbacking",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-165",
+    "question": "You ___ (migrate) for a long time.",
+    "options": [
+      "have been migrating",
+      "have been migrate",
+      "is migrating",
+      "have migrated"
+    ],
+    "correctAnswer": "have been migrating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-166",
+    "question": "He ___ (seed) since 2020.",
+    "options": [
+      "has seeded",
+      "has been seed",
+      "has been seeding",
+      "is seeding"
+    ],
+    "correctAnswer": "has been seeding",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-167",
+    "question": "They ___ (provision) since 2020.",
+    "options": [
+      "is provisioning",
+      "have been provisioning",
+      "have been provision",
+      "have provisioned"
+    ],
+    "correctAnswer": "have been provisioning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-168",
+    "question": "We ___ (configure) for two hours.",
+    "options": [
+      "have configured",
+      "is configuring",
+      "have been configure",
+      "have been configuring"
+    ],
+    "correctAnswer": "have been configuring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-169",
+    "question": "She ___ (authenticate) since morning.",
+    "options": [
+      "has been authenticate",
+      "has been authenticating",
+      "has authenticated",
+      "is authenticating"
+    ],
+    "correctAnswer": "has been authenticating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-170",
+    "question": "It ___ (authorize) since 2020.",
+    "options": [
+      "is authorizing",
+      "has been authorize",
+      "has authorized",
+      "has been authorizing"
+    ],
+    "correctAnswer": "has been authorizing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-171",
+    "question": "I ___ (encrypt) since morning.",
+    "options": [
+      "have been encrypt",
+      "is encrypting",
+      "have encrypted",
+      "have been encrypting"
+    ],
+    "correctAnswer": "have been encrypting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-172",
+    "question": "You ___ (decrypt) since 2020.",
+    "options": [
+      "have been decrypt",
+      "is decrypting",
+      "have decrypted",
+      "have been decrypting"
+    ],
+    "correctAnswer": "have been decrypting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-173",
+    "question": "He ___ (hash) since morning.",
+    "options": [
+      "has been hash",
+      "has hashed",
+      "has been hashing",
+      "is hashing"
+    ],
+    "correctAnswer": "has been hashing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-174",
+    "question": "They ___ (sign) for two hours.",
+    "options": [
+      "have been sign",
+      "is signing",
+      "have been signing",
+      "have signed"
+    ],
+    "correctAnswer": "have been signing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-175",
+    "question": "We ___ (verify) since morning.",
+    "options": [
+      "have been verify",
+      "have been verifying",
+      "is verifying",
+      "have verified"
+    ],
+    "correctAnswer": "have been verifying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-176",
+    "question": "She ___ (fetch) since morning.",
+    "options": [
+      "has been fetching",
+      "has been fetch",
+      "is fetching",
+      "has fetched"
+    ],
+    "correctAnswer": "has been fetching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-177",
+    "question": "It ___ (request) for two hours.",
+    "options": [
+      "has been request",
+      "is requesting",
+      "has been requesting",
+      "has requested"
+    ],
+    "correctAnswer": "has been requesting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-178",
+    "question": "I ___ (respond) for two hours.",
+    "options": [
+      "have responded",
+      "have been respond",
+      "have been responding",
+      "is responding"
+    ],
+    "correctAnswer": "have been responding",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-179",
+    "question": "You ___ (render) since morning.",
+    "options": [
+      "is renderring",
+      "have rendered",
+      "have been render",
+      "have been renderring"
+    ],
+    "correctAnswer": "have been renderring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-180",
+    "question": "He ___ (parse) since 2020.",
+    "options": [
+      "has been parse",
+      "has parsed",
+      "has been parsing",
+      "is parsing"
+    ],
+    "correctAnswer": "has been parsing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-181",
+    "question": "They ___ (stringify) since morning.",
+    "options": [
+      "have been stringifying",
+      "have been stringify",
+      "is stringifying",
+      "have stringified"
+    ],
+    "correctAnswer": "have been stringifying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-182",
+    "question": "We ___ (serialize) for a long time.",
+    "options": [
+      "is serializing",
+      "have been serializing",
+      "have serialized",
+      "have been serialize"
+    ],
+    "correctAnswer": "have been serializing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-183",
+    "question": "She ___ (deserialize) since 2020.",
+    "options": [
+      "has been deserializing",
+      "has deserialized",
+      "has been deserialize",
+      "is deserializing"
+    ],
+    "correctAnswer": "has been deserializing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-184",
+    "question": "It ___ (cache) for a long time.",
+    "options": [
+      "is caching",
+      "has been caching",
+      "has been cache",
+      "has cached"
+    ],
+    "correctAnswer": "has been caching",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-185",
+    "question": "I ___ (invalidate) for a long time.",
+    "options": [
+      "have been invalidating",
+      "is invalidating",
+      "have been invalidate",
+      "have invalidated"
+    ],
+    "correctAnswer": "have been invalidating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-186",
+    "question": "You ___ (index) since 2020.",
+    "options": [
+      "have indexed",
+      "have been index",
+      "have been indexxing",
+      "is indexxing"
+    ],
+    "correctAnswer": "have been indexxing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-187",
+    "question": "He ___ (query) since 2020.",
+    "options": [
+      "has been querying",
+      "has queried",
+      "has been query",
+      "is querying"
+    ],
+    "correctAnswer": "has been querying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-188",
+    "question": "They ___ (filter) since 2020.",
+    "options": [
+      "have filtered",
+      "is filterring",
+      "have been filterring",
+      "have been filter"
+    ],
+    "correctAnswer": "have been filterring",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-189",
+    "question": "We ___ (map) since morning.",
+    "options": [
+      "have been mapping",
+      "is mapping",
+      "have been map",
+      "have mapped"
+    ],
+    "correctAnswer": "have been mapping",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-190",
+    "question": "She ___ (reduce) since morning.",
+    "options": [
+      "has been reducing",
+      "has been reduce",
+      "has reduced",
+      "is reducing"
+    ],
+    "correctAnswer": "has been reducing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-191",
+    "question": "It ___ (scan) since 2020.",
+    "options": [
+      "has scanned",
+      "is scanning",
+      "has been scanning",
+      "has been scan"
+    ],
+    "correctAnswer": "has been scanning",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-192",
+    "question": "I ___ (connect) for a long time.",
+    "options": [
+      "have been connect",
+      "have been connecting",
+      "have connected",
+      "is connecting"
+    ],
+    "correctAnswer": "have been connecting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-193",
+    "question": "You ___ (disconnect) since morning.",
+    "options": [
+      "have disconnected",
+      "have been disconnect",
+      "is disconnecting",
+      "have been disconnecting"
+    ],
+    "correctAnswer": "have been disconnecting",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-194",
+    "question": "He ___ (subscribe) since morning.",
+    "options": [
+      "has been subscribing",
+      "has subscribed",
+      "is subscribing",
+      "has been subscribe"
+    ],
+    "correctAnswer": "has been subscribing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-195",
+    "question": "They ___ (publish) for a long time.",
+    "options": [
+      "have been publishing",
+      "have been publish",
+      "have published",
+      "is publishing"
+    ],
+    "correctAnswer": "have been publishing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-196",
+    "question": "We ___ (queue) for two hours.",
+    "options": [
+      "is queuing",
+      "have queued",
+      "have been queuing",
+      "have been queue"
+    ],
+    "correctAnswer": "have been queuing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-197",
+    "question": "She ___ (retry) for two hours.",
+    "options": [
+      "has been retry",
+      "has been retrying",
+      "is retrying",
+      "has retried"
+    ],
+    "correctAnswer": "has been retrying",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-198",
+    "question": "It ___ (throttle) for two hours.",
+    "options": [
+      "has been throttling",
+      "has been throttle",
+      "has throttled",
+      "is throttling"
+    ],
+    "correctAnswer": "has been throttling",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-199",
+    "question": "I ___ (debounce) since 2020.",
+    "options": [
+      "have debounced",
+      "have been debounce",
+      "is debouncing",
+      "have been debouncing"
+    ],
+    "correctAnswer": "have been debouncing",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "present-perfect-continuous-200",
+    "question": "You ___ (paginate) since morning.",
+    "options": [
+      "have been paginating",
+      "have paginated",
+      "is paginating",
+      "have been paginate"
+    ],
+    "correctAnswer": "have been paginating",
+    "explanation": "Present Perfect Continuous: have/has been + V-ing.",
+    "tenseType": "present-perfect-continuous",
+    "difficulty": "hard"
+  }
+]

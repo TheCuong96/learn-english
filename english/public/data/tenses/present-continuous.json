@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "present-continuous-001",
+    "question": "You ___ (approve) at the moment.",
+    "options": [
+      "do approve",
+      "approved",
+      "are approving",
+      "am approving"
+    ],
+    "correctAnswer": "are approving",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-002",
+    "question": "You ___ (approve) at the moment.",
+    "options": [
+      "are approve",
+      "aren't approving",
+      "am approving",
+      "don't approve"
+    ],
+    "correctAnswer": "aren't approving",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-003",
+    "question": "___ you (approve) at the moment?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-004",
+    "question": "I ___ (attend) right now.",
+    "options": [
+      "are attending",
+      "attended",
+      "am attending",
+      "do attend"
+    ],
+    "correctAnswer": "am attending",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-005",
+    "question": "I ___ (attend) right now.",
+    "options": [
+      "am attend",
+      "am not attending",
+      "are attending",
+      "don't attend"
+    ],
+    "correctAnswer": "am not attending",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-006",
+    "question": "___ i (attend) right now?",
+    "options": [
+      "Am",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-007",
+    "question": "He ___ (boil) at the moment.",
+    "options": [
+      "boiled",
+      "is boiling",
+      "am boiling",
+      "does boil"
+    ],
+    "correctAnswer": "is boiling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-008",
+    "question": "He ___ (boil) at the moment.",
+    "options": [
+      "am boiling",
+      "is boil",
+      "isn't boiling",
+      "doesn't boil"
+    ],
+    "correctAnswer": "isn't boiling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-009",
+    "question": "___ he (boil) at the moment?",
+    "options": [
+      "Is",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-010",
+    "question": "It ___ (buy) at the moment.",
+    "options": [
+      "is buyying",
+      "does buy",
+      "bought",
+      "am buyying"
+    ],
+    "correctAnswer": "is buyying",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-011",
+    "question": "It ___ (buy) at the moment.",
+    "options": [
+      "am buyying",
+      "isn't buyying",
+      "doesn't buy",
+      "is buy"
+    ],
+    "correctAnswer": "isn't buyying",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-012",
+    "question": "___ it (buy) at the moment?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-013",
+    "question": "She ___ (call) these days.",
+    "options": [
+      "is calling",
+      "am calling",
+      "called",
+      "does call"
+    ],
+    "correctAnswer": "is calling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-014",
+    "question": "She ___ (call) these days.",
+    "options": [
+      "isn't calling",
+      "doesn't call",
+      "am calling",
+      "is call"
+    ],
+    "correctAnswer": "isn't calling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-015",
+    "question": "___ she (call) these days?",
+    "options": [
+      "Did",
+      "Does",
+      "Do",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-016",
+    "question": "They ___ (check) currently.",
+    "options": [
+      "am checking",
+      "checked",
+      "are checking",
+      "do check"
+    ],
+    "correctAnswer": "are checking",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-017",
+    "question": "They ___ (check) currently.",
+    "options": [
+      "aren't checking",
+      "don't check",
+      "am checking",
+      "are check"
+    ],
+    "correctAnswer": "aren't checking",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-018",
+    "question": "___ they (check) currently?",
+    "options": [
+      "Did",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-019",
+    "question": "We ___ (close) at the moment.",
+    "options": [
+      "do close",
+      "are closing",
+      "am closing",
+      "closed"
+    ],
+    "correctAnswer": "are closing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-020",
+    "question": "We ___ (close) at the moment.",
+    "options": [
+      "don't close",
+      "am closing",
+      "are close",
+      "aren't closing"
+    ],
+    "correctAnswer": "aren't closing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-021",
+    "question": "___ we (close) at the moment?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-022",
+    "question": "You ___ (coordinate) at the moment.",
+    "options": [
+      "coordinated",
+      "do coordinate",
+      "am coordinating",
+      "are coordinating"
+    ],
+    "correctAnswer": "are coordinating",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-023",
+    "question": "You ___ (coordinate) at the moment.",
+    "options": [
+      "are coordinate",
+      "don't coordinate",
+      "am coordinating",
+      "aren't coordinating"
+    ],
+    "correctAnswer": "aren't coordinating",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-024",
+    "question": "___ you (coordinate) at the moment?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-025",
+    "question": "I ___ (cook) currently.",
+    "options": [
+      "am cooking",
+      "do cook",
+      "are cooking",
+      "cooked"
+    ],
+    "correctAnswer": "am cooking",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-026",
+    "question": "I ___ (cook) currently.",
+    "options": [
+      "don't cook",
+      "am cook",
+      "am not cooking",
+      "are cooking"
+    ],
+    "correctAnswer": "am not cooking",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-027",
+    "question": "___ i (cook) currently?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Am"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-028",
+    "question": "He ___ (cost) right now.",
+    "options": [
+      "does cost",
+      "am costing",
+      "cost",
+      "is costing"
+    ],
+    "correctAnswer": "is costing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-029",
+    "question": "He ___ (cost) right now.",
+    "options": [
+      "am costing",
+      "is cost",
+      "doesn't cost",
+      "isn't costing"
+    ],
+    "correctAnswer": "isn't costing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-030",
+    "question": "___ he (cost) right now?",
+    "options": [
+      "Does",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-031",
+    "question": "It ___ (depart) these days.",
+    "options": [
+      "departed",
+      "am departing",
+      "does depart",
+      "is departing"
+    ],
+    "correctAnswer": "is departing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-032",
+    "question": "It ___ (depart) these days.",
+    "options": [
+      "doesn't depart",
+      "is depart",
+      "isn't departing",
+      "am departing"
+    ],
+    "correctAnswer": "isn't departing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-033",
+    "question": "___ it (depart) these days?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-034",
+    "question": "She ___ (deliver) right now.",
+    "options": [
+      "does deliver",
+      "am deliverring",
+      "is deliverring",
+      "delivered"
+    ],
+    "correctAnswer": "is deliverring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-035",
+    "question": "She ___ (deliver) right now.",
+    "options": [
+      "is deliver",
+      "doesn't deliver",
+      "am deliverring",
+      "isn't deliverring"
+    ],
+    "correctAnswer": "isn't deliverring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-036",
+    "question": "___ she (deliver) right now?",
+    "options": [
+      "Does",
+      "Did",
+      "Do",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-037",
+    "question": "They ___ (disassemble) currently.",
+    "options": [
+      "disassembled",
+      "do disassemble",
+      "are disassembling",
+      "am disassembling"
+    ],
+    "correctAnswer": "are disassembling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-038",
+    "question": "They ___ (disassemble) currently.",
+    "options": [
+      "are disassemble",
+      "don't disassemble",
+      "aren't disassembling",
+      "am disassembling"
+    ],
+    "correctAnswer": "aren't disassembling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-039",
+    "question": "___ they (disassemble) currently?",
+    "options": [
+      "Did",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-040",
+    "question": "We ___ (do) right now.",
+    "options": [
+      "are doing",
+      "did",
+      "do do",
+      "am doing"
+    ],
+    "correctAnswer": "are doing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-041",
+    "question": "We ___ (do) right now.",
+    "options": [
+      "are do",
+      "aren't doing",
+      "am doing",
+      "don't do"
+    ],
+    "correctAnswer": "aren't doing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-042",
+    "question": "___ we (do) right now?",
+    "options": [
+      "Does",
+      "Did",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-043",
+    "question": "You ___ (drink) now.",
+    "options": [
+      "am drinking",
+      "are drinking",
+      "drank",
+      "do drink"
+    ],
+    "correctAnswer": "are drinking",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-044",
+    "question": "You ___ (drink) now.",
+    "options": [
+      "am drinking",
+      "aren't drinking",
+      "are drink",
+      "don't drink"
+    ],
+    "correctAnswer": "aren't drinking",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-045",
+    "question": "___ you (drink) now?",
+    "options": [
+      "Are",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-046",
+    "question": "I ___ (eat) at the moment.",
+    "options": [
+      "ate",
+      "are eating",
+      "do eat",
+      "am eating"
+    ],
+    "correctAnswer": "am eating",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-047",
+    "question": "I ___ (eat) at the moment.",
+    "options": [
+      "don't eat",
+      "are eating",
+      "am eat",
+      "am not eating"
+    ],
+    "correctAnswer": "am not eating",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-048",
+    "question": "___ i (eat) at the moment?",
+    "options": [
+      "Did",
+      "Am",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-049",
+    "question": "He ___ (expire) at the moment.",
+    "options": [
+      "is expiring",
+      "does expire",
+      "expired",
+      "am expiring"
+    ],
+    "correctAnswer": "is expiring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-050",
+    "question": "He ___ (expire) at the moment.",
+    "options": [
+      "isn't expiring",
+      "is expire",
+      "am expiring",
+      "doesn't expire"
+    ],
+    "correctAnswer": "isn't expiring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-051",
+    "question": "___ he (expire) at the moment?",
+    "options": [
+      "Is",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-052",
+    "question": "It ___ (finish) these days.",
+    "options": [
+      "is finishing",
+      "am finishing",
+      "finished",
+      "does finish"
+    ],
+    "correctAnswer": "is finishing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-053",
+    "question": "It ___ (finish) these days.",
+    "options": [
+      "is finish",
+      "isn't finishing",
+      "doesn't finish",
+      "am finishing"
+    ],
+    "correctAnswer": "isn't finishing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-054",
+    "question": "___ it (finish) these days?",
+    "options": [
+      "Did",
+      "Does",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-055",
+    "question": "She ___ (finalize) now.",
+    "options": [
+      "finalized",
+      "does finalize",
+      "is finalizing",
+      "am finalizing"
+    ],
+    "correctAnswer": "is finalizing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-056",
+    "question": "She ___ (finalize) now.",
+    "options": [
+      "is finalize",
+      "doesn't finalize",
+      "am finalizing",
+      "isn't finalizing"
+    ],
+    "correctAnswer": "isn't finalizing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-057",
+    "question": "___ she (finalize) now?",
+    "options": [
+      "Did",
+      "Is",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-058",
+    "question": "They ___ (give) now.",
+    "options": [
+      "gave",
+      "am giving",
+      "are giving",
+      "do give"
+    ],
+    "correctAnswer": "are giving",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-059",
+    "question": "They ___ (give) now.",
+    "options": [
+      "are give",
+      "aren't giving",
+      "don't give",
+      "am giving"
+    ],
+    "correctAnswer": "aren't giving",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-060",
+    "question": "___ they (give) now?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-061",
+    "question": "We ___ (go) now.",
+    "options": [
+      "are going",
+      "am going",
+      "do go",
+      "went"
+    ],
+    "correctAnswer": "are going",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-062",
+    "question": "We ___ (go) now.",
+    "options": [
+      "are go",
+      "aren't going",
+      "don't go",
+      "am going"
+    ],
+    "correctAnswer": "aren't going",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-063",
+    "question": "___ we (go) now?",
+    "options": [
+      "Did",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-064",
+    "question": "You ___ (help) currently.",
+    "options": [
+      "are helping",
+      "helped",
+      "do help",
+      "am helping"
+    ],
+    "correctAnswer": "are helping",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-065",
+    "question": "You ___ (help) currently.",
+    "options": [
+      "are help",
+      "don't help",
+      "aren't helping",
+      "am helping"
+    ],
+    "correctAnswer": "aren't helping",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-066",
+    "question": "___ you (help) currently?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-067",
+    "question": "I ___ (join) now.",
+    "options": [
+      "am joining",
+      "joined",
+      "are joining",
+      "do join"
+    ],
+    "correctAnswer": "am joining",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-068",
+    "question": "I ___ (join) now.",
+    "options": [
+      "are joining",
+      "don't join",
+      "am not joining",
+      "am join"
+    ],
+    "correctAnswer": "am not joining",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-069",
+    "question": "___ i (join) now?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Am"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-070",
+    "question": "He ___ (leave) at the moment.",
+    "options": [
+      "does leave",
+      "left",
+      "is leaving",
+      "am leaving"
+    ],
+    "correctAnswer": "is leaving",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-071",
+    "question": "He ___ (leave) at the moment.",
+    "options": [
+      "am leaving",
+      "isn't leaving",
+      "doesn't leave",
+      "is leave"
+    ],
+    "correctAnswer": "isn't leaving",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-072",
+    "question": "___ he (leave) at the moment?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-073",
+    "question": "It ___ (live) right now.",
+    "options": [
+      "does live",
+      "is living",
+      "lived",
+      "am living"
+    ],
+    "correctAnswer": "is living",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-074",
+    "question": "It ___ (live) right now.",
+    "options": [
+      "is live",
+      "am living",
+      "isn't living",
+      "doesn't live"
+    ],
+    "correctAnswer": "isn't living",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-075",
+    "question": "___ it (live) right now?",
+    "options": [
+      "Did",
+      "Is",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-076",
+    "question": "She ___ (manage) currently.",
+    "options": [
+      "am managing",
+      "is managing",
+      "does manage",
+      "managed"
+    ],
+    "correctAnswer": "is managing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-077",
+    "question": "She ___ (manage) currently.",
+    "options": [
+      "doesn't manage",
+      "am managing",
+      "isn't managing",
+      "is manage"
+    ],
+    "correctAnswer": "isn't managing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-078",
+    "question": "___ she (manage) currently?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-079",
+    "question": "They ___ (matter) at the moment.",
+    "options": [
+      "do matter",
+      "am matterring",
+      "are matterring",
+      "mattered"
+    ],
+    "correctAnswer": "are matterring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-080",
+    "question": "They ___ (matter) at the moment.",
+    "options": [
+      "are matter",
+      "aren't matterring",
+      "don't matter",
+      "am matterring"
+    ],
+    "correctAnswer": "aren't matterring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-081",
+    "question": "___ they (matter) at the moment?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-082",
+    "question": "We ___ (meet) at the moment.",
+    "options": [
+      "do meet",
+      "met",
+      "am meeting",
+      "are meeting"
+    ],
+    "correctAnswer": "are meeting",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-083",
+    "question": "We ___ (meet) at the moment.",
+    "options": [
+      "don't meet",
+      "am meeting",
+      "aren't meeting",
+      "are meet"
+    ],
+    "correctAnswer": "aren't meeting",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-084",
+    "question": "___ we (meet) at the moment?",
+    "options": [
+      "Are",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-085",
+    "question": "You ___ (offer) at the moment.",
+    "options": [
+      "do offer",
+      "offered",
+      "am offerring",
+      "are offerring"
+    ],
+    "correctAnswer": "are offerring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-086",
+    "question": "You ___ (offer) at the moment.",
+    "options": [
+      "don't offer",
+      "am offerring",
+      "aren't offerring",
+      "are offer"
+    ],
+    "correctAnswer": "aren't offerring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-087",
+    "question": "___ you (offer) at the moment?",
+    "options": [
+      "Does",
+      "Did",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-088",
+    "question": "I ___ (open) at the moment.",
+    "options": [
+      "are openning",
+      "do open",
+      "am openning",
+      "opened"
+    ],
+    "correctAnswer": "am openning",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-089",
+    "question": "I ___ (open) at the moment.",
+    "options": [
+      "don't open",
+      "are openning",
+      "am not openning",
+      "am open"
+    ],
+    "correctAnswer": "am not openning",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-090",
+    "question": "___ i (open) at the moment?",
+    "options": [
+      "Did",
+      "Do",
+      "Am",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-091",
+    "question": "He ___ (order) these days.",
+    "options": [
+      "ordered",
+      "is orderring",
+      "am orderring",
+      "does order"
+    ],
+    "correctAnswer": "is orderring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-092",
+    "question": "He ___ (order) these days.",
+    "options": [
+      "am orderring",
+      "isn't orderring",
+      "is order",
+      "doesn't order"
+    ],
+    "correctAnswer": "isn't orderring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-093",
+    "question": "___ he (order) these days?",
+    "options": [
+      "Does",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-094",
+    "question": "It ___ (ship) now.",
+    "options": [
+      "is shipping",
+      "shipped",
+      "does ship",
+      "am shipping"
+    ],
+    "correctAnswer": "is shipping",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-095",
+    "question": "It ___ (ship) now.",
+    "options": [
+      "isn't shipping",
+      "is ship",
+      "doesn't ship",
+      "am shipping"
+    ],
+    "correctAnswer": "isn't shipping",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-096",
+    "question": "___ it (ship) now?",
+    "options": [
+      "Does",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-097",
+    "question": "She ___ (organize) at the moment.",
+    "options": [
+      "am organizing",
+      "organized",
+      "is organizing",
+      "does organize"
+    ],
+    "correctAnswer": "is organizing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-098",
+    "question": "She ___ (organize) at the moment.",
+    "options": [
+      "is organize",
+      "am organizing",
+      "doesn't organize",
+      "isn't organizing"
+    ],
+    "correctAnswer": "isn't organizing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-099",
+    "question": "___ she (organize) at the moment?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-100",
+    "question": "They ___ (play) currently.",
+    "options": [
+      "do play",
+      "are playying",
+      "played",
+      "am playying"
+    ],
+    "correctAnswer": "are playying",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-101",
+    "question": "They ___ (play) currently.",
+    "options": [
+      "am playying",
+      "aren't playying",
+      "don't play",
+      "are play"
+    ],
+    "correctAnswer": "aren't playying",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-102",
+    "question": "___ they (play) currently?",
+    "options": [
+      "Does",
+      "Did",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-103",
+    "question": "We ___ (rain) currently.",
+    "options": [
+      "am raining",
+      "are raining",
+      "rained",
+      "do rain"
+    ],
+    "correctAnswer": "are raining",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-104",
+    "question": "We ___ (rain) currently.",
+    "options": [
+      "aren't raining",
+      "don't rain",
+      "am raining",
+      "are rain"
+    ],
+    "correctAnswer": "aren't raining",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-105",
+    "question": "___ we (rain) currently?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-106",
+    "question": "You ___ (read) at the moment.",
+    "options": [
+      "read",
+      "am reading",
+      "are reading",
+      "do read"
+    ],
+    "correctAnswer": "are reading",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-107",
+    "question": "You ___ (read) at the moment.",
+    "options": [
+      "don't read",
+      "are read",
+      "aren't reading",
+      "am reading"
+    ],
+    "correctAnswer": "aren't reading",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-108",
+    "question": "___ you (read) at the moment?",
+    "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-109",
+    "question": "I ___ (remember) these days.",
+    "options": [
+      "remembered",
+      "do remember",
+      "are rememberring",
+      "am rememberring"
+    ],
+    "correctAnswer": "am rememberring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-110",
+    "question": "I ___ (remember) these days.",
+    "options": [
+      "are rememberring",
+      "am remember",
+      "am not rememberring",
+      "don't remember"
+    ],
+    "correctAnswer": "am not rememberring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-111",
+    "question": "___ i (remember) these days?",
+    "options": [
+      "Am",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-112",
+    "question": "He ___ (rise) at the moment.",
+    "options": [
+      "rose",
+      "is rising",
+      "does rise",
+      "am rising"
+    ],
+    "correctAnswer": "is rising",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-113",
+    "question": "He ___ (rise) at the moment.",
+    "options": [
+      "isn't rising",
+      "doesn't rise",
+      "is rise",
+      "am rising"
+    ],
+    "correctAnswer": "isn't rising",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-114",
+    "question": "___ he (rise) at the moment?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-115",
+    "question": "It ___ (run) at the moment.",
+    "options": [
+      "does run",
+      "am running",
+      "is running",
+      "ran"
+    ],
+    "correctAnswer": "is running",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-116",
+    "question": "It ___ (run) at the moment.",
+    "options": [
+      "am running",
+      "doesn't run",
+      "isn't running",
+      "is run"
+    ],
+    "correctAnswer": "isn't running",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-117",
+    "question": "___ it (run) at the moment?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-118",
+    "question": "She ___ (serve) now.",
+    "options": [
+      "does serve",
+      "is serving",
+      "am serving",
+      "served"
+    ],
+    "correctAnswer": "is serving",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-119",
+    "question": "She ___ (serve) now.",
+    "options": [
+      "isn't serving",
+      "doesn't serve",
+      "am serving",
+      "is serve"
+    ],
+    "correctAnswer": "isn't serving",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-120",
+    "question": "___ she (serve) now?",
+    "options": [
+      "Is",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-121",
+    "question": "They ___ (speak) at the moment.",
+    "options": [
+      "are speaking",
+      "do speak",
+      "am speaking",
+      "spoke"
+    ],
+    "correctAnswer": "are speaking",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-122",
+    "question": "They ___ (speak) at the moment.",
+    "options": [
+      "aren't speaking",
+      "don't speak",
+      "am speaking",
+      "are speak"
+    ],
+    "correctAnswer": "aren't speaking",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-123",
+    "question": "___ they (speak) at the moment?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-124",
+    "question": "We ___ (spoil) these days.",
+    "options": [
+      "are spoiling",
+      "spoiled",
+      "do spoil",
+      "am spoiling"
+    ],
+    "correctAnswer": "are spoiling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-125",
+    "question": "We ___ (spoil) these days.",
+    "options": [
+      "don't spoil",
+      "are spoil",
+      "am spoiling",
+      "aren't spoiling"
+    ],
+    "correctAnswer": "aren't spoiling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-126",
+    "question": "___ we (spoil) these days?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-127",
+    "question": "You ___ (start) currently.",
+    "options": [
+      "started",
+      "are starting",
+      "do start",
+      "am starting"
+    ],
+    "correctAnswer": "are starting",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-128",
+    "question": "You ___ (start) currently.",
+    "options": [
+      "don't start",
+      "aren't starting",
+      "am starting",
+      "are start"
+    ],
+    "correctAnswer": "aren't starting",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-129",
+    "question": "___ you (start) currently?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-130",
+    "question": "I ___ (stay) these days.",
+    "options": [
+      "stayed",
+      "are stayying",
+      "do stay",
+      "am stayying"
+    ],
+    "correctAnswer": "am stayying",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-131",
+    "question": "I ___ (stay) these days.",
+    "options": [
+      "are stayying",
+      "am not stayying",
+      "don't stay",
+      "am stay"
+    ],
+    "correctAnswer": "am not stayying",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-132",
+    "question": "___ i (stay) these days?",
+    "options": [
+      "Did",
+      "Am",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-133",
+    "question": "He ___ (study) currently.",
+    "options": [
+      "is studying",
+      "studied",
+      "am studying",
+      "does study"
+    ],
+    "correctAnswer": "is studying",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-134",
+    "question": "He ___ (study) currently.",
+    "options": [
+      "am studying",
+      "doesn't study",
+      "isn't studying",
+      "is study"
+    ],
+    "correctAnswer": "isn't studying",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-135",
+    "question": "___ he (study) currently?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-136",
+    "question": "It ___ (take) at the moment.",
+    "options": [
+      "does take",
+      "is taking",
+      "took",
+      "am taking"
+    ],
+    "correctAnswer": "is taking",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-137",
+    "question": "It ___ (take) at the moment.",
+    "options": [
+      "isn't taking",
+      "am taking",
+      "is take",
+      "doesn't take"
+    ],
+    "correctAnswer": "isn't taking",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-138",
+    "question": "___ it (take) at the moment?",
+    "options": [
+      "Did",
+      "Does",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-139",
+    "question": "She ___ (teach) these days.",
+    "options": [
+      "is teaching",
+      "taught",
+      "am teaching",
+      "does teach"
+    ],
+    "correctAnswer": "is teaching",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-140",
+    "question": "She ___ (teach) these days.",
+    "options": [
+      "doesn't teach",
+      "am teaching",
+      "is teach",
+      "isn't teaching"
+    ],
+    "correctAnswer": "isn't teaching",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-141",
+    "question": "___ she (teach) these days?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-142",
+    "question": "They ___ (travel) now.",
+    "options": [
+      "traveled",
+      "am travelling",
+      "are travelling",
+      "do travel"
+    ],
+    "correctAnswer": "are travelling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-143",
+    "question": "They ___ (travel) now.",
+    "options": [
+      "are travel",
+      "am travelling",
+      "aren't travelling",
+      "don't travel"
+    ],
+    "correctAnswer": "aren't travelling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-144",
+    "question": "___ they (travel) now?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-145",
+    "question": "We ___ (use) right now.",
+    "options": [
+      "am using",
+      "are using",
+      "do use",
+      "used"
+    ],
+    "correctAnswer": "are using",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-146",
+    "question": "We ___ (use) right now.",
+    "options": [
+      "are use",
+      "am using",
+      "aren't using",
+      "don't use"
+    ],
+    "correctAnswer": "aren't using",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-147",
+    "question": "___ we (use) right now?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-148",
+    "question": "You ___ (visit) right now.",
+    "options": [
+      "visited",
+      "am visitting",
+      "do visit",
+      "are visitting"
+    ],
+    "correctAnswer": "are visitting",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-149",
+    "question": "You ___ (visit) right now.",
+    "options": [
+      "are visit",
+      "am visitting",
+      "don't visit",
+      "aren't visitting"
+    ],
+    "correctAnswer": "aren't visitting",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-150",
+    "question": "___ you (visit) right now?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-151",
+    "question": "I ___ (watch) now.",
+    "options": [
+      "do watch",
+      "watched",
+      "are watching",
+      "am watching"
+    ],
+    "correctAnswer": "am watching",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-152",
+    "question": "I ___ (watch) now.",
+    "options": [
+      "don't watch",
+      "am not watching",
+      "am watch",
+      "are watching"
+    ],
+    "correctAnswer": "am not watching",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-153",
+    "question": "___ i (watch) now?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Am"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-154",
+    "question": "He ___ (weigh) currently.",
+    "options": [
+      "weighed",
+      "is weighing",
+      "am weighing",
+      "does weigh"
+    ],
+    "correctAnswer": "is weighing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-155",
+    "question": "He ___ (weigh) currently.",
+    "options": [
+      "is weigh",
+      "doesn't weigh",
+      "isn't weighing",
+      "am weighing"
+    ],
+    "correctAnswer": "isn't weighing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-156",
+    "question": "___ he (weigh) currently?",
+    "options": [
+      "Is",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-157",
+    "question": "It ___ (work) these days.",
+    "options": [
+      "worked",
+      "is working",
+      "am working",
+      "does work"
+    ],
+    "correctAnswer": "is working",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-158",
+    "question": "It ___ (work) these days.",
+    "options": [
+      "is work",
+      "am working",
+      "isn't working",
+      "doesn't work"
+    ],
+    "correctAnswer": "isn't working",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-159",
+    "question": "___ it (work) these days?",
+    "options": [
+      "Is",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-160",
+    "question": "She ___ (brush) right now.",
+    "options": [
+      "brushed",
+      "does brush",
+      "am brushing",
+      "is brushing"
+    ],
+    "correctAnswer": "is brushing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-161",
+    "question": "She ___ (brush) right now.",
+    "options": [
+      "am brushing",
+      "doesn't brush",
+      "isn't brushing",
+      "is brush"
+    ],
+    "correctAnswer": "isn't brushing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-162",
+    "question": "___ she (brush) right now?",
+    "options": [
+      "Do",
+      "Is",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-163",
+    "question": "They ___ (exercise) now.",
+    "options": [
+      "am exercising",
+      "exercised",
+      "do exercise",
+      "are exercising"
+    ],
+    "correctAnswer": "are exercising",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-164",
+    "question": "They ___ (exercise) now.",
+    "options": [
+      "don't exercise",
+      "are exercise",
+      "aren't exercising",
+      "am exercising"
+    ],
+    "correctAnswer": "aren't exercising",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-165",
+    "question": "___ they (exercise) now?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-166",
+    "question": "We ___ (listen) right now.",
+    "options": [
+      "do listen",
+      "listened",
+      "are listenning",
+      "am listenning"
+    ],
+    "correctAnswer": "are listenning",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-167",
+    "question": "We ___ (listen) right now.",
+    "options": [
+      "don't listen",
+      "am listenning",
+      "are listen",
+      "aren't listenning"
+    ],
+    "correctAnswer": "aren't listenning",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-168",
+    "question": "___ we (listen) right now?",
+    "options": [
+      "Are",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-169",
+    "question": "You ___ (sleep) at the moment.",
+    "options": [
+      "do sleep",
+      "am sleeping",
+      "slept",
+      "are sleeping"
+    ],
+    "correctAnswer": "are sleeping",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-170",
+    "question": "You ___ (sleep) at the moment.",
+    "options": [
+      "are sleep",
+      "am sleeping",
+      "don't sleep",
+      "aren't sleeping"
+    ],
+    "correctAnswer": "aren't sleeping",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-171",
+    "question": "___ you (sleep) at the moment?",
+    "options": [
+      "Did",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-172",
+    "question": "I ___ (research) at the moment.",
+    "options": [
+      "do research",
+      "am researching",
+      "researched",
+      "are researching"
+    ],
+    "correctAnswer": "am researching",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-173",
+    "question": "I ___ (research) at the moment.",
+    "options": [
+      "don't research",
+      "am not researching",
+      "am research",
+      "are researching"
+    ],
+    "correctAnswer": "am not researching",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-174",
+    "question": "___ i (research) at the moment?",
+    "options": [
+      "Does",
+      "Am",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-175",
+    "question": "He ___ (recycle) right now.",
+    "options": [
+      "does recycle",
+      "is recycling",
+      "recycled",
+      "am recycling"
+    ],
+    "correctAnswer": "is recycling",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-176",
+    "question": "He ___ (recycle) right now.",
+    "options": [
+      "is recycle",
+      "isn't recycling",
+      "doesn't recycle",
+      "am recycling"
+    ],
+    "correctAnswer": "isn't recycling",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-177",
+    "question": "___ he (recycle) right now?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-178",
+    "question": "It ___ (diagnose) currently.",
+    "options": [
+      "diagnosed",
+      "am diagnosing",
+      "is diagnosing",
+      "does diagnose"
+    ],
+    "correctAnswer": "is diagnosing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-179",
+    "question": "It ___ (diagnose) currently.",
+    "options": [
+      "is diagnose",
+      "doesn't diagnose",
+      "isn't diagnosing",
+      "am diagnosing"
+    ],
+    "correctAnswer": "isn't diagnosing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-180",
+    "question": "___ it (diagnose) currently?",
+    "options": [
+      "Is",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-181",
+    "question": "She ___ (negotiate) now.",
+    "options": [
+      "am negotiating",
+      "negotiated",
+      "does negotiate",
+      "is negotiating"
+    ],
+    "correctAnswer": "is negotiating",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-182",
+    "question": "She ___ (negotiate) now.",
+    "options": [
+      "isn't negotiating",
+      "is negotiate",
+      "doesn't negotiate",
+      "am negotiating"
+    ],
+    "correctAnswer": "isn't negotiating",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-183",
+    "question": "___ she (negotiate) now?",
+    "options": [
+      "Did",
+      "Does",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-184",
+    "question": "They ___ (invest) currently.",
+    "options": [
+      "invested",
+      "do invest",
+      "are investing",
+      "am investing"
+    ],
+    "correctAnswer": "are investing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-185",
+    "question": "They ___ (invest) currently.",
+    "options": [
+      "don't invest",
+      "are invest",
+      "am investing",
+      "aren't investing"
+    ],
+    "correctAnswer": "aren't investing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-186",
+    "question": "___ they (invest) currently?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-187",
+    "question": "We ___ (compose) currently.",
+    "options": [
+      "do compose",
+      "composed",
+      "are composing",
+      "am composing"
+    ],
+    "correctAnswer": "are composing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-188",
+    "question": "We ___ (compose) currently.",
+    "options": [
+      "are compose",
+      "am composing",
+      "don't compose",
+      "aren't composing"
+    ],
+    "correctAnswer": "aren't composing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-189",
+    "question": "___ we (compose) currently?",
+    "options": [
+      "Did",
+      "Do",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-190",
+    "question": "You ___ (rescue) right now.",
+    "options": [
+      "are rescuing",
+      "am rescuing",
+      "rescued",
+      "do rescue"
+    ],
+    "correctAnswer": "are rescuing",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-191",
+    "question": "You ___ (rescue) right now.",
+    "options": [
+      "are rescue",
+      "don't rescue",
+      "aren't rescuing",
+      "am rescuing"
+    ],
+    "correctAnswer": "aren't rescuing",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-192",
+    "question": "___ you (rescue) right now?",
+    "options": [
+      "Are",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Are",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-193",
+    "question": "I ___ (broadcast) right now.",
+    "options": [
+      "broadcast",
+      "are broadcasting",
+      "do broadcast",
+      "am broadcasting"
+    ],
+    "correctAnswer": "am broadcasting",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-194",
+    "question": "I ___ (broadcast) right now.",
+    "options": [
+      "are broadcasting",
+      "am not broadcasting",
+      "am broadcast",
+      "don't broadcast"
+    ],
+    "correctAnswer": "am not broadcasting",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-195",
+    "question": "___ i (broadcast) right now?",
+    "options": [
+      "Am",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Am",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-196",
+    "question": "He ___ (discover) right now.",
+    "options": [
+      "is discoverring",
+      "am discoverring",
+      "discovered",
+      "does discover"
+    ],
+    "correctAnswer": "is discoverring",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-197",
+    "question": "He ___ (discover) right now.",
+    "options": [
+      "doesn't discover",
+      "is discover",
+      "isn't discoverring",
+      "am discoverring"
+    ],
+    "correctAnswer": "isn't discoverring",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-continuous-198",
+    "question": "___ he (discover) right now?",
+    "options": [
+      "Do",
+      "Is",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Is",
+    "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-199",
+    "question": "It ___ (conserve) these days.",
+    "options": [
+      "conserved",
+      "is conserving",
+      "does conserve",
+      "am conserving"
+    ],
+    "correctAnswer": "is conserving",
+    "explanation": "Present Continuous: am/is/are + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-continuous-200",
+    "question": "It ___ (conserve) these days.",
+    "options": [
+      "doesn't conserve",
+      "am conserving",
+      "isn't conserving",
+      "is conserve"
+    ],
+    "correctAnswer": "isn't conserving",
+    "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
+    "tenseType": "present-continuous",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "present-simple-001",
+    "question": "They ___ (approve) on Mondays.",
+    "options": [
+      "approve",
+      "approves",
+      "approved",
+      "are approving"
+    ],
+    "correctAnswer": "approve",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-002",
+    "question": "They ___ (approve) on Mondays.",
+    "options": [
+      "aren't approving",
+      "didn't approve",
+      "don't approve",
+      "doesn't approve"
+    ],
+    "correctAnswer": "don't approve",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-003",
+    "question": "___ they (approve) on Mondays?",
+    "options": [
+      "Do",
+      "Are",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-004",
+    "question": "You ___ (attend) always.",
+    "options": [
+      "attended",
+      "attend",
+      "attends",
+      "are attending"
+    ],
+    "correctAnswer": "attend",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-005",
+    "question": "You ___ (attend) always.",
+    "options": [
+      "aren't attending",
+      "don't attend",
+      "doesn't attend",
+      "didn't attend"
+    ],
+    "correctAnswer": "don't attend",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-006",
+    "question": "___ you (attend) always?",
+    "options": [
+      "Do",
+      "Did",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-007",
+    "question": "She ___ (believe) usually.",
+    "options": [
+      "believed",
+      "is believing",
+      "believes",
+      "believe"
+    ],
+    "correctAnswer": "believes",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-008",
+    "question": "She ___ (believe) usually.",
+    "options": [
+      "didn't believe",
+      "isn't believing",
+      "doesn't believe",
+      "don't believe"
+    ],
+    "correctAnswer": "doesn't believe",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-009",
+    "question": "___ she (believe) usually?",
+    "options": [
+      "Did",
+      "Is",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-010",
+    "question": "It ___ (boil) always.",
+    "options": [
+      "boiled",
+      "boil",
+      "boils",
+      "is boiling"
+    ],
+    "correctAnswer": "boils",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-011",
+    "question": "It ___ (boil) always.",
+    "options": [
+      "isn't boiling",
+      "don't boil",
+      "didn't boil",
+      "doesn't boil"
+    ],
+    "correctAnswer": "doesn't boil",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-012",
+    "question": "___ it (boil) always?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-013",
+    "question": "We ___ (buy) every week.",
+    "options": [
+      "are buyying",
+      "bought",
+      "buy",
+      "buys"
+    ],
+    "correctAnswer": "buy",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-014",
+    "question": "We ___ (buy) every week.",
+    "options": [
+      "doesn't buy",
+      "aren't buyying",
+      "didn't buy",
+      "don't buy"
+    ],
+    "correctAnswer": "don't buy",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-015",
+    "question": "___ we (buy) every week?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-016",
+    "question": "He ___ (call) sometimes.",
+    "options": [
+      "called",
+      "call",
+      "is calling",
+      "calls"
+    ],
+    "correctAnswer": "calls",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-017",
+    "question": "He ___ (call) sometimes.",
+    "options": [
+      "didn't call",
+      "don't call",
+      "doesn't call",
+      "isn't calling"
+    ],
+    "correctAnswer": "doesn't call",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-018",
+    "question": "___ he (call) sometimes?",
+    "options": [
+      "Does",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-019",
+    "question": "I ___ (check) usually.",
+    "options": [
+      "check",
+      "are checking",
+      "checked",
+      "checks"
+    ],
+    "correctAnswer": "check",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-020",
+    "question": "I ___ (check) usually.",
+    "options": [
+      "didn't check",
+      "don't check",
+      "doesn't check",
+      "aren't checking"
+    ],
+    "correctAnswer": "don't check",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-021",
+    "question": "___ i (check) usually?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-022",
+    "question": "They ___ (close) every day.",
+    "options": [
+      "close",
+      "closes",
+      "closed",
+      "are closing"
+    ],
+    "correctAnswer": "close",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-023",
+    "question": "They ___ (close) every day.",
+    "options": [
+      "aren't closing",
+      "didn't close",
+      "doesn't close",
+      "don't close"
+    ],
+    "correctAnswer": "don't close",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-024",
+    "question": "___ they (close) every day?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-025",
+    "question": "You ___ (contain) often.",
+    "options": [
+      "are containing",
+      "contains",
+      "contain",
+      "contained"
+    ],
+    "correctAnswer": "contain",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-026",
+    "question": "You ___ (contain) often.",
+    "options": [
+      "didn't contain",
+      "doesn't contain",
+      "don't contain",
+      "aren't containing"
+    ],
+    "correctAnswer": "don't contain",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-027",
+    "question": "___ you (contain) often?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-028",
+    "question": "She ___ (coordinate) usually.",
+    "options": [
+      "coordinated",
+      "coordinates",
+      "coordinate",
+      "is coordinating"
+    ],
+    "correctAnswer": "coordinates",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-029",
+    "question": "She ___ (coordinate) usually.",
+    "options": [
+      "don't coordinate",
+      "isn't coordinating",
+      "doesn't coordinate",
+      "didn't coordinate"
+    ],
+    "correctAnswer": "doesn't coordinate",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-030",
+    "question": "___ she (coordinate) usually?",
+    "options": [
+      "Does",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-031",
+    "question": "It ___ (cook) usually.",
+    "options": [
+      "cook",
+      "cooked",
+      "is cooking",
+      "cooks"
+    ],
+    "correctAnswer": "cooks",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-032",
+    "question": "It ___ (cook) usually.",
+    "options": [
+      "don't cook",
+      "didn't cook",
+      "isn't cooking",
+      "doesn't cook"
+    ],
+    "correctAnswer": "doesn't cook",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-033",
+    "question": "___ it (cook) usually?",
+    "options": [
+      "Does",
+      "Did",
+      "Do",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-034",
+    "question": "We ___ (cost) every day.",
+    "options": [
+      "cost",
+      "cost",
+      "costs",
+      "are costing"
+    ],
+    "correctAnswer": "cost",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-035",
+    "question": "We ___ (cost) every day.",
+    "options": [
+      "aren't costing",
+      "didn't cost",
+      "doesn't cost",
+      "don't cost"
+    ],
+    "correctAnswer": "don't cost",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-036",
+    "question": "___ we (cost) every day?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-037",
+    "question": "He ___ (depart) never.",
+    "options": [
+      "departs",
+      "is departing",
+      "depart",
+      "departed"
+    ],
+    "correctAnswer": "departs",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-038",
+    "question": "He ___ (depart) never.",
+    "options": [
+      "don't depart",
+      "isn't departing",
+      "doesn't depart",
+      "didn't depart"
+    ],
+    "correctAnswer": "doesn't depart",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-039",
+    "question": "___ he (depart) never?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-040",
+    "question": "I ___ (deliver) never.",
+    "options": [
+      "are deliverring",
+      "delivers",
+      "deliver",
+      "delivered"
+    ],
+    "correctAnswer": "deliver",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-041",
+    "question": "I ___ (deliver) never.",
+    "options": [
+      "doesn't deliver",
+      "didn't deliver",
+      "aren't deliverring",
+      "don't deliver"
+    ],
+    "correctAnswer": "don't deliver",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-042",
+    "question": "___ i (deliver) never?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-043",
+    "question": "They ___ (disassemble) every week.",
+    "options": [
+      "disassemble",
+      "disassembles",
+      "are disassembling",
+      "disassembled"
+    ],
+    "correctAnswer": "disassemble",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-044",
+    "question": "They ___ (disassemble) every week.",
+    "options": [
+      "don't disassemble",
+      "aren't disassembling",
+      "doesn't disassemble",
+      "didn't disassemble"
+    ],
+    "correctAnswer": "don't disassemble",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-045",
+    "question": "___ they (disassemble) every week?",
+    "options": [
+      "Are",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-046",
+    "question": "You ___ (do) usually.",
+    "options": [
+      "does",
+      "do",
+      "did",
+      "are doing"
+    ],
+    "correctAnswer": "do",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-047",
+    "question": "You ___ (do) usually.",
+    "options": [
+      "didn't do",
+      "aren't doing",
+      "doesn't do",
+      "don't do"
+    ],
+    "correctAnswer": "don't do",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-048",
+    "question": "___ you (do) usually?",
+    "options": [
+      "Did",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-049",
+    "question": "She ___ (drink) never.",
+    "options": [
+      "drank",
+      "is drinking",
+      "drink",
+      "drinks"
+    ],
+    "correctAnswer": "drinks",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-050",
+    "question": "She ___ (drink) never.",
+    "options": [
+      "didn't drink",
+      "isn't drinking",
+      "don't drink",
+      "doesn't drink"
+    ],
+    "correctAnswer": "doesn't drink",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-051",
+    "question": "___ she (drink) never?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-052",
+    "question": "It ___ (eat) every day.",
+    "options": [
+      "eats",
+      "ate",
+      "is eating",
+      "eat"
+    ],
+    "correctAnswer": "eats",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-053",
+    "question": "It ___ (eat) every day.",
+    "options": [
+      "isn't eating",
+      "don't eat",
+      "doesn't eat",
+      "didn't eat"
+    ],
+    "correctAnswer": "doesn't eat",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-054",
+    "question": "___ it (eat) every day?",
+    "options": [
+      "Is",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-055",
+    "question": "We ___ (expire) always.",
+    "options": [
+      "expired",
+      "are expiring",
+      "expires",
+      "expire"
+    ],
+    "correctAnswer": "expire",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-056",
+    "question": "We ___ (expire) always.",
+    "options": [
+      "don't expire",
+      "aren't expiring",
+      "doesn't expire",
+      "didn't expire"
+    ],
+    "correctAnswer": "don't expire",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-057",
+    "question": "___ we (expire) always?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-058",
+    "question": "He ___ (finish) on Mondays.",
+    "options": [
+      "is finishing",
+      "finished",
+      "finish",
+      "finishes"
+    ],
+    "correctAnswer": "finishes",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-059",
+    "question": "He ___ (finish) on Mondays.",
+    "options": [
+      "didn't finish",
+      "don't finish",
+      "isn't finishing",
+      "doesn't finish"
+    ],
+    "correctAnswer": "doesn't finish",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-060",
+    "question": "___ he (finish) on Mondays?",
+    "options": [
+      "Do",
+      "Is",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-061",
+    "question": "I ___ (finalize) always.",
+    "options": [
+      "are finalizing",
+      "finalizes",
+      "finalize",
+      "finalized"
+    ],
+    "correctAnswer": "finalize",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-062",
+    "question": "I ___ (finalize) always.",
+    "options": [
+      "doesn't finalize",
+      "aren't finalizing",
+      "didn't finalize",
+      "don't finalize"
+    ],
+    "correctAnswer": "don't finalize",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-063",
+    "question": "___ i (finalize) always?",
+    "options": [
+      "Do",
+      "Did",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-064",
+    "question": "They ___ (give) often.",
+    "options": [
+      "give",
+      "are giving",
+      "gave",
+      "gives"
+    ],
+    "correctAnswer": "give",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-065",
+    "question": "They ___ (give) often.",
+    "options": [
+      "didn't give",
+      "aren't giving",
+      "doesn't give",
+      "don't give"
+    ],
+    "correctAnswer": "don't give",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-066",
+    "question": "___ they (give) often?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-067",
+    "question": "You ___ (go) never.",
+    "options": [
+      "goes",
+      "go",
+      "went",
+      "are going"
+    ],
+    "correctAnswer": "go",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-068",
+    "question": "You ___ (go) never.",
+    "options": [
+      "didn't go",
+      "don't go",
+      "doesn't go",
+      "aren't going"
+    ],
+    "correctAnswer": "don't go",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-069",
+    "question": "___ you (go) never?",
+    "options": [
+      "Do",
+      "Are",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-070",
+    "question": "She ___ (have) never.",
+    "options": [
+      "has",
+      "have",
+      "had",
+      "is having"
+    ],
+    "correctAnswer": "has",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-071",
+    "question": "She ___ (have) never.",
+    "options": [
+      "didn't have",
+      "isn't having",
+      "doesn't have",
+      "don't have"
+    ],
+    "correctAnswer": "doesn't have",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-072",
+    "question": "___ she (have) never?",
+    "options": [
+      "Did",
+      "Is",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-073",
+    "question": "It ___ (help) on Mondays.",
+    "options": [
+      "helps",
+      "is helping",
+      "help",
+      "helped"
+    ],
+    "correctAnswer": "helps",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-074",
+    "question": "It ___ (help) on Mondays.",
+    "options": [
+      "don't help",
+      "isn't helping",
+      "didn't help",
+      "doesn't help"
+    ],
+    "correctAnswer": "doesn't help",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-075",
+    "question": "___ it (help) on Mondays?",
+    "options": [
+      "Is",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-076",
+    "question": "We ___ (join) sometimes.",
+    "options": [
+      "join",
+      "joins",
+      "are joining",
+      "joined"
+    ],
+    "correctAnswer": "join",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-077",
+    "question": "We ___ (join) sometimes.",
+    "options": [
+      "doesn't join",
+      "aren't joining",
+      "don't join",
+      "didn't join"
+    ],
+    "correctAnswer": "don't join",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-078",
+    "question": "___ we (join) sometimes?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-079",
+    "question": "He ___ (leave) every day.",
+    "options": [
+      "left",
+      "is leaving",
+      "leave",
+      "leaves"
+    ],
+    "correctAnswer": "leaves",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-080",
+    "question": "He ___ (leave) every day.",
+    "options": [
+      "don't leave",
+      "didn't leave",
+      "isn't leaving",
+      "doesn't leave"
+    ],
+    "correctAnswer": "doesn't leave",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-081",
+    "question": "___ he (leave) every day?",
+    "options": [
+      "Does",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-082",
+    "question": "I ___ (like) every week.",
+    "options": [
+      "like",
+      "are liking",
+      "liked",
+      "likes"
+    ],
+    "correctAnswer": "like",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-083",
+    "question": "I ___ (like) every week.",
+    "options": [
+      "doesn't like",
+      "aren't liking",
+      "don't like",
+      "didn't like"
+    ],
+    "correctAnswer": "don't like",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-084",
+    "question": "___ i (like) every week?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-085",
+    "question": "They ___ (live) usually.",
+    "options": [
+      "are living",
+      "lives",
+      "live",
+      "lived"
+    ],
+    "correctAnswer": "live",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-086",
+    "question": "They ___ (live) usually.",
+    "options": [
+      "doesn't live",
+      "don't live",
+      "didn't live",
+      "aren't living"
+    ],
+    "correctAnswer": "don't live",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-087",
+    "question": "___ they (live) usually?",
+    "options": [
+      "Did",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-088",
+    "question": "You ___ (manage) every week.",
+    "options": [
+      "are managing",
+      "manages",
+      "manage",
+      "managed"
+    ],
+    "correctAnswer": "manage",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-089",
+    "question": "You ___ (manage) every week.",
+    "options": [
+      "doesn't manage",
+      "didn't manage",
+      "aren't managing",
+      "don't manage"
+    ],
+    "correctAnswer": "don't manage",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-090",
+    "question": "___ you (manage) every week?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-091",
+    "question": "She ___ (matter) never.",
+    "options": [
+      "matters",
+      "matter",
+      "mattered",
+      "is matterring"
+    ],
+    "correctAnswer": "matters",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-092",
+    "question": "She ___ (matter) never.",
+    "options": [
+      "isn't matterring",
+      "doesn't matter",
+      "didn't matter",
+      "don't matter"
+    ],
+    "correctAnswer": "doesn't matter",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-093",
+    "question": "___ she (matter) never?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-094",
+    "question": "It ___ (meet) on Mondays.",
+    "options": [
+      "is meeting",
+      "meet",
+      "met",
+      "meets"
+    ],
+    "correctAnswer": "meets",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-095",
+    "question": "It ___ (meet) on Mondays.",
+    "options": [
+      "didn't meet",
+      "isn't meeting",
+      "doesn't meet",
+      "don't meet"
+    ],
+    "correctAnswer": "doesn't meet",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-096",
+    "question": "___ it (meet) on Mondays?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-097",
+    "question": "We ___ (need) on Mondays.",
+    "options": [
+      "needs",
+      "needed",
+      "are needing",
+      "need"
+    ],
+    "correctAnswer": "need",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-098",
+    "question": "We ___ (need) on Mondays.",
+    "options": [
+      "don't need",
+      "didn't need",
+      "aren't needing",
+      "doesn't need"
+    ],
+    "correctAnswer": "don't need",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-099",
+    "question": "___ we (need) on Mondays?",
+    "options": [
+      "Did",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-100",
+    "question": "He ___ (offer) never.",
+    "options": [
+      "offered",
+      "offers",
+      "is offerring",
+      "offer"
+    ],
+    "correctAnswer": "offers",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-101",
+    "question": "He ___ (offer) never.",
+    "options": [
+      "didn't offer",
+      "doesn't offer",
+      "isn't offerring",
+      "don't offer"
+    ],
+    "correctAnswer": "doesn't offer",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-102",
+    "question": "___ he (offer) never?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-103",
+    "question": "I ___ (open) usually.",
+    "options": [
+      "opened",
+      "are openning",
+      "open",
+      "opens"
+    ],
+    "correctAnswer": "open",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-104",
+    "question": "I ___ (open) usually.",
+    "options": [
+      "don't open",
+      "aren't openning",
+      "didn't open",
+      "doesn't open"
+    ],
+    "correctAnswer": "don't open",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-105",
+    "question": "___ i (open) usually?",
+    "options": [
+      "Do",
+      "Are",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-106",
+    "question": "They ___ (order) on Mondays.",
+    "options": [
+      "ordered",
+      "orders",
+      "order",
+      "are orderring"
+    ],
+    "correctAnswer": "order",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-107",
+    "question": "They ___ (order) on Mondays.",
+    "options": [
+      "don't order",
+      "doesn't order",
+      "didn't order",
+      "aren't orderring"
+    ],
+    "correctAnswer": "don't order",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-108",
+    "question": "___ they (order) on Mondays?",
+    "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-109",
+    "question": "You ___ (ship) sometimes.",
+    "options": [
+      "are shipping",
+      "ships",
+      "ship",
+      "shipped"
+    ],
+    "correctAnswer": "ship",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-110",
+    "question": "You ___ (ship) sometimes.",
+    "options": [
+      "didn't ship",
+      "aren't shipping",
+      "don't ship",
+      "doesn't ship"
+    ],
+    "correctAnswer": "don't ship",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-111",
+    "question": "___ you (ship) sometimes?",
+    "options": [
+      "Did",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-112",
+    "question": "She ___ (organize) often.",
+    "options": [
+      "organizes",
+      "organized",
+      "is organizing",
+      "organize"
+    ],
+    "correctAnswer": "organizes",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-113",
+    "question": "She ___ (organize) often.",
+    "options": [
+      "didn't organize",
+      "isn't organizing",
+      "doesn't organize",
+      "don't organize"
+    ],
+    "correctAnswer": "doesn't organize",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-114",
+    "question": "___ she (organize) often?",
+    "options": [
+      "Does",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-115",
+    "question": "It ___ (own) often.",
+    "options": [
+      "owned",
+      "is owning",
+      "owns",
+      "own"
+    ],
+    "correctAnswer": "owns",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-116",
+    "question": "It ___ (own) often.",
+    "options": [
+      "didn't own",
+      "doesn't own",
+      "isn't owning",
+      "don't own"
+    ],
+    "correctAnswer": "doesn't own",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-117",
+    "question": "___ it (own) often?",
+    "options": [
+      "Did",
+      "Does",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-118",
+    "question": "We ___ (play) on Mondays.",
+    "options": [
+      "plays",
+      "play",
+      "are playying",
+      "played"
+    ],
+    "correctAnswer": "play",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-119",
+    "question": "We ___ (play) on Mondays.",
+    "options": [
+      "don't play",
+      "didn't play",
+      "aren't playying",
+      "doesn't play"
+    ],
+    "correctAnswer": "don't play",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-120",
+    "question": "___ we (play) on Mondays?",
+    "options": [
+      "Did",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-121",
+    "question": "He ___ (prefer) always.",
+    "options": [
+      "is preferring",
+      "prefer",
+      "prefers",
+      "preferred"
+    ],
+    "correctAnswer": "prefers",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-122",
+    "question": "He ___ (prefer) always.",
+    "options": [
+      "doesn't prefer",
+      "don't prefer",
+      "isn't preferring",
+      "didn't prefer"
+    ],
+    "correctAnswer": "doesn't prefer",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-123",
+    "question": "___ he (prefer) always?",
+    "options": [
+      "Did",
+      "Is",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-124",
+    "question": "I ___ (rain) always.",
+    "options": [
+      "rained",
+      "are raining",
+      "rains",
+      "rain"
+    ],
+    "correctAnswer": "rain",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-125",
+    "question": "I ___ (rain) always.",
+    "options": [
+      "doesn't rain",
+      "don't rain",
+      "aren't raining",
+      "didn't rain"
+    ],
+    "correctAnswer": "don't rain",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-126",
+    "question": "___ i (rain) always?",
+    "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-127",
+    "question": "They ___ (read) every day.",
+    "options": [
+      "are reading",
+      "read",
+      "read",
+      "reads"
+    ],
+    "correctAnswer": "read",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-128",
+    "question": "They ___ (read) every day.",
+    "options": [
+      "doesn't read",
+      "aren't reading",
+      "don't read",
+      "didn't read"
+    ],
+    "correctAnswer": "don't read",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-129",
+    "question": "___ they (read) every day?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-130",
+    "question": "You ___ (remember) on Mondays.",
+    "options": [
+      "remember",
+      "are rememberring",
+      "remembered",
+      "remembers"
+    ],
+    "correctAnswer": "remember",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-131",
+    "question": "You ___ (remember) on Mondays.",
+    "options": [
+      "doesn't remember",
+      "didn't remember",
+      "don't remember",
+      "aren't rememberring"
+    ],
+    "correctAnswer": "don't remember",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-132",
+    "question": "___ you (remember) on Mondays?",
+    "options": [
+      "Did",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-133",
+    "question": "She ___ (rise) never.",
+    "options": [
+      "rise",
+      "is rising",
+      "rose",
+      "rises"
+    ],
+    "correctAnswer": "rises",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-134",
+    "question": "She ___ (rise) never.",
+    "options": [
+      "doesn't rise",
+      "didn't rise",
+      "don't rise",
+      "isn't rising"
+    ],
+    "correctAnswer": "doesn't rise",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-135",
+    "question": "___ she (rise) never?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-136",
+    "question": "It ___ (run) sometimes.",
+    "options": [
+      "is running",
+      "runs",
+      "run",
+      "ran"
+    ],
+    "correctAnswer": "runs",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-137",
+    "question": "It ___ (run) sometimes.",
+    "options": [
+      "don't run",
+      "doesn't run",
+      "didn't run",
+      "isn't running"
+    ],
+    "correctAnswer": "doesn't run",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-138",
+    "question": "___ it (run) sometimes?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-139",
+    "question": "We ___ (serve) always.",
+    "options": [
+      "serve",
+      "serves",
+      "served",
+      "are serving"
+    ],
+    "correctAnswer": "serve",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-140",
+    "question": "We ___ (serve) always.",
+    "options": [
+      "aren't serving",
+      "doesn't serve",
+      "didn't serve",
+      "don't serve"
+    ],
+    "correctAnswer": "don't serve",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-141",
+    "question": "___ we (serve) always?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-142",
+    "question": "He ___ (speak) always.",
+    "options": [
+      "speaks",
+      "spoke",
+      "speak",
+      "is speaking"
+    ],
+    "correctAnswer": "speaks",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-143",
+    "question": "He ___ (speak) always.",
+    "options": [
+      "isn't speaking",
+      "doesn't speak",
+      "didn't speak",
+      "don't speak"
+    ],
+    "correctAnswer": "doesn't speak",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-144",
+    "question": "___ he (speak) always?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-145",
+    "question": "I ___ (spoil) usually.",
+    "options": [
+      "spoil",
+      "are spoiling",
+      "spoiled",
+      "spoils"
+    ],
+    "correctAnswer": "spoil",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-146",
+    "question": "I ___ (spoil) usually.",
+    "options": [
+      "didn't spoil",
+      "aren't spoiling",
+      "don't spoil",
+      "doesn't spoil"
+    ],
+    "correctAnswer": "don't spoil",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-147",
+    "question": "___ i (spoil) usually?",
+    "options": [
+      "Did",
+      "Do",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-148",
+    "question": "They ___ (start) never.",
+    "options": [
+      "start",
+      "started",
+      "starts",
+      "are starting"
+    ],
+    "correctAnswer": "start",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-149",
+    "question": "They ___ (start) never.",
+    "options": [
+      "aren't starting",
+      "doesn't start",
+      "don't start",
+      "didn't start"
+    ],
+    "correctAnswer": "don't start",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-150",
+    "question": "___ they (start) never?",
+    "options": [
+      "Did",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-151",
+    "question": "You ___ (stay) never.",
+    "options": [
+      "stayed",
+      "stays",
+      "are stayying",
+      "stay"
+    ],
+    "correctAnswer": "stay",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-152",
+    "question": "You ___ (stay) never.",
+    "options": [
+      "didn't stay",
+      "aren't stayying",
+      "don't stay",
+      "doesn't stay"
+    ],
+    "correctAnswer": "don't stay",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-153",
+    "question": "___ you (stay) never?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Are"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-154",
+    "question": "She ___ (study) usually.",
+    "options": [
+      "study",
+      "is studying",
+      "studies",
+      "studied"
+    ],
+    "correctAnswer": "studies",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-155",
+    "question": "She ___ (study) usually.",
+    "options": [
+      "didn't study",
+      "isn't studying",
+      "don't study",
+      "doesn't study"
+    ],
+    "correctAnswer": "doesn't study",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-156",
+    "question": "___ she (study) usually?",
+    "options": [
+      "Did",
+      "Is",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-157",
+    "question": "It ___ (take) often.",
+    "options": [
+      "took",
+      "is taking",
+      "takes",
+      "take"
+    ],
+    "correctAnswer": "takes",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-158",
+    "question": "It ___ (take) often.",
+    "options": [
+      "don't take",
+      "doesn't take",
+      "isn't taking",
+      "didn't take"
+    ],
+    "correctAnswer": "doesn't take",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-159",
+    "question": "___ it (take) often?",
+    "options": [
+      "Is",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-160",
+    "question": "We ___ (teach) every week.",
+    "options": [
+      "teaches",
+      "teach",
+      "taught",
+      "are teaching"
+    ],
+    "correctAnswer": "teach",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-161",
+    "question": "We ___ (teach) every week.",
+    "options": [
+      "didn't teach",
+      "doesn't teach",
+      "don't teach",
+      "aren't teaching"
+    ],
+    "correctAnswer": "don't teach",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-162",
+    "question": "___ we (teach) every week?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-163",
+    "question": "He ___ (travel) often.",
+    "options": [
+      "travel",
+      "traveled",
+      "travels",
+      "is travelling"
+    ],
+    "correctAnswer": "travels",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-164",
+    "question": "He ___ (travel) often.",
+    "options": [
+      "don't travel",
+      "isn't travelling",
+      "didn't travel",
+      "doesn't travel"
+    ],
+    "correctAnswer": "doesn't travel",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-165",
+    "question": "___ he (travel) often?",
+    "options": [
+      "Does",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-166",
+    "question": "I ___ (understand) usually.",
+    "options": [
+      "understand",
+      "understood",
+      "are understanding",
+      "understands"
+    ],
+    "correctAnswer": "understand",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-167",
+    "question": "I ___ (understand) usually.",
+    "options": [
+      "doesn't understand",
+      "aren't understanding",
+      "didn't understand",
+      "don't understand"
+    ],
+    "correctAnswer": "don't understand",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-168",
+    "question": "___ i (understand) usually?",
+    "options": [
+      "Are",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-169",
+    "question": "They ___ (use) sometimes.",
+    "options": [
+      "uses",
+      "used",
+      "use",
+      "are using"
+    ],
+    "correctAnswer": "use",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-170",
+    "question": "They ___ (use) sometimes.",
+    "options": [
+      "doesn't use",
+      "didn't use",
+      "don't use",
+      "aren't using"
+    ],
+    "correctAnswer": "don't use",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-171",
+    "question": "___ they (use) sometimes?",
+    "options": [
+      "Are",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-172",
+    "question": "You ___ (visit) every day.",
+    "options": [
+      "visited",
+      "visit",
+      "are visitting",
+      "visits"
+    ],
+    "correctAnswer": "visit",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-173",
+    "question": "You ___ (visit) every day.",
+    "options": [
+      "don't visit",
+      "didn't visit",
+      "doesn't visit",
+      "aren't visitting"
+    ],
+    "correctAnswer": "don't visit",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-174",
+    "question": "___ you (visit) every day?",
+    "options": [
+      "Are",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-175",
+    "question": "She ___ (watch) usually.",
+    "options": [
+      "watched",
+      "watches",
+      "watch",
+      "is watching"
+    ],
+    "correctAnswer": "watches",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-176",
+    "question": "She ___ (watch) usually.",
+    "options": [
+      "didn't watch",
+      "don't watch",
+      "doesn't watch",
+      "isn't watching"
+    ],
+    "correctAnswer": "doesn't watch",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-177",
+    "question": "___ she (watch) usually?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-178",
+    "question": "It ___ (weigh) often.",
+    "options": [
+      "is weighing",
+      "weigh",
+      "weighs",
+      "weighed"
+    ],
+    "correctAnswer": "weighs",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-179",
+    "question": "It ___ (weigh) often.",
+    "options": [
+      "don't weigh",
+      "doesn't weigh",
+      "didn't weigh",
+      "isn't weighing"
+    ],
+    "correctAnswer": "doesn't weigh",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-180",
+    "question": "___ it (weigh) often?",
+    "options": [
+      "Does",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-181",
+    "question": "We ___ (work) every day.",
+    "options": [
+      "are working",
+      "works",
+      "worked",
+      "work"
+    ],
+    "correctAnswer": "work",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-182",
+    "question": "We ___ (work) every day.",
+    "options": [
+      "doesn't work",
+      "didn't work",
+      "don't work",
+      "aren't working"
+    ],
+    "correctAnswer": "don't work",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-183",
+    "question": "___ we (work) every day?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-184",
+    "question": "He ___ (be) on Mondays.",
+    "options": [
+      "is being",
+      "bes",
+      "was/were",
+      "be"
+    ],
+    "correctAnswer": "bes",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-185",
+    "question": "He ___ (be) on Mondays.",
+    "options": [
+      "don't be",
+      "doesn't be",
+      "didn't be",
+      "isn't being"
+    ],
+    "correctAnswer": "doesn't be",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-186",
+    "question": "___ he (be) on Mondays?",
+    "options": [
+      "Is",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-187",
+    "question": "I ___ (brush) usually.",
+    "options": [
+      "brushes",
+      "brushed",
+      "brush",
+      "are brushing"
+    ],
+    "correctAnswer": "brush",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-188",
+    "question": "I ___ (brush) usually.",
+    "options": [
+      "aren't brushing",
+      "didn't brush",
+      "don't brush",
+      "doesn't brush"
+    ],
+    "correctAnswer": "don't brush",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-189",
+    "question": "___ i (brush) usually?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-190",
+    "question": "They ___ (exercise) always.",
+    "options": [
+      "exercised",
+      "exercises",
+      "are exercising",
+      "exercise"
+    ],
+    "correctAnswer": "exercise",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-191",
+    "question": "They ___ (exercise) always.",
+    "options": [
+      "doesn't exercise",
+      "aren't exercising",
+      "don't exercise",
+      "didn't exercise"
+    ],
+    "correctAnswer": "don't exercise",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-192",
+    "question": "___ they (exercise) always?",
+    "options": [
+      "Are",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-193",
+    "question": "You ___ (listen) usually.",
+    "options": [
+      "are listenning",
+      "listened",
+      "listens",
+      "listen"
+    ],
+    "correctAnswer": "listen",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-194",
+    "question": "You ___ (listen) usually.",
+    "options": [
+      "don't listen",
+      "aren't listenning",
+      "didn't listen",
+      "doesn't listen"
+    ],
+    "correctAnswer": "don't listen",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-195",
+    "question": "___ you (listen) usually?",
+    "options": [
+      "Did",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Do",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-196",
+    "question": "She ___ (sleep) often.",
+    "options": [
+      "sleep",
+      "is sleeping",
+      "slept",
+      "sleeps"
+    ],
+    "correctAnswer": "sleeps",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-197",
+    "question": "She ___ (sleep) often.",
+    "options": [
+      "don't sleep",
+      "isn't sleeping",
+      "doesn't sleep",
+      "didn't sleep"
+    ],
+    "correctAnswer": "doesn't sleep",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-198",
+    "question": "___ she (sleep) often?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Does",
+    "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
+    "tenseType": "present-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-simple-199",
+    "question": "It ___ (research) every week.",
+    "options": [
+      "researches",
+      "research",
+      "researched",
+      "is researching"
+    ],
+    "correctAnswer": "researches",
+    "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-simple-200",
+    "question": "It ___ (research) every week.",
+    "options": [
+      "didn't research",
+      "doesn't research",
+      "isn't researching",
+      "don't research"
+    ],
+    "correctAnswer": "doesn't research",
+    "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
+    "tenseType": "present-simple",
+    "difficulty": "medium"
+  }
+]

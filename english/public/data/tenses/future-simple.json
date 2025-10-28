@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "future-simple-001",
+    "question": "You ___ (approve) later.",
+    "options": [
+      "have approved",
+      "approved",
+      "will approve",
+      "am approving"
+    ],
+    "correctAnswer": "will approve",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-002",
+    "question": "You ___ (approve) later.",
+    "options": [
+      "won't approve",
+      "does not approve",
+      "will not approve",
+      "am not approving"
+    ],
+    "correctAnswer": "will not approve",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-003",
+    "question": "___ you (approve) later?",
+    "options": [
+      "Are",
+      "Will",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-004",
+    "question": "She ___ (attend) tomorrow.",
+    "options": [
+      "attended",
+      "have attended",
+      "am attending",
+      "will attend"
+    ],
+    "correctAnswer": "will attend",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-005",
+    "question": "She ___ (attend) tomorrow.",
+    "options": [
+      "does not attend",
+      "won't attend",
+      "am not attending",
+      "will not attend"
+    ],
+    "correctAnswer": "will not attend",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-006",
+    "question": "___ she (attend) tomorrow?",
+    "options": [
+      "Are",
+      "Do",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-007",
+    "question": "It ___ (believe) next week.",
+    "options": [
+      "have believed",
+      "am believing",
+      "will believe",
+      "believed"
+    ],
+    "correctAnswer": "will believe",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-008",
+    "question": "It ___ (believe) next week.",
+    "options": [
+      "will not believe",
+      "am not believing",
+      "does not believe",
+      "won't believe"
+    ],
+    "correctAnswer": "will not believe",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-009",
+    "question": "___ it (believe) next week?",
+    "options": [
+      "Will",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-010",
+    "question": "I ___ (boil) later.",
+    "options": [
+      "will boil",
+      "am boiling",
+      "boiled",
+      "have boiled"
+    ],
+    "correctAnswer": "will boil",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-011",
+    "question": "I ___ (boil) later.",
+    "options": [
+      "does not boil",
+      "am not boiling",
+      "will not boil",
+      "won't boil"
+    ],
+    "correctAnswer": "will not boil",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-012",
+    "question": "___ i (boil) later?",
+    "options": [
+      "Does",
+      "Will",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-013",
+    "question": "They ___ (buy) later.",
+    "options": [
+      "have bought",
+      "am buyying",
+      "bought",
+      "will buy"
+    ],
+    "correctAnswer": "will buy",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-014",
+    "question": "They ___ (buy) later.",
+    "options": [
+      "am not buyying",
+      "does not buy",
+      "will not buy",
+      "won't buy"
+    ],
+    "correctAnswer": "will not buy",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-015",
+    "question": "___ they (buy) later?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-016",
+    "question": "We ___ (call) tomorrow.",
+    "options": [
+      "called",
+      "am calling",
+      "will call",
+      "have called"
+    ],
+    "correctAnswer": "will call",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-017",
+    "question": "We ___ (call) tomorrow.",
+    "options": [
+      "won't call",
+      "will not call",
+      "does not call",
+      "am not calling"
+    ],
+    "correctAnswer": "will not call",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-018",
+    "question": "___ we (call) tomorrow?",
+    "options": [
+      "Will",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-019",
+    "question": "He ___ (check) later.",
+    "options": [
+      "checked",
+      "have checked",
+      "will check",
+      "am checking"
+    ],
+    "correctAnswer": "will check",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-020",
+    "question": "He ___ (check) later.",
+    "options": [
+      "does not check",
+      "will not check",
+      "won't check",
+      "am not checking"
+    ],
+    "correctAnswer": "will not check",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-021",
+    "question": "___ he (check) later?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-022",
+    "question": "You ___ (close) soon.",
+    "options": [
+      "have closed",
+      "closed",
+      "will close",
+      "am closing"
+    ],
+    "correctAnswer": "will close",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-023",
+    "question": "You ___ (close) soon.",
+    "options": [
+      "will not close",
+      "am not closing",
+      "won't close",
+      "does not close"
+    ],
+    "correctAnswer": "will not close",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-024",
+    "question": "___ you (close) soon?",
+    "options": [
+      "Will",
+      "Does",
+      "Are",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-025",
+    "question": "She ___ (contain) next week.",
+    "options": [
+      "am containing",
+      "contained",
+      "will contain",
+      "have contained"
+    ],
+    "correctAnswer": "will contain",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-026",
+    "question": "She ___ (contain) next week.",
+    "options": [
+      "will not contain",
+      "won't contain",
+      "does not contain",
+      "am not containing"
+    ],
+    "correctAnswer": "will not contain",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-027",
+    "question": "___ she (contain) next week?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-028",
+    "question": "It ___ (coordinate) soon.",
+    "options": [
+      "coordinated",
+      "have coordinated",
+      "will coordinate",
+      "am coordinating"
+    ],
+    "correctAnswer": "will coordinate",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-029",
+    "question": "It ___ (coordinate) soon.",
+    "options": [
+      "does not coordinate",
+      "am not coordinating",
+      "will not coordinate",
+      "won't coordinate"
+    ],
+    "correctAnswer": "will not coordinate",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-030",
+    "question": "___ it (coordinate) soon?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-031",
+    "question": "I ___ (cook) later.",
+    "options": [
+      "have cooked",
+      "will cook",
+      "am cooking",
+      "cooked"
+    ],
+    "correctAnswer": "will cook",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-032",
+    "question": "I ___ (cook) later.",
+    "options": [
+      "am not cooking",
+      "will not cook",
+      "won't cook",
+      "does not cook"
+    ],
+    "correctAnswer": "will not cook",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-033",
+    "question": "___ i (cook) later?",
+    "options": [
+      "Do",
+      "Will",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-034",
+    "question": "They ___ (cost) soon.",
+    "options": [
+      "have cost",
+      "will cost",
+      "am costing",
+      "cost"
+    ],
+    "correctAnswer": "will cost",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-035",
+    "question": "They ___ (cost) soon.",
+    "options": [
+      "does not cost",
+      "will not cost",
+      "won't cost",
+      "am not costing"
+    ],
+    "correctAnswer": "will not cost",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-036",
+    "question": "___ they (cost) soon?",
+    "options": [
+      "Do",
+      "Will",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-037",
+    "question": "We ___ (depart) soon.",
+    "options": [
+      "departed",
+      "will depart",
+      "am departing",
+      "have departed"
+    ],
+    "correctAnswer": "will depart",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-038",
+    "question": "We ___ (depart) soon.",
+    "options": [
+      "does not depart",
+      "won't depart",
+      "am not departing",
+      "will not depart"
+    ],
+    "correctAnswer": "will not depart",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-039",
+    "question": "___ we (depart) soon?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-040",
+    "question": "He ___ (deliver) next week.",
+    "options": [
+      "have delivered",
+      "delivered",
+      "will deliver",
+      "am deliverring"
+    ],
+    "correctAnswer": "will deliver",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-041",
+    "question": "He ___ (deliver) next week.",
+    "options": [
+      "won't deliver",
+      "does not deliver",
+      "will not deliver",
+      "am not deliverring"
+    ],
+    "correctAnswer": "will not deliver",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-042",
+    "question": "___ he (deliver) next week?",
+    "options": [
+      "Will",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-043",
+    "question": "You ___ (disassemble) next week.",
+    "options": [
+      "will disassemble",
+      "have disassembled",
+      "disassembled",
+      "am disassembling"
+    ],
+    "correctAnswer": "will disassemble",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-044",
+    "question": "You ___ (disassemble) next week.",
+    "options": [
+      "does not disassemble",
+      "will not disassemble",
+      "am not disassembling",
+      "won't disassemble"
+    ],
+    "correctAnswer": "will not disassemble",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-045",
+    "question": "___ you (disassemble) next week?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-046",
+    "question": "She ___ (do) tomorrow.",
+    "options": [
+      "will do",
+      "am doing",
+      "did",
+      "have done"
+    ],
+    "correctAnswer": "will do",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-047",
+    "question": "She ___ (do) tomorrow.",
+    "options": [
+      "won't do",
+      "will not do",
+      "am not doing",
+      "does not do"
+    ],
+    "correctAnswer": "will not do",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-048",
+    "question": "___ she (do) tomorrow?",
+    "options": [
+      "Do",
+      "Will",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-049",
+    "question": "It ___ (drink) later.",
+    "options": [
+      "drank",
+      "will drink",
+      "have drunk",
+      "am drinking"
+    ],
+    "correctAnswer": "will drink",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-050",
+    "question": "It ___ (drink) later.",
+    "options": [
+      "will not drink",
+      "won't drink",
+      "am not drinking",
+      "does not drink"
+    ],
+    "correctAnswer": "will not drink",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-051",
+    "question": "___ it (drink) later?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-052",
+    "question": "I ___ (eat) soon.",
+    "options": [
+      "ate",
+      "will eat",
+      "have eaten",
+      "am eating"
+    ],
+    "correctAnswer": "will eat",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-053",
+    "question": "I ___ (eat) soon.",
+    "options": [
+      "does not eat",
+      "will not eat",
+      "am not eating",
+      "won't eat"
+    ],
+    "correctAnswer": "will not eat",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-054",
+    "question": "___ i (eat) soon?",
+    "options": [
+      "Are",
+      "Will",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-055",
+    "question": "They ___ (expire) later.",
+    "options": [
+      "will expire",
+      "am expiring",
+      "have expired",
+      "expired"
+    ],
+    "correctAnswer": "will expire",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-056",
+    "question": "They ___ (expire) later.",
+    "options": [
+      "does not expire",
+      "am not expiring",
+      "will not expire",
+      "won't expire"
+    ],
+    "correctAnswer": "will not expire",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-057",
+    "question": "___ they (expire) later?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-058",
+    "question": "We ___ (finish) later.",
+    "options": [
+      "finished",
+      "am finishing",
+      "have finished",
+      "will finish"
+    ],
+    "correctAnswer": "will finish",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-059",
+    "question": "We ___ (finish) later.",
+    "options": [
+      "am not finishing",
+      "will not finish",
+      "won't finish",
+      "does not finish"
+    ],
+    "correctAnswer": "will not finish",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-060",
+    "question": "___ we (finish) later?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-061",
+    "question": "He ___ (finalize) next week.",
+    "options": [
+      "finalized",
+      "will finalize",
+      "have finalized",
+      "am finalizing"
+    ],
+    "correctAnswer": "will finalize",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-062",
+    "question": "He ___ (finalize) next week.",
+    "options": [
+      "won't finalize",
+      "does not finalize",
+      "will not finalize",
+      "am not finalizing"
+    ],
+    "correctAnswer": "will not finalize",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-063",
+    "question": "___ he (finalize) next week?",
+    "options": [
+      "Are",
+      "Does",
+      "Will",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-064",
+    "question": "You ___ (give) next week.",
+    "options": [
+      "gave",
+      "am giving",
+      "have given",
+      "will give"
+    ],
+    "correctAnswer": "will give",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-065",
+    "question": "You ___ (give) next week.",
+    "options": [
+      "will not give",
+      "does not give",
+      "am not giving",
+      "won't give"
+    ],
+    "correctAnswer": "will not give",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-066",
+    "question": "___ you (give) next week?",
+    "options": [
+      "Are",
+      "Will",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-067",
+    "question": "She ___ (go) next week.",
+    "options": [
+      "will go",
+      "went",
+      "have gone",
+      "am going"
+    ],
+    "correctAnswer": "will go",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-068",
+    "question": "She ___ (go) next week.",
+    "options": [
+      "will not go",
+      "does not go",
+      "won't go",
+      "am not going"
+    ],
+    "correctAnswer": "will not go",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-069",
+    "question": "___ she (go) next week?",
+    "options": [
+      "Does",
+      "Will",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-070",
+    "question": "It ___ (have) tomorrow.",
+    "options": [
+      "had",
+      "will have",
+      "have had",
+      "am having"
+    ],
+    "correctAnswer": "will have",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-071",
+    "question": "It ___ (have) tomorrow.",
+    "options": [
+      "does not have",
+      "won't have",
+      "will not have",
+      "am not having"
+    ],
+    "correctAnswer": "will not have",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-072",
+    "question": "___ it (have) tomorrow?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-073",
+    "question": "I ___ (help) later.",
+    "options": [
+      "am helping",
+      "have helped",
+      "will help",
+      "helped"
+    ],
+    "correctAnswer": "will help",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-074",
+    "question": "I ___ (help) later.",
+    "options": [
+      "will not help",
+      "won't help",
+      "does not help",
+      "am not helping"
+    ],
+    "correctAnswer": "will not help",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-075",
+    "question": "___ i (help) later?",
+    "options": [
+      "Will",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-076",
+    "question": "They ___ (join) soon.",
+    "options": [
+      "will join",
+      "am joining",
+      "joined",
+      "have joined"
+    ],
+    "correctAnswer": "will join",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-077",
+    "question": "They ___ (join) soon.",
+    "options": [
+      "does not join",
+      "won't join",
+      "will not join",
+      "am not joining"
+    ],
+    "correctAnswer": "will not join",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-078",
+    "question": "___ they (join) soon?",
+    "options": [
+      "Will",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-079",
+    "question": "We ___ (leave) soon.",
+    "options": [
+      "am leaving",
+      "will leave",
+      "have left",
+      "left"
+    ],
+    "correctAnswer": "will leave",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-080",
+    "question": "We ___ (leave) soon.",
+    "options": [
+      "does not leave",
+      "am not leaving",
+      "won't leave",
+      "will not leave"
+    ],
+    "correctAnswer": "will not leave",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-081",
+    "question": "___ we (leave) soon?",
+    "options": [
+      "Will",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-082",
+    "question": "He ___ (like) later.",
+    "options": [
+      "have liked",
+      "liked",
+      "will like",
+      "am liking"
+    ],
+    "correctAnswer": "will like",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-083",
+    "question": "He ___ (like) later.",
+    "options": [
+      "does not like",
+      "will not like",
+      "won't like",
+      "am not liking"
+    ],
+    "correctAnswer": "will not like",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-084",
+    "question": "___ he (like) later?",
+    "options": [
+      "Will",
+      "Does",
+      "Do",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-085",
+    "question": "You ___ (live) tomorrow.",
+    "options": [
+      "have lived",
+      "lived",
+      "am living",
+      "will live"
+    ],
+    "correctAnswer": "will live",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-086",
+    "question": "You ___ (live) tomorrow.",
+    "options": [
+      "does not live",
+      "am not living",
+      "won't live",
+      "will not live"
+    ],
+    "correctAnswer": "will not live",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-087",
+    "question": "___ you (live) tomorrow?",
+    "options": [
+      "Will",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-088",
+    "question": "She ___ (manage) next week.",
+    "options": [
+      "have managed",
+      "will manage",
+      "managed",
+      "am managing"
+    ],
+    "correctAnswer": "will manage",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-089",
+    "question": "She ___ (manage) next week.",
+    "options": [
+      "does not manage",
+      "am not managing",
+      "will not manage",
+      "won't manage"
+    ],
+    "correctAnswer": "will not manage",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-090",
+    "question": "___ she (manage) next week?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-091",
+    "question": "It ___ (matter) soon.",
+    "options": [
+      "am matterring",
+      "mattered",
+      "will matter",
+      "have mattered"
+    ],
+    "correctAnswer": "will matter",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-092",
+    "question": "It ___ (matter) soon.",
+    "options": [
+      "won't matter",
+      "am not matterring",
+      "does not matter",
+      "will not matter"
+    ],
+    "correctAnswer": "will not matter",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-093",
+    "question": "___ it (matter) soon?",
+    "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-094",
+    "question": "I ___ (meet) tomorrow.",
+    "options": [
+      "am meeting",
+      "will meet",
+      "met",
+      "have met"
+    ],
+    "correctAnswer": "will meet",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-095",
+    "question": "I ___ (meet) tomorrow.",
+    "options": [
+      "am not meeting",
+      "will not meet",
+      "won't meet",
+      "does not meet"
+    ],
+    "correctAnswer": "will not meet",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-096",
+    "question": "___ i (meet) tomorrow?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-097",
+    "question": "They ___ (need) later.",
+    "options": [
+      "am needing",
+      "needed",
+      "have needed",
+      "will need"
+    ],
+    "correctAnswer": "will need",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-098",
+    "question": "They ___ (need) later.",
+    "options": [
+      "won't need",
+      "am not needing",
+      "does not need",
+      "will not need"
+    ],
+    "correctAnswer": "will not need",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-099",
+    "question": "___ they (need) later?",
+    "options": [
+      "Will",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-100",
+    "question": "We ___ (offer) soon.",
+    "options": [
+      "have offered",
+      "will offer",
+      "offered",
+      "am offerring"
+    ],
+    "correctAnswer": "will offer",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-101",
+    "question": "We ___ (offer) soon.",
+    "options": [
+      "will not offer",
+      "does not offer",
+      "am not offerring",
+      "won't offer"
+    ],
+    "correctAnswer": "will not offer",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-102",
+    "question": "___ we (offer) soon?",
+    "options": [
+      "Are",
+      "Do",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-103",
+    "question": "He ___ (open) soon.",
+    "options": [
+      "opened",
+      "will open",
+      "have opened",
+      "am openning"
+    ],
+    "correctAnswer": "will open",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-104",
+    "question": "He ___ (open) soon.",
+    "options": [
+      "am not openning",
+      "will not open",
+      "does not open",
+      "won't open"
+    ],
+    "correctAnswer": "will not open",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-105",
+    "question": "___ he (open) soon?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-106",
+    "question": "You ___ (order) later.",
+    "options": [
+      "am orderring",
+      "have ordered",
+      "will order",
+      "ordered"
+    ],
+    "correctAnswer": "will order",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-107",
+    "question": "You ___ (order) later.",
+    "options": [
+      "does not order",
+      "will not order",
+      "am not orderring",
+      "won't order"
+    ],
+    "correctAnswer": "will not order",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-108",
+    "question": "___ you (order) later?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-109",
+    "question": "She ___ (ship) later.",
+    "options": [
+      "am shipping",
+      "will ship",
+      "have shipped",
+      "shipped"
+    ],
+    "correctAnswer": "will ship",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-110",
+    "question": "She ___ (ship) later.",
+    "options": [
+      "won't ship",
+      "does not ship",
+      "will not ship",
+      "am not shipping"
+    ],
+    "correctAnswer": "will not ship",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-111",
+    "question": "___ she (ship) later?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-112",
+    "question": "It ___ (organize) next week.",
+    "options": [
+      "organized",
+      "am organizing",
+      "have organized",
+      "will organize"
+    ],
+    "correctAnswer": "will organize",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-113",
+    "question": "It ___ (organize) next week.",
+    "options": [
+      "am not organizing",
+      "won't organize",
+      "does not organize",
+      "will not organize"
+    ],
+    "correctAnswer": "will not organize",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-114",
+    "question": "___ it (organize) next week?",
+    "options": [
+      "Will",
+      "Do",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-115",
+    "question": "I ___ (own) next week.",
+    "options": [
+      "owned",
+      "will own",
+      "am owning",
+      "have owned"
+    ],
+    "correctAnswer": "will own",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-116",
+    "question": "I ___ (own) next week.",
+    "options": [
+      "does not own",
+      "won't own",
+      "will not own",
+      "am not owning"
+    ],
+    "correctAnswer": "will not own",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-117",
+    "question": "___ i (own) next week?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-118",
+    "question": "They ___ (play) next week.",
+    "options": [
+      "will play",
+      "played",
+      "have played",
+      "am playying"
+    ],
+    "correctAnswer": "will play",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-119",
+    "question": "They ___ (play) next week.",
+    "options": [
+      "am not playying",
+      "will not play",
+      "does not play",
+      "won't play"
+    ],
+    "correctAnswer": "will not play",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-120",
+    "question": "___ they (play) next week?",
+    "options": [
+      "Are",
+      "Do",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-121",
+    "question": "We ___ (prefer) soon.",
+    "options": [
+      "am preferring",
+      "have preferred",
+      "preferred",
+      "will prefer"
+    ],
+    "correctAnswer": "will prefer",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-122",
+    "question": "We ___ (prefer) soon.",
+    "options": [
+      "does not prefer",
+      "am not preferring",
+      "won't prefer",
+      "will not prefer"
+    ],
+    "correctAnswer": "will not prefer",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-123",
+    "question": "___ we (prefer) soon?",
+    "options": [
+      "Will",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-124",
+    "question": "He ___ (rain) later.",
+    "options": [
+      "will rain",
+      "am raining",
+      "have rained",
+      "rained"
+    ],
+    "correctAnswer": "will rain",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-125",
+    "question": "He ___ (rain) later.",
+    "options": [
+      "will not rain",
+      "won't rain",
+      "does not rain",
+      "am not raining"
+    ],
+    "correctAnswer": "will not rain",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-126",
+    "question": "___ he (rain) later?",
+    "options": [
+      "Do",
+      "Will",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-127",
+    "question": "You ___ (read) tomorrow.",
+    "options": [
+      "read",
+      "have read",
+      "will read",
+      "am reading"
+    ],
+    "correctAnswer": "will read",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-128",
+    "question": "You ___ (read) tomorrow.",
+    "options": [
+      "won't read",
+      "will not read",
+      "am not reading",
+      "does not read"
+    ],
+    "correctAnswer": "will not read",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-129",
+    "question": "___ you (read) tomorrow?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-130",
+    "question": "She ___ (remember) soon.",
+    "options": [
+      "have remembered",
+      "remembered",
+      "am rememberring",
+      "will remember"
+    ],
+    "correctAnswer": "will remember",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-131",
+    "question": "She ___ (remember) soon.",
+    "options": [
+      "am not rememberring",
+      "won't remember",
+      "will not remember",
+      "does not remember"
+    ],
+    "correctAnswer": "will not remember",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-132",
+    "question": "___ she (remember) soon?",
+    "options": [
+      "Do",
+      "Does",
+      "Will",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-133",
+    "question": "It ___ (rise) soon.",
+    "options": [
+      "am rising",
+      "have risen",
+      "will rise",
+      "rose"
+    ],
+    "correctAnswer": "will rise",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-134",
+    "question": "It ___ (rise) soon.",
+    "options": [
+      "will not rise",
+      "does not rise",
+      "am not rising",
+      "won't rise"
+    ],
+    "correctAnswer": "will not rise",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-135",
+    "question": "___ it (rise) soon?",
+    "options": [
+      "Does",
+      "Do",
+      "Will",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-136",
+    "question": "I ___ (run) next week.",
+    "options": [
+      "ran",
+      "have run",
+      "will run",
+      "am running"
+    ],
+    "correctAnswer": "will run",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-137",
+    "question": "I ___ (run) next week.",
+    "options": [
+      "does not run",
+      "am not running",
+      "won't run",
+      "will not run"
+    ],
+    "correctAnswer": "will not run",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-138",
+    "question": "___ i (run) next week?",
+    "options": [
+      "Will",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-139",
+    "question": "They ___ (serve) later.",
+    "options": [
+      "have served",
+      "will serve",
+      "served",
+      "am serving"
+    ],
+    "correctAnswer": "will serve",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-140",
+    "question": "They ___ (serve) later.",
+    "options": [
+      "will not serve",
+      "am not serving",
+      "does not serve",
+      "won't serve"
+    ],
+    "correctAnswer": "will not serve",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-141",
+    "question": "___ they (serve) later?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-142",
+    "question": "We ___ (speak) next week.",
+    "options": [
+      "am speaking",
+      "have spoken",
+      "will speak",
+      "spoke"
+    ],
+    "correctAnswer": "will speak",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-143",
+    "question": "We ___ (speak) next week.",
+    "options": [
+      "am not speaking",
+      "does not speak",
+      "won't speak",
+      "will not speak"
+    ],
+    "correctAnswer": "will not speak",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-144",
+    "question": "___ we (speak) next week?",
+    "options": [
+      "Do",
+      "Are",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-145",
+    "question": "He ___ (spoil) tomorrow.",
+    "options": [
+      "spoiled",
+      "will spoil",
+      "have spoiled",
+      "am spoiling"
+    ],
+    "correctAnswer": "will spoil",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-146",
+    "question": "He ___ (spoil) tomorrow.",
+    "options": [
+      "won't spoil",
+      "am not spoiling",
+      "does not spoil",
+      "will not spoil"
+    ],
+    "correctAnswer": "will not spoil",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-147",
+    "question": "___ he (spoil) tomorrow?",
+    "options": [
+      "Are",
+      "Does",
+      "Will",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-148",
+    "question": "You ___ (start) next week.",
+    "options": [
+      "will start",
+      "am starting",
+      "have started",
+      "started"
+    ],
+    "correctAnswer": "will start",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-149",
+    "question": "You ___ (start) next week.",
+    "options": [
+      "does not start",
+      "will not start",
+      "am not starting",
+      "won't start"
+    ],
+    "correctAnswer": "will not start",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-150",
+    "question": "___ you (start) next week?",
+    "options": [
+      "Does",
+      "Do",
+      "Are",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-151",
+    "question": "She ___ (stay) tomorrow.",
+    "options": [
+      "will stay",
+      "have stayed",
+      "stayed",
+      "am stayying"
+    ],
+    "correctAnswer": "will stay",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-152",
+    "question": "She ___ (stay) tomorrow.",
+    "options": [
+      "am not stayying",
+      "does not stay",
+      "will not stay",
+      "won't stay"
+    ],
+    "correctAnswer": "will not stay",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-153",
+    "question": "___ she (stay) tomorrow?",
+    "options": [
+      "Does",
+      "Do",
+      "Will",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-154",
+    "question": "It ___ (study) next week.",
+    "options": [
+      "have studied",
+      "am studying",
+      "studied",
+      "will study"
+    ],
+    "correctAnswer": "will study",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-155",
+    "question": "It ___ (study) next week.",
+    "options": [
+      "will not study",
+      "am not studying",
+      "won't study",
+      "does not study"
+    ],
+    "correctAnswer": "will not study",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-156",
+    "question": "___ it (study) next week?",
+    "options": [
+      "Will",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-157",
+    "question": "I ___ (take) later.",
+    "options": [
+      "am taking",
+      "will take",
+      "took",
+      "have taken"
+    ],
+    "correctAnswer": "will take",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-158",
+    "question": "I ___ (take) later.",
+    "options": [
+      "am not taking",
+      "will not take",
+      "won't take",
+      "does not take"
+    ],
+    "correctAnswer": "will not take",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-159",
+    "question": "___ i (take) later?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-160",
+    "question": "They ___ (teach) later.",
+    "options": [
+      "taught",
+      "have taught",
+      "will teach",
+      "am teaching"
+    ],
+    "correctAnswer": "will teach",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-161",
+    "question": "They ___ (teach) later.",
+    "options": [
+      "am not teaching",
+      "will not teach",
+      "does not teach",
+      "won't teach"
+    ],
+    "correctAnswer": "will not teach",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-162",
+    "question": "___ they (teach) later?",
+    "options": [
+      "Do",
+      "Are",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-163",
+    "question": "We ___ (travel) next week.",
+    "options": [
+      "traveled",
+      "will travel",
+      "am travelling",
+      "have traveled"
+    ],
+    "correctAnswer": "will travel",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-164",
+    "question": "We ___ (travel) next week.",
+    "options": [
+      "does not travel",
+      "will not travel",
+      "am not travelling",
+      "won't travel"
+    ],
+    "correctAnswer": "will not travel",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-165",
+    "question": "___ we (travel) next week?",
+    "options": [
+      "Does",
+      "Are",
+      "Will",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-166",
+    "question": "He ___ (understand) next week.",
+    "options": [
+      "have understood",
+      "am understanding",
+      "understood",
+      "will understand"
+    ],
+    "correctAnswer": "will understand",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-167",
+    "question": "He ___ (understand) next week.",
+    "options": [
+      "will not understand",
+      "won't understand",
+      "am not understanding",
+      "does not understand"
+    ],
+    "correctAnswer": "will not understand",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-168",
+    "question": "___ he (understand) next week?",
+    "options": [
+      "Do",
+      "Will",
+      "Does",
+      "Are"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-169",
+    "question": "You ___ (use) tomorrow.",
+    "options": [
+      "will use",
+      "used",
+      "am using",
+      "have used"
+    ],
+    "correctAnswer": "will use",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-170",
+    "question": "You ___ (use) tomorrow.",
+    "options": [
+      "does not use",
+      "won't use",
+      "will not use",
+      "am not using"
+    ],
+    "correctAnswer": "will not use",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-171",
+    "question": "___ you (use) tomorrow?",
+    "options": [
+      "Will",
+      "Are",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-172",
+    "question": "She ___ (visit) tomorrow.",
+    "options": [
+      "will visit",
+      "visited",
+      "am visitting",
+      "have visited"
+    ],
+    "correctAnswer": "will visit",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-173",
+    "question": "She ___ (visit) tomorrow.",
+    "options": [
+      "does not visit",
+      "won't visit",
+      "will not visit",
+      "am not visitting"
+    ],
+    "correctAnswer": "will not visit",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-174",
+    "question": "___ she (visit) tomorrow?",
+    "options": [
+      "Do",
+      "Are",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-175",
+    "question": "It ___ (watch) soon.",
+    "options": [
+      "am watching",
+      "will watch",
+      "have watched",
+      "watched"
+    ],
+    "correctAnswer": "will watch",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-176",
+    "question": "It ___ (watch) soon.",
+    "options": [
+      "does not watch",
+      "will not watch",
+      "won't watch",
+      "am not watching"
+    ],
+    "correctAnswer": "will not watch",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-177",
+    "question": "___ it (watch) soon?",
+    "options": [
+      "Do",
+      "Are",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-178",
+    "question": "I ___ (weigh) soon.",
+    "options": [
+      "have weighed",
+      "weighed",
+      "will weigh",
+      "am weighing"
+    ],
+    "correctAnswer": "will weigh",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-179",
+    "question": "I ___ (weigh) soon.",
+    "options": [
+      "won't weigh",
+      "am not weighing",
+      "does not weigh",
+      "will not weigh"
+    ],
+    "correctAnswer": "will not weigh",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-180",
+    "question": "___ i (weigh) soon?",
+    "options": [
+      "Are",
+      "Will",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-181",
+    "question": "They ___ (work) soon.",
+    "options": [
+      "have worked",
+      "worked",
+      "will work",
+      "am working"
+    ],
+    "correctAnswer": "will work",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-182",
+    "question": "They ___ (work) soon.",
+    "options": [
+      "does not work",
+      "won't work",
+      "am not working",
+      "will not work"
+    ],
+    "correctAnswer": "will not work",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-183",
+    "question": "___ they (work) soon?",
+    "options": [
+      "Are",
+      "Do",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-184",
+    "question": "We ___ (be) later.",
+    "options": [
+      "am being",
+      "have been",
+      "will be",
+      "was/were"
+    ],
+    "correctAnswer": "will be",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-185",
+    "question": "We ___ (be) later.",
+    "options": [
+      "will not be",
+      "am not being",
+      "does not be",
+      "won't be"
+    ],
+    "correctAnswer": "will not be",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-186",
+    "question": "___ we (be) later?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-187",
+    "question": "He ___ (brush) tomorrow.",
+    "options": [
+      "will brush",
+      "am brushing",
+      "have brushed",
+      "brushed"
+    ],
+    "correctAnswer": "will brush",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-188",
+    "question": "He ___ (brush) tomorrow.",
+    "options": [
+      "won't brush",
+      "will not brush",
+      "does not brush",
+      "am not brushing"
+    ],
+    "correctAnswer": "will not brush",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-189",
+    "question": "___ he (brush) tomorrow?",
+    "options": [
+      "Does",
+      "Are",
+      "Do",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-190",
+    "question": "You ___ (exercise) tomorrow.",
+    "options": [
+      "exercised",
+      "will exercise",
+      "am exercising",
+      "have exercised"
+    ],
+    "correctAnswer": "will exercise",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-191",
+    "question": "You ___ (exercise) tomorrow.",
+    "options": [
+      "won't exercise",
+      "will not exercise",
+      "does not exercise",
+      "am not exercising"
+    ],
+    "correctAnswer": "will not exercise",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-192",
+    "question": "___ you (exercise) tomorrow?",
+    "options": [
+      "Are",
+      "Do",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-193",
+    "question": "She ___ (listen) next week.",
+    "options": [
+      "am listenning",
+      "will listen",
+      "have listened",
+      "listened"
+    ],
+    "correctAnswer": "will listen",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-194",
+    "question": "She ___ (listen) next week.",
+    "options": [
+      "will not listen",
+      "does not listen",
+      "won't listen",
+      "am not listenning"
+    ],
+    "correctAnswer": "will not listen",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-195",
+    "question": "___ she (listen) next week?",
+    "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Will"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-196",
+    "question": "It ___ (sleep) soon.",
+    "options": [
+      "have slept",
+      "slept",
+      "will sleep",
+      "am sleeping"
+    ],
+    "correctAnswer": "will sleep",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-197",
+    "question": "It ___ (sleep) soon.",
+    "options": [
+      "won't sleep",
+      "does not sleep",
+      "will not sleep",
+      "am not sleeping"
+    ],
+    "correctAnswer": "will not sleep",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-198",
+    "question": "___ it (sleep) soon?",
+    "options": [
+      "Are",
+      "Do",
+      "Will",
+      "Does"
+    ],
+    "correctAnswer": "Will",
+    "explanation": "Future Simple (nghi vấn): Will + S + V?",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-199",
+    "question": "I ___ (research) later.",
+    "options": [
+      "am researching",
+      "will research",
+      "have researched",
+      "researched"
+    ],
+    "correctAnswer": "will research",
+    "explanation": "Future Simple: will + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "future-simple-200",
+    "question": "I ___ (research) later.",
+    "options": [
+      "does not research",
+      "won't research",
+      "will not research",
+      "am not researching"
+    ],
+    "correctAnswer": "will not research",
+    "explanation": "Future Simple (phủ định): will not + V.",
+    "tenseType": "future-simple",
+    "difficulty": "easy"
+  }
+]

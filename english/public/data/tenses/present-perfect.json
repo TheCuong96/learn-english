@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "present-perfect-001",
+    "question": "It ___ (approve) just.",
+    "options": [
+      "is approving",
+      "has approved",
+      "have approved",
+      "approved"
+    ],
+    "correctAnswer": "has approved",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-002",
+    "question": "It ___ (approve) just.",
+    "options": [
+      "haven't approved",
+      "hasn't approved",
+      "is approving",
+      "did not approve"
+    ],
+    "correctAnswer": "hasn't approved",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-003",
+    "question": "___ it (approve) just?",
+    "options": [
+      "Do",
+      "Is",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-004",
+    "question": "We ___ (attend) just.",
+    "options": [
+      "are attending",
+      "attended",
+      "has attended",
+      "have attended"
+    ],
+    "correctAnswer": "have attended",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-005",
+    "question": "We ___ (attend) just.",
+    "options": [
+      "haven't attended",
+      "hasn't attended",
+      "did not attend",
+      "are attending"
+    ],
+    "correctAnswer": "haven't attended",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-006",
+    "question": "___ we (attend) just?",
+    "options": [
+      "Have",
+      "Do",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-007",
+    "question": "I ___ (believe) never.",
+    "options": [
+      "am believing",
+      "have believed",
+      "believed",
+      "has believed"
+    ],
+    "correctAnswer": "have believed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-008",
+    "question": "I ___ (believe) never.",
+    "options": [
+      "am believing",
+      "hasn't believed",
+      "did not believe",
+      "haven't believed"
+    ],
+    "correctAnswer": "haven't believed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-009",
+    "question": "___ i (believe) never?",
+    "options": [
+      "Is",
+      "Did",
+      "Do",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-010",
+    "question": "She ___ (boil) yet.",
+    "options": [
+      "boiled",
+      "is boiling",
+      "has boiled",
+      "have boiled"
+    ],
+    "correctAnswer": "has boiled",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-011",
+    "question": "She ___ (boil) yet.",
+    "options": [
+      "did not boil",
+      "haven't boiled",
+      "is boiling",
+      "hasn't boiled"
+    ],
+    "correctAnswer": "hasn't boiled",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-012",
+    "question": "___ she (boil) yet?",
+    "options": [
+      "Is",
+      "Has",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-013",
+    "question": "He ___ (buy) recently.",
+    "options": [
+      "bought",
+      "have bought",
+      "is buyying",
+      "has bought"
+    ],
+    "correctAnswer": "has bought",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-014",
+    "question": "He ___ (buy) recently.",
+    "options": [
+      "did not buy",
+      "haven't bought",
+      "is buyying",
+      "hasn't bought"
+    ],
+    "correctAnswer": "hasn't bought",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-015",
+    "question": "___ he (buy) recently?",
+    "options": [
+      "Has",
+      "Is",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-016",
+    "question": "They ___ (call) just.",
+    "options": [
+      "has called",
+      "have called",
+      "called",
+      "are calling"
+    ],
+    "correctAnswer": "have called",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-017",
+    "question": "They ___ (call) just.",
+    "options": [
+      "did not call",
+      "haven't called",
+      "hasn't called",
+      "are calling"
+    ],
+    "correctAnswer": "haven't called",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-018",
+    "question": "___ they (call) just?",
+    "options": [
+      "Have",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-019",
+    "question": "You ___ (check) never.",
+    "options": [
+      "are checking",
+      "checked",
+      "has checked",
+      "have checked"
+    ],
+    "correctAnswer": "have checked",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-020",
+    "question": "You ___ (check) never.",
+    "options": [
+      "are checking",
+      "did not check",
+      "hasn't checked",
+      "haven't checked"
+    ],
+    "correctAnswer": "haven't checked",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-021",
+    "question": "___ you (check) never?",
+    "options": [
+      "Have",
+      "Is",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-022",
+    "question": "It ___ (close) ever.",
+    "options": [
+      "closed",
+      "has closed",
+      "is closing",
+      "have closed"
+    ],
+    "correctAnswer": "has closed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-023",
+    "question": "It ___ (close) ever.",
+    "options": [
+      "did not close",
+      "haven't closed",
+      "is closing",
+      "hasn't closed"
+    ],
+    "correctAnswer": "hasn't closed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-024",
+    "question": "___ it (close) ever?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-025",
+    "question": "We ___ (contain) never.",
+    "options": [
+      "contained",
+      "are containing",
+      "have contained",
+      "has contained"
+    ],
+    "correctAnswer": "have contained",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-026",
+    "question": "We ___ (contain) never.",
+    "options": [
+      "did not contain",
+      "are containing",
+      "haven't contained",
+      "hasn't contained"
+    ],
+    "correctAnswer": "haven't contained",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-027",
+    "question": "___ we (contain) never?",
+    "options": [
+      "Did",
+      "Do",
+      "Is",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-028",
+    "question": "I ___ (coordinate) never.",
+    "options": [
+      "coordinated",
+      "has coordinated",
+      "have coordinated",
+      "am coordinating"
+    ],
+    "correctAnswer": "have coordinated",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-029",
+    "question": "I ___ (coordinate) never.",
+    "options": [
+      "haven't coordinated",
+      "did not coordinate",
+      "hasn't coordinated",
+      "am coordinating"
+    ],
+    "correctAnswer": "haven't coordinated",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-030",
+    "question": "___ i (coordinate) never?",
+    "options": [
+      "Have",
+      "Is",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-031",
+    "question": "She ___ (cook) ever.",
+    "options": [
+      "cooked",
+      "have cooked",
+      "is cooking",
+      "has cooked"
+    ],
+    "correctAnswer": "has cooked",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-032",
+    "question": "She ___ (cook) ever.",
+    "options": [
+      "haven't cooked",
+      "is cooking",
+      "did not cook",
+      "hasn't cooked"
+    ],
+    "correctAnswer": "hasn't cooked",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-033",
+    "question": "___ she (cook) ever?",
+    "options": [
+      "Do",
+      "Is",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-034",
+    "question": "He ___ (cost) ever.",
+    "options": [
+      "cost",
+      "have cost",
+      "has cost",
+      "is costing"
+    ],
+    "correctAnswer": "has cost",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-035",
+    "question": "He ___ (cost) ever.",
+    "options": [
+      "haven't cost",
+      "hasn't cost",
+      "is costing",
+      "did not cost"
+    ],
+    "correctAnswer": "hasn't cost",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-036",
+    "question": "___ he (cost) ever?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-037",
+    "question": "They ___ (depart) so far.",
+    "options": [
+      "departed",
+      "are departing",
+      "has departed",
+      "have departed"
+    ],
+    "correctAnswer": "have departed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-038",
+    "question": "They ___ (depart) so far.",
+    "options": [
+      "haven't departed",
+      "did not depart",
+      "are departing",
+      "hasn't departed"
+    ],
+    "correctAnswer": "haven't departed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-039",
+    "question": "___ they (depart) so far?",
+    "options": [
+      "Do",
+      "Is",
+      "Did",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-040",
+    "question": "You ___ (deliver) ever.",
+    "options": [
+      "has delivered",
+      "are deliverring",
+      "have delivered",
+      "delivered"
+    ],
+    "correctAnswer": "have delivered",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-041",
+    "question": "You ___ (deliver) ever.",
+    "options": [
+      "did not deliver",
+      "are deliverring",
+      "haven't delivered",
+      "hasn't delivered"
+    ],
+    "correctAnswer": "haven't delivered",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-042",
+    "question": "___ you (deliver) ever?",
+    "options": [
+      "Do",
+      "Have",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-043",
+    "question": "It ___ (disassemble) yet.",
+    "options": [
+      "has disassembled",
+      "is disassembling",
+      "have disassembled",
+      "disassembled"
+    ],
+    "correctAnswer": "has disassembled",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-044",
+    "question": "It ___ (disassemble) yet.",
+    "options": [
+      "haven't disassembled",
+      "did not disassemble",
+      "is disassembling",
+      "hasn't disassembled"
+    ],
+    "correctAnswer": "hasn't disassembled",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-045",
+    "question": "___ it (disassemble) yet?",
+    "options": [
+      "Did",
+      "Is",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-046",
+    "question": "We ___ (do) so far.",
+    "options": [
+      "has done",
+      "have done",
+      "did",
+      "are doing"
+    ],
+    "correctAnswer": "have done",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-047",
+    "question": "We ___ (do) so far.",
+    "options": [
+      "are doing",
+      "hasn't done",
+      "haven't done",
+      "did not do"
+    ],
+    "correctAnswer": "haven't done",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-048",
+    "question": "___ we (do) so far?",
+    "options": [
+      "Do",
+      "Is",
+      "Have",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-049",
+    "question": "I ___ (drink) already.",
+    "options": [
+      "drank",
+      "am drinking",
+      "have drunk",
+      "has drunk"
+    ],
+    "correctAnswer": "have drunk",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-050",
+    "question": "I ___ (drink) already.",
+    "options": [
+      "hasn't drunk",
+      "am drinking",
+      "haven't drunk",
+      "did not drink"
+    ],
+    "correctAnswer": "haven't drunk",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-051",
+    "question": "___ i (drink) already?",
+    "options": [
+      "Do",
+      "Did",
+      "Have",
+      "Is"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-052",
+    "question": "She ___ (eat) just.",
+    "options": [
+      "is eating",
+      "have eaten",
+      "ate",
+      "has eaten"
+    ],
+    "correctAnswer": "has eaten",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-053",
+    "question": "She ___ (eat) just.",
+    "options": [
+      "is eating",
+      "haven't eaten",
+      "did not eat",
+      "hasn't eaten"
+    ],
+    "correctAnswer": "hasn't eaten",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-054",
+    "question": "___ she (eat) just?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-055",
+    "question": "He ___ (expire) already.",
+    "options": [
+      "have expired",
+      "is expiring",
+      "has expired",
+      "expired"
+    ],
+    "correctAnswer": "has expired",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-056",
+    "question": "He ___ (expire) already.",
+    "options": [
+      "did not expire",
+      "is expiring",
+      "hasn't expired",
+      "haven't expired"
+    ],
+    "correctAnswer": "hasn't expired",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-057",
+    "question": "___ he (expire) already?",
+    "options": [
+      "Has",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-058",
+    "question": "They ___ (finish) yet.",
+    "options": [
+      "have finished",
+      "finished",
+      "has finished",
+      "are finishing"
+    ],
+    "correctAnswer": "have finished",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-059",
+    "question": "They ___ (finish) yet.",
+    "options": [
+      "are finishing",
+      "hasn't finished",
+      "haven't finished",
+      "did not finish"
+    ],
+    "correctAnswer": "haven't finished",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-060",
+    "question": "___ they (finish) yet?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-061",
+    "question": "You ___ (finalize) so far.",
+    "options": [
+      "have finalized",
+      "finalized",
+      "has finalized",
+      "are finalizing"
+    ],
+    "correctAnswer": "have finalized",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-062",
+    "question": "You ___ (finalize) so far.",
+    "options": [
+      "did not finalize",
+      "haven't finalized",
+      "hasn't finalized",
+      "are finalizing"
+    ],
+    "correctAnswer": "haven't finalized",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-063",
+    "question": "___ you (finalize) so far?",
+    "options": [
+      "Have",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-064",
+    "question": "It ___ (give) so far.",
+    "options": [
+      "have given",
+      "has given",
+      "gave",
+      "is giving"
+    ],
+    "correctAnswer": "has given",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-065",
+    "question": "It ___ (give) so far.",
+    "options": [
+      "hasn't given",
+      "did not give",
+      "haven't given",
+      "is giving"
+    ],
+    "correctAnswer": "hasn't given",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-066",
+    "question": "___ it (give) so far?",
+    "options": [
+      "Did",
+      "Is",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-067",
+    "question": "We ___ (go) already.",
+    "options": [
+      "has gone",
+      "have gone",
+      "went",
+      "are going"
+    ],
+    "correctAnswer": "have gone",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-068",
+    "question": "We ___ (go) already.",
+    "options": [
+      "did not go",
+      "haven't gone",
+      "are going",
+      "hasn't gone"
+    ],
+    "correctAnswer": "haven't gone",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-069",
+    "question": "___ we (go) already?",
+    "options": [
+      "Have",
+      "Is",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-070",
+    "question": "I ___ (have) just.",
+    "options": [
+      "have had",
+      "had",
+      "has had",
+      "am having"
+    ],
+    "correctAnswer": "have had",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-071",
+    "question": "I ___ (have) just.",
+    "options": [
+      "haven't had",
+      "am having",
+      "hasn't had",
+      "did not have"
+    ],
+    "correctAnswer": "haven't had",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-072",
+    "question": "___ i (have) just?",
+    "options": [
+      "Did",
+      "Is",
+      "Do",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-073",
+    "question": "She ___ (help) just.",
+    "options": [
+      "is helping",
+      "has helped",
+      "have helped",
+      "helped"
+    ],
+    "correctAnswer": "has helped",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-074",
+    "question": "She ___ (help) just.",
+    "options": [
+      "did not help",
+      "haven't helped",
+      "is helping",
+      "hasn't helped"
+    ],
+    "correctAnswer": "hasn't helped",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-075",
+    "question": "___ she (help) just?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-076",
+    "question": "He ___ (join) just.",
+    "options": [
+      "joined",
+      "have joined",
+      "is joining",
+      "has joined"
+    ],
+    "correctAnswer": "has joined",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-077",
+    "question": "He ___ (join) just.",
+    "options": [
+      "hasn't joined",
+      "haven't joined",
+      "is joining",
+      "did not join"
+    ],
+    "correctAnswer": "hasn't joined",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-078",
+    "question": "___ he (join) just?",
+    "options": [
+      "Has",
+      "Is",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-079",
+    "question": "They ___ (leave) ever.",
+    "options": [
+      "have left",
+      "has left",
+      "left",
+      "are leaving"
+    ],
+    "correctAnswer": "have left",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-080",
+    "question": "They ___ (leave) ever.",
+    "options": [
+      "haven't left",
+      "are leaving",
+      "did not leave",
+      "hasn't left"
+    ],
+    "correctAnswer": "haven't left",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-081",
+    "question": "___ they (leave) ever?",
+    "options": [
+      "Have",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-082",
+    "question": "You ___ (like) so far.",
+    "options": [
+      "liked",
+      "are liking",
+      "have liked",
+      "has liked"
+    ],
+    "correctAnswer": "have liked",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-083",
+    "question": "You ___ (like) so far.",
+    "options": [
+      "haven't liked",
+      "are liking",
+      "hasn't liked",
+      "did not like"
+    ],
+    "correctAnswer": "haven't liked",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-084",
+    "question": "___ you (like) so far?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-085",
+    "question": "It ___ (live) just.",
+    "options": [
+      "lived",
+      "is living",
+      "has lived",
+      "have lived"
+    ],
+    "correctAnswer": "has lived",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-086",
+    "question": "It ___ (live) just.",
+    "options": [
+      "did not live",
+      "hasn't lived",
+      "is living",
+      "haven't lived"
+    ],
+    "correctAnswer": "hasn't lived",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-087",
+    "question": "___ it (live) just?",
+    "options": [
+      "Did",
+      "Has",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-088",
+    "question": "We ___ (manage) ever.",
+    "options": [
+      "has managed",
+      "have managed",
+      "are managing",
+      "managed"
+    ],
+    "correctAnswer": "have managed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-089",
+    "question": "We ___ (manage) ever.",
+    "options": [
+      "hasn't managed",
+      "did not manage",
+      "are managing",
+      "haven't managed"
+    ],
+    "correctAnswer": "haven't managed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-090",
+    "question": "___ we (manage) ever?",
+    "options": [
+      "Do",
+      "Is",
+      "Have",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-091",
+    "question": "I ___ (matter) recently.",
+    "options": [
+      "have mattered",
+      "mattered",
+      "has mattered",
+      "am matterring"
+    ],
+    "correctAnswer": "have mattered",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-092",
+    "question": "I ___ (matter) recently.",
+    "options": [
+      "haven't mattered",
+      "did not matter",
+      "hasn't mattered",
+      "am matterring"
+    ],
+    "correctAnswer": "haven't mattered",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-093",
+    "question": "___ i (matter) recently?",
+    "options": [
+      "Do",
+      "Is",
+      "Did",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-094",
+    "question": "She ___ (meet) never.",
+    "options": [
+      "have met",
+      "is meeting",
+      "met",
+      "has met"
+    ],
+    "correctAnswer": "has met",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-095",
+    "question": "She ___ (meet) never.",
+    "options": [
+      "is meeting",
+      "haven't met",
+      "did not meet",
+      "hasn't met"
+    ],
+    "correctAnswer": "hasn't met",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-096",
+    "question": "___ she (meet) never?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-097",
+    "question": "He ___ (need) already.",
+    "options": [
+      "have needed",
+      "has needed",
+      "needed",
+      "is needing"
+    ],
+    "correctAnswer": "has needed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-098",
+    "question": "He ___ (need) already.",
+    "options": [
+      "did not need",
+      "haven't needed",
+      "hasn't needed",
+      "is needing"
+    ],
+    "correctAnswer": "hasn't needed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-099",
+    "question": "___ he (need) already?",
+    "options": [
+      "Has",
+      "Did",
+      "Do",
+      "Is"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-100",
+    "question": "They ___ (offer) just.",
+    "options": [
+      "offered",
+      "have offered",
+      "has offered",
+      "are offerring"
+    ],
+    "correctAnswer": "have offered",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-101",
+    "question": "They ___ (offer) just.",
+    "options": [
+      "haven't offered",
+      "hasn't offered",
+      "are offerring",
+      "did not offer"
+    ],
+    "correctAnswer": "haven't offered",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-102",
+    "question": "___ they (offer) just?",
+    "options": [
+      "Do",
+      "Is",
+      "Have",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-103",
+    "question": "You ___ (open) ever.",
+    "options": [
+      "have opened",
+      "opened",
+      "has opened",
+      "are openning"
+    ],
+    "correctAnswer": "have opened",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-104",
+    "question": "You ___ (open) ever.",
+    "options": [
+      "are openning",
+      "did not open",
+      "hasn't opened",
+      "haven't opened"
+    ],
+    "correctAnswer": "haven't opened",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-105",
+    "question": "___ you (open) ever?",
+    "options": [
+      "Do",
+      "Did",
+      "Is",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-106",
+    "question": "It ___ (order) already.",
+    "options": [
+      "is orderring",
+      "have ordered",
+      "has ordered",
+      "ordered"
+    ],
+    "correctAnswer": "has ordered",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-107",
+    "question": "It ___ (order) already.",
+    "options": [
+      "haven't ordered",
+      "did not order",
+      "is orderring",
+      "hasn't ordered"
+    ],
+    "correctAnswer": "hasn't ordered",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-108",
+    "question": "___ it (order) already?",
+    "options": [
+      "Is",
+      "Do",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-109",
+    "question": "We ___ (ship) yet.",
+    "options": [
+      "are shipping",
+      "has shipped",
+      "have shipped",
+      "shipped"
+    ],
+    "correctAnswer": "have shipped",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-110",
+    "question": "We ___ (ship) yet.",
+    "options": [
+      "are shipping",
+      "hasn't shipped",
+      "did not ship",
+      "haven't shipped"
+    ],
+    "correctAnswer": "haven't shipped",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-111",
+    "question": "___ we (ship) yet?",
+    "options": [
+      "Is",
+      "Do",
+      "Have",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-112",
+    "question": "I ___ (organize) ever.",
+    "options": [
+      "has organized",
+      "am organizing",
+      "have organized",
+      "organized"
+    ],
+    "correctAnswer": "have organized",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-113",
+    "question": "I ___ (organize) ever.",
+    "options": [
+      "hasn't organized",
+      "am organizing",
+      "did not organize",
+      "haven't organized"
+    ],
+    "correctAnswer": "haven't organized",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-114",
+    "question": "___ i (organize) ever?",
+    "options": [
+      "Have",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-115",
+    "question": "She ___ (own) never.",
+    "options": [
+      "is owning",
+      "owned",
+      "have owned",
+      "has owned"
+    ],
+    "correctAnswer": "has owned",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-116",
+    "question": "She ___ (own) never.",
+    "options": [
+      "did not own",
+      "is owning",
+      "haven't owned",
+      "hasn't owned"
+    ],
+    "correctAnswer": "hasn't owned",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-117",
+    "question": "___ she (own) never?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-118",
+    "question": "He ___ (play) just.",
+    "options": [
+      "is playying",
+      "has played",
+      "played",
+      "have played"
+    ],
+    "correctAnswer": "has played",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-119",
+    "question": "He ___ (play) just.",
+    "options": [
+      "is playying",
+      "haven't played",
+      "hasn't played",
+      "did not play"
+    ],
+    "correctAnswer": "hasn't played",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-120",
+    "question": "___ he (play) just?",
+    "options": [
+      "Did",
+      "Is",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-121",
+    "question": "They ___ (prefer) already.",
+    "options": [
+      "have preferred",
+      "has preferred",
+      "preferred",
+      "are preferring"
+    ],
+    "correctAnswer": "have preferred",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-122",
+    "question": "They ___ (prefer) already.",
+    "options": [
+      "are preferring",
+      "did not prefer",
+      "haven't preferred",
+      "hasn't preferred"
+    ],
+    "correctAnswer": "haven't preferred",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-123",
+    "question": "___ they (prefer) already?",
+    "options": [
+      "Did",
+      "Is",
+      "Do",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-124",
+    "question": "You ___ (rain) yet.",
+    "options": [
+      "are raining",
+      "has rained",
+      "rained",
+      "have rained"
+    ],
+    "correctAnswer": "have rained",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-125",
+    "question": "You ___ (rain) yet.",
+    "options": [
+      "hasn't rained",
+      "are raining",
+      "haven't rained",
+      "did not rain"
+    ],
+    "correctAnswer": "haven't rained",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-126",
+    "question": "___ you (rain) yet?",
+    "options": [
+      "Have",
+      "Do",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-127",
+    "question": "It ___ (read) yet.",
+    "options": [
+      "read",
+      "is reading",
+      "has read",
+      "have read"
+    ],
+    "correctAnswer": "has read",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-128",
+    "question": "It ___ (read) yet.",
+    "options": [
+      "haven't read",
+      "is reading",
+      "did not read",
+      "hasn't read"
+    ],
+    "correctAnswer": "hasn't read",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-129",
+    "question": "___ it (read) yet?",
+    "options": [
+      "Has",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-130",
+    "question": "We ___ (remember) yet.",
+    "options": [
+      "are rememberring",
+      "have remembered",
+      "remembered",
+      "has remembered"
+    ],
+    "correctAnswer": "have remembered",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-131",
+    "question": "We ___ (remember) yet.",
+    "options": [
+      "are rememberring",
+      "did not remember",
+      "hasn't remembered",
+      "haven't remembered"
+    ],
+    "correctAnswer": "haven't remembered",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-132",
+    "question": "___ we (remember) yet?",
+    "options": [
+      "Did",
+      "Is",
+      "Have",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-133",
+    "question": "I ___ (rise) already.",
+    "options": [
+      "has risen",
+      "have risen",
+      "am rising",
+      "rose"
+    ],
+    "correctAnswer": "have risen",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-134",
+    "question": "I ___ (rise) already.",
+    "options": [
+      "haven't risen",
+      "hasn't risen",
+      "am rising",
+      "did not rise"
+    ],
+    "correctAnswer": "haven't risen",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-135",
+    "question": "___ i (rise) already?",
+    "options": [
+      "Is",
+      "Did",
+      "Do",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-136",
+    "question": "She ___ (run) ever.",
+    "options": [
+      "ran",
+      "have run",
+      "is running",
+      "has run"
+    ],
+    "correctAnswer": "has run",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-137",
+    "question": "She ___ (run) ever.",
+    "options": [
+      "did not run",
+      "hasn't run",
+      "haven't run",
+      "is running"
+    ],
+    "correctAnswer": "hasn't run",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-138",
+    "question": "___ she (run) ever?",
+    "options": [
+      "Did",
+      "Do",
+      "Has",
+      "Is"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-139",
+    "question": "He ___ (serve) yet.",
+    "options": [
+      "is serving",
+      "has served",
+      "have served",
+      "served"
+    ],
+    "correctAnswer": "has served",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-140",
+    "question": "He ___ (serve) yet.",
+    "options": [
+      "haven't served",
+      "hasn't served",
+      "did not serve",
+      "is serving"
+    ],
+    "correctAnswer": "hasn't served",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-141",
+    "question": "___ he (serve) yet?",
+    "options": [
+      "Do",
+      "Is",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-142",
+    "question": "They ___ (speak) just.",
+    "options": [
+      "has spoken",
+      "are speaking",
+      "have spoken",
+      "spoke"
+    ],
+    "correctAnswer": "have spoken",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-143",
+    "question": "They ___ (speak) just.",
+    "options": [
+      "haven't spoken",
+      "are speaking",
+      "hasn't spoken",
+      "did not speak"
+    ],
+    "correctAnswer": "haven't spoken",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-144",
+    "question": "___ they (speak) just?",
+    "options": [
+      "Is",
+      "Did",
+      "Do",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-145",
+    "question": "You ___ (spoil) ever.",
+    "options": [
+      "are spoiling",
+      "have spoiled",
+      "has spoiled",
+      "spoiled"
+    ],
+    "correctAnswer": "have spoiled",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-146",
+    "question": "You ___ (spoil) ever.",
+    "options": [
+      "did not spoil",
+      "hasn't spoiled",
+      "haven't spoiled",
+      "are spoiling"
+    ],
+    "correctAnswer": "haven't spoiled",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-147",
+    "question": "___ you (spoil) ever?",
+    "options": [
+      "Did",
+      "Have",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-148",
+    "question": "It ___ (start) yet.",
+    "options": [
+      "have started",
+      "started",
+      "is starting",
+      "has started"
+    ],
+    "correctAnswer": "has started",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-149",
+    "question": "It ___ (start) yet.",
+    "options": [
+      "did not start",
+      "haven't started",
+      "is starting",
+      "hasn't started"
+    ],
+    "correctAnswer": "hasn't started",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-150",
+    "question": "___ it (start) yet?",
+    "options": [
+      "Is",
+      "Has",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-151",
+    "question": "We ___ (stay) yet.",
+    "options": [
+      "has stayed",
+      "have stayed",
+      "are stayying",
+      "stayed"
+    ],
+    "correctAnswer": "have stayed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-152",
+    "question": "We ___ (stay) yet.",
+    "options": [
+      "did not stay",
+      "hasn't stayed",
+      "haven't stayed",
+      "are stayying"
+    ],
+    "correctAnswer": "haven't stayed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-153",
+    "question": "___ we (stay) yet?",
+    "options": [
+      "Did",
+      "Is",
+      "Have",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-154",
+    "question": "I ___ (study) yet.",
+    "options": [
+      "have studied",
+      "has studied",
+      "studied",
+      "am studying"
+    ],
+    "correctAnswer": "have studied",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-155",
+    "question": "I ___ (study) yet.",
+    "options": [
+      "hasn't studied",
+      "am studying",
+      "did not study",
+      "haven't studied"
+    ],
+    "correctAnswer": "haven't studied",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-156",
+    "question": "___ i (study) yet?",
+    "options": [
+      "Did",
+      "Have",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-157",
+    "question": "She ___ (take) already.",
+    "options": [
+      "have taken",
+      "is taking",
+      "has taken",
+      "took"
+    ],
+    "correctAnswer": "has taken",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-158",
+    "question": "She ___ (take) already.",
+    "options": [
+      "haven't taken",
+      "is taking",
+      "hasn't taken",
+      "did not take"
+    ],
+    "correctAnswer": "hasn't taken",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-159",
+    "question": "___ she (take) already?",
+    "options": [
+      "Is",
+      "Did",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-160",
+    "question": "He ___ (teach) yet.",
+    "options": [
+      "has taught",
+      "have taught",
+      "is teaching",
+      "taught"
+    ],
+    "correctAnswer": "has taught",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-161",
+    "question": "He ___ (teach) yet.",
+    "options": [
+      "did not teach",
+      "haven't taught",
+      "is teaching",
+      "hasn't taught"
+    ],
+    "correctAnswer": "hasn't taught",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-162",
+    "question": "___ he (teach) yet?",
+    "options": [
+      "Did",
+      "Is",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-163",
+    "question": "They ___ (travel) recently.",
+    "options": [
+      "are travelling",
+      "has traveled",
+      "have traveled",
+      "traveled"
+    ],
+    "correctAnswer": "have traveled",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-164",
+    "question": "They ___ (travel) recently.",
+    "options": [
+      "are travelling",
+      "did not travel",
+      "haven't traveled",
+      "hasn't traveled"
+    ],
+    "correctAnswer": "haven't traveled",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-165",
+    "question": "___ they (travel) recently?",
+    "options": [
+      "Do",
+      "Have",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-166",
+    "question": "You ___ (understand) just.",
+    "options": [
+      "have understood",
+      "has understood",
+      "understood",
+      "are understanding"
+    ],
+    "correctAnswer": "have understood",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-167",
+    "question": "You ___ (understand) just.",
+    "options": [
+      "are understanding",
+      "haven't understood",
+      "did not understand",
+      "hasn't understood"
+    ],
+    "correctAnswer": "haven't understood",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-168",
+    "question": "___ you (understand) just?",
+    "options": [
+      "Have",
+      "Did",
+      "Is",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-169",
+    "question": "It ___ (use) just.",
+    "options": [
+      "is using",
+      "have used",
+      "used",
+      "has used"
+    ],
+    "correctAnswer": "has used",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-170",
+    "question": "It ___ (use) just.",
+    "options": [
+      "did not use",
+      "is using",
+      "haven't used",
+      "hasn't used"
+    ],
+    "correctAnswer": "hasn't used",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-171",
+    "question": "___ it (use) just?",
+    "options": [
+      "Is",
+      "Do",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-172",
+    "question": "We ___ (visit) never.",
+    "options": [
+      "have visited",
+      "visited",
+      "has visited",
+      "are visitting"
+    ],
+    "correctAnswer": "have visited",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-173",
+    "question": "We ___ (visit) never.",
+    "options": [
+      "are visitting",
+      "did not visit",
+      "hasn't visited",
+      "haven't visited"
+    ],
+    "correctAnswer": "haven't visited",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-174",
+    "question": "___ we (visit) never?",
+    "options": [
+      "Did",
+      "Is",
+      "Have",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-175",
+    "question": "I ___ (watch) recently.",
+    "options": [
+      "has watched",
+      "watched",
+      "have watched",
+      "am watching"
+    ],
+    "correctAnswer": "have watched",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-176",
+    "question": "I ___ (watch) recently.",
+    "options": [
+      "am watching",
+      "did not watch",
+      "hasn't watched",
+      "haven't watched"
+    ],
+    "correctAnswer": "haven't watched",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-177",
+    "question": "___ i (watch) recently?",
+    "options": [
+      "Is",
+      "Did",
+      "Have",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-178",
+    "question": "She ___ (weigh) just.",
+    "options": [
+      "weighed",
+      "has weighed",
+      "is weighing",
+      "have weighed"
+    ],
+    "correctAnswer": "has weighed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-179",
+    "question": "She ___ (weigh) just.",
+    "options": [
+      "haven't weighed",
+      "is weighing",
+      "did not weigh",
+      "hasn't weighed"
+    ],
+    "correctAnswer": "hasn't weighed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-180",
+    "question": "___ she (weigh) just?",
+    "options": [
+      "Did",
+      "Is",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-181",
+    "question": "He ___ (work) ever.",
+    "options": [
+      "have worked",
+      "is working",
+      "has worked",
+      "worked"
+    ],
+    "correctAnswer": "has worked",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-182",
+    "question": "He ___ (work) ever.",
+    "options": [
+      "hasn't worked",
+      "haven't worked",
+      "did not work",
+      "is working"
+    ],
+    "correctAnswer": "hasn't worked",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-183",
+    "question": "___ he (work) ever?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-184",
+    "question": "They ___ (be) so far.",
+    "options": [
+      "has been",
+      "are being",
+      "was/were",
+      "have been"
+    ],
+    "correctAnswer": "have been",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-185",
+    "question": "They ___ (be) so far.",
+    "options": [
+      "did not be",
+      "haven't been",
+      "hasn't been",
+      "are being"
+    ],
+    "correctAnswer": "haven't been",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-186",
+    "question": "___ they (be) so far?",
+    "options": [
+      "Have",
+      "Do",
+      "Did",
+      "Is"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-187",
+    "question": "You ___ (brush) so far.",
+    "options": [
+      "brushed",
+      "have brushed",
+      "has brushed",
+      "are brushing"
+    ],
+    "correctAnswer": "have brushed",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-188",
+    "question": "You ___ (brush) so far.",
+    "options": [
+      "hasn't brushed",
+      "haven't brushed",
+      "did not brush",
+      "are brushing"
+    ],
+    "correctAnswer": "haven't brushed",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-189",
+    "question": "___ you (brush) so far?",
+    "options": [
+      "Is",
+      "Do",
+      "Have",
+      "Did"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-190",
+    "question": "It ___ (exercise) yet.",
+    "options": [
+      "is exercising",
+      "exercised",
+      "has exercised",
+      "have exercised"
+    ],
+    "correctAnswer": "has exercised",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-191",
+    "question": "It ___ (exercise) yet.",
+    "options": [
+      "did not exercise",
+      "is exercising",
+      "haven't exercised",
+      "hasn't exercised"
+    ],
+    "correctAnswer": "hasn't exercised",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-192",
+    "question": "___ it (exercise) yet?",
+    "options": [
+      "Has",
+      "Do",
+      "Is",
+      "Did"
+    ],
+    "correctAnswer": "Has",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-193",
+    "question": "We ___ (listen) ever.",
+    "options": [
+      "has listened",
+      "have listened",
+      "are listenning",
+      "listened"
+    ],
+    "correctAnswer": "have listened",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-194",
+    "question": "We ___ (listen) ever.",
+    "options": [
+      "hasn't listened",
+      "haven't listened",
+      "are listenning",
+      "did not listen"
+    ],
+    "correctAnswer": "haven't listened",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-195",
+    "question": "___ we (listen) ever?",
+    "options": [
+      "Is",
+      "Did",
+      "Have",
+      "Do"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-196",
+    "question": "I ___ (sleep) ever.",
+    "options": [
+      "has slept",
+      "am sleeping",
+      "slept",
+      "have slept"
+    ],
+    "correctAnswer": "have slept",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-197",
+    "question": "I ___ (sleep) ever.",
+    "options": [
+      "haven't slept",
+      "hasn't slept",
+      "am sleeping",
+      "did not sleep"
+    ],
+    "correctAnswer": "haven't slept",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-198",
+    "question": "___ i (sleep) ever?",
+    "options": [
+      "Is",
+      "Do",
+      "Did",
+      "Have"
+    ],
+    "correctAnswer": "Have",
+    "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
+    "tenseType": "present-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "present-perfect-199",
+    "question": "She ___ (research) ever.",
+    "options": [
+      "has researched",
+      "is researching",
+      "researched",
+      "have researched"
+    ],
+    "correctAnswer": "has researched",
+    "explanation": "Present Perfect: have/has + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "present-perfect-200",
+    "question": "She ___ (research) ever.",
+    "options": [
+      "is researching",
+      "hasn't researched",
+      "haven't researched",
+      "did not research"
+    ],
+    "correctAnswer": "hasn't researched",
+    "explanation": "Present Perfect (phủ định): have/has not + V3.",
+    "tenseType": "present-perfect",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "past-perfect-001",
+    "question": "It ___ (approve) by the time she came.",
+    "options": [
+      "had approved",
+      "was approving",
+      "approved",
+      "has approved"
+    ],
+    "correctAnswer": "had approved",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-002",
+    "question": "It ___ (approve) by the time she came.",
+    "options": [
+      "didn't approve",
+      "was not approving",
+      "hasn't approved",
+      "hadn't approved"
+    ],
+    "correctAnswer": "hadn't approved",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-003",
+    "question": "___ it (approve) by the time she came?",
+    "options": [
+      "Had",
+      "Was",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-004",
+    "question": "I ___ (attend) before he arrived.",
+    "options": [
+      "was attending",
+      "had attended",
+      "attended",
+      "has attended"
+    ],
+    "correctAnswer": "had attended",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-005",
+    "question": "I ___ (attend) before he arrived.",
+    "options": [
+      "hadn't attended",
+      "was not attending",
+      "didn't attend",
+      "hasn't attended"
+    ],
+    "correctAnswer": "hadn't attended",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-006",
+    "question": "___ i (attend) before he arrived?",
+    "options": [
+      "Had",
+      "Was",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-007",
+    "question": "You ___ (believe) by the time she came.",
+    "options": [
+      "believed",
+      "has believed",
+      "was believing",
+      "had believed"
+    ],
+    "correctAnswer": "had believed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-008",
+    "question": "You ___ (believe) by the time she came.",
+    "options": [
+      "didn't believe",
+      "hasn't believed",
+      "hadn't believed",
+      "was not believing"
+    ],
+    "correctAnswer": "hadn't believed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-009",
+    "question": "___ you (believe) by the time she came?",
+    "options": [
+      "Has",
+      "Had",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-010",
+    "question": "They ___ (boil) when the movie started.",
+    "options": [
+      "boiled",
+      "has boiled",
+      "was boiling",
+      "had boiled"
+    ],
+    "correctAnswer": "had boiled",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-011",
+    "question": "They ___ (boil) when the movie started.",
+    "options": [
+      "didn't boil",
+      "hadn't boiled",
+      "was not boiling",
+      "hasn't boiled"
+    ],
+    "correctAnswer": "hadn't boiled",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-012",
+    "question": "___ they (boil) when the movie started?",
+    "options": [
+      "Had",
+      "Did",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-013",
+    "question": "We ___ (buy) before he arrived.",
+    "options": [
+      "was buyying",
+      "has bought",
+      "bought",
+      "had bought"
+    ],
+    "correctAnswer": "had bought",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-014",
+    "question": "We ___ (buy) before he arrived.",
+    "options": [
+      "was not buyying",
+      "didn't buy",
+      "hadn't bought",
+      "hasn't bought"
+    ],
+    "correctAnswer": "hadn't bought",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-015",
+    "question": "___ we (buy) before he arrived?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-016",
+    "question": "She ___ (call) when the movie started.",
+    "options": [
+      "had called",
+      "was calling",
+      "has called",
+      "called"
+    ],
+    "correctAnswer": "had called",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-017",
+    "question": "She ___ (call) when the movie started.",
+    "options": [
+      "was not calling",
+      "hasn't called",
+      "didn't call",
+      "hadn't called"
+    ],
+    "correctAnswer": "hadn't called",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-018",
+    "question": "___ she (call) when the movie started?",
+    "options": [
+      "Had",
+      "Did",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-019",
+    "question": "He ___ (check) by the time she came.",
+    "options": [
+      "checked",
+      "was checking",
+      "had checked",
+      "has checked"
+    ],
+    "correctAnswer": "had checked",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-020",
+    "question": "He ___ (check) by the time she came.",
+    "options": [
+      "was not checking",
+      "didn't check",
+      "hadn't checked",
+      "hasn't checked"
+    ],
+    "correctAnswer": "hadn't checked",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-021",
+    "question": "___ he (check) by the time she came?",
+    "options": [
+      "Did",
+      "Has",
+      "Had",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-022",
+    "question": "It ___ (close) when the movie started.",
+    "options": [
+      "had closed",
+      "has closed",
+      "closed",
+      "was closing"
+    ],
+    "correctAnswer": "had closed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-023",
+    "question": "It ___ (close) when the movie started.",
+    "options": [
+      "was not closing",
+      "hasn't closed",
+      "hadn't closed",
+      "didn't close"
+    ],
+    "correctAnswer": "hadn't closed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-024",
+    "question": "___ it (close) when the movie started?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-025",
+    "question": "I ___ (contain) when the movie started.",
+    "options": [
+      "has contained",
+      "contained",
+      "was containing",
+      "had contained"
+    ],
+    "correctAnswer": "had contained",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-026",
+    "question": "I ___ (contain) when the movie started.",
+    "options": [
+      "hasn't contained",
+      "hadn't contained",
+      "was not containing",
+      "didn't contain"
+    ],
+    "correctAnswer": "hadn't contained",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-027",
+    "question": "___ i (contain) when the movie started?",
+    "options": [
+      "Had",
+      "Was",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-028",
+    "question": "You ___ (coordinate) by the time she came.",
+    "options": [
+      "had coordinated",
+      "has coordinated",
+      "coordinated",
+      "was coordinating"
+    ],
+    "correctAnswer": "had coordinated",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-029",
+    "question": "You ___ (coordinate) by the time she came.",
+    "options": [
+      "was not coordinating",
+      "hasn't coordinated",
+      "hadn't coordinated",
+      "didn't coordinate"
+    ],
+    "correctAnswer": "hadn't coordinated",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-030",
+    "question": "___ you (coordinate) by the time she came?",
+    "options": [
+      "Had",
+      "Has",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-031",
+    "question": "They ___ (cook) by the time she came.",
+    "options": [
+      "cooked",
+      "had cooked",
+      "was cooking",
+      "has cooked"
+    ],
+    "correctAnswer": "had cooked",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-032",
+    "question": "They ___ (cook) by the time she came.",
+    "options": [
+      "was not cooking",
+      "hasn't cooked",
+      "didn't cook",
+      "hadn't cooked"
+    ],
+    "correctAnswer": "hadn't cooked",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-033",
+    "question": "___ they (cook) by the time she came?",
+    "options": [
+      "Had",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-034",
+    "question": "We ___ (cost) by the time she came.",
+    "options": [
+      "has cost",
+      "was costing",
+      "had cost",
+      "cost"
+    ],
+    "correctAnswer": "had cost",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-035",
+    "question": "We ___ (cost) by the time she came.",
+    "options": [
+      "hadn't cost",
+      "hasn't cost",
+      "was not costing",
+      "didn't cost"
+    ],
+    "correctAnswer": "hadn't cost",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-036",
+    "question": "___ we (cost) by the time she came?",
+    "options": [
+      "Did",
+      "Had",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-037",
+    "question": "She ___ (depart) before he arrived.",
+    "options": [
+      "departed",
+      "was departing",
+      "has departed",
+      "had departed"
+    ],
+    "correctAnswer": "had departed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-038",
+    "question": "She ___ (depart) before he arrived.",
+    "options": [
+      "hadn't departed",
+      "was not departing",
+      "hasn't departed",
+      "didn't depart"
+    ],
+    "correctAnswer": "hadn't departed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-039",
+    "question": "___ she (depart) before he arrived?",
+    "options": [
+      "Did",
+      "Had",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-040",
+    "question": "He ___ (deliver) before he arrived.",
+    "options": [
+      "has delivered",
+      "delivered",
+      "was deliverring",
+      "had delivered"
+    ],
+    "correctAnswer": "had delivered",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-041",
+    "question": "He ___ (deliver) before he arrived.",
+    "options": [
+      "hadn't delivered",
+      "didn't deliver",
+      "was not deliverring",
+      "hasn't delivered"
+    ],
+    "correctAnswer": "hadn't delivered",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-042",
+    "question": "___ he (deliver) before he arrived?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-043",
+    "question": "It ___ (disassemble) before he arrived.",
+    "options": [
+      "had disassembled",
+      "was disassembling",
+      "has disassembled",
+      "disassembled"
+    ],
+    "correctAnswer": "had disassembled",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-044",
+    "question": "It ___ (disassemble) before he arrived.",
+    "options": [
+      "didn't disassemble",
+      "hasn't disassembled",
+      "hadn't disassembled",
+      "was not disassembling"
+    ],
+    "correctAnswer": "hadn't disassembled",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-045",
+    "question": "___ it (disassemble) before he arrived?",
+    "options": [
+      "Did",
+      "Was",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-046",
+    "question": "I ___ (do) before he arrived.",
+    "options": [
+      "did",
+      "was doing",
+      "had done",
+      "has done"
+    ],
+    "correctAnswer": "had done",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-047",
+    "question": "I ___ (do) before he arrived.",
+    "options": [
+      "was not doing",
+      "didn't do",
+      "hasn't done",
+      "hadn't done"
+    ],
+    "correctAnswer": "hadn't done",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-048",
+    "question": "___ i (do) before he arrived?",
+    "options": [
+      "Has",
+      "Did",
+      "Had",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-049",
+    "question": "You ___ (drink) before he arrived.",
+    "options": [
+      "was drinking",
+      "has drunk",
+      "drank",
+      "had drunk"
+    ],
+    "correctAnswer": "had drunk",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-050",
+    "question": "You ___ (drink) before he arrived.",
+    "options": [
+      "didn't drink",
+      "hadn't drunk",
+      "was not drinking",
+      "hasn't drunk"
+    ],
+    "correctAnswer": "hadn't drunk",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-051",
+    "question": "___ you (drink) before he arrived?",
+    "options": [
+      "Was",
+      "Has",
+      "Did",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-052",
+    "question": "They ___ (eat) when the movie started.",
+    "options": [
+      "had eaten",
+      "was eating",
+      "has eaten",
+      "ate"
+    ],
+    "correctAnswer": "had eaten",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-053",
+    "question": "They ___ (eat) when the movie started.",
+    "options": [
+      "hasn't eaten",
+      "hadn't eaten",
+      "was not eating",
+      "didn't eat"
+    ],
+    "correctAnswer": "hadn't eaten",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-054",
+    "question": "___ they (eat) when the movie started?",
+    "options": [
+      "Had",
+      "Has",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-055",
+    "question": "We ___ (expire) when the movie started.",
+    "options": [
+      "has expired",
+      "was expiring",
+      "had expired",
+      "expired"
+    ],
+    "correctAnswer": "had expired",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-056",
+    "question": "We ___ (expire) when the movie started.",
+    "options": [
+      "didn't expire",
+      "hasn't expired",
+      "hadn't expired",
+      "was not expiring"
+    ],
+    "correctAnswer": "hadn't expired",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-057",
+    "question": "___ we (expire) when the movie started?",
+    "options": [
+      "Has",
+      "Had",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-058",
+    "question": "She ___ (finish) by the time she came.",
+    "options": [
+      "had finished",
+      "finished",
+      "was finishing",
+      "has finished"
+    ],
+    "correctAnswer": "had finished",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-059",
+    "question": "She ___ (finish) by the time she came.",
+    "options": [
+      "didn't finish",
+      "was not finishing",
+      "hadn't finished",
+      "hasn't finished"
+    ],
+    "correctAnswer": "hadn't finished",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-060",
+    "question": "___ she (finish) by the time she came?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-061",
+    "question": "He ___ (finalize) by the time she came.",
+    "options": [
+      "has finalized",
+      "finalized",
+      "was finalizing",
+      "had finalized"
+    ],
+    "correctAnswer": "had finalized",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-062",
+    "question": "He ___ (finalize) by the time she came.",
+    "options": [
+      "was not finalizing",
+      "hasn't finalized",
+      "didn't finalize",
+      "hadn't finalized"
+    ],
+    "correctAnswer": "hadn't finalized",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-063",
+    "question": "___ he (finalize) by the time she came?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-064",
+    "question": "It ___ (give) by the time she came.",
+    "options": [
+      "gave",
+      "had given",
+      "has given",
+      "was giving"
+    ],
+    "correctAnswer": "had given",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-065",
+    "question": "It ___ (give) by the time she came.",
+    "options": [
+      "didn't give",
+      "was not giving",
+      "hadn't given",
+      "hasn't given"
+    ],
+    "correctAnswer": "hadn't given",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-066",
+    "question": "___ it (give) by the time she came?",
+    "options": [
+      "Has",
+      "Had",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-067",
+    "question": "I ___ (go) when the movie started.",
+    "options": [
+      "had gone",
+      "has gone",
+      "went",
+      "was going"
+    ],
+    "correctAnswer": "had gone",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-068",
+    "question": "I ___ (go) when the movie started.",
+    "options": [
+      "hadn't gone",
+      "didn't go",
+      "hasn't gone",
+      "was not going"
+    ],
+    "correctAnswer": "hadn't gone",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-069",
+    "question": "___ i (go) when the movie started?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-070",
+    "question": "You ___ (have) by the time she came.",
+    "options": [
+      "has had",
+      "had had",
+      "had",
+      "was having"
+    ],
+    "correctAnswer": "had had",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-071",
+    "question": "You ___ (have) by the time she came.",
+    "options": [
+      "hasn't had",
+      "was not having",
+      "didn't have",
+      "hadn't had"
+    ],
+    "correctAnswer": "hadn't had",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-072",
+    "question": "___ you (have) by the time she came?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-073",
+    "question": "They ___ (help) when the movie started.",
+    "options": [
+      "was helping",
+      "had helped",
+      "helped",
+      "has helped"
+    ],
+    "correctAnswer": "had helped",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-074",
+    "question": "They ___ (help) when the movie started.",
+    "options": [
+      "was not helping",
+      "didn't help",
+      "hasn't helped",
+      "hadn't helped"
+    ],
+    "correctAnswer": "hadn't helped",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-075",
+    "question": "___ they (help) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-076",
+    "question": "We ___ (join) when the movie started.",
+    "options": [
+      "has joined",
+      "joined",
+      "was joining",
+      "had joined"
+    ],
+    "correctAnswer": "had joined",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-077",
+    "question": "We ___ (join) when the movie started.",
+    "options": [
+      "hasn't joined",
+      "was not joining",
+      "didn't join",
+      "hadn't joined"
+    ],
+    "correctAnswer": "hadn't joined",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-078",
+    "question": "___ we (join) when the movie started?",
+    "options": [
+      "Has",
+      "Was",
+      "Did",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-079",
+    "question": "She ___ (leave) before he arrived.",
+    "options": [
+      "had left",
+      "has left",
+      "left",
+      "was leaving"
+    ],
+    "correctAnswer": "had left",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-080",
+    "question": "She ___ (leave) before he arrived.",
+    "options": [
+      "hadn't left",
+      "was not leaving",
+      "didn't leave",
+      "hasn't left"
+    ],
+    "correctAnswer": "hadn't left",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-081",
+    "question": "___ she (leave) before he arrived?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-082",
+    "question": "He ___ (like) when the movie started.",
+    "options": [
+      "liked",
+      "has liked",
+      "was liking",
+      "had liked"
+    ],
+    "correctAnswer": "had liked",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-083",
+    "question": "He ___ (like) when the movie started.",
+    "options": [
+      "was not liking",
+      "hadn't liked",
+      "didn't like",
+      "hasn't liked"
+    ],
+    "correctAnswer": "hadn't liked",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-084",
+    "question": "___ he (like) when the movie started?",
+    "options": [
+      "Had",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-085",
+    "question": "It ___ (live) by the time she came.",
+    "options": [
+      "has lived",
+      "had lived",
+      "was living",
+      "lived"
+    ],
+    "correctAnswer": "had lived",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-086",
+    "question": "It ___ (live) by the time she came.",
+    "options": [
+      "hadn't lived",
+      "was not living",
+      "didn't live",
+      "hasn't lived"
+    ],
+    "correctAnswer": "hadn't lived",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-087",
+    "question": "___ it (live) by the time she came?",
+    "options": [
+      "Had",
+      "Did",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-088",
+    "question": "I ___ (manage) before he arrived.",
+    "options": [
+      "had managed",
+      "was managing",
+      "managed",
+      "has managed"
+    ],
+    "correctAnswer": "had managed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-089",
+    "question": "I ___ (manage) before he arrived.",
+    "options": [
+      "hasn't managed",
+      "was not managing",
+      "hadn't managed",
+      "didn't manage"
+    ],
+    "correctAnswer": "hadn't managed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-090",
+    "question": "___ i (manage) before he arrived?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-091",
+    "question": "You ___ (matter) when the movie started.",
+    "options": [
+      "mattered",
+      "was matterring",
+      "had mattered",
+      "has mattered"
+    ],
+    "correctAnswer": "had mattered",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-092",
+    "question": "You ___ (matter) when the movie started.",
+    "options": [
+      "hasn't mattered",
+      "hadn't mattered",
+      "didn't matter",
+      "was not matterring"
+    ],
+    "correctAnswer": "hadn't mattered",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-093",
+    "question": "___ you (matter) when the movie started?",
+    "options": [
+      "Had",
+      "Was",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-094",
+    "question": "They ___ (meet) when the movie started.",
+    "options": [
+      "was meeting",
+      "had met",
+      "met",
+      "has met"
+    ],
+    "correctAnswer": "had met",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-095",
+    "question": "They ___ (meet) when the movie started.",
+    "options": [
+      "hasn't met",
+      "was not meeting",
+      "didn't meet",
+      "hadn't met"
+    ],
+    "correctAnswer": "hadn't met",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-096",
+    "question": "___ they (meet) when the movie started?",
+    "options": [
+      "Did",
+      "Was",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-097",
+    "question": "We ___ (need) by the time she came.",
+    "options": [
+      "needed",
+      "had needed",
+      "was needing",
+      "has needed"
+    ],
+    "correctAnswer": "had needed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-098",
+    "question": "We ___ (need) by the time she came.",
+    "options": [
+      "didn't need",
+      "was not needing",
+      "hadn't needed",
+      "hasn't needed"
+    ],
+    "correctAnswer": "hadn't needed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-099",
+    "question": "___ we (need) by the time she came?",
+    "options": [
+      "Was",
+      "Had",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-100",
+    "question": "She ___ (offer) when the movie started.",
+    "options": [
+      "was offerring",
+      "offered",
+      "has offered",
+      "had offered"
+    ],
+    "correctAnswer": "had offered",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-101",
+    "question": "She ___ (offer) when the movie started.",
+    "options": [
+      "hasn't offered",
+      "was not offerring",
+      "didn't offer",
+      "hadn't offered"
+    ],
+    "correctAnswer": "hadn't offered",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-102",
+    "question": "___ she (offer) when the movie started?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-103",
+    "question": "He ___ (open) before he arrived.",
+    "options": [
+      "has opened",
+      "opened",
+      "was openning",
+      "had opened"
+    ],
+    "correctAnswer": "had opened",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-104",
+    "question": "He ___ (open) before he arrived.",
+    "options": [
+      "was not openning",
+      "didn't open",
+      "hasn't opened",
+      "hadn't opened"
+    ],
+    "correctAnswer": "hadn't opened",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-105",
+    "question": "___ he (open) before he arrived?",
+    "options": [
+      "Had",
+      "Was",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-106",
+    "question": "It ___ (order) when the movie started.",
+    "options": [
+      "was orderring",
+      "had ordered",
+      "ordered",
+      "has ordered"
+    ],
+    "correctAnswer": "had ordered",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-107",
+    "question": "It ___ (order) when the movie started.",
+    "options": [
+      "was not orderring",
+      "didn't order",
+      "hasn't ordered",
+      "hadn't ordered"
+    ],
+    "correctAnswer": "hadn't ordered",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-108",
+    "question": "___ it (order) when the movie started?",
+    "options": [
+      "Had",
+      "Did",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-109",
+    "question": "I ___ (ship) when the movie started.",
+    "options": [
+      "has shipped",
+      "had shipped",
+      "was shipping",
+      "shipped"
+    ],
+    "correctAnswer": "had shipped",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-110",
+    "question": "I ___ (ship) when the movie started.",
+    "options": [
+      "didn't ship",
+      "was not shipping",
+      "hasn't shipped",
+      "hadn't shipped"
+    ],
+    "correctAnswer": "hadn't shipped",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-111",
+    "question": "___ i (ship) when the movie started?",
+    "options": [
+      "Has",
+      "Was",
+      "Did",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-112",
+    "question": "You ___ (organize) by the time she came.",
+    "options": [
+      "had organized",
+      "organized",
+      "was organizing",
+      "has organized"
+    ],
+    "correctAnswer": "had organized",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-113",
+    "question": "You ___ (organize) by the time she came.",
+    "options": [
+      "hadn't organized",
+      "hasn't organized",
+      "was not organizing",
+      "didn't organize"
+    ],
+    "correctAnswer": "hadn't organized",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-114",
+    "question": "___ you (organize) by the time she came?",
+    "options": [
+      "Had",
+      "Was",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-115",
+    "question": "They ___ (own) by the time she came.",
+    "options": [
+      "was owning",
+      "owned",
+      "had owned",
+      "has owned"
+    ],
+    "correctAnswer": "had owned",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-116",
+    "question": "They ___ (own) by the time she came.",
+    "options": [
+      "didn't own",
+      "hadn't owned",
+      "was not owning",
+      "hasn't owned"
+    ],
+    "correctAnswer": "hadn't owned",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-117",
+    "question": "___ they (own) by the time she came?",
+    "options": [
+      "Has",
+      "Did",
+      "Had",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-118",
+    "question": "We ___ (play) by the time she came.",
+    "options": [
+      "played",
+      "has played",
+      "had played",
+      "was playying"
+    ],
+    "correctAnswer": "had played",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-119",
+    "question": "We ___ (play) by the time she came.",
+    "options": [
+      "hadn't played",
+      "was not playying",
+      "hasn't played",
+      "didn't play"
+    ],
+    "correctAnswer": "hadn't played",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-120",
+    "question": "___ we (play) by the time she came?",
+    "options": [
+      "Did",
+      "Had",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-121",
+    "question": "She ___ (prefer) before he arrived.",
+    "options": [
+      "has preferred",
+      "was preferring",
+      "preferred",
+      "had preferred"
+    ],
+    "correctAnswer": "had preferred",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-122",
+    "question": "She ___ (prefer) before he arrived.",
+    "options": [
+      "hadn't preferred",
+      "hasn't preferred",
+      "was not preferring",
+      "didn't prefer"
+    ],
+    "correctAnswer": "hadn't preferred",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-123",
+    "question": "___ she (prefer) before he arrived?",
+    "options": [
+      "Did",
+      "Had",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-124",
+    "question": "He ___ (rain) before he arrived.",
+    "options": [
+      "was raining",
+      "had rained",
+      "has rained",
+      "rained"
+    ],
+    "correctAnswer": "had rained",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-125",
+    "question": "He ___ (rain) before he arrived.",
+    "options": [
+      "was not raining",
+      "hadn't rained",
+      "didn't rain",
+      "hasn't rained"
+    ],
+    "correctAnswer": "hadn't rained",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-126",
+    "question": "___ he (rain) before he arrived?",
+    "options": [
+      "Had",
+      "Did",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-127",
+    "question": "It ___ (read) by the time she came.",
+    "options": [
+      "read",
+      "has read",
+      "had read",
+      "was reading"
+    ],
+    "correctAnswer": "had read",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-128",
+    "question": "It ___ (read) by the time she came.",
+    "options": [
+      "hadn't read",
+      "hasn't read",
+      "was not reading",
+      "didn't read"
+    ],
+    "correctAnswer": "hadn't read",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-129",
+    "question": "___ it (read) by the time she came?",
+    "options": [
+      "Has",
+      "Was",
+      "Had",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-130",
+    "question": "I ___ (remember) before he arrived.",
+    "options": [
+      "has remembered",
+      "remembered",
+      "had remembered",
+      "was rememberring"
+    ],
+    "correctAnswer": "had remembered",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-131",
+    "question": "I ___ (remember) before he arrived.",
+    "options": [
+      "hasn't remembered",
+      "was not rememberring",
+      "didn't remember",
+      "hadn't remembered"
+    ],
+    "correctAnswer": "hadn't remembered",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-132",
+    "question": "___ i (remember) before he arrived?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-133",
+    "question": "You ___ (rise) before he arrived.",
+    "options": [
+      "has risen",
+      "rose",
+      "had risen",
+      "was rising"
+    ],
+    "correctAnswer": "had risen",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-134",
+    "question": "You ___ (rise) before he arrived.",
+    "options": [
+      "didn't rise",
+      "hadn't risen",
+      "hasn't risen",
+      "was not rising"
+    ],
+    "correctAnswer": "hadn't risen",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-135",
+    "question": "___ you (rise) before he arrived?",
+    "options": [
+      "Was",
+      "Had",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-136",
+    "question": "They ___ (run) by the time she came.",
+    "options": [
+      "ran",
+      "has run",
+      "was running",
+      "had run"
+    ],
+    "correctAnswer": "had run",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-137",
+    "question": "They ___ (run) by the time she came.",
+    "options": [
+      "hasn't run",
+      "was not running",
+      "didn't run",
+      "hadn't run"
+    ],
+    "correctAnswer": "hadn't run",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-138",
+    "question": "___ they (run) by the time she came?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-139",
+    "question": "We ___ (serve) before he arrived.",
+    "options": [
+      "was serving",
+      "served",
+      "has served",
+      "had served"
+    ],
+    "correctAnswer": "had served",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-140",
+    "question": "We ___ (serve) before he arrived.",
+    "options": [
+      "was not serving",
+      "hadn't served",
+      "didn't serve",
+      "hasn't served"
+    ],
+    "correctAnswer": "hadn't served",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-141",
+    "question": "___ we (serve) before he arrived?",
+    "options": [
+      "Had",
+      "Did",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-142",
+    "question": "She ___ (speak) by the time she came.",
+    "options": [
+      "was speaking",
+      "spoke",
+      "has spoken",
+      "had spoken"
+    ],
+    "correctAnswer": "had spoken",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-143",
+    "question": "She ___ (speak) by the time she came.",
+    "options": [
+      "hadn't spoken",
+      "was not speaking",
+      "hasn't spoken",
+      "didn't speak"
+    ],
+    "correctAnswer": "hadn't spoken",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-144",
+    "question": "___ she (speak) by the time she came?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-145",
+    "question": "He ___ (spoil) before he arrived.",
+    "options": [
+      "was spoiling",
+      "has spoiled",
+      "had spoiled",
+      "spoiled"
+    ],
+    "correctAnswer": "had spoiled",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-146",
+    "question": "He ___ (spoil) before he arrived.",
+    "options": [
+      "hasn't spoiled",
+      "was not spoiling",
+      "didn't spoil",
+      "hadn't spoiled"
+    ],
+    "correctAnswer": "hadn't spoiled",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-147",
+    "question": "___ he (spoil) before he arrived?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-148",
+    "question": "It ___ (start) by the time she came.",
+    "options": [
+      "had started",
+      "started",
+      "was starting",
+      "has started"
+    ],
+    "correctAnswer": "had started",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-149",
+    "question": "It ___ (start) by the time she came.",
+    "options": [
+      "didn't start",
+      "hadn't started",
+      "hasn't started",
+      "was not starting"
+    ],
+    "correctAnswer": "hadn't started",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-150",
+    "question": "___ it (start) by the time she came?",
+    "options": [
+      "Had",
+      "Has",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-151",
+    "question": "I ___ (stay) when the movie started.",
+    "options": [
+      "had stayed",
+      "was stayying",
+      "stayed",
+      "has stayed"
+    ],
+    "correctAnswer": "had stayed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-152",
+    "question": "I ___ (stay) when the movie started.",
+    "options": [
+      "hasn't stayed",
+      "hadn't stayed",
+      "didn't stay",
+      "was not stayying"
+    ],
+    "correctAnswer": "hadn't stayed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-153",
+    "question": "___ i (stay) when the movie started?",
+    "options": [
+      "Did",
+      "Had",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-154",
+    "question": "You ___ (study) before he arrived.",
+    "options": [
+      "was studying",
+      "has studied",
+      "studied",
+      "had studied"
+    ],
+    "correctAnswer": "had studied",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-155",
+    "question": "You ___ (study) before he arrived.",
+    "options": [
+      "hadn't studied",
+      "hasn't studied",
+      "was not studying",
+      "didn't study"
+    ],
+    "correctAnswer": "hadn't studied",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-156",
+    "question": "___ you (study) before he arrived?",
+    "options": [
+      "Did",
+      "Had",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-157",
+    "question": "They ___ (take) by the time she came.",
+    "options": [
+      "has taken",
+      "had taken",
+      "took",
+      "was taking"
+    ],
+    "correctAnswer": "had taken",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-158",
+    "question": "They ___ (take) by the time she came.",
+    "options": [
+      "hasn't taken",
+      "hadn't taken",
+      "didn't take",
+      "was not taking"
+    ],
+    "correctAnswer": "hadn't taken",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-159",
+    "question": "___ they (take) by the time she came?",
+    "options": [
+      "Has",
+      "Had",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-160",
+    "question": "We ___ (teach) by the time she came.",
+    "options": [
+      "taught",
+      "was teaching",
+      "has taught",
+      "had taught"
+    ],
+    "correctAnswer": "had taught",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-161",
+    "question": "We ___ (teach) by the time she came.",
+    "options": [
+      "hasn't taught",
+      "was not teaching",
+      "hadn't taught",
+      "didn't teach"
+    ],
+    "correctAnswer": "hadn't taught",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-162",
+    "question": "___ we (teach) by the time she came?",
+    "options": [
+      "Was",
+      "Has",
+      "Had",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-163",
+    "question": "She ___ (travel) when the movie started.",
+    "options": [
+      "had traveled",
+      "traveled",
+      "has traveled",
+      "was travelling"
+    ],
+    "correctAnswer": "had traveled",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-164",
+    "question": "She ___ (travel) when the movie started.",
+    "options": [
+      "was not travelling",
+      "hadn't traveled",
+      "didn't travel",
+      "hasn't traveled"
+    ],
+    "correctAnswer": "hadn't traveled",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-165",
+    "question": "___ she (travel) when the movie started?",
+    "options": [
+      "Had",
+      "Did",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-166",
+    "question": "He ___ (understand) when the movie started.",
+    "options": [
+      "has understood",
+      "understood",
+      "had understood",
+      "was understanding"
+    ],
+    "correctAnswer": "had understood",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-167",
+    "question": "He ___ (understand) when the movie started.",
+    "options": [
+      "was not understanding",
+      "hadn't understood",
+      "hasn't understood",
+      "didn't understand"
+    ],
+    "correctAnswer": "hadn't understood",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-168",
+    "question": "___ he (understand) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-169",
+    "question": "It ___ (use) when the movie started.",
+    "options": [
+      "has used",
+      "used",
+      "was using",
+      "had used"
+    ],
+    "correctAnswer": "had used",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-170",
+    "question": "It ___ (use) when the movie started.",
+    "options": [
+      "was not using",
+      "hasn't used",
+      "hadn't used",
+      "didn't use"
+    ],
+    "correctAnswer": "hadn't used",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-171",
+    "question": "___ it (use) when the movie started?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-172",
+    "question": "I ___ (visit) before he arrived.",
+    "options": [
+      "was visitting",
+      "visited",
+      "has visited",
+      "had visited"
+    ],
+    "correctAnswer": "had visited",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-173",
+    "question": "I ___ (visit) before he arrived.",
+    "options": [
+      "hasn't visited",
+      "didn't visit",
+      "was not visitting",
+      "hadn't visited"
+    ],
+    "correctAnswer": "hadn't visited",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-174",
+    "question": "___ i (visit) before he arrived?",
+    "options": [
+      "Did",
+      "Had",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-175",
+    "question": "You ___ (watch) before he arrived.",
+    "options": [
+      "was watching",
+      "has watched",
+      "had watched",
+      "watched"
+    ],
+    "correctAnswer": "had watched",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-176",
+    "question": "You ___ (watch) before he arrived.",
+    "options": [
+      "didn't watch",
+      "was not watching",
+      "hadn't watched",
+      "hasn't watched"
+    ],
+    "correctAnswer": "hadn't watched",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-177",
+    "question": "___ you (watch) before he arrived?",
+    "options": [
+      "Was",
+      "Has",
+      "Had",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-178",
+    "question": "They ___ (weigh) when the movie started.",
+    "options": [
+      "was weighing",
+      "had weighed",
+      "weighed",
+      "has weighed"
+    ],
+    "correctAnswer": "had weighed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-179",
+    "question": "They ___ (weigh) when the movie started.",
+    "options": [
+      "hadn't weighed",
+      "didn't weigh",
+      "was not weighing",
+      "hasn't weighed"
+    ],
+    "correctAnswer": "hadn't weighed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-180",
+    "question": "___ they (weigh) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Has",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-181",
+    "question": "We ___ (work) by the time she came.",
+    "options": [
+      "has worked",
+      "worked",
+      "was working",
+      "had worked"
+    ],
+    "correctAnswer": "had worked",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-182",
+    "question": "We ___ (work) by the time she came.",
+    "options": [
+      "was not working",
+      "hadn't worked",
+      "didn't work",
+      "hasn't worked"
+    ],
+    "correctAnswer": "hadn't worked",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-183",
+    "question": "___ we (work) by the time she came?",
+    "options": [
+      "Was",
+      "Has",
+      "Had",
+      "Did"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-184",
+    "question": "She ___ (be) when the movie started.",
+    "options": [
+      "was/were",
+      "had been",
+      "has been",
+      "was being"
+    ],
+    "correctAnswer": "had been",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-185",
+    "question": "She ___ (be) when the movie started.",
+    "options": [
+      "hadn't been",
+      "was not being",
+      "hasn't been",
+      "didn't be"
+    ],
+    "correctAnswer": "hadn't been",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-186",
+    "question": "___ she (be) when the movie started?",
+    "options": [
+      "Did",
+      "Has",
+      "Had",
+      "Was"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-187",
+    "question": "He ___ (brush) when the movie started.",
+    "options": [
+      "has brushed",
+      "had brushed",
+      "brushed",
+      "was brushing"
+    ],
+    "correctAnswer": "had brushed",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-188",
+    "question": "He ___ (brush) when the movie started.",
+    "options": [
+      "hasn't brushed",
+      "hadn't brushed",
+      "was not brushing",
+      "didn't brush"
+    ],
+    "correctAnswer": "hadn't brushed",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-189",
+    "question": "___ he (brush) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-190",
+    "question": "It ___ (exercise) when the movie started.",
+    "options": [
+      "was exercising",
+      "has exercised",
+      "exercised",
+      "had exercised"
+    ],
+    "correctAnswer": "had exercised",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-191",
+    "question": "It ___ (exercise) when the movie started.",
+    "options": [
+      "hadn't exercised",
+      "didn't exercise",
+      "was not exercising",
+      "hasn't exercised"
+    ],
+    "correctAnswer": "hadn't exercised",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-192",
+    "question": "___ it (exercise) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Has",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-193",
+    "question": "I ___ (listen) when the movie started.",
+    "options": [
+      "had listened",
+      "was listenning",
+      "has listened",
+      "listened"
+    ],
+    "correctAnswer": "had listened",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-194",
+    "question": "I ___ (listen) when the movie started.",
+    "options": [
+      "didn't listen",
+      "was not listenning",
+      "hadn't listened",
+      "hasn't listened"
+    ],
+    "correctAnswer": "hadn't listened",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-195",
+    "question": "___ i (listen) when the movie started?",
+    "options": [
+      "Was",
+      "Did",
+      "Had",
+      "Has"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-196",
+    "question": "You ___ (sleep) when the movie started.",
+    "options": [
+      "was sleeping",
+      "had slept",
+      "slept",
+      "has slept"
+    ],
+    "correctAnswer": "had slept",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-197",
+    "question": "You ___ (sleep) when the movie started.",
+    "options": [
+      "was not sleeping",
+      "hasn't slept",
+      "hadn't slept",
+      "didn't sleep"
+    ],
+    "correctAnswer": "hadn't slept",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-198",
+    "question": "___ you (sleep) when the movie started?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Had"
+    ],
+    "correctAnswer": "Had",
+    "explanation": "Past Perfect (nghi vấn): Had + S + V3?",
+    "tenseType": "past-perfect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-perfect-199",
+    "question": "They ___ (research) when the movie started.",
+    "options": [
+      "researched",
+      "had researched",
+      "has researched",
+      "was researching"
+    ],
+    "correctAnswer": "had researched",
+    "explanation": "Past Perfect: had + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-perfect-200",
+    "question": "They ___ (research) when the movie started.",
+    "options": [
+      "hasn't researched",
+      "was not researching",
+      "didn't research",
+      "hadn't researched"
+    ],
+    "correctAnswer": "hadn't researched",
+    "explanation": "Past Perfect (phủ định): had not + V3.",
+    "tenseType": "past-perfect",
+    "difficulty": "medium"
+  }
+]

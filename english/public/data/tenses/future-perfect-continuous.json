@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "future-perfect-continuous-001",
+    "question": "We ___ (approve) by the end of the year.",
+    "options": [
+      "will have been approving",
+      "will be approving",
+      "will have approved",
+      "have been approving"
+    ],
+    "correctAnswer": "will have been approving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-002",
+    "question": "She ___ (attend) by 5 pm.",
+    "options": [
+      "will have attended",
+      "will be attending",
+      "will have been attending",
+      "have been attending"
+    ],
+    "correctAnswer": "will have been attending",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-003",
+    "question": "They ___ (boil) by next month.",
+    "options": [
+      "will have boiled",
+      "have been boiling",
+      "will have been boiling",
+      "will be boiling"
+    ],
+    "correctAnswer": "will have been boiling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-004",
+    "question": "He ___ (buy) by the end of the year.",
+    "options": [
+      "will have been buyying",
+      "have been buyying",
+      "will have bought",
+      "will be buyying"
+    ],
+    "correctAnswer": "will have been buyying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-005",
+    "question": "You ___ (call) by the end of the year.",
+    "options": [
+      "will have called",
+      "will have been calling",
+      "will be calling",
+      "have been calling"
+    ],
+    "correctAnswer": "will have been calling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-006",
+    "question": "I ___ (check) by 5 pm.",
+    "options": [
+      "will have been checking",
+      "will be checking",
+      "have been checking",
+      "will have checked"
+    ],
+    "correctAnswer": "will have been checking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-007",
+    "question": "It ___ (close) by 5 pm.",
+    "options": [
+      "have been closing",
+      "will have been closing",
+      "will have closed",
+      "will be closing"
+    ],
+    "correctAnswer": "will have been closing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-008",
+    "question": "We ___ (coordinate) by the end of the year.",
+    "options": [
+      "will be coordinating",
+      "will have been coordinating",
+      "have been coordinating",
+      "will have coordinated"
+    ],
+    "correctAnswer": "will have been coordinating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-009",
+    "question": "She ___ (cook) by next month.",
+    "options": [
+      "will have cooked",
+      "have been cooking",
+      "will have been cooking",
+      "will be cooking"
+    ],
+    "correctAnswer": "will have been cooking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-010",
+    "question": "They ___ (cost) by 5 pm.",
+    "options": [
+      "will have been costing",
+      "will be costing",
+      "will have cost",
+      "have been costing"
+    ],
+    "correctAnswer": "will have been costing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-011",
+    "question": "He ___ (depart) by 5 pm.",
+    "options": [
+      "have been departing",
+      "will have departed",
+      "will be departing",
+      "will have been departing"
+    ],
+    "correctAnswer": "will have been departing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-012",
+    "question": "You ___ (deliver) by 5 pm.",
+    "options": [
+      "have been deliverring",
+      "will have delivered",
+      "will have been deliverring",
+      "will be deliverring"
+    ],
+    "correctAnswer": "will have been deliverring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-013",
+    "question": "I ___ (disassemble) by next month.",
+    "options": [
+      "will be disassembling",
+      "will have been disassembling",
+      "have been disassembling",
+      "will have disassembled"
+    ],
+    "correctAnswer": "will have been disassembling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-014",
+    "question": "It ___ (do) by 5 pm.",
+    "options": [
+      "have been doing",
+      "will have done",
+      "will have been doing",
+      "will be doing"
+    ],
+    "correctAnswer": "will have been doing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-015",
+    "question": "We ___ (drink) by 5 pm.",
+    "options": [
+      "will have been drinking",
+      "will be drinking",
+      "will have drunk",
+      "have been drinking"
+    ],
+    "correctAnswer": "will have been drinking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-016",
+    "question": "She ___ (eat) by 5 pm.",
+    "options": [
+      "will have eaten",
+      "will have been eating",
+      "will be eating",
+      "have been eating"
+    ],
+    "correctAnswer": "will have been eating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-017",
+    "question": "They ___ (expire) by the end of the year.",
+    "options": [
+      "have been expiring",
+      "will have expired",
+      "will have been expiring",
+      "will be expiring"
+    ],
+    "correctAnswer": "will have been expiring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-018",
+    "question": "He ___ (finish) by the end of the year.",
+    "options": [
+      "have been finishing",
+      "will be finishing",
+      "will have been finishing",
+      "will have finished"
+    ],
+    "correctAnswer": "will have been finishing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-019",
+    "question": "You ___ (finalize) by next month.",
+    "options": [
+      "will have been finalizing",
+      "have been finalizing",
+      "will have finalized",
+      "will be finalizing"
+    ],
+    "correctAnswer": "will have been finalizing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-020",
+    "question": "I ___ (give) by the end of the year.",
+    "options": [
+      "have been giving",
+      "will have given",
+      "will have been giving",
+      "will be giving"
+    ],
+    "correctAnswer": "will have been giving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-021",
+    "question": "It ___ (go) by the end of the year.",
+    "options": [
+      "will have gone",
+      "will be going",
+      "have been going",
+      "will have been going"
+    ],
+    "correctAnswer": "will have been going",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-022",
+    "question": "We ___ (help) by next month.",
+    "options": [
+      "will have helped",
+      "will have been helping",
+      "have been helping",
+      "will be helping"
+    ],
+    "correctAnswer": "will have been helping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-023",
+    "question": "She ___ (join) by next month.",
+    "options": [
+      "will be joining",
+      "will have been joining",
+      "have been joining",
+      "will have joined"
+    ],
+    "correctAnswer": "will have been joining",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-024",
+    "question": "They ___ (leave) by 5 pm.",
+    "options": [
+      "have been leaving",
+      "will have been leaving",
+      "will have left",
+      "will be leaving"
+    ],
+    "correctAnswer": "will have been leaving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-025",
+    "question": "He ___ (live) by next month.",
+    "options": [
+      "have been living",
+      "will be living",
+      "will have been living",
+      "will have lived"
+    ],
+    "correctAnswer": "will have been living",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-026",
+    "question": "You ___ (manage) by 5 pm.",
+    "options": [
+      "will have managed",
+      "will have been managing",
+      "will be managing",
+      "have been managing"
+    ],
+    "correctAnswer": "will have been managing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-027",
+    "question": "I ___ (matter) by next month.",
+    "options": [
+      "will have mattered",
+      "will have been matterring",
+      "have been matterring",
+      "will be matterring"
+    ],
+    "correctAnswer": "will have been matterring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-028",
+    "question": "It ___ (meet) by next month.",
+    "options": [
+      "will have been meeting",
+      "have been meeting",
+      "will have met",
+      "will be meeting"
+    ],
+    "correctAnswer": "will have been meeting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-029",
+    "question": "We ___ (offer) by the end of the year.",
+    "options": [
+      "will be offerring",
+      "will have been offerring",
+      "will have offered",
+      "have been offerring"
+    ],
+    "correctAnswer": "will have been offerring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-030",
+    "question": "She ___ (open) by next month.",
+    "options": [
+      "will have opened",
+      "have been openning",
+      "will be openning",
+      "will have been openning"
+    ],
+    "correctAnswer": "will have been openning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-031",
+    "question": "They ___ (order) by the end of the year.",
+    "options": [
+      "will have ordered",
+      "will have been orderring",
+      "will be orderring",
+      "have been orderring"
+    ],
+    "correctAnswer": "will have been orderring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-032",
+    "question": "He ___ (ship) by the end of the year.",
+    "options": [
+      "will have been shipping",
+      "have been shipping",
+      "will have shipped",
+      "will be shipping"
+    ],
+    "correctAnswer": "will have been shipping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-033",
+    "question": "You ___ (organize) by next month.",
+    "options": [
+      "have been organizing",
+      "will have been organizing",
+      "will be organizing",
+      "will have organized"
+    ],
+    "correctAnswer": "will have been organizing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-034",
+    "question": "I ___ (play) by next month.",
+    "options": [
+      "have been playying",
+      "will have been playying",
+      "will have played",
+      "will be playying"
+    ],
+    "correctAnswer": "will have been playying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-035",
+    "question": "It ___ (rain) by next month.",
+    "options": [
+      "will be raining",
+      "will have been raining",
+      "have been raining",
+      "will have rained"
+    ],
+    "correctAnswer": "will have been raining",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-036",
+    "question": "We ___ (read) by next month.",
+    "options": [
+      "will be reading",
+      "have been reading",
+      "will have been reading",
+      "will have read"
+    ],
+    "correctAnswer": "will have been reading",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-037",
+    "question": "She ___ (remember) by the end of the year.",
+    "options": [
+      "will have remembered",
+      "will have been rememberring",
+      "have been rememberring",
+      "will be rememberring"
+    ],
+    "correctAnswer": "will have been rememberring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-038",
+    "question": "They ___ (rise) by the end of the year.",
+    "options": [
+      "have been rising",
+      "will be rising",
+      "will have been rising",
+      "will have risen"
+    ],
+    "correctAnswer": "will have been rising",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-039",
+    "question": "He ___ (run) by next month.",
+    "options": [
+      "will have been running",
+      "have been running",
+      "will have run",
+      "will be running"
+    ],
+    "correctAnswer": "will have been running",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-040",
+    "question": "You ___ (serve) by the end of the year.",
+    "options": [
+      "will have been serving",
+      "will have served",
+      "have been serving",
+      "will be serving"
+    ],
+    "correctAnswer": "will have been serving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-041",
+    "question": "I ___ (speak) by next month.",
+    "options": [
+      "will have spoken",
+      "will be speaking",
+      "have been speaking",
+      "will have been speaking"
+    ],
+    "correctAnswer": "will have been speaking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-042",
+    "question": "It ___ (spoil) by next month.",
+    "options": [
+      "will have spoiled",
+      "will have been spoiling",
+      "have been spoiling",
+      "will be spoiling"
+    ],
+    "correctAnswer": "will have been spoiling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-043",
+    "question": "We ___ (start) by 5 pm.",
+    "options": [
+      "will be starting",
+      "will have started",
+      "have been starting",
+      "will have been starting"
+    ],
+    "correctAnswer": "will have been starting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-044",
+    "question": "She ___ (stay) by the end of the year.",
+    "options": [
+      "will have been stayying",
+      "will be stayying",
+      "have been stayying",
+      "will have stayed"
+    ],
+    "correctAnswer": "will have been stayying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-045",
+    "question": "They ___ (study) by 5 pm.",
+    "options": [
+      "will have been studying",
+      "have been studying",
+      "will have studied",
+      "will be studying"
+    ],
+    "correctAnswer": "will have been studying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-046",
+    "question": "He ___ (take) by next month.",
+    "options": [
+      "have been taking",
+      "will have been taking",
+      "will be taking",
+      "will have taken"
+    ],
+    "correctAnswer": "will have been taking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-047",
+    "question": "You ___ (teach) by next month.",
+    "options": [
+      "have been teaching",
+      "will be teaching",
+      "will have taught",
+      "will have been teaching"
+    ],
+    "correctAnswer": "will have been teaching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-048",
+    "question": "I ___ (travel) by 5 pm.",
+    "options": [
+      "will have been travelling",
+      "will have traveled",
+      "have been travelling",
+      "will be travelling"
+    ],
+    "correctAnswer": "will have been travelling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-049",
+    "question": "It ___ (use) by the end of the year.",
+    "options": [
+      "will be using",
+      "have been using",
+      "will have used",
+      "will have been using"
+    ],
+    "correctAnswer": "will have been using",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-050",
+    "question": "We ___ (visit) by the end of the year.",
+    "options": [
+      "will be visitting",
+      "will have been visitting",
+      "have been visitting",
+      "will have visited"
+    ],
+    "correctAnswer": "will have been visitting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-051",
+    "question": "She ___ (watch) by 5 pm.",
+    "options": [
+      "will have watched",
+      "will be watching",
+      "will have been watching",
+      "have been watching"
+    ],
+    "correctAnswer": "will have been watching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-052",
+    "question": "They ___ (weigh) by 5 pm.",
+    "options": [
+      "will have been weighing",
+      "have been weighing",
+      "will be weighing",
+      "will have weighed"
+    ],
+    "correctAnswer": "will have been weighing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-053",
+    "question": "He ___ (work) by 5 pm.",
+    "options": [
+      "will have worked",
+      "have been working",
+      "will be working",
+      "will have been working"
+    ],
+    "correctAnswer": "will have been working",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-054",
+    "question": "You ___ (brush) by the end of the year.",
+    "options": [
+      "will have been brushing",
+      "will have brushed",
+      "have been brushing",
+      "will be brushing"
+    ],
+    "correctAnswer": "will have been brushing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-055",
+    "question": "I ___ (exercise) by 5 pm.",
+    "options": [
+      "have been exercising",
+      "will have exercised",
+      "will be exercising",
+      "will have been exercising"
+    ],
+    "correctAnswer": "will have been exercising",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-056",
+    "question": "It ___ (listen) by 5 pm.",
+    "options": [
+      "will have listened",
+      "have been listenning",
+      "will be listenning",
+      "will have been listenning"
+    ],
+    "correctAnswer": "will have been listenning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-057",
+    "question": "We ___ (sleep) by next month.",
+    "options": [
+      "will be sleeping",
+      "will have been sleeping",
+      "will have slept",
+      "have been sleeping"
+    ],
+    "correctAnswer": "will have been sleeping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-058",
+    "question": "She ___ (research) by the end of the year.",
+    "options": [
+      "will be researching",
+      "have been researching",
+      "will have researched",
+      "will have been researching"
+    ],
+    "correctAnswer": "will have been researching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-059",
+    "question": "They ___ (recycle) by 5 pm.",
+    "options": [
+      "will have recycled",
+      "will be recycling",
+      "have been recycling",
+      "will have been recycling"
+    ],
+    "correctAnswer": "will have been recycling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-060",
+    "question": "He ___ (diagnose) by 5 pm.",
+    "options": [
+      "will be diagnosing",
+      "have been diagnosing",
+      "will have been diagnosing",
+      "will have diagnosed"
+    ],
+    "correctAnswer": "will have been diagnosing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-061",
+    "question": "You ___ (negotiate) by 5 pm.",
+    "options": [
+      "have been negotiating",
+      "will be negotiating",
+      "will have negotiated",
+      "will have been negotiating"
+    ],
+    "correctAnswer": "will have been negotiating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-062",
+    "question": "I ___ (invest) by 5 pm.",
+    "options": [
+      "have been investing",
+      "will have been investing",
+      "will be investing",
+      "will have invested"
+    ],
+    "correctAnswer": "will have been investing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-063",
+    "question": "It ___ (compose) by 5 pm.",
+    "options": [
+      "will have been composing",
+      "have been composing",
+      "will be composing",
+      "will have composed"
+    ],
+    "correctAnswer": "will have been composing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-064",
+    "question": "We ___ (rescue) by next month.",
+    "options": [
+      "will have been rescuing",
+      "will be rescuing",
+      "will have rescued",
+      "have been rescuing"
+    ],
+    "correctAnswer": "will have been rescuing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-065",
+    "question": "She ___ (broadcast) by the end of the year.",
+    "options": [
+      "will be broadcasting",
+      "will have been broadcasting",
+      "will have broadcast",
+      "have been broadcasting"
+    ],
+    "correctAnswer": "will have been broadcasting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-066",
+    "question": "They ___ (discover) by the end of the year.",
+    "options": [
+      "will have discovered",
+      "will be discoverring",
+      "will have been discoverring",
+      "have been discoverring"
+    ],
+    "correctAnswer": "will have been discoverring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-067",
+    "question": "He ___ (conserve) by the end of the year.",
+    "options": [
+      "have been conserving",
+      "will have been conserving",
+      "will be conserving",
+      "will have conserved"
+    ],
+    "correctAnswer": "will have been conserving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-068",
+    "question": "You ___ (schedule) by next month.",
+    "options": [
+      "will be scheduling",
+      "have been scheduling",
+      "will have scheduled",
+      "will have been scheduling"
+    ],
+    "correctAnswer": "will have been scheduling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-069",
+    "question": "I ___ (enroll) by next month.",
+    "options": [
+      "have been enrolling",
+      "will have enrolled",
+      "will have been enrolling",
+      "will be enrolling"
+    ],
+    "correctAnswer": "will have been enrolling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-070",
+    "question": "It ___ (manufacture) by 5 pm.",
+    "options": [
+      "will have manufactured",
+      "will have been manufacturing",
+      "will be manufacturing",
+      "have been manufacturing"
+    ],
+    "correctAnswer": "will have been manufacturing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-071",
+    "question": "We ___ (donate) by the end of the year.",
+    "options": [
+      "will be donating",
+      "will have been donating",
+      "have been donating",
+      "will have donated"
+    ],
+    "correctAnswer": "will have been donating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-072",
+    "question": "She ___ (forecast) by next month.",
+    "options": [
+      "will have been forecasting",
+      "will be forecasting",
+      "have been forecasting",
+      "will have forecast"
+    ],
+    "correctAnswer": "will have been forecasting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-073",
+    "question": "They ___ (say) by 5 pm.",
+    "options": [
+      "have been sayying",
+      "will have said",
+      "will be sayying",
+      "will have been sayying"
+    ],
+    "correctAnswer": "will have been sayying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-074",
+    "question": "He ___ (get) by next month.",
+    "options": [
+      "will have been getting",
+      "will have gotten",
+      "will be getting",
+      "have been getting"
+    ],
+    "correctAnswer": "will have been getting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-075",
+    "question": "You ___ (make) by the end of the year.",
+    "options": [
+      "will have made",
+      "will be making",
+      "have been making",
+      "will have been making"
+    ],
+    "correctAnswer": "will have been making",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-076",
+    "question": "I ___ (see) by 5 pm.",
+    "options": [
+      "will have seen",
+      "will be seeing",
+      "have been seeing",
+      "will have been seeing"
+    ],
+    "correctAnswer": "will have been seeing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-077",
+    "question": "It ___ (come) by the end of the year.",
+    "options": [
+      "will have come",
+      "have been coming",
+      "will be coming",
+      "will have been coming"
+    ],
+    "correctAnswer": "will have been coming",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-078",
+    "question": "We ___ (think) by next month.",
+    "options": [
+      "will be thinking",
+      "will have thought",
+      "have been thinking",
+      "will have been thinking"
+    ],
+    "correctAnswer": "will have been thinking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-079",
+    "question": "She ___ (look) by next month.",
+    "options": [
+      "will be looking",
+      "will have been looking",
+      "have been looking",
+      "will have looked"
+    ],
+    "correctAnswer": "will have been looking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-080",
+    "question": "They ___ (find) by next month.",
+    "options": [
+      "will be finding",
+      "have been finding",
+      "will have been finding",
+      "will have found"
+    ],
+    "correctAnswer": "will have been finding",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-081",
+    "question": "He ___ (tell) by next month.",
+    "options": [
+      "will have been telling",
+      "have been telling",
+      "will be telling",
+      "will have told"
+    ],
+    "correctAnswer": "will have been telling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-082",
+    "question": "You ___ (ask) by the end of the year.",
+    "options": [
+      "have been asking",
+      "will be asking",
+      "will have asked",
+      "will have been asking"
+    ],
+    "correctAnswer": "will have been asking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-083",
+    "question": "I ___ (put) by next month.",
+    "options": [
+      "will have been putting",
+      "will be putting",
+      "have been putting",
+      "will have put"
+    ],
+    "correctAnswer": "will have been putting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-084",
+    "question": "It ___ (keep) by next month.",
+    "options": [
+      "have been keeping",
+      "will be keeping",
+      "will have been keeping",
+      "will have kept"
+    ],
+    "correctAnswer": "will have been keeping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-085",
+    "question": "We ___ (begin) by next month.",
+    "options": [
+      "will have been beginning",
+      "have been beginning",
+      "will be beginning",
+      "will have begun"
+    ],
+    "correctAnswer": "will have been beginning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-086",
+    "question": "She ___ (turn) by 5 pm.",
+    "options": [
+      "will have turned",
+      "will have been turning",
+      "have been turning",
+      "will be turning"
+    ],
+    "correctAnswer": "will have been turning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-087",
+    "question": "They ___ (show) by 5 pm.",
+    "options": [
+      "will be showwing",
+      "will have been showwing",
+      "will have shown",
+      "have been showwing"
+    ],
+    "correctAnswer": "will have been showwing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-088",
+    "question": "He ___ (hear) by next month.",
+    "options": [
+      "will have heard",
+      "will be hearing",
+      "have been hearing",
+      "will have been hearing"
+    ],
+    "correctAnswer": "will have been hearing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-089",
+    "question": "You ___ (move) by the end of the year.",
+    "options": [
+      "will have been moving",
+      "will be moving",
+      "have been moving",
+      "will have moved"
+    ],
+    "correctAnswer": "will have been moving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-090",
+    "question": "I ___ (bring) by next month.",
+    "options": [
+      "will be bringing",
+      "have been bringing",
+      "will have been bringing",
+      "will have brought"
+    ],
+    "correctAnswer": "will have been bringing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-091",
+    "question": "It ___ (write) by the end of the year.",
+    "options": [
+      "will have written",
+      "will be writing",
+      "have been writing",
+      "will have been writing"
+    ],
+    "correctAnswer": "will have been writing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-092",
+    "question": "We ___ (sit) by next month.",
+    "options": [
+      "will have sat",
+      "will be sitting",
+      "will have been sitting",
+      "have been sitting"
+    ],
+    "correctAnswer": "will have been sitting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-093",
+    "question": "She ___ (stand) by next month.",
+    "options": [
+      "will be standing",
+      "have been standing",
+      "will have been standing",
+      "will have stood"
+    ],
+    "correctAnswer": "will have been standing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-094",
+    "question": "They ___ (lose) by 5 pm.",
+    "options": [
+      "will have lost",
+      "have been losing",
+      "will have been losing",
+      "will be losing"
+    ],
+    "correctAnswer": "will have been losing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-095",
+    "question": "He ___ (pay) by next month.",
+    "options": [
+      "will be payying",
+      "will have been payying",
+      "have been payying",
+      "will have paid"
+    ],
+    "correctAnswer": "will have been payying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-096",
+    "question": "You ___ (pass) by 5 pm.",
+    "options": [
+      "will have been passing",
+      "will have passed",
+      "have been passing",
+      "will be passing"
+    ],
+    "correctAnswer": "will have been passing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-097",
+    "question": "I ___ (post) by next month.",
+    "options": [
+      "have been posting",
+      "will have posted",
+      "will be posting",
+      "will have been posting"
+    ],
+    "correctAnswer": "will have been posting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-098",
+    "question": "It ___ (include) by 5 pm.",
+    "options": [
+      "will have been including",
+      "will be including",
+      "have been including",
+      "will have included"
+    ],
+    "correctAnswer": "will have been including",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-099",
+    "question": "We ___ (continue) by next month.",
+    "options": [
+      "will have continued",
+      "have been continuing",
+      "will have been continuing",
+      "will be continuing"
+    ],
+    "correctAnswer": "will have been continuing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-100",
+    "question": "She ___ (set) by 5 pm.",
+    "options": [
+      "will be setting",
+      "will have set",
+      "will have been setting",
+      "have been setting"
+    ],
+    "correctAnswer": "will have been setting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-101",
+    "question": "They ___ (learn) by 5 pm.",
+    "options": [
+      "will be learning",
+      "will have been learning",
+      "have been learning",
+      "will have learned"
+    ],
+    "correctAnswer": "will have been learning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-102",
+    "question": "He ___ (change) by next month.",
+    "options": [
+      "will have changed",
+      "will be changing",
+      "have been changing",
+      "will have been changing"
+    ],
+    "correctAnswer": "will have been changing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-103",
+    "question": "You ___ (lead) by 5 pm.",
+    "options": [
+      "have been leading",
+      "will have been leading",
+      "will have led",
+      "will be leading"
+    ],
+    "correctAnswer": "will have been leading",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-104",
+    "question": "I ___ (follow) by next month.",
+    "options": [
+      "will be followwing",
+      "will have been followwing",
+      "will have followed",
+      "have been followwing"
+    ],
+    "correctAnswer": "will have been followwing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-105",
+    "question": "It ___ (stop) by the end of the year.",
+    "options": [
+      "will have stopped",
+      "have been stopping",
+      "will be stopping",
+      "will have been stopping"
+    ],
+    "correctAnswer": "will have been stopping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-106",
+    "question": "We ___ (create) by 5 pm.",
+    "options": [
+      "will have created",
+      "will have been creating",
+      "have been creating",
+      "will be creating"
+    ],
+    "correctAnswer": "will have been creating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-107",
+    "question": "She ___ (complete) by next month.",
+    "options": [
+      "will have completed",
+      "will have been completing",
+      "will be completing",
+      "have been completing"
+    ],
+    "correctAnswer": "will have been completing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-108",
+    "question": "They ___ (allow) by 5 pm.",
+    "options": [
+      "will have allowed",
+      "will be allowwing",
+      "have been allowwing",
+      "will have been allowwing"
+    ],
+    "correctAnswer": "will have been allowwing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-109",
+    "question": "He ___ (add) by next month.",
+    "options": [
+      "will have been adding",
+      "will be adding",
+      "will have added",
+      "have been adding"
+    ],
+    "correctAnswer": "will have been adding",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-110",
+    "question": "You ___ (spend) by the end of the year.",
+    "options": [
+      "will be spending",
+      "will have been spending",
+      "have been spending",
+      "will have spent"
+    ],
+    "correctAnswer": "will have been spending",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-111",
+    "question": "I ___ (grow) by the end of the year.",
+    "options": [
+      "will have grown",
+      "have been growwing",
+      "will be growwing",
+      "will have been growwing"
+    ],
+    "correctAnswer": "will have been growwing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-112",
+    "question": "It ___ (walk) by next month.",
+    "options": [
+      "will have been walking",
+      "will have walked",
+      "have been walking",
+      "will be walking"
+    ],
+    "correctAnswer": "will have been walking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-113",
+    "question": "We ___ (win) by the end of the year.",
+    "options": [
+      "have been winning",
+      "will be winning",
+      "will have won",
+      "will have been winning"
+    ],
+    "correctAnswer": "will have been winning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-114",
+    "question": "She ___ (consider) by 5 pm.",
+    "options": [
+      "will be considerring",
+      "will have been considerring",
+      "will have considered",
+      "have been considerring"
+    ],
+    "correctAnswer": "will have been considerring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-115",
+    "question": "They ___ (appear) by 5 pm.",
+    "options": [
+      "will be appearing",
+      "have been appearing",
+      "will have been appearing",
+      "will have appeared"
+    ],
+    "correctAnswer": "will have been appearing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-116",
+    "question": "He ___ (wait) by the end of the year.",
+    "options": [
+      "have been waiting",
+      "will have been waiting",
+      "will have waited",
+      "will be waiting"
+    ],
+    "correctAnswer": "will have been waiting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-117",
+    "question": "You ___ (send) by 5 pm.",
+    "options": [
+      "have been sending",
+      "will have sent",
+      "will have been sending",
+      "will be sending"
+    ],
+    "correctAnswer": "will have been sending",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-118",
+    "question": "I ___ (expect) by next month.",
+    "options": [
+      "will have been expecting",
+      "will be expecting",
+      "will have expected",
+      "have been expecting"
+    ],
+    "correctAnswer": "will have been expecting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-119",
+    "question": "It ___ (build) by 5 pm.",
+    "options": [
+      "will have built",
+      "will be building",
+      "will have been building",
+      "have been building"
+    ],
+    "correctAnswer": "will have been building",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-120",
+    "question": "We ___ (fall) by the end of the year.",
+    "options": [
+      "will be falling",
+      "will have fallen",
+      "have been falling",
+      "will have been falling"
+    ],
+    "correctAnswer": "will have been falling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-121",
+    "question": "She ___ (cut) by next month.",
+    "options": [
+      "will have cut",
+      "have been cutting",
+      "will be cutting",
+      "will have been cutting"
+    ],
+    "correctAnswer": "will have been cutting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-122",
+    "question": "They ___ (reach) by 5 pm.",
+    "options": [
+      "will have reached",
+      "will have been reaching",
+      "have been reaching",
+      "will be reaching"
+    ],
+    "correctAnswer": "will have been reaching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-123",
+    "question": "He ___ (remain) by 5 pm.",
+    "options": [
+      "will have been remaining",
+      "have been remaining",
+      "will be remaining",
+      "will have remained"
+    ],
+    "correctAnswer": "will have been remaining",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-124",
+    "question": "You ___ (clean) by next month.",
+    "options": [
+      "will have been cleaning",
+      "will have cleaned",
+      "have been cleaning",
+      "will be cleaning"
+    ],
+    "correctAnswer": "will have been cleaning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-125",
+    "question": "I ___ (wash) by next month.",
+    "options": [
+      "have been washing",
+      "will have washed",
+      "will be washing",
+      "will have been washing"
+    ],
+    "correctAnswer": "will have been washing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-126",
+    "question": "It ___ (drive) by next month.",
+    "options": [
+      "will have driven",
+      "have been driving",
+      "will have been driving",
+      "will be driving"
+    ],
+    "correctAnswer": "will have been driving",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-127",
+    "question": "We ___ (ride) by next month.",
+    "options": [
+      "will have ridden",
+      "will be riding",
+      "have been riding",
+      "will have been riding"
+    ],
+    "correctAnswer": "will have been riding",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-128",
+    "question": "She ___ (shop) by 5 pm.",
+    "options": [
+      "will have been shopping",
+      "will have shopped",
+      "will be shopping",
+      "have been shopping"
+    ],
+    "correctAnswer": "will have been shopping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-129",
+    "question": "They ___ (fix) by the end of the year.",
+    "options": [
+      "will be fixxing",
+      "will have been fixxing",
+      "will have fixed",
+      "have been fixxing"
+    ],
+    "correctAnswer": "will have been fixxing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-130",
+    "question": "He ___ (repair) by the end of the year.",
+    "options": [
+      "have been repairing",
+      "will have been repairing",
+      "will have repaired",
+      "will be repairing"
+    ],
+    "correctAnswer": "will have been repairing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-131",
+    "question": "You ___ (charge) by 5 pm.",
+    "options": [
+      "will have charged",
+      "have been charging",
+      "will be charging",
+      "will have been charging"
+    ],
+    "correctAnswer": "will have been charging",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-132",
+    "question": "I ___ (carry) by the end of the year.",
+    "options": [
+      "will have carried",
+      "will be carrying",
+      "have been carrying",
+      "will have been carrying"
+    ],
+    "correctAnswer": "will have been carrying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-133",
+    "question": "It ___ (wear) by 5 pm.",
+    "options": [
+      "have been wearing",
+      "will have been wearing",
+      "will be wearing",
+      "will have worn"
+    ],
+    "correctAnswer": "will have been wearing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-134",
+    "question": "We ___ (port) by the end of the year.",
+    "options": [
+      "will have been porting",
+      "have been porting",
+      "will be porting",
+      "will have ported"
+    ],
+    "correctAnswer": "will have been porting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-135",
+    "question": "She ___ (compile) by 5 pm.",
+    "options": [
+      "have been compiling",
+      "will have compiled",
+      "will be compiling",
+      "will have been compiling"
+    ],
+    "correctAnswer": "will have been compiling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-136",
+    "question": "They ___ (execute) by the end of the year.",
+    "options": [
+      "will have been executing",
+      "have been executing",
+      "will have executed",
+      "will be executing"
+    ],
+    "correctAnswer": "will have been executing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-137",
+    "question": "He ___ (deploy) by 5 pm.",
+    "options": [
+      "have been deployying",
+      "will have been deployying",
+      "will be deployying",
+      "will have deployed"
+    ],
+    "correctAnswer": "will have been deployying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-138",
+    "question": "You ___ (release) by next month.",
+    "options": [
+      "have been releasing",
+      "will have released",
+      "will be releasing",
+      "will have been releasing"
+    ],
+    "correctAnswer": "will have been releasing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-139",
+    "question": "I ___ (commit) by the end of the year.",
+    "options": [
+      "will have committed",
+      "will have been committing",
+      "have been committing",
+      "will be committing"
+    ],
+    "correctAnswer": "will have been committing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-140",
+    "question": "It ___ (push) by 5 pm.",
+    "options": [
+      "will be pushing",
+      "will have pushed",
+      "have been pushing",
+      "will have been pushing"
+    ],
+    "correctAnswer": "will have been pushing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-141",
+    "question": "We ___ (pull) by 5 pm.",
+    "options": [
+      "will have pulled",
+      "have been pulling",
+      "will be pulling",
+      "will have been pulling"
+    ],
+    "correctAnswer": "will have been pulling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-142",
+    "question": "She ___ (merge) by next month.",
+    "options": [
+      "will be merging",
+      "will have merged",
+      "have been merging",
+      "will have been merging"
+    ],
+    "correctAnswer": "will have been merging",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-143",
+    "question": "They ___ (branch) by 5 pm.",
+    "options": [
+      "will be branching",
+      "have been branching",
+      "will have been branching",
+      "will have branched"
+    ],
+    "correctAnswer": "will have been branching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-144",
+    "question": "He ___ (rebase) by the end of the year.",
+    "options": [
+      "will have been rebasing",
+      "will be rebasing",
+      "have been rebasing",
+      "will have rebased"
+    ],
+    "correctAnswer": "will have been rebasing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-145",
+    "question": "You ___ (stash) by 5 pm.",
+    "options": [
+      "have been stashing",
+      "will be stashing",
+      "will have been stashing",
+      "will have stashed"
+    ],
+    "correctAnswer": "will have been stashing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-146",
+    "question": "I ___ (clone) by 5 pm.",
+    "options": [
+      "will be cloning",
+      "will have cloned",
+      "have been cloning",
+      "will have been cloning"
+    ],
+    "correctAnswer": "will have been cloning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-147",
+    "question": "It ___ (fork) by next month.",
+    "options": [
+      "will have been forking",
+      "will have forked",
+      "will be forking",
+      "have been forking"
+    ],
+    "correctAnswer": "will have been forking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-148",
+    "question": "We ___ (debug) by the end of the year.",
+    "options": [
+      "will be debugging",
+      "will have been debugging",
+      "will have debugged",
+      "have been debugging"
+    ],
+    "correctAnswer": "will have been debugging",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-149",
+    "question": "She ___ (log) by next month.",
+    "options": [
+      "will have logged",
+      "will be logging",
+      "will have been logging",
+      "have been logging"
+    ],
+    "correctAnswer": "will have been logging",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-150",
+    "question": "They ___ (trace) by next month.",
+    "options": [
+      "will have traced",
+      "have been tracing",
+      "will be tracing",
+      "will have been tracing"
+    ],
+    "correctAnswer": "will have been tracing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-151",
+    "question": "He ___ (profile) by next month.",
+    "options": [
+      "will have been profiling",
+      "will have profiled",
+      "have been profiling",
+      "will be profiling"
+    ],
+    "correctAnswer": "will have been profiling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-152",
+    "question": "You ___ (optimize) by next month.",
+    "options": [
+      "have been optimizing",
+      "will have optimized",
+      "will have been optimizing",
+      "will be optimizing"
+    ],
+    "correctAnswer": "will have been optimizing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-153",
+    "question": "I ___ (refactor) by 5 pm.",
+    "options": [
+      "will be refactorring",
+      "will have been refactorring",
+      "will have refactored",
+      "have been refactorring"
+    ],
+    "correctAnswer": "will have been refactorring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-154",
+    "question": "It ___ (test) by next month.",
+    "options": [
+      "will have tested",
+      "will have been testing",
+      "will be testing",
+      "have been testing"
+    ],
+    "correctAnswer": "will have been testing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-155",
+    "question": "We ___ (mock) by the end of the year.",
+    "options": [
+      "will have mocked",
+      "will be mocking",
+      "will have been mocking",
+      "have been mocking"
+    ],
+    "correctAnswer": "will have been mocking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-156",
+    "question": "She ___ (stub) by the end of the year.",
+    "options": [
+      "will have been stubbing",
+      "will be stubbing",
+      "have been stubbing",
+      "will have stubbed"
+    ],
+    "correctAnswer": "will have been stubbing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-157",
+    "question": "They ___ (lint) by the end of the year.",
+    "options": [
+      "have been linting",
+      "will be linting",
+      "will have been linting",
+      "will have linted"
+    ],
+    "correctAnswer": "will have been linting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-158",
+    "question": "He ___ (format) by next month.",
+    "options": [
+      "will have been formatting",
+      "have been formatting",
+      "will be formatting",
+      "will have formatted"
+    ],
+    "correctAnswer": "will have been formatting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-159",
+    "question": "You ___ (package) by 5 pm.",
+    "options": [
+      "have been packaging",
+      "will have packaged",
+      "will have been packaging",
+      "will be packaging"
+    ],
+    "correctAnswer": "will have been packaging",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-160",
+    "question": "I ___ (bundle) by the end of the year.",
+    "options": [
+      "will be bundling",
+      "will have bundled",
+      "will have been bundling",
+      "have been bundling"
+    ],
+    "correctAnswer": "will have been bundling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-161",
+    "question": "It ___ (install) by 5 pm.",
+    "options": [
+      "will be installing",
+      "have been installing",
+      "will have installed",
+      "will have been installing"
+    ],
+    "correctAnswer": "will have been installing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-162",
+    "question": "We ___ (update) by 5 pm.",
+    "options": [
+      "will be updating",
+      "will have updated",
+      "have been updating",
+      "will have been updating"
+    ],
+    "correctAnswer": "will have been updating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-163",
+    "question": "She ___ (upgrade) by next month.",
+    "options": [
+      "will be upgrading",
+      "have been upgrading",
+      "will have been upgrading",
+      "will have upgraded"
+    ],
+    "correctAnswer": "will have been upgrading",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-164",
+    "question": "They ___ (rollback) by next month.",
+    "options": [
+      "have been rollbacking",
+      "will have rollbacked",
+      "will be rollbacking",
+      "will have been rollbacking"
+    ],
+    "correctAnswer": "will have been rollbacking",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-165",
+    "question": "He ___ (migrate) by the end of the year.",
+    "options": [
+      "will have been migrating",
+      "will have migrated",
+      "have been migrating",
+      "will be migrating"
+    ],
+    "correctAnswer": "will have been migrating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-166",
+    "question": "You ___ (seed) by 5 pm.",
+    "options": [
+      "will be seeding",
+      "have been seeding",
+      "will have seeded",
+      "will have been seeding"
+    ],
+    "correctAnswer": "will have been seeding",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-167",
+    "question": "I ___ (provision) by next month.",
+    "options": [
+      "will be provisioning",
+      "will have been provisioning",
+      "have been provisioning",
+      "will have provisioned"
+    ],
+    "correctAnswer": "will have been provisioning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-168",
+    "question": "It ___ (configure) by the end of the year.",
+    "options": [
+      "have been configuring",
+      "will have configured",
+      "will have been configuring",
+      "will be configuring"
+    ],
+    "correctAnswer": "will have been configuring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-169",
+    "question": "We ___ (authenticate) by next month.",
+    "options": [
+      "will be authenticating",
+      "have been authenticating",
+      "will have been authenticating",
+      "will have authenticated"
+    ],
+    "correctAnswer": "will have been authenticating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-170",
+    "question": "She ___ (authorize) by the end of the year.",
+    "options": [
+      "have been authorizing",
+      "will have been authorizing",
+      "will have authorized",
+      "will be authorizing"
+    ],
+    "correctAnswer": "will have been authorizing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-171",
+    "question": "They ___ (encrypt) by next month.",
+    "options": [
+      "will have been encrypting",
+      "have been encrypting",
+      "will be encrypting",
+      "will have encrypted"
+    ],
+    "correctAnswer": "will have been encrypting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-172",
+    "question": "He ___ (decrypt) by 5 pm.",
+    "options": [
+      "will be decrypting",
+      "will have decrypted",
+      "have been decrypting",
+      "will have been decrypting"
+    ],
+    "correctAnswer": "will have been decrypting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-173",
+    "question": "You ___ (hash) by 5 pm.",
+    "options": [
+      "will be hashing",
+      "have been hashing",
+      "will have been hashing",
+      "will have hashed"
+    ],
+    "correctAnswer": "will have been hashing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-174",
+    "question": "I ___ (sign) by 5 pm.",
+    "options": [
+      "will be signing",
+      "will have been signing",
+      "have been signing",
+      "will have signed"
+    ],
+    "correctAnswer": "will have been signing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-175",
+    "question": "It ___ (verify) by 5 pm.",
+    "options": [
+      "will have verified",
+      "will be verifying",
+      "have been verifying",
+      "will have been verifying"
+    ],
+    "correctAnswer": "will have been verifying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-176",
+    "question": "We ___ (fetch) by 5 pm.",
+    "options": [
+      "will have been fetching",
+      "will have fetched",
+      "have been fetching",
+      "will be fetching"
+    ],
+    "correctAnswer": "will have been fetching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-177",
+    "question": "She ___ (request) by 5 pm.",
+    "options": [
+      "have been requesting",
+      "will be requesting",
+      "will have been requesting",
+      "will have requested"
+    ],
+    "correctAnswer": "will have been requesting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-178",
+    "question": "They ___ (respond) by the end of the year.",
+    "options": [
+      "have been responding",
+      "will be responding",
+      "will have responded",
+      "will have been responding"
+    ],
+    "correctAnswer": "will have been responding",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-179",
+    "question": "He ___ (render) by next month.",
+    "options": [
+      "have been renderring",
+      "will be renderring",
+      "will have been renderring",
+      "will have rendered"
+    ],
+    "correctAnswer": "will have been renderring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-180",
+    "question": "You ___ (parse) by 5 pm.",
+    "options": [
+      "have been parsing",
+      "will have parsed",
+      "will have been parsing",
+      "will be parsing"
+    ],
+    "correctAnswer": "will have been parsing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-181",
+    "question": "I ___ (stringify) by the end of the year.",
+    "options": [
+      "will be stringifying",
+      "have been stringifying",
+      "will have been stringifying",
+      "will have stringified"
+    ],
+    "correctAnswer": "will have been stringifying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-182",
+    "question": "It ___ (serialize) by the end of the year.",
+    "options": [
+      "have been serializing",
+      "will be serializing",
+      "will have serialized",
+      "will have been serializing"
+    ],
+    "correctAnswer": "will have been serializing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-183",
+    "question": "We ___ (deserialize) by the end of the year.",
+    "options": [
+      "will be deserializing",
+      "have been deserializing",
+      "will have been deserializing",
+      "will have deserialized"
+    ],
+    "correctAnswer": "will have been deserializing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-184",
+    "question": "She ___ (cache) by next month.",
+    "options": [
+      "have been caching",
+      "will be caching",
+      "will have been caching",
+      "will have cached"
+    ],
+    "correctAnswer": "will have been caching",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-185",
+    "question": "They ___ (invalidate) by next month.",
+    "options": [
+      "will have been invalidating",
+      "will have invalidated",
+      "have been invalidating",
+      "will be invalidating"
+    ],
+    "correctAnswer": "will have been invalidating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-186",
+    "question": "He ___ (index) by next month.",
+    "options": [
+      "will have been indexxing",
+      "have been indexxing",
+      "will have indexed",
+      "will be indexxing"
+    ],
+    "correctAnswer": "will have been indexxing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-187",
+    "question": "You ___ (query) by 5 pm.",
+    "options": [
+      "will have queried",
+      "will have been querying",
+      "will be querying",
+      "have been querying"
+    ],
+    "correctAnswer": "will have been querying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-188",
+    "question": "I ___ (filter) by next month.",
+    "options": [
+      "have been filterring",
+      "will have filtered",
+      "will be filterring",
+      "will have been filterring"
+    ],
+    "correctAnswer": "will have been filterring",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-189",
+    "question": "It ___ (map) by 5 pm.",
+    "options": [
+      "have been mapping",
+      "will have mapped",
+      "will be mapping",
+      "will have been mapping"
+    ],
+    "correctAnswer": "will have been mapping",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-190",
+    "question": "We ___ (reduce) by the end of the year.",
+    "options": [
+      "will be reducing",
+      "will have been reducing",
+      "have been reducing",
+      "will have reduced"
+    ],
+    "correctAnswer": "will have been reducing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-191",
+    "question": "She ___ (scan) by next month.",
+    "options": [
+      "will have been scanning",
+      "will be scanning",
+      "have been scanning",
+      "will have scanned"
+    ],
+    "correctAnswer": "will have been scanning",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-192",
+    "question": "They ___ (connect) by next month.",
+    "options": [
+      "have been connecting",
+      "will have been connecting",
+      "will be connecting",
+      "will have connected"
+    ],
+    "correctAnswer": "will have been connecting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-193",
+    "question": "He ___ (disconnect) by 5 pm.",
+    "options": [
+      "will have disconnected",
+      "will be disconnecting",
+      "have been disconnecting",
+      "will have been disconnecting"
+    ],
+    "correctAnswer": "will have been disconnecting",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-194",
+    "question": "You ___ (subscribe) by the end of the year.",
+    "options": [
+      "will have subscribed",
+      "will have been subscribing",
+      "have been subscribing",
+      "will be subscribing"
+    ],
+    "correctAnswer": "will have been subscribing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-195",
+    "question": "I ___ (publish) by the end of the year.",
+    "options": [
+      "will be publishing",
+      "will have published",
+      "have been publishing",
+      "will have been publishing"
+    ],
+    "correctAnswer": "will have been publishing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-196",
+    "question": "It ___ (queue) by 5 pm.",
+    "options": [
+      "have been queuing",
+      "will have been queuing",
+      "will be queuing",
+      "will have queued"
+    ],
+    "correctAnswer": "will have been queuing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-197",
+    "question": "We ___ (retry) by 5 pm.",
+    "options": [
+      "will have been retrying",
+      "will have retried",
+      "have been retrying",
+      "will be retrying"
+    ],
+    "correctAnswer": "will have been retrying",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-198",
+    "question": "She ___ (throttle) by next month.",
+    "options": [
+      "will have been throttling",
+      "will have throttled",
+      "have been throttling",
+      "will be throttling"
+    ],
+    "correctAnswer": "will have been throttling",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-199",
+    "question": "They ___ (debounce) by the end of the year.",
+    "options": [
+      "will have debounced",
+      "will be debouncing",
+      "have been debouncing",
+      "will have been debouncing"
+    ],
+    "correctAnswer": "will have been debouncing",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  },
+  {
+    "id": "future-perfect-continuous-200",
+    "question": "He ___ (paginate) by the end of the year.",
+    "options": [
+      "have been paginating",
+      "will have paginated",
+      "will have been paginating",
+      "will be paginating"
+    ],
+    "correctAnswer": "will have been paginating",
+    "explanation": "Future Perfect Continuous: will have been + V-ing.",
+    "tenseType": "future-perfect-continuous",
+    "difficulty": "hard"
+  }
+]
