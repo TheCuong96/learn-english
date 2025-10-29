@@ -1303,6 +1303,9 @@ export const tensesQuizData: TensesQuestion[] = [
   }
 ];
 
+// Cache cho các câu hỏi đã load từ JSON
+const jsonQuestionsCache: Map<TenseType, TensesQuestion[]> = new Map();
+
 export const TensesData = {
   // Lấy công thức của một thì
   getTense(id: TenseType): TenseFormula | undefined {
@@ -1327,6 +1330,52 @@ export const TensesData = {
     };
   },
 
+  // Load câu hỏi từ file JSON
+  async loadQuestionsFromJSON(tenseType: TenseType): Promise<TensesQuestion[]> {
+    // Kiểm tra cache trước
+    if (jsonQuestionsCache.has(tenseType)) {
+      return jsonQuestionsCache.get(tenseType)!;
+    }
+
+    try {
+      // Map tenseType sang tên file
+      const tenseFileNameMap: Record<TenseType, string> = {
+        'present-simple': 'present-simple',
+        'present-continuous': 'present-continuous',
+        'present-perfect': 'present-perfect',
+        'present-perfect-continuous': 'present-perfect-continuous',
+        'past-simple': 'past-simple',
+        'past-continuous': 'past-continuous',
+        'past-perfect': 'past-perfect',
+        'past-perfect-continuous': 'past-perfect-continuous',
+        'future-simple': 'future-simple',
+        'future-continuous': 'future-continuous',
+        'future-perfect': 'future-perfect',
+        'future-perfect-continuous': 'future-perfect-continuous'
+      };
+
+      const fileName = tenseFileNameMap[tenseType];
+      if (!fileName) {
+        return [];
+      }
+
+      const response = await fetch(`/data/tenses/${fileName}.json`);
+      if (!response.ok) {
+        return [];
+      }
+
+      const data: TensesQuestion[] = await response.json();
+      
+      // Lưu vào cache
+      jsonQuestionsCache.set(tenseType, data);
+      
+      return data;
+    } catch (error) {
+      console.error(`Không thể tải câu hỏi cho ${tenseType}:`, error);
+      return [];
+    }
+  },
+
   // Lấy câu hỏi ngẫu nhiên
   getRandomQuestions(count: number = 10, difficulty?: 'easy' | 'medium' | 'hard'): TensesQuestion[] {
     let questions = [...tensesQuizData];
@@ -1339,8 +1388,20 @@ export const TensesData = {
     return shuffled.slice(0, Math.min(count, questions.length));
   },
 
-  // Lấy câu hỏi theo thì
-  getQuestionsByTense(tenseType: TenseType): TensesQuestion[] {
+  // Lấy câu hỏi theo thì (kết hợp từ mảng cứng và JSON)
+  async getQuestionsByTense(tenseType: TenseType): Promise<TensesQuestion[]> {
+    // Lấy từ mảng cứng
+    const hardcodedQuestions = tensesQuizData.filter(q => q.tenseType === tenseType);
+    
+    // Load từ JSON và kết hợp
+    const jsonQuestions = await this.loadQuestionsFromJSON(tenseType);
+    
+    // Kết hợp cả hai nguồn
+    return [...hardcodedQuestions, ...jsonQuestions];
+  },
+
+  // Lấy câu hỏi theo thì (sync version - chỉ lấy từ mảng cứng)
+  getQuestionsByTenseSync(tenseType: TenseType): TensesQuestion[] {
     return tensesQuizData.filter(q => q.tenseType === tenseType);
   },
 

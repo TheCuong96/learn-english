@@ -3,7 +3,12 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
-export default function Navigation() {
+interface NavigationProps {
+  onLinkClick?: () => void;
+  vertical?: boolean; // Thêm prop để hiển thị hàng dọc
+}
+
+export default function Navigation({ onLinkClick, vertical = false }: NavigationProps) {
   const pathname = usePathname();
 
   const links = [
@@ -13,15 +18,16 @@ export default function Navigation() {
   ];
 
   return (
-    <nav className=" ">
-      <div className="container mx-auto flex gap-2 overflow-x-auto">
+    <nav className="mt-2 sm:mt-0">
+      <div className={`container mx-auto ${vertical ? 'flex flex-col' : 'flex flex-col sm:flex-row'} gap-2 ${!vertical && 'overflow-x-auto'} pb-1 sm:pb-0 px-3 sm:px-0`}>
         {links.map((link) => {
           const isActive = pathname === link.href;
           return (
             <Link
               key={link.href}
               href={link.href}
-              className={`px-4 py-2 rounded-lg font-medium whitespace-nowrap transition-all cursor-pointer ${
+              onClick={onLinkClick}
+              className={`${vertical ? 'w-full' : ''} px-2 sm:px-4 md:px-5 py-1.5 sm:py-2 md:py-2.5 rounded-lg font-medium whitespace-nowrap transition-all cursor-pointer text-xs sm:text-sm md:text-base ${
                 isActive
                   ? 'bg-blue-500 text-white shadow-lg'
                   : 'bg-white/10 text-white/80 hover:bg-white/20 hover:text-white'

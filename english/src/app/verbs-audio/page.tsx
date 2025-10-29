@@ -131,25 +131,26 @@ export default function VerbsAudioPage() {
     <div className="min-h-screen bg-gray-900 text-white">
       <Navigation />
       
-      <div className="container mx-auto px-5 py-5">
-        <h1 className="text-2xl font-bold text-center mb-5 text-shadow">
-          Nghe phát âm động từ
-        </h1>
+      <div className="container mx-auto px-0 sm:px-4 md:px-5 py-4 sm:py-5">
+        <div className="px-3 sm:px-0">
+          <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-center mb-4 sm:mb-5 text-shadow">
+            Nghe phát âm động từ
+          </h1>
 
-      {/* Controls */}
-      <div className="mb-5 flex gap-3 flex-wrap items-center bg-white/10 p-4 rounded-lg shadow-lg backdrop-blur-md border border-white/20">
+          {/* Controls */}
+          <div className="mb-5 flex flex-col sm:flex-row gap-2 sm:gap-3 items-stretch sm:items-center bg-white/10 p-3 sm:p-4 rounded-lg shadow-lg backdrop-blur-md border border-white/20">
         <input
           type="search"
           placeholder="Tìm động từ (ví dụ: prefer)"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          className="px-3 py-2 text-lg border border-white/30 rounded min-w-[200px] bg-white/10 text-white placeholder-white/70 backdrop-blur-sm"
+          className="px-3 py-2 text-base sm:text-lg border border-white/30 rounded w-full sm:min-w-[200px] bg-white/10 text-white placeholder-white/70 backdrop-blur-sm"
         />
 
         <select
           value={selectedVoice}
           onChange={(e) => setSelectedVoice(e.target.value)}
-          className="px-3 py-2 text-lg border border-white/30 rounded bg-white/10 text-white"
+          className="px-3 py-2 text-base sm:text-lg border border-white/30 rounded bg-white/10 text-white w-full sm:w-auto"
         >
           {voices.map((voice, i) => (
             <option key={i} value={voice.name} className="bg-gray-800">
@@ -188,18 +189,22 @@ export default function VerbsAudioPage() {
 
         <button
           onClick={() => handleSpeak('example')}
-          className="px-4 py-2 text-lg border border-white/30 rounded bg-gradient-to-r from-purple-600 to-indigo-700 text-white hover:from-purple-700 hover:to-indigo-800 shadow-lg"
+          className="px-3 sm:px-4 py-2 text-sm sm:text-base md:text-lg border border-white/30 rounded bg-gradient-to-r from-purple-600 to-indigo-700 text-white hover:from-purple-700 hover:to-indigo-800 shadow-lg whitespace-nowrap"
         >
           Phát thử &quot;example&quot;
         </button>
 
-        <span className="ml-auto text-sm font-medium opacity-90">
-          Kết quả: {stats.total} / Tổng: {stats.fullTotal} | V2=V3: {stats.sameV2V3} | V1=V2=V3: {stats.sameAll}
+        <span className="text-xs sm:text-sm font-medium opacity-90 text-center sm:text-left sm:ml-auto">
+          <span className="block sm:inline">Kết quả: {stats.total} / {stats.fullTotal}</span>
+          <span className="hidden sm:inline"> | </span>
+          <span className="block sm:inline">V2=V3: {stats.sameV2V3}</span>
+          <span className="hidden sm:inline"> | </span>
+          <span className="block sm:inline">V1=V2=V3: {stats.sameAll}</span>
         </span>
-      </div>
+          </div>
 
-      {/* Verbs List */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
+          {/* Verbs List */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
         {filteredVerbs.map((verb, index) => {
           const sameV2V3 = isSameForm(verb.v2, verb.v3);
           const sameAll = isSameForm(verb.v1, verb.v2) && isSameForm(verb.v1, verb.v3);
@@ -300,7 +305,8 @@ export default function VerbsAudioPage() {
             </div>
           );
         })}
-      </div>
+          </div>
+        </div>
       </div>
     </div>
   );

@@ -12,7 +12,7 @@ import { Input } from '@/components/ui/input';
 import { ReviewWord, SessionType, Verb } from '@/types/verb';
 import { categorizeVerb } from '@/utils/verb-categories';
 import { VerbsData } from '@/utils/verbs-data';
-import { BookOpen, CheckCircle2, Home, PenTool, RefreshCw } from 'lucide-react';
+import { BookOpen, CheckCircle2, Home, Menu, PenTool, RefreshCw, X } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 export default function HomePage() {
@@ -32,6 +32,7 @@ export default function HomePage() {
   const [customLength, setCustomLength] = useState('');
   const [showCustomInput, setShowCustomInput] = useState(false);
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const sessionOptions: SessionType[] = ['flashcards', 'multiple-choice', 'fill-in-blank', 'verb-forms'];
   const quickLengthOptions = [10, 20, 30, 50];
@@ -252,29 +253,73 @@ export default function HomePage() {
     <>
       {/* Header */}
       <header className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50">
-        <div className="container mx-auto px-4 py-4">
-          <div className="flex justify-between items-center flex-wrap gap-3">
-            <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              Luyện tập động từ (804 verbs)
+        <div className="container mx-auto px-0 sm:px-4 py-3 sm:py-4">
+          <div className="flex justify-between items-center gap-2 sm:gap-3 px-3 sm:px-0">
+            <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent flex-1">
+              <span className="hidden sm:inline">Luyện tập động từ (804 verbs)</span>
+              <span className="sm:hidden">804 Verbs</span>
             </h1>
-            <div className="flex items-center gap-3 ">
+            {/* Desktop & Tablet: Show VoiceSelector and Home button */}
+            <div className="hidden sm:flex items-center gap-2 sm:gap-3 md:gap-4">
               <VoiceSelector />
               {currentScreen !== 'home' && (
-                <Button variant="ghost" size="icon" onClick={handleReset} className="cursor-pointer p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all">
-                  <Home className="h-5 w-5" />
+                <Button variant="ghost" size="icon" onClick={handleReset} className="cursor-pointer p-2 md:p-2.5 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all">
+                  <Home className="h-5 w-5 md:h-6 md:w-6" />
                 </Button>
               )}
             </div>
+            {/* Mobile: Hamburger Menu Button */}
+            <Button
+              variant="ghost"
+              size="icon"
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              className="sm:hidden cursor-pointer p-2 bg-slate-700/50 hover:bg-slate-600 text-slate-200 rounded-lg border border-slate-600/40 transition-all"
+            >
+              {isMobileMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            </Button>
           </div>
-          {currentScreen === 'home' && <Navigation />}
+          
+          {/* Mobile Menu */}
+          {isMobileMenuOpen && (
+            <div className="sm:hidden px-3 pb-3 pt-2 border-t border-slate-700/50 mt-2">
+              <div className="flex flex-col gap-3">
+                <VoiceSelector />
+                {currentScreen !== 'home' && (
+                  <Button
+                    variant="outline"
+                    onClick={() => {
+                      handleReset();
+                      setIsMobileMenuOpen(false);
+                    }}
+                    className="w-full justify-start cursor-pointer"
+                  >
+                    <Home className="mr-2 h-4 w-4" />
+                    Về trang chủ
+                  </Button>
+                )}
+                {currentScreen === 'home' && (
+                  <div className="pt-2">
+                    <Navigation onLinkClick={() => setIsMobileMenuOpen(false)} vertical={true} />
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+          
+          {/* Desktop & Tablet Navigation */}
+          {currentScreen === 'home' && (
+            <div className="hidden sm:block px-3 sm:px-0">
+              <Navigation />
+            </div>
+          )}
         </div>
       </header>
 
       {/* Main Content */}
-      <main className="container mx-auto p-4 flex-grow">
+      <main className="container mx-auto px-0 sm:px-4 py-4 flex-grow">
         {/* Home Screen */}
         {currentScreen === 'home' && (
-          <div className="space-y-6">
+          <div className="space-y-6 px-3 sm:px-0">
             <div className="text-center space-y-4">
               <p className="text-sm text-muted-foreground">
                 💡 Mẹo: Dùng phím <kbd className="px-2 py-1 bg-muted rounded border">←→↑↓</kbd> để di chuyển, 
@@ -469,7 +514,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="border-t mt-8">
-        <div className="container mx-auto px-4 py-4 text-center text-muted-foreground">
+        <div className="container mx-auto px-0 sm:px-4 py-4 text-center text-muted-foreground">
           <p>&copy; 2025 Luyện tập động từ. All rights reserved.</p>
         </div>
       </footer>
