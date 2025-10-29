@@ -86,6 +86,12 @@ export const getEnglishVoices = (): SpeechSynthesisVoice[] => {
   return voices.filter(v => /en-/i.test(v.lang));
 };
 
+// Lấy danh sách TẤT CẢ giọng có sẵn (không chỉ tiếng Anh)
+export const getAllVoices = (): SpeechSynthesisVoice[] => {
+  if (typeof window === 'undefined') return [];
+  return window.speechSynthesis.getVoices();
+};
+
 // Chức năng mute/unmute
 export const toggleMute = (): boolean => {
   isMuted = !isMuted;

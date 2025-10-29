@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "future-perfect-001",
+    "question": "I ___ (approve) by tomorrow.",
+    "options": [
+      "will be approving",
+      "will have approved",
+      "will approve",
+      "has approved"
+    ],
+    "correctAnswer": "will have approved",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-002",
+    "question": "You ___ (attend) by tomorrow.",
+    "options": [
+      "will attend",
+      "will have attended",
+      "has attended",
+      "will be attending"
+    ],
+    "correctAnswer": "will have attended",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-003",
+    "question": "She ___ (believe) by tomorrow.",
+    "options": [
+      "will be believing",
+      "has believed",
+      "will have believed",
+      "will believe"
+    ],
+    "correctAnswer": "will have believed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-004",
+    "question": "We ___ (boil) by 5 pm.",
+    "options": [
+      "will boil",
+      "will have boiled",
+      "will be boiling",
+      "has boiled"
+    ],
+    "correctAnswer": "will have boiled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-005",
+    "question": "He ___ (buy) by 5 pm.",
+    "options": [
+      "will have bought",
+      "has bought",
+      "will be buyying",
+      "will buy"
+    ],
+    "correctAnswer": "will have bought",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-006",
+    "question": "It ___ (call) by tomorrow.",
+    "options": [
+      "will have called",
+      "will be calling",
+      "will call",
+      "has called"
+    ],
+    "correctAnswer": "will have called",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-007",
+    "question": "They ___ (check) by 5 pm.",
+    "options": [
+      "has checked",
+      "will check",
+      "will be checking",
+      "will have checked"
+    ],
+    "correctAnswer": "will have checked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-008",
+    "question": "I ___ (close) by 5 pm.",
+    "options": [
+      "will have closed",
+      "will close",
+      "will be closing",
+      "has closed"
+    ],
+    "correctAnswer": "will have closed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-009",
+    "question": "You ___ (contain) by tomorrow.",
+    "options": [
+      "has contained",
+      "will have contained",
+      "will contain",
+      "will be containing"
+    ],
+    "correctAnswer": "will have contained",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-010",
+    "question": "She ___ (coordinate) by tomorrow.",
+    "options": [
+      "will coordinate",
+      "has coordinated",
+      "will have coordinated",
+      "will be coordinating"
+    ],
+    "correctAnswer": "will have coordinated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-011",
+    "question": "We ___ (cook) by tomorrow.",
+    "options": [
+      "will be cooking",
+      "will have cooked",
+      "has cooked",
+      "will cook"
+    ],
+    "correctAnswer": "will have cooked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-012",
+    "question": "He ___ (cost) by 5 pm.",
+    "options": [
+      "will be costing",
+      "has cost",
+      "will have cost",
+      "will cost"
+    ],
+    "correctAnswer": "will have cost",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-013",
+    "question": "It ___ (depart) by next week.",
+    "options": [
+      "has departed",
+      "will depart",
+      "will have departed",
+      "will be departing"
+    ],
+    "correctAnswer": "will have departed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-014",
+    "question": "They ___ (deliver) by tomorrow.",
+    "options": [
+      "will be deliverring",
+      "will deliver",
+      "will have delivered",
+      "has delivered"
+    ],
+    "correctAnswer": "will have delivered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-015",
+    "question": "I ___ (disassemble) by tomorrow.",
+    "options": [
+      "will disassemble",
+      "will have disassembled",
+      "will be disassembling",
+      "has disassembled"
+    ],
+    "correctAnswer": "will have disassembled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-016",
+    "question": "You ___ (do) by tomorrow.",
+    "options": [
+      "has done",
+      "will be doing",
+      "will do",
+      "will have done"
+    ],
+    "correctAnswer": "will have done",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-017",
+    "question": "She ___ (drink) by tomorrow.",
+    "options": [
+      "will have drunk",
+      "will be drinking",
+      "will drink",
+      "has drunk"
+    ],
+    "correctAnswer": "will have drunk",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-018",
+    "question": "We ___ (eat) by next week.",
+    "options": [
+      "has eaten",
+      "will have eaten",
+      "will eat",
+      "will be eating"
+    ],
+    "correctAnswer": "will have eaten",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-019",
+    "question": "He ___ (expire) by next week.",
+    "options": [
+      "will expire",
+      "has expired",
+      "will have expired",
+      "will be expiring"
+    ],
+    "correctAnswer": "will have expired",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-020",
+    "question": "It ___ (finish) by tomorrow.",
+    "options": [
+      "has finished",
+      "will be finishing",
+      "will have finished",
+      "will finish"
+    ],
+    "correctAnswer": "will have finished",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-021",
+    "question": "They ___ (finalize) by 5 pm.",
+    "options": [
+      "has finalized",
+      "will have finalized",
+      "will be finalizing",
+      "will finalize"
+    ],
+    "correctAnswer": "will have finalized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-022",
+    "question": "I ___ (give) by tomorrow.",
+    "options": [
+      "has given",
+      "will be giving",
+      "will give",
+      "will have given"
+    ],
+    "correctAnswer": "will have given",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-023",
+    "question": "You ___ (go) by 5 pm.",
+    "options": [
+      "will have gone",
+      "will go",
+      "will be going",
+      "has gone"
+    ],
+    "correctAnswer": "will have gone",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-024",
+    "question": "She ___ (have) by tomorrow.",
+    "options": [
+      "will have",
+      "will be having",
+      "has had",
+      "will have had"
+    ],
+    "correctAnswer": "will have had",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-025",
+    "question": "We ___ (help) by tomorrow.",
+    "options": [
+      "has helped",
+      "will help",
+      "will have helped",
+      "will be helping"
+    ],
+    "correctAnswer": "will have helped",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-026",
+    "question": "He ___ (join) by next week.",
+    "options": [
+      "will join",
+      "will be joining",
+      "has joined",
+      "will have joined"
+    ],
+    "correctAnswer": "will have joined",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-027",
+    "question": "It ___ (leave) by next week.",
+    "options": [
+      "will leave",
+      "has left",
+      "will have left",
+      "will be leaving"
+    ],
+    "correctAnswer": "will have left",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-028",
+    "question": "They ___ (like) by next week.",
+    "options": [
+      "has liked",
+      "will like",
+      "will be liking",
+      "will have liked"
+    ],
+    "correctAnswer": "will have liked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-029",
+    "question": "I ___ (live) by next week.",
+    "options": [
+      "will be living",
+      "has lived",
+      "will live",
+      "will have lived"
+    ],
+    "correctAnswer": "will have lived",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-030",
+    "question": "You ___ (manage) by tomorrow.",
+    "options": [
+      "has managed",
+      "will have managed",
+      "will be managing",
+      "will manage"
+    ],
+    "correctAnswer": "will have managed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-031",
+    "question": "She ___ (matter) by tomorrow.",
+    "options": [
+      "will matter",
+      "will be matterring",
+      "will have mattered",
+      "has mattered"
+    ],
+    "correctAnswer": "will have mattered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-032",
+    "question": "We ___ (meet) by next week.",
+    "options": [
+      "will be meeting",
+      "will have met",
+      "has met",
+      "will meet"
+    ],
+    "correctAnswer": "will have met",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-033",
+    "question": "He ___ (need) by next week.",
+    "options": [
+      "will have needed",
+      "will need",
+      "will be needing",
+      "has needed"
+    ],
+    "correctAnswer": "will have needed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-034",
+    "question": "It ___ (offer) by next week.",
+    "options": [
+      "will offer",
+      "will be offerring",
+      "will have offered",
+      "has offered"
+    ],
+    "correctAnswer": "will have offered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-035",
+    "question": "They ___ (open) by tomorrow.",
+    "options": [
+      "will open",
+      "will have opened",
+      "will be openning",
+      "has opened"
+    ],
+    "correctAnswer": "will have opened",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-036",
+    "question": "I ___ (order) by tomorrow.",
+    "options": [
+      "has ordered",
+      "will have ordered",
+      "will be orderring",
+      "will order"
+    ],
+    "correctAnswer": "will have ordered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-037",
+    "question": "You ___ (ship) by 5 pm.",
+    "options": [
+      "has shipped",
+      "will ship",
+      "will have shipped",
+      "will be shipping"
+    ],
+    "correctAnswer": "will have shipped",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-038",
+    "question": "She ___ (organize) by next week.",
+    "options": [
+      "will have organized",
+      "will organize",
+      "will be organizing",
+      "has organized"
+    ],
+    "correctAnswer": "will have organized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-039",
+    "question": "We ___ (own) by tomorrow.",
+    "options": [
+      "will be owning",
+      "will have owned",
+      "will own",
+      "has owned"
+    ],
+    "correctAnswer": "will have owned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-040",
+    "question": "He ___ (play) by 5 pm.",
+    "options": [
+      "will play",
+      "will be playying",
+      "has played",
+      "will have played"
+    ],
+    "correctAnswer": "will have played",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-041",
+    "question": "It ___ (prefer) by tomorrow.",
+    "options": [
+      "will have preferred",
+      "has preferred",
+      "will be preferring",
+      "will prefer"
+    ],
+    "correctAnswer": "will have preferred",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-042",
+    "question": "They ___ (rain) by next week.",
+    "options": [
+      "will rain",
+      "will be raining",
+      "has rained",
+      "will have rained"
+    ],
+    "correctAnswer": "will have rained",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-043",
+    "question": "I ___ (read) by tomorrow.",
+    "options": [
+      "will have read",
+      "will read",
+      "will be reading",
+      "has read"
+    ],
+    "correctAnswer": "will have read",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-044",
+    "question": "You ___ (remember) by next week.",
+    "options": [
+      "will remember",
+      "will have remembered",
+      "will be rememberring",
+      "has remembered"
+    ],
+    "correctAnswer": "will have remembered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-045",
+    "question": "She ___ (rise) by next week.",
+    "options": [
+      "will rise",
+      "will be rising",
+      "has risen",
+      "will have risen"
+    ],
+    "correctAnswer": "will have risen",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-046",
+    "question": "We ___ (run) by 5 pm.",
+    "options": [
+      "will be running",
+      "will have run",
+      "will run",
+      "has run"
+    ],
+    "correctAnswer": "will have run",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-047",
+    "question": "He ___ (serve) by 5 pm.",
+    "options": [
+      "will serve",
+      "will be serving",
+      "will have served",
+      "has served"
+    ],
+    "correctAnswer": "will have served",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-048",
+    "question": "It ___ (speak) by next week.",
+    "options": [
+      "will speak",
+      "will be speaking",
+      "will have spoken",
+      "has spoken"
+    ],
+    "correctAnswer": "will have spoken",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-049",
+    "question": "They ___ (spoil) by 5 pm.",
+    "options": [
+      "will have spoiled",
+      "will be spoiling",
+      "has spoiled",
+      "will spoil"
+    ],
+    "correctAnswer": "will have spoiled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-050",
+    "question": "I ___ (start) by tomorrow.",
+    "options": [
+      "has started",
+      "will be starting",
+      "will start",
+      "will have started"
+    ],
+    "correctAnswer": "will have started",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-051",
+    "question": "You ___ (stay) by next week.",
+    "options": [
+      "will be stayying",
+      "has stayed",
+      "will stay",
+      "will have stayed"
+    ],
+    "correctAnswer": "will have stayed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-052",
+    "question": "She ___ (study) by tomorrow.",
+    "options": [
+      "has studied",
+      "will be studying",
+      "will have studied",
+      "will study"
+    ],
+    "correctAnswer": "will have studied",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-053",
+    "question": "We ___ (take) by tomorrow.",
+    "options": [
+      "will have taken",
+      "will take",
+      "has taken",
+      "will be taking"
+    ],
+    "correctAnswer": "will have taken",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-054",
+    "question": "He ___ (teach) by 5 pm.",
+    "options": [
+      "will have taught",
+      "will be teaching",
+      "will teach",
+      "has taught"
+    ],
+    "correctAnswer": "will have taught",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-055",
+    "question": "It ___ (travel) by 5 pm.",
+    "options": [
+      "will have traveled",
+      "has traveled",
+      "will be travelling",
+      "will travel"
+    ],
+    "correctAnswer": "will have traveled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-056",
+    "question": "They ___ (understand) by 5 pm.",
+    "options": [
+      "will understand",
+      "will be understanding",
+      "will have understood",
+      "has understood"
+    ],
+    "correctAnswer": "will have understood",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-057",
+    "question": "I ___ (use) by 5 pm.",
+    "options": [
+      "will have used",
+      "will use",
+      "will be using",
+      "has used"
+    ],
+    "correctAnswer": "will have used",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-058",
+    "question": "You ___ (visit) by 5 pm.",
+    "options": [
+      "has visited",
+      "will have visited",
+      "will visit",
+      "will be visitting"
+    ],
+    "correctAnswer": "will have visited",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-059",
+    "question": "She ___ (watch) by next week.",
+    "options": [
+      "will watch",
+      "will be watching",
+      "has watched",
+      "will have watched"
+    ],
+    "correctAnswer": "will have watched",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-060",
+    "question": "We ___ (weigh) by tomorrow.",
+    "options": [
+      "will have weighed",
+      "will weigh",
+      "will be weighing",
+      "has weighed"
+    ],
+    "correctAnswer": "will have weighed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-061",
+    "question": "He ___ (work) by next week.",
+    "options": [
+      "has worked",
+      "will have worked",
+      "will work",
+      "will be working"
+    ],
+    "correctAnswer": "will have worked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-062",
+    "question": "It ___ (be) by 5 pm.",
+    "options": [
+      "will have been",
+      "will be being",
+      "has been",
+      "will be"
+    ],
+    "correctAnswer": "will have been",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-063",
+    "question": "They ___ (brush) by 5 pm.",
+    "options": [
+      "has brushed",
+      "will be brushing",
+      "will brush",
+      "will have brushed"
+    ],
+    "correctAnswer": "will have brushed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-064",
+    "question": "I ___ (exercise) by tomorrow.",
+    "options": [
+      "will be exercising",
+      "will exercise",
+      "has exercised",
+      "will have exercised"
+    ],
+    "correctAnswer": "will have exercised",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-065",
+    "question": "You ___ (listen) by 5 pm.",
+    "options": [
+      "will listen",
+      "has listened",
+      "will have listened",
+      "will be listenning"
+    ],
+    "correctAnswer": "will have listened",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-066",
+    "question": "She ___ (sleep) by 5 pm.",
+    "options": [
+      "will have slept",
+      "will be sleeping",
+      "will sleep",
+      "has slept"
+    ],
+    "correctAnswer": "will have slept",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-067",
+    "question": "We ___ (research) by 5 pm.",
+    "options": [
+      "will be researching",
+      "will have researched",
+      "has researched",
+      "will research"
+    ],
+    "correctAnswer": "will have researched",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-068",
+    "question": "He ___ (recycle) by 5 pm.",
+    "options": [
+      "will have recycled",
+      "has recycled",
+      "will be recycling",
+      "will recycle"
+    ],
+    "correctAnswer": "will have recycled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-069",
+    "question": "It ___ (diagnose) by tomorrow.",
+    "options": [
+      "will diagnose",
+      "will be diagnosing",
+      "has diagnosed",
+      "will have diagnosed"
+    ],
+    "correctAnswer": "will have diagnosed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-070",
+    "question": "They ___ (negotiate) by next week.",
+    "options": [
+      "will negotiate",
+      "has negotiated",
+      "will be negotiating",
+      "will have negotiated"
+    ],
+    "correctAnswer": "will have negotiated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-071",
+    "question": "I ___ (invest) by next week.",
+    "options": [
+      "will invest",
+      "will have invested",
+      "will be investing",
+      "has invested"
+    ],
+    "correctAnswer": "will have invested",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-072",
+    "question": "You ___ (compose) by tomorrow.",
+    "options": [
+      "has composed",
+      "will compose",
+      "will have composed",
+      "will be composing"
+    ],
+    "correctAnswer": "will have composed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-073",
+    "question": "She ___ (rescue) by tomorrow.",
+    "options": [
+      "will be rescuing",
+      "will rescue",
+      "has rescued",
+      "will have rescued"
+    ],
+    "correctAnswer": "will have rescued",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-074",
+    "question": "We ___ (broadcast) by tomorrow.",
+    "options": [
+      "will have broadcast",
+      "will be broadcasting",
+      "will broadcast",
+      "has broadcast"
+    ],
+    "correctAnswer": "will have broadcast",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-075",
+    "question": "He ___ (discover) by 5 pm.",
+    "options": [
+      "will be discoverring",
+      "has discovered",
+      "will discover",
+      "will have discovered"
+    ],
+    "correctAnswer": "will have discovered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-076",
+    "question": "It ___ (conserve) by tomorrow.",
+    "options": [
+      "will be conserving",
+      "has conserved",
+      "will conserve",
+      "will have conserved"
+    ],
+    "correctAnswer": "will have conserved",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-077",
+    "question": "They ___ (schedule) by 5 pm.",
+    "options": [
+      "will have scheduled",
+      "will be scheduling",
+      "has scheduled",
+      "will schedule"
+    ],
+    "correctAnswer": "will have scheduled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-078",
+    "question": "I ___ (enroll) by next week.",
+    "options": [
+      "will have enrolled",
+      "will be enrolling",
+      "has enrolled",
+      "will enroll"
+    ],
+    "correctAnswer": "will have enrolled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-079",
+    "question": "You ___ (manufacture) by 5 pm.",
+    "options": [
+      "will have manufactured",
+      "will be manufacturing",
+      "has manufactured",
+      "will manufacture"
+    ],
+    "correctAnswer": "will have manufactured",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-080",
+    "question": "She ___ (donate) by next week.",
+    "options": [
+      "will donate",
+      "will have donated",
+      "will be donating",
+      "has donated"
+    ],
+    "correctAnswer": "will have donated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-081",
+    "question": "We ___ (forecast) by next week.",
+    "options": [
+      "will forecast",
+      "will be forecasting",
+      "has forecast",
+      "will have forecast"
+    ],
+    "correctAnswer": "will have forecast",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-082",
+    "question": "He ___ (say) by 5 pm.",
+    "options": [
+      "will be sayying",
+      "will have said",
+      "will say",
+      "has said"
+    ],
+    "correctAnswer": "will have said",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-083",
+    "question": "It ___ (get) by tomorrow.",
+    "options": [
+      "will be getting",
+      "will have gotten",
+      "has gotten",
+      "will get"
+    ],
+    "correctAnswer": "will have gotten",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-084",
+    "question": "They ___ (make) by tomorrow.",
+    "options": [
+      "will make",
+      "has made",
+      "will be making",
+      "will have made"
+    ],
+    "correctAnswer": "will have made",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-085",
+    "question": "I ___ (see) by 5 pm.",
+    "options": [
+      "has seen",
+      "will have seen",
+      "will see",
+      "will be seeing"
+    ],
+    "correctAnswer": "will have seen",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-086",
+    "question": "You ___ (come) by next week.",
+    "options": [
+      "will be coming",
+      "will have come",
+      "has come",
+      "will come"
+    ],
+    "correctAnswer": "will have come",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-087",
+    "question": "She ___ (think) by 5 pm.",
+    "options": [
+      "will have thought",
+      "will think",
+      "will be thinking",
+      "has thought"
+    ],
+    "correctAnswer": "will have thought",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-088",
+    "question": "We ___ (look) by next week.",
+    "options": [
+      "will be looking",
+      "will have looked",
+      "will look",
+      "has looked"
+    ],
+    "correctAnswer": "will have looked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-089",
+    "question": "He ___ (find) by next week.",
+    "options": [
+      "has found",
+      "will find",
+      "will be finding",
+      "will have found"
+    ],
+    "correctAnswer": "will have found",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-090",
+    "question": "It ___ (want) by 5 pm.",
+    "options": [
+      "will have wanted",
+      "will want",
+      "has wanted",
+      "will be wanting"
+    ],
+    "correctAnswer": "will have wanted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-091",
+    "question": "They ___ (tell) by tomorrow.",
+    "options": [
+      "has told",
+      "will be telling",
+      "will tell",
+      "will have told"
+    ],
+    "correctAnswer": "will have told",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-092",
+    "question": "I ___ (ask) by tomorrow.",
+    "options": [
+      "will have asked",
+      "will be asking",
+      "has asked",
+      "will ask"
+    ],
+    "correctAnswer": "will have asked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-093",
+    "question": "You ___ (put) by 5 pm.",
+    "options": [
+      "will put",
+      "will be putting",
+      "will have put",
+      "has put"
+    ],
+    "correctAnswer": "will have put",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-094",
+    "question": "She ___ (keep) by tomorrow.",
+    "options": [
+      "has kept",
+      "will have kept",
+      "will be keeping",
+      "will keep"
+    ],
+    "correctAnswer": "will have kept",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-095",
+    "question": "We ___ (know) by next week.",
+    "options": [
+      "has known",
+      "will be knowwing",
+      "will have known",
+      "will know"
+    ],
+    "correctAnswer": "will have known",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-096",
+    "question": "He ___ (begin) by 5 pm.",
+    "options": [
+      "will have begun",
+      "will begin",
+      "will be beginning",
+      "has begun"
+    ],
+    "correctAnswer": "will have begun",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-097",
+    "question": "It ___ (turn) by next week.",
+    "options": [
+      "has turned",
+      "will turn",
+      "will be turning",
+      "will have turned"
+    ],
+    "correctAnswer": "will have turned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-098",
+    "question": "They ___ (show) by next week.",
+    "options": [
+      "will be showwing",
+      "has shown",
+      "will show",
+      "will have shown"
+    ],
+    "correctAnswer": "will have shown",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-099",
+    "question": "I ___ (hear) by next week.",
+    "options": [
+      "will hear",
+      "will be hearing",
+      "will have heard",
+      "has heard"
+    ],
+    "correctAnswer": "will have heard",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-100",
+    "question": "You ___ (move) by next week.",
+    "options": [
+      "has moved",
+      "will have moved",
+      "will be moving",
+      "will move"
+    ],
+    "correctAnswer": "will have moved",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-101",
+    "question": "She ___ (bring) by 5 pm.",
+    "options": [
+      "will bring",
+      "will have brought",
+      "has brought",
+      "will be bringing"
+    ],
+    "correctAnswer": "will have brought",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-102",
+    "question": "We ___ (write) by next week.",
+    "options": [
+      "will write",
+      "will be writing",
+      "will have written",
+      "has written"
+    ],
+    "correctAnswer": "will have written",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-103",
+    "question": "He ___ (sit) by next week.",
+    "options": [
+      "will be sitting",
+      "will sit",
+      "has sat",
+      "will have sat"
+    ],
+    "correctAnswer": "will have sat",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-104",
+    "question": "It ___ (stand) by tomorrow.",
+    "options": [
+      "has stood",
+      "will have stood",
+      "will be standing",
+      "will stand"
+    ],
+    "correctAnswer": "will have stood",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-105",
+    "question": "They ___ (lose) by 5 pm.",
+    "options": [
+      "will be losing",
+      "has lost",
+      "will lose",
+      "will have lost"
+    ],
+    "correctAnswer": "will have lost",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-106",
+    "question": "I ___ (pay) by next week.",
+    "options": [
+      "has paid",
+      "will pay",
+      "will be payying",
+      "will have paid"
+    ],
+    "correctAnswer": "will have paid",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-107",
+    "question": "You ___ (pass) by next week.",
+    "options": [
+      "will pass",
+      "will have passed",
+      "has passed",
+      "will be passing"
+    ],
+    "correctAnswer": "will have passed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-108",
+    "question": "She ___ (post) by tomorrow.",
+    "options": [
+      "will be posting",
+      "will post",
+      "will have posted",
+      "has posted"
+    ],
+    "correctAnswer": "will have posted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-109",
+    "question": "We ___ (include) by tomorrow.",
+    "options": [
+      "will include",
+      "will have included",
+      "has included",
+      "will be including"
+    ],
+    "correctAnswer": "will have included",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-110",
+    "question": "He ___ (continue) by tomorrow.",
+    "options": [
+      "has continued",
+      "will continue",
+      "will be continuing",
+      "will have continued"
+    ],
+    "correctAnswer": "will have continued",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-111",
+    "question": "It ___ (set) by 5 pm.",
+    "options": [
+      "has set",
+      "will set",
+      "will have set",
+      "will be setting"
+    ],
+    "correctAnswer": "will have set",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-112",
+    "question": "They ___ (learn) by tomorrow.",
+    "options": [
+      "has learned",
+      "will have learned",
+      "will be learning",
+      "will learn"
+    ],
+    "correctAnswer": "will have learned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-113",
+    "question": "I ___ (change) by next week.",
+    "options": [
+      "will change",
+      "will be changing",
+      "will have changed",
+      "has changed"
+    ],
+    "correctAnswer": "will have changed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-114",
+    "question": "You ___ (lead) by tomorrow.",
+    "options": [
+      "has led",
+      "will be leading",
+      "will lead",
+      "will have led"
+    ],
+    "correctAnswer": "will have led",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-115",
+    "question": "She ___ (follow) by 5 pm.",
+    "options": [
+      "will follow",
+      "will have followed",
+      "will be followwing",
+      "has followed"
+    ],
+    "correctAnswer": "will have followed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-116",
+    "question": "We ___ (stop) by 5 pm.",
+    "options": [
+      "has stopped",
+      "will stop",
+      "will have stopped",
+      "will be stopping"
+    ],
+    "correctAnswer": "will have stopped",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-117",
+    "question": "He ___ (create) by 5 pm.",
+    "options": [
+      "will be creating",
+      "will create",
+      "has created",
+      "will have created"
+    ],
+    "correctAnswer": "will have created",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-118",
+    "question": "It ___ (complete) by 5 pm.",
+    "options": [
+      "will complete",
+      "will be completing",
+      "has completed",
+      "will have completed"
+    ],
+    "correctAnswer": "will have completed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-119",
+    "question": "They ___ (allow) by next week.",
+    "options": [
+      "will allow",
+      "will be allowwing",
+      "has allowed",
+      "will have allowed"
+    ],
+    "correctAnswer": "will have allowed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-120",
+    "question": "I ___ (add) by 5 pm.",
+    "options": [
+      "will have added",
+      "has added",
+      "will add",
+      "will be adding"
+    ],
+    "correctAnswer": "will have added",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-121",
+    "question": "You ___ (spend) by 5 pm.",
+    "options": [
+      "will spend",
+      "will have spent",
+      "will be spending",
+      "has spent"
+    ],
+    "correctAnswer": "will have spent",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-122",
+    "question": "She ___ (grow) by 5 pm.",
+    "options": [
+      "will have grown",
+      "will be growwing",
+      "has grown",
+      "will grow"
+    ],
+    "correctAnswer": "will have grown",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-123",
+    "question": "We ___ (walk) by tomorrow.",
+    "options": [
+      "will be walking",
+      "will walk",
+      "has walked",
+      "will have walked"
+    ],
+    "correctAnswer": "will have walked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-124",
+    "question": "He ___ (win) by next week.",
+    "options": [
+      "will be winning",
+      "will win",
+      "will have won",
+      "has won"
+    ],
+    "correctAnswer": "will have won",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-125",
+    "question": "It ___ (love) by tomorrow.",
+    "options": [
+      "will have loved",
+      "will be loving",
+      "has loved",
+      "will love"
+    ],
+    "correctAnswer": "will have loved",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-126",
+    "question": "They ___ (consider) by next week.",
+    "options": [
+      "will consider",
+      "will be considerring",
+      "has considered",
+      "will have considered"
+    ],
+    "correctAnswer": "will have considered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-127",
+    "question": "I ___ (appear) by next week.",
+    "options": [
+      "will have appeared",
+      "will appear",
+      "will be appearing",
+      "has appeared"
+    ],
+    "correctAnswer": "will have appeared",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-128",
+    "question": "You ___ (wait) by next week.",
+    "options": [
+      "will wait",
+      "will be waiting",
+      "has waited",
+      "will have waited"
+    ],
+    "correctAnswer": "will have waited",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-129",
+    "question": "She ___ (send) by tomorrow.",
+    "options": [
+      "will send",
+      "will have sent",
+      "will be sending",
+      "has sent"
+    ],
+    "correctAnswer": "will have sent",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-130",
+    "question": "We ___ (expect) by next week.",
+    "options": [
+      "will be expecting",
+      "has expected",
+      "will expect",
+      "will have expected"
+    ],
+    "correctAnswer": "will have expected",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-131",
+    "question": "He ___ (build) by next week.",
+    "options": [
+      "will be building",
+      "will build",
+      "will have built",
+      "has built"
+    ],
+    "correctAnswer": "will have built",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-132",
+    "question": "It ___ (fall) by tomorrow.",
+    "options": [
+      "will be falling",
+      "will have fallen",
+      "will fall",
+      "has fallen"
+    ],
+    "correctAnswer": "will have fallen",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-133",
+    "question": "They ___ (cut) by next week.",
+    "options": [
+      "has cut",
+      "will be cutting",
+      "will cut",
+      "will have cut"
+    ],
+    "correctAnswer": "will have cut",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-134",
+    "question": "I ___ (reach) by 5 pm.",
+    "options": [
+      "has reached",
+      "will be reaching",
+      "will reach",
+      "will have reached"
+    ],
+    "correctAnswer": "will have reached",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-135",
+    "question": "You ___ (remain) by tomorrow.",
+    "options": [
+      "will be remaining",
+      "has remained",
+      "will remain",
+      "will have remained"
+    ],
+    "correctAnswer": "will have remained",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-136",
+    "question": "She ___ (clean) by 5 pm.",
+    "options": [
+      "will be cleaning",
+      "will have cleaned",
+      "will clean",
+      "has cleaned"
+    ],
+    "correctAnswer": "will have cleaned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-137",
+    "question": "We ___ (wash) by 5 pm.",
+    "options": [
+      "will be washing",
+      "will have washed",
+      "has washed",
+      "will wash"
+    ],
+    "correctAnswer": "will have washed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-138",
+    "question": "He ___ (drive) by tomorrow.",
+    "options": [
+      "will have driven",
+      "will drive",
+      "will be driving",
+      "has driven"
+    ],
+    "correctAnswer": "will have driven",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-139",
+    "question": "It ___ (ride) by tomorrow.",
+    "options": [
+      "has ridden",
+      "will have ridden",
+      "will ride",
+      "will be riding"
+    ],
+    "correctAnswer": "will have ridden",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-140",
+    "question": "They ___ (shop) by tomorrow.",
+    "options": [
+      "will be shopping",
+      "will have shopped",
+      "will shop",
+      "has shopped"
+    ],
+    "correctAnswer": "will have shopped",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-141",
+    "question": "I ___ (fix) by tomorrow.",
+    "options": [
+      "has fixed",
+      "will fix",
+      "will be fixxing",
+      "will have fixed"
+    ],
+    "correctAnswer": "will have fixed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-142",
+    "question": "You ___ (repair) by 5 pm.",
+    "options": [
+      "will repair",
+      "has repaired",
+      "will be repairing",
+      "will have repaired"
+    ],
+    "correctAnswer": "will have repaired",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-143",
+    "question": "She ___ (charge) by next week.",
+    "options": [
+      "will charge",
+      "has charged",
+      "will be charging",
+      "will have charged"
+    ],
+    "correctAnswer": "will have charged",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-144",
+    "question": "We ___ (carry) by 5 pm.",
+    "options": [
+      "will carry",
+      "will have carried",
+      "has carried",
+      "will be carrying"
+    ],
+    "correctAnswer": "will have carried",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-145",
+    "question": "He ___ (wear) by 5 pm.",
+    "options": [
+      "will be wearing",
+      "has worn",
+      "will have worn",
+      "will wear"
+    ],
+    "correctAnswer": "will have worn",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-146",
+    "question": "It ___ (port) by 5 pm.",
+    "options": [
+      "will be porting",
+      "will port",
+      "will have ported",
+      "has ported"
+    ],
+    "correctAnswer": "will have ported",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-147",
+    "question": "They ___ (compile) by tomorrow.",
+    "options": [
+      "will have compiled",
+      "will compile",
+      "has compiled",
+      "will be compiling"
+    ],
+    "correctAnswer": "will have compiled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-148",
+    "question": "I ___ (execute) by 5 pm.",
+    "options": [
+      "will have executed",
+      "has executed",
+      "will execute",
+      "will be executing"
+    ],
+    "correctAnswer": "will have executed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-149",
+    "question": "You ___ (deploy) by 5 pm.",
+    "options": [
+      "has deployed",
+      "will have deployed",
+      "will be deployying",
+      "will deploy"
+    ],
+    "correctAnswer": "will have deployed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-150",
+    "question": "She ___ (release) by tomorrow.",
+    "options": [
+      "will have released",
+      "will release",
+      "will be releasing",
+      "has released"
+    ],
+    "correctAnswer": "will have released",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-151",
+    "question": "We ___ (commit) by next week.",
+    "options": [
+      "will commit",
+      "will have committed",
+      "has committed",
+      "will be committing"
+    ],
+    "correctAnswer": "will have committed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-152",
+    "question": "He ___ (push) by 5 pm.",
+    "options": [
+      "will push",
+      "will have pushed",
+      "will be pushing",
+      "has pushed"
+    ],
+    "correctAnswer": "will have pushed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-153",
+    "question": "It ___ (pull) by next week.",
+    "options": [
+      "has pulled",
+      "will have pulled",
+      "will pull",
+      "will be pulling"
+    ],
+    "correctAnswer": "will have pulled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-154",
+    "question": "They ___ (merge) by next week.",
+    "options": [
+      "will merge",
+      "will be merging",
+      "will have merged",
+      "has merged"
+    ],
+    "correctAnswer": "will have merged",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-155",
+    "question": "I ___ (branch) by next week.",
+    "options": [
+      "will have branched",
+      "will branch",
+      "will be branching",
+      "has branched"
+    ],
+    "correctAnswer": "will have branched",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-156",
+    "question": "You ___ (rebase) by 5 pm.",
+    "options": [
+      "will be rebasing",
+      "will have rebased",
+      "has rebased",
+      "will rebase"
+    ],
+    "correctAnswer": "will have rebased",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-157",
+    "question": "She ___ (stash) by 5 pm.",
+    "options": [
+      "has stashed",
+      "will stash",
+      "will have stashed",
+      "will be stashing"
+    ],
+    "correctAnswer": "will have stashed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-158",
+    "question": "We ___ (clone) by 5 pm.",
+    "options": [
+      "will be cloning",
+      "will clone",
+      "will have cloned",
+      "has cloned"
+    ],
+    "correctAnswer": "will have cloned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-159",
+    "question": "He ___ (fork) by 5 pm.",
+    "options": [
+      "has forked",
+      "will have forked",
+      "will fork",
+      "will be forking"
+    ],
+    "correctAnswer": "will have forked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-160",
+    "question": "It ___ (debug) by 5 pm.",
+    "options": [
+      "will have debugged",
+      "has debugged",
+      "will debug",
+      "will be debugging"
+    ],
+    "correctAnswer": "will have debugged",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-161",
+    "question": "They ___ (log) by next week.",
+    "options": [
+      "has logged",
+      "will have logged",
+      "will log",
+      "will be logging"
+    ],
+    "correctAnswer": "will have logged",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-162",
+    "question": "I ___ (trace) by tomorrow.",
+    "options": [
+      "will trace",
+      "will be tracing",
+      "will have traced",
+      "has traced"
+    ],
+    "correctAnswer": "will have traced",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-163",
+    "question": "You ___ (profile) by next week.",
+    "options": [
+      "will have profiled",
+      "will be profiling",
+      "will profile",
+      "has profiled"
+    ],
+    "correctAnswer": "will have profiled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-164",
+    "question": "She ___ (optimize) by tomorrow.",
+    "options": [
+      "will have optimized",
+      "will optimize",
+      "has optimized",
+      "will be optimizing"
+    ],
+    "correctAnswer": "will have optimized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-165",
+    "question": "We ___ (refactor) by 5 pm.",
+    "options": [
+      "will have refactored",
+      "will be refactorring",
+      "has refactored",
+      "will refactor"
+    ],
+    "correctAnswer": "will have refactored",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-166",
+    "question": "He ___ (test) by next week.",
+    "options": [
+      "has tested",
+      "will have tested",
+      "will be testing",
+      "will test"
+    ],
+    "correctAnswer": "will have tested",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-167",
+    "question": "It ___ (mock) by 5 pm.",
+    "options": [
+      "will mock",
+      "will have mocked",
+      "will be mocking",
+      "has mocked"
+    ],
+    "correctAnswer": "will have mocked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-168",
+    "question": "They ___ (stub) by next week.",
+    "options": [
+      "will have stubbed",
+      "will stub",
+      "will be stubbing",
+      "has stubbed"
+    ],
+    "correctAnswer": "will have stubbed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-169",
+    "question": "I ___ (lint) by 5 pm.",
+    "options": [
+      "has linted",
+      "will lint",
+      "will be linting",
+      "will have linted"
+    ],
+    "correctAnswer": "will have linted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-170",
+    "question": "You ___ (format) by tomorrow.",
+    "options": [
+      "has formatted",
+      "will have formatted",
+      "will be formatting",
+      "will format"
+    ],
+    "correctAnswer": "will have formatted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-171",
+    "question": "She ___ (package) by next week.",
+    "options": [
+      "has packaged",
+      "will package",
+      "will be packaging",
+      "will have packaged"
+    ],
+    "correctAnswer": "will have packaged",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-172",
+    "question": "We ___ (bundle) by tomorrow.",
+    "options": [
+      "will have bundled",
+      "will be bundling",
+      "will bundle",
+      "has bundled"
+    ],
+    "correctAnswer": "will have bundled",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-173",
+    "question": "He ___ (install) by next week.",
+    "options": [
+      "will have installed",
+      "will be installing",
+      "has installed",
+      "will install"
+    ],
+    "correctAnswer": "will have installed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-174",
+    "question": "It ___ (update) by 5 pm.",
+    "options": [
+      "will have updated",
+      "will update",
+      "has updated",
+      "will be updating"
+    ],
+    "correctAnswer": "will have updated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-175",
+    "question": "They ___ (upgrade) by tomorrow.",
+    "options": [
+      "will upgrade",
+      "will have upgraded",
+      "will be upgrading",
+      "has upgraded"
+    ],
+    "correctAnswer": "will have upgraded",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-176",
+    "question": "I ___ (rollback) by 5 pm.",
+    "options": [
+      "has rollbacked",
+      "will be rollbacking",
+      "will rollback",
+      "will have rollbacked"
+    ],
+    "correctAnswer": "will have rollbacked",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-177",
+    "question": "You ___ (migrate) by next week.",
+    "options": [
+      "has migrated",
+      "will be migrating",
+      "will have migrated",
+      "will migrate"
+    ],
+    "correctAnswer": "will have migrated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-178",
+    "question": "She ___ (seed) by tomorrow.",
+    "options": [
+      "will seed",
+      "will have seeded",
+      "has seeded",
+      "will be seeding"
+    ],
+    "correctAnswer": "will have seeded",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-179",
+    "question": "We ___ (provision) by tomorrow.",
+    "options": [
+      "will be provisioning",
+      "will provision",
+      "has provisioned",
+      "will have provisioned"
+    ],
+    "correctAnswer": "will have provisioned",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-180",
+    "question": "He ___ (configure) by 5 pm.",
+    "options": [
+      "will be configuring",
+      "will configure",
+      "has configured",
+      "will have configured"
+    ],
+    "correctAnswer": "will have configured",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-181",
+    "question": "It ___ (authenticate) by 5 pm.",
+    "options": [
+      "will have authenticated",
+      "will authenticate",
+      "has authenticated",
+      "will be authenticating"
+    ],
+    "correctAnswer": "will have authenticated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-182",
+    "question": "They ___ (authorize) by 5 pm.",
+    "options": [
+      "will have authorized",
+      "will be authorizing",
+      "has authorized",
+      "will authorize"
+    ],
+    "correctAnswer": "will have authorized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-183",
+    "question": "I ___ (encrypt) by 5 pm.",
+    "options": [
+      "has encrypted",
+      "will encrypt",
+      "will be encrypting",
+      "will have encrypted"
+    ],
+    "correctAnswer": "will have encrypted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-184",
+    "question": "You ___ (decrypt) by 5 pm.",
+    "options": [
+      "will decrypt",
+      "has decrypted",
+      "will have decrypted",
+      "will be decrypting"
+    ],
+    "correctAnswer": "will have decrypted",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-185",
+    "question": "She ___ (hash) by next week.",
+    "options": [
+      "will be hashing",
+      "has hashed",
+      "will have hashed",
+      "will hash"
+    ],
+    "correctAnswer": "will have hashed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-186",
+    "question": "We ___ (sign) by next week.",
+    "options": [
+      "will have signed",
+      "will sign",
+      "will be signing",
+      "has signed"
+    ],
+    "correctAnswer": "will have signed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-187",
+    "question": "He ___ (verify) by 5 pm.",
+    "options": [
+      "will verify",
+      "will have verified",
+      "will be verifying",
+      "has verified"
+    ],
+    "correctAnswer": "will have verified",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-188",
+    "question": "It ___ (fetch) by tomorrow.",
+    "options": [
+      "will have fetched",
+      "will fetch",
+      "will be fetching",
+      "has fetched"
+    ],
+    "correctAnswer": "will have fetched",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-189",
+    "question": "They ___ (request) by tomorrow.",
+    "options": [
+      "will have requested",
+      "has requested",
+      "will request",
+      "will be requesting"
+    ],
+    "correctAnswer": "will have requested",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-190",
+    "question": "I ___ (respond) by tomorrow.",
+    "options": [
+      "will be responding",
+      "will respond",
+      "has responded",
+      "will have responded"
+    ],
+    "correctAnswer": "will have responded",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-191",
+    "question": "You ___ (render) by next week.",
+    "options": [
+      "will have rendered",
+      "will render",
+      "will be renderring",
+      "has rendered"
+    ],
+    "correctAnswer": "will have rendered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-192",
+    "question": "She ___ (parse) by next week.",
+    "options": [
+      "will be parsing",
+      "has parsed",
+      "will parse",
+      "will have parsed"
+    ],
+    "correctAnswer": "will have parsed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-193",
+    "question": "We ___ (stringify) by tomorrow.",
+    "options": [
+      "will have stringified",
+      "will stringify",
+      "will be stringifying",
+      "has stringified"
+    ],
+    "correctAnswer": "will have stringified",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-194",
+    "question": "He ___ (serialize) by next week.",
+    "options": [
+      "will be serializing",
+      "will serialize",
+      "will have serialized",
+      "has serialized"
+    ],
+    "correctAnswer": "will have serialized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-195",
+    "question": "It ___ (deserialize) by 5 pm.",
+    "options": [
+      "will have deserialized",
+      "has deserialized",
+      "will deserialize",
+      "will be deserializing"
+    ],
+    "correctAnswer": "will have deserialized",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-196",
+    "question": "They ___ (cache) by tomorrow.",
+    "options": [
+      "will be caching",
+      "has cached",
+      "will cache",
+      "will have cached"
+    ],
+    "correctAnswer": "will have cached",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-197",
+    "question": "I ___ (invalidate) by 5 pm.",
+    "options": [
+      "will be invalidating",
+      "has invalidated",
+      "will have invalidated",
+      "will invalidate"
+    ],
+    "correctAnswer": "will have invalidated",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-198",
+    "question": "You ___ (index) by next week.",
+    "options": [
+      "will be indexxing",
+      "has indexed",
+      "will have indexed",
+      "will index"
+    ],
+    "correctAnswer": "will have indexed",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-199",
+    "question": "She ___ (query) by next week.",
+    "options": [
+      "will be querying",
+      "will query",
+      "has queried",
+      "will have queried"
+    ],
+    "correctAnswer": "will have queried",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  },
+  {
+    "id": "future-perfect-200",
+    "question": "We ___ (filter) by 5 pm.",
+    "options": [
+      "will have filtered",
+      "will filter",
+      "will be filterring",
+      "has filtered"
+    ],
+    "correctAnswer": "will have filtered",
+    "explanation": "Future Perfect: will have + V3.",
+    "tenseType": "future-perfect",
+    "difficulty": "medium"
+  }
+]

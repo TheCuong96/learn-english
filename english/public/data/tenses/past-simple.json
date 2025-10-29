@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "past-simple-001",
+    "question": "You ___ (approve) last week.",
+    "options": [
+      "approve",
+      "approving",
+      "had approved",
+      "approved"
+    ],
+    "correctAnswer": "approved",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-002",
+    "question": "You ___ (approve) last week.",
+    "options": [
+      "doesn't approve",
+      "won't approve",
+      "didn't approve",
+      "wasn't approving"
+    ],
+    "correctAnswer": "didn't approve",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-003",
+    "question": "___ you (approve) last week?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-004",
+    "question": "She ___ (attend) yesterday.",
+    "options": [
+      "attending",
+      "had attended",
+      "attended",
+      "attend"
+    ],
+    "correctAnswer": "attended",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-005",
+    "question": "She ___ (attend) yesterday.",
+    "options": [
+      "didn't attend",
+      "wasn't attending",
+      "won't attend",
+      "doesn't attend"
+    ],
+    "correctAnswer": "didn't attend",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-006",
+    "question": "___ she (attend) yesterday?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-007",
+    "question": "It ___ (believe) last week.",
+    "options": [
+      "believed",
+      "believe",
+      "believing",
+      "had believed"
+    ],
+    "correctAnswer": "believed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-008",
+    "question": "It ___ (believe) last week.",
+    "options": [
+      "didn't believe",
+      "wasn't believing",
+      "won't believe",
+      "doesn't believe"
+    ],
+    "correctAnswer": "didn't believe",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-009",
+    "question": "___ it (believe) last week?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-010",
+    "question": "They ___ (boil) in 2010.",
+    "options": [
+      "boil",
+      "had boiled",
+      "boiled",
+      "boiling"
+    ],
+    "correctAnswer": "boiled",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-011",
+    "question": "They ___ (boil) in 2010.",
+    "options": [
+      "won't boil",
+      "doesn't boil",
+      "didn't boil",
+      "wasn't boiling"
+    ],
+    "correctAnswer": "didn't boil",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-012",
+    "question": "___ they (boil) in 2010?",
+    "options": [
+      "Was",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-013",
+    "question": "I ___ (buy) yesterday.",
+    "options": [
+      "buy",
+      "buyying",
+      "bought",
+      "had bought"
+    ],
+    "correctAnswer": "bought",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-014",
+    "question": "I ___ (buy) yesterday.",
+    "options": [
+      "won't buy",
+      "doesn't buy",
+      "wasn't buyying",
+      "didn't buy"
+    ],
+    "correctAnswer": "didn't buy",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-015",
+    "question": "___ i (buy) yesterday?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-016",
+    "question": "He ___ (call) two days ago.",
+    "options": [
+      "called",
+      "call",
+      "had called",
+      "calling"
+    ],
+    "correctAnswer": "called",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-017",
+    "question": "He ___ (call) two days ago.",
+    "options": [
+      "wasn't calling",
+      "didn't call",
+      "doesn't call",
+      "won't call"
+    ],
+    "correctAnswer": "didn't call",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-018",
+    "question": "___ he (call) two days ago?",
+    "options": [
+      "Do",
+      "Did",
+      "Was",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-019",
+    "question": "We ___ (check) last week.",
+    "options": [
+      "had checked",
+      "checking",
+      "check",
+      "checked"
+    ],
+    "correctAnswer": "checked",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-020",
+    "question": "We ___ (check) last week.",
+    "options": [
+      "didn't check",
+      "wasn't checking",
+      "won't check",
+      "doesn't check"
+    ],
+    "correctAnswer": "didn't check",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-021",
+    "question": "___ we (check) last week?",
+    "options": [
+      "Do",
+      "Was",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-022",
+    "question": "You ___ (close) last week.",
+    "options": [
+      "closed",
+      "had closed",
+      "closing",
+      "close"
+    ],
+    "correctAnswer": "closed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-023",
+    "question": "You ___ (close) last week.",
+    "options": [
+      "won't close",
+      "didn't close",
+      "doesn't close",
+      "wasn't closing"
+    ],
+    "correctAnswer": "didn't close",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-024",
+    "question": "___ you (close) last week?",
+    "options": [
+      "Does",
+      "Do",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-025",
+    "question": "She ___ (contain) two days ago.",
+    "options": [
+      "had contained",
+      "contain",
+      "contained",
+      "containing"
+    ],
+    "correctAnswer": "contained",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-026",
+    "question": "She ___ (contain) two days ago.",
+    "options": [
+      "didn't contain",
+      "won't contain",
+      "doesn't contain",
+      "wasn't containing"
+    ],
+    "correctAnswer": "didn't contain",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-027",
+    "question": "___ she (contain) two days ago?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-028",
+    "question": "It ___ (coordinate) last night.",
+    "options": [
+      "coordinate",
+      "coordinated",
+      "had coordinated",
+      "coordinating"
+    ],
+    "correctAnswer": "coordinated",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-029",
+    "question": "It ___ (coordinate) last night.",
+    "options": [
+      "didn't coordinate",
+      "won't coordinate",
+      "wasn't coordinating",
+      "doesn't coordinate"
+    ],
+    "correctAnswer": "didn't coordinate",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-030",
+    "question": "___ it (coordinate) last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-031",
+    "question": "They ___ (cook) last week.",
+    "options": [
+      "cook",
+      "cooked",
+      "had cooked",
+      "cooking"
+    ],
+    "correctAnswer": "cooked",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-032",
+    "question": "They ___ (cook) last week.",
+    "options": [
+      "doesn't cook",
+      "didn't cook",
+      "wasn't cooking",
+      "won't cook"
+    ],
+    "correctAnswer": "didn't cook",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-033",
+    "question": "___ they (cook) last week?",
+    "options": [
+      "Did",
+      "Was",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-034",
+    "question": "I ___ (cost) in 2010.",
+    "options": [
+      "cost",
+      "costing",
+      "had cost",
+      "cost"
+    ],
+    "correctAnswer": "cost",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-035",
+    "question": "I ___ (cost) in 2010.",
+    "options": [
+      "doesn't cost",
+      "wasn't costing",
+      "didn't cost",
+      "won't cost"
+    ],
+    "correctAnswer": "didn't cost",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-036",
+    "question": "___ i (cost) in 2010?",
+    "options": [
+      "Did",
+      "Does",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-037",
+    "question": "He ___ (depart) last night.",
+    "options": [
+      "depart",
+      "departing",
+      "departed",
+      "had departed"
+    ],
+    "correctAnswer": "departed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-038",
+    "question": "He ___ (depart) last night.",
+    "options": [
+      "won't depart",
+      "doesn't depart",
+      "didn't depart",
+      "wasn't departing"
+    ],
+    "correctAnswer": "didn't depart",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-039",
+    "question": "___ he (depart) last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-040",
+    "question": "We ___ (deliver) yesterday.",
+    "options": [
+      "deliverring",
+      "delivered",
+      "deliver",
+      "had delivered"
+    ],
+    "correctAnswer": "delivered",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-041",
+    "question": "We ___ (deliver) yesterday.",
+    "options": [
+      "doesn't deliver",
+      "won't deliver",
+      "didn't deliver",
+      "wasn't deliverring"
+    ],
+    "correctAnswer": "didn't deliver",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-042",
+    "question": "___ we (deliver) yesterday?",
+    "options": [
+      "Did",
+      "Does",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-043",
+    "question": "You ___ (disassemble) two days ago.",
+    "options": [
+      "disassembling",
+      "had disassembled",
+      "disassemble",
+      "disassembled"
+    ],
+    "correctAnswer": "disassembled",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-044",
+    "question": "You ___ (disassemble) two days ago.",
+    "options": [
+      "doesn't disassemble",
+      "won't disassemble",
+      "didn't disassemble",
+      "wasn't disassembling"
+    ],
+    "correctAnswer": "didn't disassemble",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-045",
+    "question": "___ you (disassemble) two days ago?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-046",
+    "question": "She ___ (do) two days ago.",
+    "options": [
+      "did",
+      "had done",
+      "doing",
+      "do"
+    ],
+    "correctAnswer": "did",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-047",
+    "question": "She ___ (do) two days ago.",
+    "options": [
+      "doesn't do",
+      "won't do",
+      "didn't do",
+      "wasn't doing"
+    ],
+    "correctAnswer": "didn't do",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-048",
+    "question": "___ she (do) two days ago?",
+    "options": [
+      "Does",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-049",
+    "question": "It ___ (drink) two days ago.",
+    "options": [
+      "drink",
+      "drank",
+      "had drunk",
+      "drinking"
+    ],
+    "correctAnswer": "drank",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-050",
+    "question": "It ___ (drink) two days ago.",
+    "options": [
+      "won't drink",
+      "didn't drink",
+      "wasn't drinking",
+      "doesn't drink"
+    ],
+    "correctAnswer": "didn't drink",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-051",
+    "question": "___ it (drink) two days ago?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-052",
+    "question": "They ___ (eat) last night.",
+    "options": [
+      "eat",
+      "ate",
+      "eating",
+      "had eaten"
+    ],
+    "correctAnswer": "ate",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-053",
+    "question": "They ___ (eat) last night.",
+    "options": [
+      "wasn't eating",
+      "didn't eat",
+      "doesn't eat",
+      "won't eat"
+    ],
+    "correctAnswer": "didn't eat",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-054",
+    "question": "___ they (eat) last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-055",
+    "question": "I ___ (expire) last week.",
+    "options": [
+      "had expired",
+      "expiring",
+      "expire",
+      "expired"
+    ],
+    "correctAnswer": "expired",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-056",
+    "question": "I ___ (expire) last week.",
+    "options": [
+      "doesn't expire",
+      "didn't expire",
+      "wasn't expiring",
+      "won't expire"
+    ],
+    "correctAnswer": "didn't expire",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-057",
+    "question": "___ i (expire) last week?",
+    "options": [
+      "Does",
+      "Did",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-058",
+    "question": "He ___ (finish) last night.",
+    "options": [
+      "finish",
+      "finishing",
+      "had finished",
+      "finished"
+    ],
+    "correctAnswer": "finished",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-059",
+    "question": "He ___ (finish) last night.",
+    "options": [
+      "won't finish",
+      "didn't finish",
+      "wasn't finishing",
+      "doesn't finish"
+    ],
+    "correctAnswer": "didn't finish",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-060",
+    "question": "___ he (finish) last night?",
+    "options": [
+      "Does",
+      "Was",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-061",
+    "question": "We ___ (finalize) last week.",
+    "options": [
+      "finalized",
+      "finalizing",
+      "finalize",
+      "had finalized"
+    ],
+    "correctAnswer": "finalized",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-062",
+    "question": "We ___ (finalize) last week.",
+    "options": [
+      "won't finalize",
+      "doesn't finalize",
+      "wasn't finalizing",
+      "didn't finalize"
+    ],
+    "correctAnswer": "didn't finalize",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-063",
+    "question": "___ we (finalize) last week?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-064",
+    "question": "You ___ (give) last week.",
+    "options": [
+      "give",
+      "gave",
+      "had given",
+      "giving"
+    ],
+    "correctAnswer": "gave",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-065",
+    "question": "You ___ (give) last week.",
+    "options": [
+      "didn't give",
+      "won't give",
+      "doesn't give",
+      "wasn't giving"
+    ],
+    "correctAnswer": "didn't give",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-066",
+    "question": "___ you (give) last week?",
+    "options": [
+      "Do",
+      "Does",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-067",
+    "question": "She ___ (go) two days ago.",
+    "options": [
+      "went",
+      "go",
+      "had gone",
+      "going"
+    ],
+    "correctAnswer": "went",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-068",
+    "question": "She ___ (go) two days ago.",
+    "options": [
+      "doesn't go",
+      "won't go",
+      "didn't go",
+      "wasn't going"
+    ],
+    "correctAnswer": "didn't go",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-069",
+    "question": "___ she (go) two days ago?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-070",
+    "question": "It ___ (have) yesterday.",
+    "options": [
+      "have",
+      "had had",
+      "having",
+      "had"
+    ],
+    "correctAnswer": "had",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-071",
+    "question": "It ___ (have) yesterday.",
+    "options": [
+      "won't have",
+      "doesn't have",
+      "wasn't having",
+      "didn't have"
+    ],
+    "correctAnswer": "didn't have",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-072",
+    "question": "___ it (have) yesterday?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-073",
+    "question": "They ___ (help) yesterday.",
+    "options": [
+      "help",
+      "helping",
+      "helped",
+      "had helped"
+    ],
+    "correctAnswer": "helped",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-074",
+    "question": "They ___ (help) yesterday.",
+    "options": [
+      "won't help",
+      "doesn't help",
+      "didn't help",
+      "wasn't helping"
+    ],
+    "correctAnswer": "didn't help",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-075",
+    "question": "___ they (help) yesterday?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-076",
+    "question": "I ___ (join) last night.",
+    "options": [
+      "joining",
+      "had joined",
+      "join",
+      "joined"
+    ],
+    "correctAnswer": "joined",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-077",
+    "question": "I ___ (join) last night.",
+    "options": [
+      "didn't join",
+      "won't join",
+      "doesn't join",
+      "wasn't joining"
+    ],
+    "correctAnswer": "didn't join",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-078",
+    "question": "___ i (join) last night?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-079",
+    "question": "He ___ (leave) in 2010.",
+    "options": [
+      "left",
+      "leaving",
+      "had left",
+      "leave"
+    ],
+    "correctAnswer": "left",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-080",
+    "question": "He ___ (leave) in 2010.",
+    "options": [
+      "wasn't leaving",
+      "didn't leave",
+      "won't leave",
+      "doesn't leave"
+    ],
+    "correctAnswer": "didn't leave",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-081",
+    "question": "___ he (leave) in 2010?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-082",
+    "question": "We ___ (like) last week.",
+    "options": [
+      "liking",
+      "had liked",
+      "liked",
+      "like"
+    ],
+    "correctAnswer": "liked",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-083",
+    "question": "We ___ (like) last week.",
+    "options": [
+      "wasn't liking",
+      "won't like",
+      "doesn't like",
+      "didn't like"
+    ],
+    "correctAnswer": "didn't like",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-084",
+    "question": "___ we (like) last week?",
+    "options": [
+      "Did",
+      "Was",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-085",
+    "question": "You ___ (live) two days ago.",
+    "options": [
+      "had lived",
+      "live",
+      "lived",
+      "living"
+    ],
+    "correctAnswer": "lived",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-086",
+    "question": "You ___ (live) two days ago.",
+    "options": [
+      "didn't live",
+      "wasn't living",
+      "doesn't live",
+      "won't live"
+    ],
+    "correctAnswer": "didn't live",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-087",
+    "question": "___ you (live) two days ago?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-088",
+    "question": "She ___ (manage) in 2010.",
+    "options": [
+      "managing",
+      "managed",
+      "had managed",
+      "manage"
+    ],
+    "correctAnswer": "managed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-089",
+    "question": "She ___ (manage) in 2010.",
+    "options": [
+      "won't manage",
+      "didn't manage",
+      "doesn't manage",
+      "wasn't managing"
+    ],
+    "correctAnswer": "didn't manage",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-090",
+    "question": "___ she (manage) in 2010?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-091",
+    "question": "It ___ (matter) last night.",
+    "options": [
+      "had mattered",
+      "matterring",
+      "mattered",
+      "matter"
+    ],
+    "correctAnswer": "mattered",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-092",
+    "question": "It ___ (matter) last night.",
+    "options": [
+      "doesn't matter",
+      "didn't matter",
+      "won't matter",
+      "wasn't matterring"
+    ],
+    "correctAnswer": "didn't matter",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-093",
+    "question": "___ it (matter) last night?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-094",
+    "question": "They ___ (meet) in 2010.",
+    "options": [
+      "meet",
+      "meeting",
+      "met",
+      "had met"
+    ],
+    "correctAnswer": "met",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-095",
+    "question": "They ___ (meet) in 2010.",
+    "options": [
+      "didn't meet",
+      "wasn't meeting",
+      "won't meet",
+      "doesn't meet"
+    ],
+    "correctAnswer": "didn't meet",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-096",
+    "question": "___ they (meet) in 2010?",
+    "options": [
+      "Was",
+      "Did",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-097",
+    "question": "I ___ (need) two days ago.",
+    "options": [
+      "needed",
+      "had needed",
+      "need",
+      "needing"
+    ],
+    "correctAnswer": "needed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-098",
+    "question": "I ___ (need) two days ago.",
+    "options": [
+      "wasn't needing",
+      "doesn't need",
+      "won't need",
+      "didn't need"
+    ],
+    "correctAnswer": "didn't need",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-099",
+    "question": "___ i (need) two days ago?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-100",
+    "question": "He ___ (offer) in 2010.",
+    "options": [
+      "offer",
+      "had offered",
+      "offerring",
+      "offered"
+    ],
+    "correctAnswer": "offered",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-101",
+    "question": "He ___ (offer) in 2010.",
+    "options": [
+      "won't offer",
+      "wasn't offerring",
+      "didn't offer",
+      "doesn't offer"
+    ],
+    "correctAnswer": "didn't offer",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-102",
+    "question": "___ he (offer) in 2010?",
+    "options": [
+      "Do",
+      "Was",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-103",
+    "question": "We ___ (open) yesterday.",
+    "options": [
+      "openning",
+      "had opened",
+      "opened",
+      "open"
+    ],
+    "correctAnswer": "opened",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-104",
+    "question": "We ___ (open) yesterday.",
+    "options": [
+      "wasn't openning",
+      "won't open",
+      "doesn't open",
+      "didn't open"
+    ],
+    "correctAnswer": "didn't open",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-105",
+    "question": "___ we (open) yesterday?",
+    "options": [
+      "Does",
+      "Was",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-106",
+    "question": "You ___ (order) two days ago.",
+    "options": [
+      "orderring",
+      "ordered",
+      "order",
+      "had ordered"
+    ],
+    "correctAnswer": "ordered",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-107",
+    "question": "You ___ (order) two days ago.",
+    "options": [
+      "didn't order",
+      "wasn't orderring",
+      "won't order",
+      "doesn't order"
+    ],
+    "correctAnswer": "didn't order",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-108",
+    "question": "___ you (order) two days ago?",
+    "options": [
+      "Do",
+      "Was",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-109",
+    "question": "She ___ (ship) in 2010.",
+    "options": [
+      "ship",
+      "had shipped",
+      "shipped",
+      "shipping"
+    ],
+    "correctAnswer": "shipped",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-110",
+    "question": "She ___ (ship) in 2010.",
+    "options": [
+      "won't ship",
+      "didn't ship",
+      "doesn't ship",
+      "wasn't shipping"
+    ],
+    "correctAnswer": "didn't ship",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-111",
+    "question": "___ she (ship) in 2010?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-112",
+    "question": "It ___ (organize) last week.",
+    "options": [
+      "had organized",
+      "organized",
+      "organize",
+      "organizing"
+    ],
+    "correctAnswer": "organized",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-113",
+    "question": "It ___ (organize) last week.",
+    "options": [
+      "won't organize",
+      "doesn't organize",
+      "didn't organize",
+      "wasn't organizing"
+    ],
+    "correctAnswer": "didn't organize",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-114",
+    "question": "___ it (organize) last week?",
+    "options": [
+      "Did",
+      "Was",
+      "Does",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-115",
+    "question": "They ___ (own) in 2010.",
+    "options": [
+      "owned",
+      "had owned",
+      "own",
+      "owning"
+    ],
+    "correctAnswer": "owned",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-116",
+    "question": "They ___ (own) in 2010.",
+    "options": [
+      "wasn't owning",
+      "won't own",
+      "doesn't own",
+      "didn't own"
+    ],
+    "correctAnswer": "didn't own",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-117",
+    "question": "___ they (own) in 2010?",
+    "options": [
+      "Was",
+      "Does",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-118",
+    "question": "I ___ (play) yesterday.",
+    "options": [
+      "play",
+      "playying",
+      "played",
+      "had played"
+    ],
+    "correctAnswer": "played",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-119",
+    "question": "I ___ (play) yesterday.",
+    "options": [
+      "didn't play",
+      "doesn't play",
+      "wasn't playying",
+      "won't play"
+    ],
+    "correctAnswer": "didn't play",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-120",
+    "question": "___ i (play) yesterday?",
+    "options": [
+      "Does",
+      "Was",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-121",
+    "question": "He ___ (prefer) last night.",
+    "options": [
+      "had preferred",
+      "preferring",
+      "prefer",
+      "preferred"
+    ],
+    "correctAnswer": "preferred",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-122",
+    "question": "He ___ (prefer) last night.",
+    "options": [
+      "didn't prefer",
+      "won't prefer",
+      "wasn't preferring",
+      "doesn't prefer"
+    ],
+    "correctAnswer": "didn't prefer",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-123",
+    "question": "___ he (prefer) last night?",
+    "options": [
+      "Does",
+      "Did",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-124",
+    "question": "We ___ (rain) last night.",
+    "options": [
+      "had rained",
+      "rained",
+      "raining",
+      "rain"
+    ],
+    "correctAnswer": "rained",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-125",
+    "question": "We ___ (rain) last night.",
+    "options": [
+      "doesn't rain",
+      "won't rain",
+      "wasn't raining",
+      "didn't rain"
+    ],
+    "correctAnswer": "didn't rain",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-126",
+    "question": "___ we (rain) last night?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-127",
+    "question": "You ___ (read) yesterday.",
+    "options": [
+      "read",
+      "reading",
+      "had read",
+      "read"
+    ],
+    "correctAnswer": "read",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-128",
+    "question": "You ___ (read) yesterday.",
+    "options": [
+      "doesn't read",
+      "wasn't reading",
+      "didn't read",
+      "won't read"
+    ],
+    "correctAnswer": "didn't read",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-129",
+    "question": "___ you (read) yesterday?",
+    "options": [
+      "Does",
+      "Was",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-130",
+    "question": "She ___ (remember) in 2010.",
+    "options": [
+      "remember",
+      "rememberring",
+      "remembered",
+      "had remembered"
+    ],
+    "correctAnswer": "remembered",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-131",
+    "question": "She ___ (remember) in 2010.",
+    "options": [
+      "wasn't rememberring",
+      "doesn't remember",
+      "didn't remember",
+      "won't remember"
+    ],
+    "correctAnswer": "didn't remember",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-132",
+    "question": "___ she (remember) in 2010?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-133",
+    "question": "It ___ (rise) last night.",
+    "options": [
+      "had risen",
+      "rising",
+      "rose",
+      "rise"
+    ],
+    "correctAnswer": "rose",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-134",
+    "question": "It ___ (rise) last night.",
+    "options": [
+      "won't rise",
+      "didn't rise",
+      "wasn't rising",
+      "doesn't rise"
+    ],
+    "correctAnswer": "didn't rise",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-135",
+    "question": "___ it (rise) last night?",
+    "options": [
+      "Do",
+      "Was",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-136",
+    "question": "They ___ (run) two days ago.",
+    "options": [
+      "ran",
+      "running",
+      "had run",
+      "run"
+    ],
+    "correctAnswer": "ran",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-137",
+    "question": "They ___ (run) two days ago.",
+    "options": [
+      "won't run",
+      "didn't run",
+      "wasn't running",
+      "doesn't run"
+    ],
+    "correctAnswer": "didn't run",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-138",
+    "question": "___ they (run) two days ago?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-139",
+    "question": "I ___ (serve) last night.",
+    "options": [
+      "served",
+      "serving",
+      "serve",
+      "had served"
+    ],
+    "correctAnswer": "served",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-140",
+    "question": "I ___ (serve) last night.",
+    "options": [
+      "didn't serve",
+      "doesn't serve",
+      "won't serve",
+      "wasn't serving"
+    ],
+    "correctAnswer": "didn't serve",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-141",
+    "question": "___ i (serve) last night?",
+    "options": [
+      "Does",
+      "Do",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-142",
+    "question": "He ___ (speak) two days ago.",
+    "options": [
+      "had spoken",
+      "spoke",
+      "speaking",
+      "speak"
+    ],
+    "correctAnswer": "spoke",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-143",
+    "question": "He ___ (speak) two days ago.",
+    "options": [
+      "won't speak",
+      "wasn't speaking",
+      "didn't speak",
+      "doesn't speak"
+    ],
+    "correctAnswer": "didn't speak",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-144",
+    "question": "___ he (speak) two days ago?",
+    "options": [
+      "Was",
+      "Do",
+      "Does",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-145",
+    "question": "We ___ (spoil) last week.",
+    "options": [
+      "spoiled",
+      "spoil",
+      "spoiling",
+      "had spoiled"
+    ],
+    "correctAnswer": "spoiled",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-146",
+    "question": "We ___ (spoil) last week.",
+    "options": [
+      "wasn't spoiling",
+      "won't spoil",
+      "doesn't spoil",
+      "didn't spoil"
+    ],
+    "correctAnswer": "didn't spoil",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-147",
+    "question": "___ we (spoil) last week?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-148",
+    "question": "You ___ (start) last night.",
+    "options": [
+      "had started",
+      "starting",
+      "start",
+      "started"
+    ],
+    "correctAnswer": "started",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-149",
+    "question": "You ___ (start) last night.",
+    "options": [
+      "won't start",
+      "didn't start",
+      "wasn't starting",
+      "doesn't start"
+    ],
+    "correctAnswer": "didn't start",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-150",
+    "question": "___ you (start) last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-151",
+    "question": "She ___ (stay) last night.",
+    "options": [
+      "stay",
+      "stayed",
+      "had stayed",
+      "stayying"
+    ],
+    "correctAnswer": "stayed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-152",
+    "question": "She ___ (stay) last night.",
+    "options": [
+      "won't stay",
+      "didn't stay",
+      "doesn't stay",
+      "wasn't stayying"
+    ],
+    "correctAnswer": "didn't stay",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-153",
+    "question": "___ she (stay) last night?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-154",
+    "question": "It ___ (study) two days ago.",
+    "options": [
+      "had studied",
+      "studying",
+      "studied",
+      "study"
+    ],
+    "correctAnswer": "studied",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-155",
+    "question": "It ___ (study) two days ago.",
+    "options": [
+      "doesn't study",
+      "wasn't studying",
+      "won't study",
+      "didn't study"
+    ],
+    "correctAnswer": "didn't study",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-156",
+    "question": "___ it (study) two days ago?",
+    "options": [
+      "Does",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-157",
+    "question": "They ___ (take) in 2010.",
+    "options": [
+      "had taken",
+      "taking",
+      "take",
+      "took"
+    ],
+    "correctAnswer": "took",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-158",
+    "question": "They ___ (take) in 2010.",
+    "options": [
+      "doesn't take",
+      "won't take",
+      "wasn't taking",
+      "didn't take"
+    ],
+    "correctAnswer": "didn't take",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-159",
+    "question": "___ they (take) in 2010?",
+    "options": [
+      "Was",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-160",
+    "question": "I ___ (teach) two days ago.",
+    "options": [
+      "taught",
+      "teaching",
+      "teach",
+      "had taught"
+    ],
+    "correctAnswer": "taught",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-161",
+    "question": "I ___ (teach) two days ago.",
+    "options": [
+      "won't teach",
+      "didn't teach",
+      "wasn't teaching",
+      "doesn't teach"
+    ],
+    "correctAnswer": "didn't teach",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-162",
+    "question": "___ i (teach) two days ago?",
+    "options": [
+      "Does",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-163",
+    "question": "He ___ (travel) last night.",
+    "options": [
+      "traveled",
+      "travel",
+      "travelling",
+      "had traveled"
+    ],
+    "correctAnswer": "traveled",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-164",
+    "question": "He ___ (travel) last night.",
+    "options": [
+      "doesn't travel",
+      "wasn't travelling",
+      "didn't travel",
+      "won't travel"
+    ],
+    "correctAnswer": "didn't travel",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-165",
+    "question": "___ he (travel) last night?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-166",
+    "question": "We ___ (understand) last night.",
+    "options": [
+      "understand",
+      "had understood",
+      "understood",
+      "understanding"
+    ],
+    "correctAnswer": "understood",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-167",
+    "question": "We ___ (understand) last night.",
+    "options": [
+      "won't understand",
+      "didn't understand",
+      "wasn't understanding",
+      "doesn't understand"
+    ],
+    "correctAnswer": "didn't understand",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-168",
+    "question": "___ we (understand) last night?",
+    "options": [
+      "Does",
+      "Do",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-169",
+    "question": "You ___ (use) last night.",
+    "options": [
+      "use",
+      "used",
+      "had used",
+      "using"
+    ],
+    "correctAnswer": "used",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-170",
+    "question": "You ___ (use) last night.",
+    "options": [
+      "won't use",
+      "doesn't use",
+      "didn't use",
+      "wasn't using"
+    ],
+    "correctAnswer": "didn't use",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-171",
+    "question": "___ you (use) last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-172",
+    "question": "She ___ (visit) two days ago.",
+    "options": [
+      "had visited",
+      "visited",
+      "visitting",
+      "visit"
+    ],
+    "correctAnswer": "visited",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-173",
+    "question": "She ___ (visit) two days ago.",
+    "options": [
+      "doesn't visit",
+      "wasn't visitting",
+      "didn't visit",
+      "won't visit"
+    ],
+    "correctAnswer": "didn't visit",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-174",
+    "question": "___ she (visit) two days ago?",
+    "options": [
+      "Does",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-175",
+    "question": "It ___ (watch) in 2010.",
+    "options": [
+      "watched",
+      "watch",
+      "had watched",
+      "watching"
+    ],
+    "correctAnswer": "watched",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-176",
+    "question": "It ___ (watch) in 2010.",
+    "options": [
+      "doesn't watch",
+      "didn't watch",
+      "wasn't watching",
+      "won't watch"
+    ],
+    "correctAnswer": "didn't watch",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-177",
+    "question": "___ it (watch) in 2010?",
+    "options": [
+      "Was",
+      "Does",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-178",
+    "question": "They ___ (weigh) in 2010.",
+    "options": [
+      "weighing",
+      "had weighed",
+      "weighed",
+      "weigh"
+    ],
+    "correctAnswer": "weighed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-179",
+    "question": "They ___ (weigh) in 2010.",
+    "options": [
+      "doesn't weigh",
+      "didn't weigh",
+      "won't weigh",
+      "wasn't weighing"
+    ],
+    "correctAnswer": "didn't weigh",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-180",
+    "question": "___ they (weigh) in 2010?",
+    "options": [
+      "Do",
+      "Did",
+      "Was",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-181",
+    "question": "I ___ (work) yesterday.",
+    "options": [
+      "had worked",
+      "worked",
+      "working",
+      "work"
+    ],
+    "correctAnswer": "worked",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-182",
+    "question": "I ___ (work) yesterday.",
+    "options": [
+      "won't work",
+      "doesn't work",
+      "didn't work",
+      "wasn't working"
+    ],
+    "correctAnswer": "didn't work",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-183",
+    "question": "___ i (work) yesterday?",
+    "options": [
+      "Does",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-184",
+    "question": "He ___ (be) last night.",
+    "options": [
+      "had been",
+      "being",
+      "be",
+      "was/were"
+    ],
+    "correctAnswer": "was/were",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-185",
+    "question": "He ___ (be) last night.",
+    "options": [
+      "doesn't be",
+      "wasn't being",
+      "didn't be",
+      "won't be"
+    ],
+    "correctAnswer": "didn't be",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-186",
+    "question": "___ he (be) last night?",
+    "options": [
+      "Did",
+      "Do",
+      "Was",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-187",
+    "question": "We ___ (brush) in 2010.",
+    "options": [
+      "had brushed",
+      "brushed",
+      "brushing",
+      "brush"
+    ],
+    "correctAnswer": "brushed",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-188",
+    "question": "We ___ (brush) in 2010.",
+    "options": [
+      "didn't brush",
+      "doesn't brush",
+      "wasn't brushing",
+      "won't brush"
+    ],
+    "correctAnswer": "didn't brush",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-189",
+    "question": "___ we (brush) in 2010?",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-190",
+    "question": "You ___ (exercise) last night.",
+    "options": [
+      "exercise",
+      "exercised",
+      "had exercised",
+      "exercising"
+    ],
+    "correctAnswer": "exercised",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-191",
+    "question": "You ___ (exercise) last night.",
+    "options": [
+      "wasn't exercising",
+      "doesn't exercise",
+      "won't exercise",
+      "didn't exercise"
+    ],
+    "correctAnswer": "didn't exercise",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-192",
+    "question": "___ you (exercise) last night?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Does"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-193",
+    "question": "She ___ (listen) last week.",
+    "options": [
+      "listen",
+      "listenning",
+      "listened",
+      "had listened"
+    ],
+    "correctAnswer": "listened",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-194",
+    "question": "She ___ (listen) last week.",
+    "options": [
+      "wasn't listenning",
+      "won't listen",
+      "didn't listen",
+      "doesn't listen"
+    ],
+    "correctAnswer": "didn't listen",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-195",
+    "question": "___ she (listen) last week?",
+    "options": [
+      "Does",
+      "Do",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-196",
+    "question": "It ___ (sleep) yesterday.",
+    "options": [
+      "sleep",
+      "slept",
+      "sleeping",
+      "had slept"
+    ],
+    "correctAnswer": "slept",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-197",
+    "question": "It ___ (sleep) yesterday.",
+    "options": [
+      "wasn't sleeping",
+      "doesn't sleep",
+      "didn't sleep",
+      "won't sleep"
+    ],
+    "correctAnswer": "didn't sleep",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-simple-198",
+    "question": "___ it (sleep) yesterday?",
+    "options": [
+      "Do",
+      "Does",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Did",
+    "explanation": "Past Simple (nghi vấn): Did + S + V?",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-199",
+    "question": "They ___ (research) last night.",
+    "options": [
+      "researched",
+      "researching",
+      "research",
+      "had researched"
+    ],
+    "correctAnswer": "researched",
+    "explanation": "Past Simple: V2 (động từ quá khứ).",
+    "tenseType": "past-simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-simple-200",
+    "question": "They ___ (research) last night.",
+    "options": [
+      "won't research",
+      "didn't research",
+      "doesn't research",
+      "wasn't researching"
+    ],
+    "correctAnswer": "didn't research",
+    "explanation": "Past Simple (phủ định): didn't + V (bare).",
+    "tenseType": "past-simple",
+    "difficulty": "medium"
+  }
+]

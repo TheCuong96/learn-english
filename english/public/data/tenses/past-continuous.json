@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "past-continuous-001",
+    "question": "I ___ (approve) while he was away.",
+    "options": [
+      "was approving",
+      "approved",
+      "had approved",
+      "were approving"
+    ],
+    "correctAnswer": "was approving",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-002",
+    "question": "I ___ (approve) while he was away.",
+    "options": [
+      "didn't approve",
+      "was approve",
+      "wasn't approving",
+      "had approved"
+    ],
+    "correctAnswer": "wasn't approving",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-003",
+    "question": "___ i (approve) while he was away?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-004",
+    "question": "You ___ (attend) when you called.",
+    "options": [
+      "attended",
+      "were attending",
+      "had attended",
+      "was attending"
+    ],
+    "correctAnswer": "were attending",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-005",
+    "question": "You ___ (attend) when you called.",
+    "options": [
+      "didn't attend",
+      "were attend",
+      "weren't attending",
+      "had attended"
+    ],
+    "correctAnswer": "weren't attending",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-006",
+    "question": "___ you (attend) when you called?",
+    "options": [
+      "Did",
+      "Were",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-007",
+    "question": "He ___ (boil) while he was away.",
+    "options": [
+      "was boiling",
+      "had boiled",
+      "boiled",
+      "was boiling"
+    ],
+    "correctAnswer": "was boiling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-008",
+    "question": "He ___ (boil) while he was away.",
+    "options": [
+      "was boil",
+      "didn't boil",
+      "wasn't boiling",
+      "had boiled"
+    ],
+    "correctAnswer": "wasn't boiling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-009",
+    "question": "___ he (boil) while he was away?",
+    "options": [
+      "Has",
+      "Do",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-010",
+    "question": "She ___ (buy) at 8 pm last night.",
+    "options": [
+      "had bought",
+      "bought",
+      "was buyying",
+      "was buyying"
+    ],
+    "correctAnswer": "was buyying",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-011",
+    "question": "She ___ (buy) at 8 pm last night.",
+    "options": [
+      "didn't buy",
+      "had bought",
+      "was buy",
+      "wasn't buyying"
+    ],
+    "correctAnswer": "wasn't buyying",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-012",
+    "question": "___ she (buy) at 8 pm last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-013",
+    "question": "They ___ (call) when you called.",
+    "options": [
+      "were calling",
+      "was calling",
+      "called",
+      "had called"
+    ],
+    "correctAnswer": "were calling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-014",
+    "question": "They ___ (call) when you called.",
+    "options": [
+      "had called",
+      "didn't call",
+      "were call",
+      "weren't calling"
+    ],
+    "correctAnswer": "weren't calling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-015",
+    "question": "___ they (call) when you called?",
+    "options": [
+      "Did",
+      "Has",
+      "Were",
+      "Do"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-016",
+    "question": "It ___ (check) when you called.",
+    "options": [
+      "checked",
+      "was checking",
+      "had checked",
+      "was checking"
+    ],
+    "correctAnswer": "was checking",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-017",
+    "question": "It ___ (check) when you called.",
+    "options": [
+      "was check",
+      "had checked",
+      "didn't check",
+      "wasn't checking"
+    ],
+    "correctAnswer": "wasn't checking",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-018",
+    "question": "___ it (check) when you called?",
+    "options": [
+      "Did",
+      "Do",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-019",
+    "question": "We ___ (close) when you called.",
+    "options": [
+      "closed",
+      "was closing",
+      "were closing",
+      "had closed"
+    ],
+    "correctAnswer": "were closing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-020",
+    "question": "We ___ (close) when you called.",
+    "options": [
+      "had closed",
+      "were close",
+      "weren't closing",
+      "didn't close"
+    ],
+    "correctAnswer": "weren't closing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-021",
+    "question": "___ we (close) when you called?",
+    "options": [
+      "Did",
+      "Do",
+      "Has",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-022",
+    "question": "I ___ (coordinate) while he was away.",
+    "options": [
+      "coordinated",
+      "was coordinating",
+      "had coordinated",
+      "were coordinating"
+    ],
+    "correctAnswer": "was coordinating",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-023",
+    "question": "I ___ (coordinate) while he was away.",
+    "options": [
+      "wasn't coordinating",
+      "didn't coordinate",
+      "was coordinate",
+      "had coordinated"
+    ],
+    "correctAnswer": "wasn't coordinating",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-024",
+    "question": "___ i (coordinate) while he was away?",
+    "options": [
+      "Has",
+      "Did",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-025",
+    "question": "You ___ (cook) when you called.",
+    "options": [
+      "had cooked",
+      "was cooking",
+      "cooked",
+      "were cooking"
+    ],
+    "correctAnswer": "were cooking",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-026",
+    "question": "You ___ (cook) when you called.",
+    "options": [
+      "were cook",
+      "weren't cooking",
+      "didn't cook",
+      "had cooked"
+    ],
+    "correctAnswer": "weren't cooking",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-027",
+    "question": "___ you (cook) when you called?",
+    "options": [
+      "Did",
+      "Were",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-028",
+    "question": "He ___ (cost) when you called.",
+    "options": [
+      "was costing",
+      "had cost",
+      "was costing",
+      "cost"
+    ],
+    "correctAnswer": "was costing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-029",
+    "question": "He ___ (cost) when you called.",
+    "options": [
+      "was cost",
+      "didn't cost",
+      "wasn't costing",
+      "had cost"
+    ],
+    "correctAnswer": "wasn't costing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-030",
+    "question": "___ he (cost) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-031",
+    "question": "She ___ (depart) when you called.",
+    "options": [
+      "departed",
+      "was departing",
+      "had departed",
+      "was departing"
+    ],
+    "correctAnswer": "was departing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-032",
+    "question": "She ___ (depart) when you called.",
+    "options": [
+      "was depart",
+      "had departed",
+      "wasn't departing",
+      "didn't depart"
+    ],
+    "correctAnswer": "wasn't departing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-033",
+    "question": "___ she (depart) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-034",
+    "question": "They ___ (deliver) at 8 pm last night.",
+    "options": [
+      "was deliverring",
+      "had delivered",
+      "were deliverring",
+      "delivered"
+    ],
+    "correctAnswer": "were deliverring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-035",
+    "question": "They ___ (deliver) at 8 pm last night.",
+    "options": [
+      "didn't deliver",
+      "were deliver",
+      "weren't deliverring",
+      "had delivered"
+    ],
+    "correctAnswer": "weren't deliverring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-036",
+    "question": "___ they (deliver) at 8 pm last night?",
+    "options": [
+      "Were",
+      "Did",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-037",
+    "question": "It ___ (disassemble) when you called.",
+    "options": [
+      "was disassembling",
+      "had disassembled",
+      "disassembled",
+      "was disassembling"
+    ],
+    "correctAnswer": "was disassembling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-038",
+    "question": "It ___ (disassemble) when you called.",
+    "options": [
+      "didn't disassemble",
+      "was disassemble",
+      "had disassembled",
+      "wasn't disassembling"
+    ],
+    "correctAnswer": "wasn't disassembling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-039",
+    "question": "___ it (disassemble) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-040",
+    "question": "We ___ (do) when you called.",
+    "options": [
+      "had done",
+      "did",
+      "was doing",
+      "were doing"
+    ],
+    "correctAnswer": "were doing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-041",
+    "question": "We ___ (do) when you called.",
+    "options": [
+      "didn't do",
+      "had done",
+      "weren't doing",
+      "were do"
+    ],
+    "correctAnswer": "weren't doing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-042",
+    "question": "___ we (do) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Were",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-043",
+    "question": "I ___ (drink) when you called.",
+    "options": [
+      "were drinking",
+      "was drinking",
+      "drank",
+      "had drunk"
+    ],
+    "correctAnswer": "was drinking",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-044",
+    "question": "I ___ (drink) when you called.",
+    "options": [
+      "wasn't drinking",
+      "didn't drink",
+      "was drink",
+      "had drunk"
+    ],
+    "correctAnswer": "wasn't drinking",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-045",
+    "question": "___ i (drink) when you called?",
+    "options": [
+      "Did",
+      "Do",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-046",
+    "question": "You ___ (eat) while he was away.",
+    "options": [
+      "ate",
+      "had eaten",
+      "was eating",
+      "were eating"
+    ],
+    "correctAnswer": "were eating",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-047",
+    "question": "You ___ (eat) while he was away.",
+    "options": [
+      "had eaten",
+      "weren't eating",
+      "were eat",
+      "didn't eat"
+    ],
+    "correctAnswer": "weren't eating",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-048",
+    "question": "___ you (eat) while he was away?",
+    "options": [
+      "Do",
+      "Were",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-049",
+    "question": "He ___ (expire) at 8 pm last night.",
+    "options": [
+      "was expiring",
+      "had expired",
+      "expired",
+      "was expiring"
+    ],
+    "correctAnswer": "was expiring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-050",
+    "question": "He ___ (expire) at 8 pm last night.",
+    "options": [
+      "didn't expire",
+      "had expired",
+      "wasn't expiring",
+      "was expire"
+    ],
+    "correctAnswer": "wasn't expiring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-051",
+    "question": "___ he (expire) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Was",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-052",
+    "question": "She ___ (finish) when you called.",
+    "options": [
+      "was finishing",
+      "had finished",
+      "was finishing",
+      "finished"
+    ],
+    "correctAnswer": "was finishing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-053",
+    "question": "She ___ (finish) when you called.",
+    "options": [
+      "wasn't finishing",
+      "had finished",
+      "didn't finish",
+      "was finish"
+    ],
+    "correctAnswer": "wasn't finishing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-054",
+    "question": "___ she (finish) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-055",
+    "question": "They ___ (finalize) when you called.",
+    "options": [
+      "had finalized",
+      "were finalizing",
+      "was finalizing",
+      "finalized"
+    ],
+    "correctAnswer": "were finalizing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-056",
+    "question": "They ___ (finalize) when you called.",
+    "options": [
+      "were finalize",
+      "weren't finalizing",
+      "didn't finalize",
+      "had finalized"
+    ],
+    "correctAnswer": "weren't finalizing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-057",
+    "question": "___ they (finalize) when you called?",
+    "options": [
+      "Do",
+      "Were",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-058",
+    "question": "It ___ (give) while he was away.",
+    "options": [
+      "gave",
+      "was giving",
+      "was giving",
+      "had given"
+    ],
+    "correctAnswer": "was giving",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-059",
+    "question": "It ___ (give) while he was away.",
+    "options": [
+      "was give",
+      "didn't give",
+      "had given",
+      "wasn't giving"
+    ],
+    "correctAnswer": "wasn't giving",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-060",
+    "question": "___ it (give) while he was away?",
+    "options": [
+      "Do",
+      "Was",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-061",
+    "question": "We ___ (go) at 8 pm last night.",
+    "options": [
+      "had gone",
+      "was going",
+      "were going",
+      "went"
+    ],
+    "correctAnswer": "were going",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-062",
+    "question": "We ___ (go) at 8 pm last night.",
+    "options": [
+      "were go",
+      "didn't go",
+      "had gone",
+      "weren't going"
+    ],
+    "correctAnswer": "weren't going",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-063",
+    "question": "___ we (go) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Do",
+      "Did",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-064",
+    "question": "I ___ (help) when you called.",
+    "options": [
+      "had helped",
+      "helped",
+      "were helping",
+      "was helping"
+    ],
+    "correctAnswer": "was helping",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-065",
+    "question": "I ___ (help) when you called.",
+    "options": [
+      "wasn't helping",
+      "didn't help",
+      "was help",
+      "had helped"
+    ],
+    "correctAnswer": "wasn't helping",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-066",
+    "question": "___ i (help) when you called?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-067",
+    "question": "You ___ (join) when you called.",
+    "options": [
+      "were joining",
+      "had joined",
+      "joined",
+      "was joining"
+    ],
+    "correctAnswer": "were joining",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-068",
+    "question": "You ___ (join) when you called.",
+    "options": [
+      "had joined",
+      "weren't joining",
+      "were join",
+      "didn't join"
+    ],
+    "correctAnswer": "weren't joining",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-069",
+    "question": "___ you (join) when you called?",
+    "options": [
+      "Has",
+      "Were",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-070",
+    "question": "He ___ (leave) at 8 pm last night.",
+    "options": [
+      "was leaving",
+      "left",
+      "was leaving",
+      "had left"
+    ],
+    "correctAnswer": "was leaving",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-071",
+    "question": "He ___ (leave) at 8 pm last night.",
+    "options": [
+      "was leave",
+      "wasn't leaving",
+      "didn't leave",
+      "had left"
+    ],
+    "correctAnswer": "wasn't leaving",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-072",
+    "question": "___ he (leave) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-073",
+    "question": "She ___ (live) when you called.",
+    "options": [
+      "had lived",
+      "was living",
+      "lived",
+      "was living"
+    ],
+    "correctAnswer": "was living",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-074",
+    "question": "She ___ (live) when you called.",
+    "options": [
+      "was live",
+      "wasn't living",
+      "had lived",
+      "didn't live"
+    ],
+    "correctAnswer": "wasn't living",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-075",
+    "question": "___ she (live) when you called?",
+    "options": [
+      "Did",
+      "Has",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-076",
+    "question": "They ___ (manage) at 8 pm last night.",
+    "options": [
+      "were managing",
+      "had managed",
+      "was managing",
+      "managed"
+    ],
+    "correctAnswer": "were managing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-077",
+    "question": "They ___ (manage) at 8 pm last night.",
+    "options": [
+      "had managed",
+      "didn't manage",
+      "weren't managing",
+      "were manage"
+    ],
+    "correctAnswer": "weren't managing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-078",
+    "question": "___ they (manage) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Were",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-079",
+    "question": "It ___ (matter) at 8 pm last night.",
+    "options": [
+      "was matterring",
+      "had mattered",
+      "was matterring",
+      "mattered"
+    ],
+    "correctAnswer": "was matterring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-080",
+    "question": "It ___ (matter) at 8 pm last night.",
+    "options": [
+      "was matter",
+      "didn't matter",
+      "had mattered",
+      "wasn't matterring"
+    ],
+    "correctAnswer": "wasn't matterring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-081",
+    "question": "___ it (matter) at 8 pm last night?",
+    "options": [
+      "Do",
+      "Has",
+      "Was",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-082",
+    "question": "We ___ (meet) while he was away.",
+    "options": [
+      "were meeting",
+      "had met",
+      "was meeting",
+      "met"
+    ],
+    "correctAnswer": "were meeting",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-083",
+    "question": "We ___ (meet) while he was away.",
+    "options": [
+      "weren't meeting",
+      "had met",
+      "didn't meet",
+      "were meet"
+    ],
+    "correctAnswer": "weren't meeting",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-084",
+    "question": "___ we (meet) while he was away?",
+    "options": [
+      "Were",
+      "Has",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-085",
+    "question": "I ___ (offer) when you called.",
+    "options": [
+      "were offerring",
+      "offered",
+      "had offered",
+      "was offerring"
+    ],
+    "correctAnswer": "was offerring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-086",
+    "question": "I ___ (offer) when you called.",
+    "options": [
+      "wasn't offerring",
+      "was offer",
+      "had offered",
+      "didn't offer"
+    ],
+    "correctAnswer": "wasn't offerring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-087",
+    "question": "___ i (offer) when you called?",
+    "options": [
+      "Did",
+      "Has",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-088",
+    "question": "You ___ (open) when you called.",
+    "options": [
+      "were openning",
+      "opened",
+      "had opened",
+      "was openning"
+    ],
+    "correctAnswer": "were openning",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-089",
+    "question": "You ___ (open) when you called.",
+    "options": [
+      "were open",
+      "had opened",
+      "weren't openning",
+      "didn't open"
+    ],
+    "correctAnswer": "weren't openning",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-090",
+    "question": "___ you (open) when you called?",
+    "options": [
+      "Were",
+      "Did",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-091",
+    "question": "He ___ (order) when you called.",
+    "options": [
+      "had ordered",
+      "was orderring",
+      "was orderring",
+      "ordered"
+    ],
+    "correctAnswer": "was orderring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-092",
+    "question": "He ___ (order) when you called.",
+    "options": [
+      "was order",
+      "had ordered",
+      "didn't order",
+      "wasn't orderring"
+    ],
+    "correctAnswer": "wasn't orderring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-093",
+    "question": "___ he (order) when you called?",
+    "options": [
+      "Was",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-094",
+    "question": "She ___ (ship) while he was away.",
+    "options": [
+      "was shipping",
+      "shipped",
+      "had shipped",
+      "was shipping"
+    ],
+    "correctAnswer": "was shipping",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-095",
+    "question": "She ___ (ship) while he was away.",
+    "options": [
+      "wasn't shipping",
+      "didn't ship",
+      "had shipped",
+      "was ship"
+    ],
+    "correctAnswer": "wasn't shipping",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-096",
+    "question": "___ she (ship) while he was away?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-097",
+    "question": "They ___ (organize) at 8 pm last night.",
+    "options": [
+      "had organized",
+      "was organizing",
+      "organized",
+      "were organizing"
+    ],
+    "correctAnswer": "were organizing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-098",
+    "question": "They ___ (organize) at 8 pm last night.",
+    "options": [
+      "weren't organizing",
+      "had organized",
+      "were organize",
+      "didn't organize"
+    ],
+    "correctAnswer": "weren't organizing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-099",
+    "question": "___ they (organize) at 8 pm last night?",
+    "options": [
+      "Were",
+      "Did",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-100",
+    "question": "It ___ (play) while he was away.",
+    "options": [
+      "played",
+      "had played",
+      "was playying",
+      "was playying"
+    ],
+    "correctAnswer": "was playying",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-101",
+    "question": "It ___ (play) while he was away.",
+    "options": [
+      "didn't play",
+      "had played",
+      "wasn't playying",
+      "was play"
+    ],
+    "correctAnswer": "wasn't playying",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-102",
+    "question": "___ it (play) while he was away?",
+    "options": [
+      "Was",
+      "Do",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-103",
+    "question": "We ___ (rain) when you called.",
+    "options": [
+      "were raining",
+      "was raining",
+      "rained",
+      "had rained"
+    ],
+    "correctAnswer": "were raining",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-104",
+    "question": "We ___ (rain) when you called.",
+    "options": [
+      "had rained",
+      "weren't raining",
+      "were rain",
+      "didn't rain"
+    ],
+    "correctAnswer": "weren't raining",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-105",
+    "question": "___ we (rain) when you called?",
+    "options": [
+      "Did",
+      "Were",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-106",
+    "question": "I ___ (read) while he was away.",
+    "options": [
+      "was reading",
+      "read",
+      "were reading",
+      "had read"
+    ],
+    "correctAnswer": "was reading",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-107",
+    "question": "I ___ (read) while he was away.",
+    "options": [
+      "had read",
+      "wasn't reading",
+      "was read",
+      "didn't read"
+    ],
+    "correctAnswer": "wasn't reading",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-108",
+    "question": "___ i (read) while he was away?",
+    "options": [
+      "Has",
+      "Was",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-109",
+    "question": "You ___ (remember) at 8 pm last night.",
+    "options": [
+      "remembered",
+      "had remembered",
+      "was rememberring",
+      "were rememberring"
+    ],
+    "correctAnswer": "were rememberring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-110",
+    "question": "You ___ (remember) at 8 pm last night.",
+    "options": [
+      "didn't remember",
+      "weren't rememberring",
+      "were remember",
+      "had remembered"
+    ],
+    "correctAnswer": "weren't rememberring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-111",
+    "question": "___ you (remember) at 8 pm last night?",
+    "options": [
+      "Did",
+      "Has",
+      "Were",
+      "Do"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-112",
+    "question": "He ___ (rise) when you called.",
+    "options": [
+      "was rising",
+      "rose",
+      "had risen",
+      "was rising"
+    ],
+    "correctAnswer": "was rising",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-113",
+    "question": "He ___ (rise) when you called.",
+    "options": [
+      "had risen",
+      "didn't rise",
+      "was rise",
+      "wasn't rising"
+    ],
+    "correctAnswer": "wasn't rising",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-114",
+    "question": "___ he (rise) when you called?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-115",
+    "question": "She ___ (run) at 8 pm last night.",
+    "options": [
+      "was running",
+      "had run",
+      "was running",
+      "ran"
+    ],
+    "correctAnswer": "was running",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-116",
+    "question": "She ___ (run) at 8 pm last night.",
+    "options": [
+      "wasn't running",
+      "was run",
+      "didn't run",
+      "had run"
+    ],
+    "correctAnswer": "wasn't running",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-117",
+    "question": "___ she (run) at 8 pm last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-118",
+    "question": "They ___ (serve) when you called.",
+    "options": [
+      "was serving",
+      "had served",
+      "were serving",
+      "served"
+    ],
+    "correctAnswer": "were serving",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-119",
+    "question": "They ___ (serve) when you called.",
+    "options": [
+      "didn't serve",
+      "weren't serving",
+      "were serve",
+      "had served"
+    ],
+    "correctAnswer": "weren't serving",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-120",
+    "question": "___ they (serve) when you called?",
+    "options": [
+      "Did",
+      "Do",
+      "Has",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-121",
+    "question": "It ___ (speak) at 8 pm last night.",
+    "options": [
+      "was speaking",
+      "had spoken",
+      "was speaking",
+      "spoke"
+    ],
+    "correctAnswer": "was speaking",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-122",
+    "question": "It ___ (speak) at 8 pm last night.",
+    "options": [
+      "didn't speak",
+      "wasn't speaking",
+      "had spoken",
+      "was speak"
+    ],
+    "correctAnswer": "wasn't speaking",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-123",
+    "question": "___ it (speak) at 8 pm last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-124",
+    "question": "We ___ (spoil) while he was away.",
+    "options": [
+      "spoiled",
+      "had spoiled",
+      "was spoiling",
+      "were spoiling"
+    ],
+    "correctAnswer": "were spoiling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-125",
+    "question": "We ___ (spoil) while he was away.",
+    "options": [
+      "weren't spoiling",
+      "didn't spoil",
+      "had spoiled",
+      "were spoil"
+    ],
+    "correctAnswer": "weren't spoiling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-126",
+    "question": "___ we (spoil) while he was away?",
+    "options": [
+      "Were",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-127",
+    "question": "I ___ (start) when you called.",
+    "options": [
+      "started",
+      "were starting",
+      "was starting",
+      "had started"
+    ],
+    "correctAnswer": "was starting",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-128",
+    "question": "I ___ (start) when you called.",
+    "options": [
+      "didn't start",
+      "wasn't starting",
+      "was start",
+      "had started"
+    ],
+    "correctAnswer": "wasn't starting",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-129",
+    "question": "___ i (start) when you called?",
+    "options": [
+      "Did",
+      "Was",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-130",
+    "question": "You ___ (stay) at 8 pm last night.",
+    "options": [
+      "was stayying",
+      "had stayed",
+      "stayed",
+      "were stayying"
+    ],
+    "correctAnswer": "were stayying",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-131",
+    "question": "You ___ (stay) at 8 pm last night.",
+    "options": [
+      "didn't stay",
+      "were stay",
+      "had stayed",
+      "weren't stayying"
+    ],
+    "correctAnswer": "weren't stayying",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-132",
+    "question": "___ you (stay) at 8 pm last night?",
+    "options": [
+      "Were",
+      "Do",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-133",
+    "question": "He ___ (study) when you called.",
+    "options": [
+      "was studying",
+      "studied",
+      "had studied",
+      "was studying"
+    ],
+    "correctAnswer": "was studying",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-134",
+    "question": "He ___ (study) when you called.",
+    "options": [
+      "didn't study",
+      "was study",
+      "had studied",
+      "wasn't studying"
+    ],
+    "correctAnswer": "wasn't studying",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-135",
+    "question": "___ he (study) when you called?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-136",
+    "question": "She ___ (take) when you called.",
+    "options": [
+      "was taking",
+      "took",
+      "had taken",
+      "was taking"
+    ],
+    "correctAnswer": "was taking",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-137",
+    "question": "She ___ (take) when you called.",
+    "options": [
+      "didn't take",
+      "wasn't taking",
+      "had taken",
+      "was take"
+    ],
+    "correctAnswer": "wasn't taking",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-138",
+    "question": "___ she (take) when you called?",
+    "options": [
+      "Did",
+      "Has",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-139",
+    "question": "They ___ (teach) at 8 pm last night.",
+    "options": [
+      "taught",
+      "was teaching",
+      "were teaching",
+      "had taught"
+    ],
+    "correctAnswer": "were teaching",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-140",
+    "question": "They ___ (teach) at 8 pm last night.",
+    "options": [
+      "didn't teach",
+      "had taught",
+      "were teach",
+      "weren't teaching"
+    ],
+    "correctAnswer": "weren't teaching",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-141",
+    "question": "___ they (teach) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Did",
+      "Do",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-142",
+    "question": "It ___ (travel) while he was away.",
+    "options": [
+      "had traveled",
+      "was travelling",
+      "was travelling",
+      "traveled"
+    ],
+    "correctAnswer": "was travelling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-143",
+    "question": "It ___ (travel) while he was away.",
+    "options": [
+      "was travel",
+      "had traveled",
+      "didn't travel",
+      "wasn't travelling"
+    ],
+    "correctAnswer": "wasn't travelling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-144",
+    "question": "___ it (travel) while he was away?",
+    "options": [
+      "Has",
+      "Did",
+      "Was",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-145",
+    "question": "We ___ (use) while he was away.",
+    "options": [
+      "were using",
+      "had used",
+      "used",
+      "was using"
+    ],
+    "correctAnswer": "were using",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-146",
+    "question": "We ___ (use) while he was away.",
+    "options": [
+      "were use",
+      "weren't using",
+      "didn't use",
+      "had used"
+    ],
+    "correctAnswer": "weren't using",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-147",
+    "question": "___ we (use) while he was away?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-148",
+    "question": "I ___ (visit) while he was away.",
+    "options": [
+      "was visitting",
+      "were visitting",
+      "had visited",
+      "visited"
+    ],
+    "correctAnswer": "was visitting",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-149",
+    "question": "I ___ (visit) while he was away.",
+    "options": [
+      "was visit",
+      "wasn't visitting",
+      "had visited",
+      "didn't visit"
+    ],
+    "correctAnswer": "wasn't visitting",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-150",
+    "question": "___ i (visit) while he was away?",
+    "options": [
+      "Has",
+      "Was",
+      "Did",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-151",
+    "question": "You ___ (watch) while he was away.",
+    "options": [
+      "were watching",
+      "had watched",
+      "was watching",
+      "watched"
+    ],
+    "correctAnswer": "were watching",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-152",
+    "question": "You ___ (watch) while he was away.",
+    "options": [
+      "were watch",
+      "didn't watch",
+      "weren't watching",
+      "had watched"
+    ],
+    "correctAnswer": "weren't watching",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-153",
+    "question": "___ you (watch) while he was away?",
+    "options": [
+      "Do",
+      "Has",
+      "Were",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-154",
+    "question": "He ___ (weigh) when you called.",
+    "options": [
+      "had weighed",
+      "was weighing",
+      "weighed",
+      "was weighing"
+    ],
+    "correctAnswer": "was weighing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-155",
+    "question": "He ___ (weigh) when you called.",
+    "options": [
+      "didn't weigh",
+      "had weighed",
+      "was weigh",
+      "wasn't weighing"
+    ],
+    "correctAnswer": "wasn't weighing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-156",
+    "question": "___ he (weigh) when you called?",
+    "options": [
+      "Has",
+      "Did",
+      "Do",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-157",
+    "question": "She ___ (work) when you called.",
+    "options": [
+      "was working",
+      "was working",
+      "had worked",
+      "worked"
+    ],
+    "correctAnswer": "was working",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-158",
+    "question": "She ___ (work) when you called.",
+    "options": [
+      "had worked",
+      "was work",
+      "wasn't working",
+      "didn't work"
+    ],
+    "correctAnswer": "wasn't working",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-159",
+    "question": "___ she (work) when you called?",
+    "options": [
+      "Did",
+      "Do",
+      "Has",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-160",
+    "question": "They ___ (brush) when you called.",
+    "options": [
+      "had brushed",
+      "brushed",
+      "was brushing",
+      "were brushing"
+    ],
+    "correctAnswer": "were brushing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-161",
+    "question": "They ___ (brush) when you called.",
+    "options": [
+      "had brushed",
+      "were brush",
+      "didn't brush",
+      "weren't brushing"
+    ],
+    "correctAnswer": "weren't brushing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-162",
+    "question": "___ they (brush) when you called?",
+    "options": [
+      "Were",
+      "Do",
+      "Has",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-163",
+    "question": "It ___ (exercise) while he was away.",
+    "options": [
+      "had exercised",
+      "was exercising",
+      "exercised",
+      "was exercising"
+    ],
+    "correctAnswer": "was exercising",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-164",
+    "question": "It ___ (exercise) while he was away.",
+    "options": [
+      "was exercise",
+      "wasn't exercising",
+      "had exercised",
+      "didn't exercise"
+    ],
+    "correctAnswer": "wasn't exercising",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-165",
+    "question": "___ it (exercise) while he was away?",
+    "options": [
+      "Was",
+      "Did",
+      "Has",
+      "Do"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-166",
+    "question": "We ___ (listen) when you called.",
+    "options": [
+      "were listenning",
+      "had listened",
+      "was listenning",
+      "listened"
+    ],
+    "correctAnswer": "were listenning",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-167",
+    "question": "We ___ (listen) when you called.",
+    "options": [
+      "weren't listenning",
+      "were listen",
+      "had listened",
+      "didn't listen"
+    ],
+    "correctAnswer": "weren't listenning",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-168",
+    "question": "___ we (listen) when you called?",
+    "options": [
+      "Do",
+      "Were",
+      "Did",
+      "Has"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-169",
+    "question": "I ___ (sleep) at 8 pm last night.",
+    "options": [
+      "had slept",
+      "were sleeping",
+      "was sleeping",
+      "slept"
+    ],
+    "correctAnswer": "was sleeping",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-170",
+    "question": "I ___ (sleep) at 8 pm last night.",
+    "options": [
+      "was sleep",
+      "had slept",
+      "wasn't sleeping",
+      "didn't sleep"
+    ],
+    "correctAnswer": "wasn't sleeping",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-171",
+    "question": "___ i (sleep) at 8 pm last night?",
+    "options": [
+      "Was",
+      "Has",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-172",
+    "question": "You ___ (research) at 8 pm last night.",
+    "options": [
+      "was researching",
+      "had researched",
+      "researched",
+      "were researching"
+    ],
+    "correctAnswer": "were researching",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-173",
+    "question": "You ___ (research) at 8 pm last night.",
+    "options": [
+      "weren't researching",
+      "had researched",
+      "were research",
+      "didn't research"
+    ],
+    "correctAnswer": "weren't researching",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-174",
+    "question": "___ you (research) at 8 pm last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Has",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-175",
+    "question": "He ___ (recycle) when you called.",
+    "options": [
+      "was recycling",
+      "was recycling",
+      "recycled",
+      "had recycled"
+    ],
+    "correctAnswer": "was recycling",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-176",
+    "question": "He ___ (recycle) when you called.",
+    "options": [
+      "was recycle",
+      "had recycled",
+      "didn't recycle",
+      "wasn't recycling"
+    ],
+    "correctAnswer": "wasn't recycling",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-177",
+    "question": "___ he (recycle) when you called?",
+    "options": [
+      "Was",
+      "Did",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-178",
+    "question": "She ___ (diagnose) at 8 pm last night.",
+    "options": [
+      "was diagnosing",
+      "had diagnosed",
+      "was diagnosing",
+      "diagnosed"
+    ],
+    "correctAnswer": "was diagnosing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-179",
+    "question": "She ___ (diagnose) at 8 pm last night.",
+    "options": [
+      "had diagnosed",
+      "wasn't diagnosing",
+      "didn't diagnose",
+      "was diagnose"
+    ],
+    "correctAnswer": "wasn't diagnosing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-180",
+    "question": "___ she (diagnose) at 8 pm last night?",
+    "options": [
+      "Did",
+      "Was",
+      "Do",
+      "Has"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-181",
+    "question": "They ___ (negotiate) when you called.",
+    "options": [
+      "had negotiated",
+      "were negotiating",
+      "negotiated",
+      "was negotiating"
+    ],
+    "correctAnswer": "were negotiating",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-182",
+    "question": "They ___ (negotiate) when you called.",
+    "options": [
+      "weren't negotiating",
+      "were negotiate",
+      "didn't negotiate",
+      "had negotiated"
+    ],
+    "correctAnswer": "weren't negotiating",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-183",
+    "question": "___ they (negotiate) when you called?",
+    "options": [
+      "Were",
+      "Has",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-184",
+    "question": "It ___ (invest) while he was away.",
+    "options": [
+      "had invested",
+      "was investing",
+      "invested",
+      "was investing"
+    ],
+    "correctAnswer": "was investing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-185",
+    "question": "It ___ (invest) while he was away.",
+    "options": [
+      "wasn't investing",
+      "didn't invest",
+      "had invested",
+      "was invest"
+    ],
+    "correctAnswer": "wasn't investing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-186",
+    "question": "___ it (invest) while he was away?",
+    "options": [
+      "Was",
+      "Has",
+      "Do",
+      "Did"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-187",
+    "question": "We ___ (compose) at 8 pm last night.",
+    "options": [
+      "were composing",
+      "had composed",
+      "was composing",
+      "composed"
+    ],
+    "correctAnswer": "were composing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-188",
+    "question": "We ___ (compose) at 8 pm last night.",
+    "options": [
+      "were compose",
+      "had composed",
+      "didn't compose",
+      "weren't composing"
+    ],
+    "correctAnswer": "weren't composing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-189",
+    "question": "___ we (compose) at 8 pm last night?",
+    "options": [
+      "Do",
+      "Has",
+      "Were",
+      "Did"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-190",
+    "question": "I ___ (rescue) when you called.",
+    "options": [
+      "was rescuing",
+      "had rescued",
+      "rescued",
+      "were rescuing"
+    ],
+    "correctAnswer": "was rescuing",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-191",
+    "question": "I ___ (rescue) when you called.",
+    "options": [
+      "had rescued",
+      "didn't rescue",
+      "was rescue",
+      "wasn't rescuing"
+    ],
+    "correctAnswer": "wasn't rescuing",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-192",
+    "question": "___ i (rescue) when you called?",
+    "options": [
+      "Do",
+      "Has",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-193",
+    "question": "You ___ (broadcast) at 8 pm last night.",
+    "options": [
+      "was broadcasting",
+      "broadcast",
+      "had broadcast",
+      "were broadcasting"
+    ],
+    "correctAnswer": "were broadcasting",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-194",
+    "question": "You ___ (broadcast) at 8 pm last night.",
+    "options": [
+      "had broadcast",
+      "weren't broadcasting",
+      "were broadcast",
+      "didn't broadcast"
+    ],
+    "correctAnswer": "weren't broadcasting",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-195",
+    "question": "___ you (broadcast) at 8 pm last night?",
+    "options": [
+      "Has",
+      "Do",
+      "Did",
+      "Were"
+    ],
+    "correctAnswer": "Were",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-196",
+    "question": "He ___ (discover) while he was away.",
+    "options": [
+      "had discovered",
+      "discovered",
+      "was discoverring",
+      "was discoverring"
+    ],
+    "correctAnswer": "was discoverring",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-197",
+    "question": "He ___ (discover) while he was away.",
+    "options": [
+      "didn't discover",
+      "was discover",
+      "wasn't discoverring",
+      "had discovered"
+    ],
+    "correctAnswer": "wasn't discoverring",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-198",
+    "question": "___ he (discover) while he was away?",
+    "options": [
+      "Has",
+      "Do",
+      "Did",
+      "Was"
+    ],
+    "correctAnswer": "Was",
+    "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
+    "tenseType": "past-continuous",
+    "difficulty": "easy"
+  },
+  {
+    "id": "past-continuous-199",
+    "question": "She ___ (conserve) at 8 pm last night.",
+    "options": [
+      "was conserving",
+      "conserved",
+      "had conserved",
+      "was conserving"
+    ],
+    "correctAnswer": "was conserving",
+    "explanation": "Past Continuous: was/were + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  },
+  {
+    "id": "past-continuous-200",
+    "question": "She ___ (conserve) at 8 pm last night.",
+    "options": [
+      "wasn't conserving",
+      "had conserved",
+      "didn't conserve",
+      "was conserve"
+    ],
+    "correctAnswer": "wasn't conserving",
+    "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
+    "tenseType": "past-continuous",
+    "difficulty": "medium"
+  }
+]
