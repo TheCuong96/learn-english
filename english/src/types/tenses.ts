@@ -36,6 +36,8 @@ export interface TensesQuestion {
   explanation: string;
   tenseType: TenseType;
   difficulty: 'easy' | 'medium' | 'hard';
+  completedSentence?: string;
+  vietnameseMeaning?: string;
 }
 
 export interface TensesExercise {

@@ -11,7 +11,9 @@
     "correctAnswer": "will approve",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will approve later.",
+    "vietnameseMeaning": "Bạn sẽ phê duyệt sau này"
   },
   {
     "id": "future-simple-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "will not approve",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not approve later.",
+    "vietnameseMeaning": "Bạn sẽ không phê duyệt sau này"
   },
   {
     "id": "future-simple-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (approve) later?",
+    "vietnameseMeaning": "sẽ phê duyệt sau này"
   },
   {
     "id": "future-simple-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "will attend",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will attend tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ tham dự ngày mai"
   },
   {
     "id": "future-simple-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "will not attend",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not attend tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ không tham dự ngày mai"
   },
   {
     "id": "future-simple-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (attend) tomorrow?",
+    "vietnameseMeaning": "sẽ tham dự ngày mai"
   },
   {
     "id": "future-simple-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "will believe",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will believe next week.",
+    "vietnameseMeaning": "Nó sẽ tin tuần tới"
   },
   {
     "id": "future-simple-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "will not believe",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not believe next week.",
+    "vietnameseMeaning": "Nó sẽ không tin tuần tới"
   },
   {
     "id": "future-simple-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (believe) next week?",
+    "vietnameseMeaning": "sẽ tin tuần tới"
   },
   {
     "id": "future-simple-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "will boil",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will boil later.",
+    "vietnameseMeaning": "Tôi sẽ sôi/đun sôi sau này"
   },
   {
     "id": "future-simple-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "will not boil",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not boil later.",
+    "vietnameseMeaning": "Tôi sẽ không sôi/đun sôi sau này"
   },
   {
     "id": "future-simple-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (boil) later?",
+    "vietnameseMeaning": "sẽ sôi/đun sôi sau này"
   },
   {
     "id": "future-simple-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "will buy",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will buy later.",
+    "vietnameseMeaning": "Họ sẽ mua sau này"
   },
   {
     "id": "future-simple-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "will not buy",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not buy later.",
+    "vietnameseMeaning": "Họ sẽ không mua sau này"
   },
   {
     "id": "future-simple-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (buy) later?",
+    "vietnameseMeaning": "sẽ mua sau này"
   },
   {
     "id": "future-simple-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "will call",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will call tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ gọi ngày mai"
   },
   {
     "id": "future-simple-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "will not call",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not call tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ không gọi ngày mai"
   },
   {
     "id": "future-simple-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (call) tomorrow?",
+    "vietnameseMeaning": "sẽ gọi ngày mai"
   },
   {
     "id": "future-simple-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "will check",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will check later.",
+    "vietnameseMeaning": "Anh ấy sẽ kiểm tra sau này"
   },
   {
     "id": "future-simple-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "will not check",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not check later.",
+    "vietnameseMeaning": "Anh ấy sẽ không kiểm tra sau này"
   },
   {
     "id": "future-simple-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (check) later?",
+    "vietnameseMeaning": "sẽ kiểm tra sau này"
   },
   {
     "id": "future-simple-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "will close",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will close soon.",
+    "vietnameseMeaning": "Bạn sẽ đóng sớm"
   },
   {
     "id": "future-simple-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "will not close",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not close soon.",
+    "vietnameseMeaning": "Bạn sẽ không đóng sớm"
   },
   {
     "id": "future-simple-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (close) soon?",
+    "vietnameseMeaning": "sẽ đóng sớm"
   },
   {
     "id": "future-simple-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "will contain",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will contain next week.",
+    "vietnameseMeaning": "Cô ấy sẽ chứa tuần tới"
   },
   {
     "id": "future-simple-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "will not contain",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not contain next week.",
+    "vietnameseMeaning": "Cô ấy sẽ không chứa tuần tới"
   },
   {
     "id": "future-simple-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (contain) next week?",
+    "vietnameseMeaning": "sẽ chứa tuần tới"
   },
   {
     "id": "future-simple-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "will coordinate",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will coordinate soon.",
+    "vietnameseMeaning": "Nó sẽ điều phối sớm"
   },
   {
     "id": "future-simple-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "will not coordinate",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not coordinate soon.",
+    "vietnameseMeaning": "Nó sẽ không điều phối sớm"
   },
   {
     "id": "future-simple-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (coordinate) soon?",
+    "vietnameseMeaning": "sẽ điều phối sớm"
   },
   {
     "id": "future-simple-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "will cook",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will cook later.",
+    "vietnameseMeaning": "Tôi sẽ nấu ăn sau này"
   },
   {
     "id": "future-simple-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "will not cook",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not cook later.",
+    "vietnameseMeaning": "Tôi sẽ không nấu ăn sau này"
   },
   {
     "id": "future-simple-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (cook) later?",
+    "vietnameseMeaning": "sẽ nấu ăn sau này"
   },
   {
     "id": "future-simple-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "will cost",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will cost soon.",
+    "vietnameseMeaning": "Họ sẽ có giá sớm"
   },
   {
     "id": "future-simple-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "will not cost",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not cost soon.",
+    "vietnameseMeaning": "Họ sẽ không có giá sớm"
   },
   {
     "id": "future-simple-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (cost) soon?",
+    "vietnameseMeaning": "sẽ có giá sớm"
   },
   {
     "id": "future-simple-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "will depart",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will depart soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ khởi hành sớm"
   },
   {
     "id": "future-simple-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "will not depart",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not depart soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ không khởi hành sớm"
   },
   {
     "id": "future-simple-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (depart) soon?",
+    "vietnameseMeaning": "sẽ khởi hành sớm"
   },
   {
     "id": "future-simple-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "will deliver",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will deliver next week.",
+    "vietnameseMeaning": "Anh ấy sẽ giao (hàng) tuần tới"
   },
   {
     "id": "future-simple-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "will not deliver",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not deliver next week.",
+    "vietnameseMeaning": "Anh ấy sẽ không giao (hàng) tuần tới"
   },
   {
     "id": "future-simple-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (deliver) next week?",
+    "vietnameseMeaning": "sẽ giao (hàng) tuần tới"
   },
   {
     "id": "future-simple-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "will disassemble",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will disassemble next week.",
+    "vietnameseMeaning": "Bạn sẽ tháo rời/tháo lắp tuần tới"
   },
   {
     "id": "future-simple-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "will not disassemble",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not disassemble next week.",
+    "vietnameseMeaning": "Bạn sẽ không tháo rời/tháo lắp tuần tới"
   },
   {
     "id": "future-simple-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (disassemble) next week?",
+    "vietnameseMeaning": "sẽ tháo rời/tháo lắp tuần tới"
   },
   {
     "id": "future-simple-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "will do",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will do tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ làm ngày mai"
   },
   {
     "id": "future-simple-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "will not do",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not do tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ không làm ngày mai"
   },
   {
     "id": "future-simple-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (do) tomorrow?",
+    "vietnameseMeaning": "sẽ làm ngày mai"
   },
   {
     "id": "future-simple-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "will drink",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will drink later.",
+    "vietnameseMeaning": "Nó sẽ uống sau này"
   },
   {
     "id": "future-simple-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "will not drink",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not drink later.",
+    "vietnameseMeaning": "Nó sẽ không uống sau này"
   },
   {
     "id": "future-simple-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (drink) later?",
+    "vietnameseMeaning": "sẽ uống sau này"
   },
   {
     "id": "future-simple-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "will eat",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will eat soon.",
+    "vietnameseMeaning": "Tôi sẽ ăn sớm"
   },
   {
     "id": "future-simple-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "will not eat",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not eat soon.",
+    "vietnameseMeaning": "Tôi sẽ không ăn sớm"
   },
   {
     "id": "future-simple-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (eat) soon?",
+    "vietnameseMeaning": "sẽ ăn sớm"
   },
   {
     "id": "future-simple-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "will expire",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will expire later.",
+    "vietnameseMeaning": "Họ sẽ hết hạn sau này"
   },
   {
     "id": "future-simple-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "will not expire",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not expire later.",
+    "vietnameseMeaning": "Họ sẽ không hết hạn sau này"
   },
   {
     "id": "future-simple-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (expire) later?",
+    "vietnameseMeaning": "sẽ hết hạn sau này"
   },
   {
     "id": "future-simple-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "will finish",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will finish later.",
+    "vietnameseMeaning": "Chúng tôi sẽ hoàn thành sau này"
   },
   {
     "id": "future-simple-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "will not finish",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not finish later.",
+    "vietnameseMeaning": "Chúng tôi sẽ không hoàn thành sau này"
   },
   {
     "id": "future-simple-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (finish) later?",
+    "vietnameseMeaning": "sẽ hoàn thành sau này"
   },
   {
     "id": "future-simple-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "will finalize",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will finalize next week.",
+    "vietnameseMeaning": "Anh ấy sẽ hoàn tất/chốt tuần tới"
   },
   {
     "id": "future-simple-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "will not finalize",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not finalize next week.",
+    "vietnameseMeaning": "Anh ấy sẽ không hoàn tất/chốt tuần tới"
   },
   {
     "id": "future-simple-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (finalize) next week?",
+    "vietnameseMeaning": "sẽ hoàn tất/chốt tuần tới"
   },
   {
     "id": "future-simple-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "will give",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will give next week.",
+    "vietnameseMeaning": "Bạn sẽ đưa/cho tuần tới"
   },
   {
     "id": "future-simple-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "will not give",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not give next week.",
+    "vietnameseMeaning": "Bạn sẽ không đưa/cho tuần tới"
   },
   {
     "id": "future-simple-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (give) next week?",
+    "vietnameseMeaning": "sẽ đưa/cho tuần tới"
   },
   {
     "id": "future-simple-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "will go",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will go next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đi tuần tới"
   },
   {
     "id": "future-simple-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "will not go",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not go next week.",
+    "vietnameseMeaning": "Cô ấy sẽ không đi tuần tới"
   },
   {
     "id": "future-simple-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (go) next week?",
+    "vietnameseMeaning": "sẽ đi tuần tới"
   },
   {
     "id": "future-simple-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "will have",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will have tomorrow.",
+    "vietnameseMeaning": "Nó sẽ có; (3rd: has) ngày mai"
   },
   {
     "id": "future-simple-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "will not have",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not have tomorrow.",
+    "vietnameseMeaning": "Nó sẽ không có; (3rd: has) ngày mai"
   },
   {
     "id": "future-simple-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (have) tomorrow?",
+    "vietnameseMeaning": "sẽ có; (3rd: has) ngày mai"
   },
   {
     "id": "future-simple-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "will help",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will help later.",
+    "vietnameseMeaning": "Tôi sẽ giúp sau này"
   },
   {
     "id": "future-simple-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "will not help",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not help later.",
+    "vietnameseMeaning": "Tôi sẽ không giúp sau này"
   },
   {
     "id": "future-simple-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (help) later?",
+    "vietnameseMeaning": "sẽ giúp sau này"
   },
   {
     "id": "future-simple-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "will join",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will join soon.",
+    "vietnameseMeaning": "Họ sẽ tham gia sớm"
   },
   {
     "id": "future-simple-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "will not join",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not join soon.",
+    "vietnameseMeaning": "Họ sẽ không tham gia sớm"
   },
   {
     "id": "future-simple-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (join) soon?",
+    "vietnameseMeaning": "sẽ tham gia sớm"
   },
   {
     "id": "future-simple-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "will leave",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will leave soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ rời đi sớm"
   },
   {
     "id": "future-simple-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "will not leave",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not leave soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ không rời đi sớm"
   },
   {
     "id": "future-simple-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (leave) soon?",
+    "vietnameseMeaning": "sẽ rời đi sớm"
   },
   {
     "id": "future-simple-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "will like",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will like later.",
+    "vietnameseMeaning": "Anh ấy sẽ thích sau này"
   },
   {
     "id": "future-simple-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "will not like",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not like later.",
+    "vietnameseMeaning": "Anh ấy sẽ không thích sau này"
   },
   {
     "id": "future-simple-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (like) later?",
+    "vietnameseMeaning": "sẽ thích sau này"
   },
   {
     "id": "future-simple-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "will live",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will live tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ sống ngày mai"
   },
   {
     "id": "future-simple-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "will not live",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not live tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ không sống ngày mai"
   },
   {
     "id": "future-simple-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (live) tomorrow?",
+    "vietnameseMeaning": "sẽ sống ngày mai"
   },
   {
     "id": "future-simple-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "will manage",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will manage next week.",
+    "vietnameseMeaning": "Cô ấy sẽ quản lý tuần tới"
   },
   {
     "id": "future-simple-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "will not manage",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not manage next week.",
+    "vietnameseMeaning": "Cô ấy sẽ không quản lý tuần tới"
   },
   {
     "id": "future-simple-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (manage) next week?",
+    "vietnameseMeaning": "sẽ quản lý tuần tới"
   },
   {
     "id": "future-simple-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "will matter",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will matter soon.",
+    "vietnameseMeaning": "Nó sẽ quan trọng sớm"
   },
   {
     "id": "future-simple-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "will not matter",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not matter soon.",
+    "vietnameseMeaning": "Nó sẽ không quan trọng sớm"
   },
   {
     "id": "future-simple-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (matter) soon?",
+    "vietnameseMeaning": "sẽ quan trọng sớm"
   },
   {
     "id": "future-simple-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "will meet",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will meet tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ họp/gặp ngày mai"
   },
   {
     "id": "future-simple-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "will not meet",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not meet tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ không họp/gặp ngày mai"
   },
   {
     "id": "future-simple-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (meet) tomorrow?",
+    "vietnameseMeaning": "sẽ họp/gặp ngày mai"
   },
   {
     "id": "future-simple-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "will need",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will need later.",
+    "vietnameseMeaning": "Họ sẽ cần sau này"
   },
   {
     "id": "future-simple-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "will not need",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not need later.",
+    "vietnameseMeaning": "Họ sẽ không cần sau này"
   },
   {
     "id": "future-simple-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (need) later?",
+    "vietnameseMeaning": "sẽ cần sau này"
   },
   {
     "id": "future-simple-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "will offer",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will offer soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ cung cấp/đề nghị sớm"
   },
   {
     "id": "future-simple-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "will not offer",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not offer soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ không cung cấp/đề nghị sớm"
   },
   {
     "id": "future-simple-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (offer) soon?",
+    "vietnameseMeaning": "sẽ cung cấp/đề nghị sớm"
   },
   {
     "id": "future-simple-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "will open",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will open soon.",
+    "vietnameseMeaning": "Anh ấy sẽ mở sớm"
   },
   {
     "id": "future-simple-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "will not open",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not open soon.",
+    "vietnameseMeaning": "Anh ấy sẽ không mở sớm"
   },
   {
     "id": "future-simple-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (open) soon?",
+    "vietnameseMeaning": "sẽ mở sớm"
   },
   {
     "id": "future-simple-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "will order",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will order later.",
+    "vietnameseMeaning": "Bạn sẽ đặt (mua) sau này"
   },
   {
     "id": "future-simple-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "will not order",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not order later.",
+    "vietnameseMeaning": "Bạn sẽ không đặt (mua) sau này"
   },
   {
     "id": "future-simple-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (order) later?",
+    "vietnameseMeaning": "sẽ đặt (mua) sau này"
   },
   {
     "id": "future-simple-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "will ship",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will ship later.",
+    "vietnameseMeaning": "Cô ấy sẽ giao hàng/vận chuyển sau này"
   },
   {
     "id": "future-simple-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "will not ship",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not ship later.",
+    "vietnameseMeaning": "Cô ấy sẽ không giao hàng/vận chuyển sau này"
   },
   {
     "id": "future-simple-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (ship) later?",
+    "vietnameseMeaning": "sẽ giao hàng/vận chuyển sau này"
   },
   {
     "id": "future-simple-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "will organize",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will organize next week.",
+    "vietnameseMeaning": "Nó sẽ tổ chức/sắp xếp tuần tới"
   },
   {
     "id": "future-simple-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "will not organize",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not organize next week.",
+    "vietnameseMeaning": "Nó sẽ không tổ chức/sắp xếp tuần tới"
   },
   {
     "id": "future-simple-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (organize) next week?",
+    "vietnameseMeaning": "sẽ tổ chức/sắp xếp tuần tới"
   },
   {
     "id": "future-simple-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "will own",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will own next week.",
+    "vietnameseMeaning": "Tôi sẽ sở hữu tuần tới"
   },
   {
     "id": "future-simple-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "will not own",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not own next week.",
+    "vietnameseMeaning": "Tôi sẽ không sở hữu tuần tới"
   },
   {
     "id": "future-simple-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (own) next week?",
+    "vietnameseMeaning": "sẽ sở hữu tuần tới"
   },
   {
     "id": "future-simple-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "will play",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will play next week.",
+    "vietnameseMeaning": "Họ sẽ chơi tuần tới"
   },
   {
     "id": "future-simple-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "will not play",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not play next week.",
+    "vietnameseMeaning": "Họ sẽ không chơi tuần tới"
   },
   {
     "id": "future-simple-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (play) next week?",
+    "vietnameseMeaning": "sẽ chơi tuần tới"
   },
   {
     "id": "future-simple-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "will prefer",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will prefer soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ thích hơn sớm"
   },
   {
     "id": "future-simple-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "will not prefer",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not prefer soon.",
+    "vietnameseMeaning": "Chúng tôi sẽ không thích hơn sớm"
   },
   {
     "id": "future-simple-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (prefer) soon?",
+    "vietnameseMeaning": "sẽ thích hơn sớm"
   },
   {
     "id": "future-simple-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "will rain",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will rain later.",
+    "vietnameseMeaning": "Anh ấy sẽ mưa sau này"
   },
   {
     "id": "future-simple-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "will not rain",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not rain later.",
+    "vietnameseMeaning": "Anh ấy sẽ không mưa sau này"
   },
   {
     "id": "future-simple-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (rain) later?",
+    "vietnameseMeaning": "sẽ mưa sau này"
   },
   {
     "id": "future-simple-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "will read",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will read tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đọc ngày mai"
   },
   {
     "id": "future-simple-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "will not read",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not read tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ không đọc ngày mai"
   },
   {
     "id": "future-simple-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (read) tomorrow?",
+    "vietnameseMeaning": "sẽ đọc ngày mai"
   },
   {
     "id": "future-simple-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "will remember",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will remember soon.",
+    "vietnameseMeaning": "Cô ấy sẽ nhớ sớm"
   },
   {
     "id": "future-simple-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "will not remember",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not remember soon.",
+    "vietnameseMeaning": "Cô ấy sẽ không nhớ sớm"
   },
   {
     "id": "future-simple-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (remember) soon?",
+    "vietnameseMeaning": "sẽ nhớ sớm"
   },
   {
     "id": "future-simple-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "will rise",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will rise soon.",
+    "vietnameseMeaning": "Nó sẽ mọc/tăng sớm"
   },
   {
     "id": "future-simple-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "will not rise",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not rise soon.",
+    "vietnameseMeaning": "Nó sẽ không mọc/tăng sớm"
   },
   {
     "id": "future-simple-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (rise) soon?",
+    "vietnameseMeaning": "sẽ mọc/tăng sớm"
   },
   {
     "id": "future-simple-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "will run",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will run next week.",
+    "vietnameseMeaning": "Tôi sẽ vận hành/chạy tuần tới"
   },
   {
     "id": "future-simple-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "will not run",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not run next week.",
+    "vietnameseMeaning": "Tôi sẽ không vận hành/chạy tuần tới"
   },
   {
     "id": "future-simple-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (run) next week?",
+    "vietnameseMeaning": "sẽ vận hành/chạy tuần tới"
   },
   {
     "id": "future-simple-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "will serve",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will serve later.",
+    "vietnameseMeaning": "Họ sẽ phục vụ sau này"
   },
   {
     "id": "future-simple-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "will not serve",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not serve later.",
+    "vietnameseMeaning": "Họ sẽ không phục vụ sau này"
   },
   {
     "id": "future-simple-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (serve) later?",
+    "vietnameseMeaning": "sẽ phục vụ sau này"
   },
   {
     "id": "future-simple-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "will speak",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will speak next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ nói tuần tới"
   },
   {
     "id": "future-simple-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "will not speak",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not speak next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ không nói tuần tới"
   },
   {
     "id": "future-simple-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (speak) next week?",
+    "vietnameseMeaning": "sẽ nói tuần tới"
   },
   {
     "id": "future-simple-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "will spoil",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will spoil tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ hỏng (đồ ăn) ngày mai"
   },
   {
     "id": "future-simple-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "will not spoil",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not spoil tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ không hỏng (đồ ăn) ngày mai"
   },
   {
     "id": "future-simple-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (spoil) tomorrow?",
+    "vietnameseMeaning": "sẽ hỏng (đồ ăn) ngày mai"
   },
   {
     "id": "future-simple-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "will start",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will start next week.",
+    "vietnameseMeaning": "Bạn sẽ bắt đầu tuần tới"
   },
   {
     "id": "future-simple-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "will not start",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not start next week.",
+    "vietnameseMeaning": "Bạn sẽ không bắt đầu tuần tới"
   },
   {
     "id": "future-simple-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (start) next week?",
+    "vietnameseMeaning": "sẽ bắt đầu tuần tới"
   },
   {
     "id": "future-simple-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "will stay",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will stay tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ ở; (stay open: mở muộn) ngày mai"
   },
   {
     "id": "future-simple-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "will not stay",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not stay tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ không ở; (stay open: mở muộn) ngày mai"
   },
   {
     "id": "future-simple-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (stay) tomorrow?",
+    "vietnameseMeaning": "sẽ ở; (stay open: mở muộn) ngày mai"
   },
   {
     "id": "future-simple-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "will study",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will study next week.",
+    "vietnameseMeaning": "Nó sẽ học tuần tới"
   },
   {
     "id": "future-simple-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "will not study",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not study next week.",
+    "vietnameseMeaning": "Nó sẽ không học tuần tới"
   },
   {
     "id": "future-simple-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (study) next week?",
+    "vietnameseMeaning": "sẽ học tuần tới"
   },
   {
     "id": "future-simple-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "will take",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will take later.",
+    "vietnameseMeaning": "Tôi sẽ lấy; đi bằng; mất (thời gian) sau này"
   },
   {
     "id": "future-simple-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "will not take",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not take later.",
+    "vietnameseMeaning": "Tôi sẽ không lấy; đi bằng; mất (thời gian) sau này"
   },
   {
     "id": "future-simple-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (take) later?",
+    "vietnameseMeaning": "sẽ lấy; đi bằng; mất (thời gian) sau này"
   },
   {
     "id": "future-simple-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "will teach",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will teach later.",
+    "vietnameseMeaning": "Họ sẽ dạy sau này"
   },
   {
     "id": "future-simple-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "will not teach",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not teach later.",
+    "vietnameseMeaning": "Họ sẽ không dạy sau này"
   },
   {
     "id": "future-simple-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (teach) later?",
+    "vietnameseMeaning": "sẽ dạy sau này"
   },
   {
     "id": "future-simple-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "will travel",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will travel next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đi du lịch tuần tới"
   },
   {
     "id": "future-simple-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "will not travel",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not travel next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ không đi du lịch tuần tới"
   },
   {
     "id": "future-simple-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (travel) next week?",
+    "vietnameseMeaning": "sẽ đi du lịch tuần tới"
   },
   {
     "id": "future-simple-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "will understand",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will understand next week.",
+    "vietnameseMeaning": "Anh ấy sẽ hiểu tuần tới"
   },
   {
     "id": "future-simple-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "will not understand",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not understand next week.",
+    "vietnameseMeaning": "Anh ấy sẽ không hiểu tuần tới"
   },
   {
     "id": "future-simple-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (understand) next week?",
+    "vietnameseMeaning": "sẽ hiểu tuần tới"
   },
   {
     "id": "future-simple-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "will use",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will use tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ dùng/sử dụng ngày mai"
   },
   {
     "id": "future-simple-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "will not use",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not use tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ không dùng/sử dụng ngày mai"
   },
   {
     "id": "future-simple-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (use) tomorrow?",
+    "vietnameseMeaning": "sẽ dùng/sử dụng ngày mai"
   },
   {
     "id": "future-simple-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "will visit",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will visit tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ thăm ngày mai"
   },
   {
     "id": "future-simple-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "will not visit",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not visit tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ không thăm ngày mai"
   },
   {
     "id": "future-simple-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (visit) tomorrow?",
+    "vietnameseMeaning": "sẽ thăm ngày mai"
   },
   {
     "id": "future-simple-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "will watch",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will watch soon.",
+    "vietnameseMeaning": "Nó sẽ xem sớm"
   },
   {
     "id": "future-simple-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "will not watch",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not watch soon.",
+    "vietnameseMeaning": "Nó sẽ không xem sớm"
   },
   {
     "id": "future-simple-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (watch) soon?",
+    "vietnameseMeaning": "sẽ xem sớm"
   },
   {
     "id": "future-simple-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "will weigh",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will weigh soon.",
+    "vietnameseMeaning": "Tôi sẽ nặng/cân nặng sớm"
   },
   {
     "id": "future-simple-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "will not weigh",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not weigh soon.",
+    "vietnameseMeaning": "Tôi sẽ không nặng/cân nặng sớm"
   },
   {
     "id": "future-simple-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (weigh) soon?",
+    "vietnameseMeaning": "sẽ nặng/cân nặng sớm"
   },
   {
     "id": "future-simple-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "will work",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will work soon.",
+    "vietnameseMeaning": "Họ sẽ làm việc sớm"
   },
   {
     "id": "future-simple-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "will not work",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They will not work soon.",
+    "vietnameseMeaning": "Họ sẽ không làm việc sớm"
   },
   {
     "id": "future-simple-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (work) soon?",
+    "vietnameseMeaning": "sẽ làm việc sớm"
   },
   {
     "id": "future-simple-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "will be",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will be later.",
+    "vietnameseMeaning": "Chúng tôi sẽ thì/là/ở sau này"
   },
   {
     "id": "future-simple-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "will not be",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We will not be later.",
+    "vietnameseMeaning": "Chúng tôi sẽ không thì/là/ở sau này"
   },
   {
     "id": "future-simple-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (be) later?",
+    "vietnameseMeaning": "sẽ thì/là/ở sau này"
   },
   {
     "id": "future-simple-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "will brush",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will brush tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đánh (răng) ngày mai"
   },
   {
     "id": "future-simple-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "will not brush",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He will not brush tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ không đánh (răng) ngày mai"
   },
   {
     "id": "future-simple-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (brush) tomorrow?",
+    "vietnameseMeaning": "sẽ đánh (răng) ngày mai"
   },
   {
     "id": "future-simple-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "will exercise",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will exercise tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ tập thể dục ngày mai"
   },
   {
     "id": "future-simple-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "will not exercise",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You will not exercise tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ không tập thể dục ngày mai"
   },
   {
     "id": "future-simple-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (exercise) tomorrow?",
+    "vietnameseMeaning": "sẽ tập thể dục ngày mai"
   },
   {
     "id": "future-simple-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "will listen",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will listen next week.",
+    "vietnameseMeaning": "Cô ấy sẽ nghe tuần tới"
   },
   {
     "id": "future-simple-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "will not listen",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She will not listen next week.",
+    "vietnameseMeaning": "Cô ấy sẽ không nghe tuần tới"
   },
   {
     "id": "future-simple-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (listen) next week?",
+    "vietnameseMeaning": "sẽ nghe tuần tới"
   },
   {
     "id": "future-simple-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "will sleep",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will sleep soon.",
+    "vietnameseMeaning": "Nó sẽ ngủ sớm"
   },
   {
     "id": "future-simple-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "will not sleep",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It will not sleep soon.",
+    "vietnameseMeaning": "Nó sẽ không ngủ sớm"
   },
   {
     "id": "future-simple-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Will",
     "explanation": "Future Simple (nghi vấn): Will + S + V?",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (sleep) soon?",
+    "vietnameseMeaning": "sẽ ngủ sớm"
   },
   {
     "id": "future-simple-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "will research",
     "explanation": "Future Simple: will + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will research later.",
+    "vietnameseMeaning": "Tôi sẽ nghiên cứu sau này"
   },
   {
     "id": "future-simple-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "will not research",
     "explanation": "Future Simple (phủ định): will not + V.",
     "tenseType": "future-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I will not research later.",
+    "vietnameseMeaning": "Tôi sẽ không nghiên cứu sau này"
   }
 ]

@@ -11,7 +11,9 @@
     "correctAnswer": "approved",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You approved last week.",
+    "vietnameseMeaning": "Bạn đã phê duyệt tuần trước"
   },
   {
     "id": "past-simple-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "didn't approve",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't approve last week.",
+    "vietnameseMeaning": "Bạn đã không phê duyệt tuần trước"
   },
   {
     "id": "past-simple-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (approve) last week?",
+    "vietnameseMeaning": "đã phê duyệt tuần trước"
   },
   {
     "id": "past-simple-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "attended",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She attended yesterday.",
+    "vietnameseMeaning": "Cô ấy đã tham dự hôm qua"
   },
   {
     "id": "past-simple-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "didn't attend",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't attend yesterday.",
+    "vietnameseMeaning": "Cô ấy đã không tham dự hôm qua"
   },
   {
     "id": "past-simple-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (attend) yesterday?",
+    "vietnameseMeaning": "đã tham dự hôm qua"
   },
   {
     "id": "past-simple-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "believed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It believed last week.",
+    "vietnameseMeaning": "Nó đã tin tuần trước"
   },
   {
     "id": "past-simple-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "didn't believe",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't believe last week.",
+    "vietnameseMeaning": "Nó đã không tin tuần trước"
   },
   {
     "id": "past-simple-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (believe) last week?",
+    "vietnameseMeaning": "đã tin tuần trước"
   },
   {
     "id": "past-simple-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "boiled",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They boiled in 2010.",
+    "vietnameseMeaning": "Họ đã sôi/đun sôi năm 2010"
   },
   {
     "id": "past-simple-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "didn't boil",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't boil in 2010.",
+    "vietnameseMeaning": "Họ đã không sôi/đun sôi năm 2010"
   },
   {
     "id": "past-simple-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (boil) in 2010?",
+    "vietnameseMeaning": "đã sôi/đun sôi năm 2010"
   },
   {
     "id": "past-simple-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "bought",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I bought yesterday.",
+    "vietnameseMeaning": "Tôi đã mua hôm qua"
   },
   {
     "id": "past-simple-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "didn't buy",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't buy yesterday.",
+    "vietnameseMeaning": "Tôi đã không mua hôm qua"
   },
   {
     "id": "past-simple-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (buy) yesterday?",
+    "vietnameseMeaning": "đã mua hôm qua"
   },
   {
     "id": "past-simple-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "called",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He called two days ago.",
+    "vietnameseMeaning": "Anh ấy đã gọi hai ngày trước"
   },
   {
     "id": "past-simple-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "didn't call",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't call two days ago.",
+    "vietnameseMeaning": "Anh ấy đã không gọi hai ngày trước"
   },
   {
     "id": "past-simple-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (call) two days ago?",
+    "vietnameseMeaning": "đã gọi hai ngày trước"
   },
   {
     "id": "past-simple-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "checked",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We checked last week.",
+    "vietnameseMeaning": "Chúng tôi đã kiểm tra tuần trước"
   },
   {
     "id": "past-simple-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "didn't check",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't check last week.",
+    "vietnameseMeaning": "Chúng tôi đã không kiểm tra tuần trước"
   },
   {
     "id": "past-simple-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (check) last week?",
+    "vietnameseMeaning": "đã kiểm tra tuần trước"
   },
   {
     "id": "past-simple-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "closed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You closed last week.",
+    "vietnameseMeaning": "Bạn đã đóng tuần trước"
   },
   {
     "id": "past-simple-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "didn't close",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't close last week.",
+    "vietnameseMeaning": "Bạn đã không đóng tuần trước"
   },
   {
     "id": "past-simple-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (close) last week?",
+    "vietnameseMeaning": "đã đóng tuần trước"
   },
   {
     "id": "past-simple-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "contained",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She contained two days ago.",
+    "vietnameseMeaning": "Cô ấy đã chứa hai ngày trước"
   },
   {
     "id": "past-simple-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "didn't contain",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't contain two days ago.",
+    "vietnameseMeaning": "Cô ấy đã không chứa hai ngày trước"
   },
   {
     "id": "past-simple-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (contain) two days ago?",
+    "vietnameseMeaning": "đã chứa hai ngày trước"
   },
   {
     "id": "past-simple-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "coordinated",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It coordinated last night.",
+    "vietnameseMeaning": "Nó đã điều phối tối qua"
   },
   {
     "id": "past-simple-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "didn't coordinate",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't coordinate last night.",
+    "vietnameseMeaning": "Nó đã không điều phối tối qua"
   },
   {
     "id": "past-simple-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (coordinate) last night?",
+    "vietnameseMeaning": "đã điều phối tối qua"
   },
   {
     "id": "past-simple-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "cooked",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They cooked last week.",
+    "vietnameseMeaning": "Họ đã nấu ăn tuần trước"
   },
   {
     "id": "past-simple-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "didn't cook",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't cook last week.",
+    "vietnameseMeaning": "Họ đã không nấu ăn tuần trước"
   },
   {
     "id": "past-simple-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (cook) last week?",
+    "vietnameseMeaning": "đã nấu ăn tuần trước"
   },
   {
     "id": "past-simple-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "cost",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I cost in 2010.",
+    "vietnameseMeaning": "Tôi đã có giá năm 2010"
   },
   {
     "id": "past-simple-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "didn't cost",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't cost in 2010.",
+    "vietnameseMeaning": "Tôi đã không có giá năm 2010"
   },
   {
     "id": "past-simple-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (cost) in 2010?",
+    "vietnameseMeaning": "đã có giá năm 2010"
   },
   {
     "id": "past-simple-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "departed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He departed last night.",
+    "vietnameseMeaning": "Anh ấy đã khởi hành tối qua"
   },
   {
     "id": "past-simple-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "didn't depart",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't depart last night.",
+    "vietnameseMeaning": "Anh ấy đã không khởi hành tối qua"
   },
   {
     "id": "past-simple-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (depart) last night?",
+    "vietnameseMeaning": "đã khởi hành tối qua"
   },
   {
     "id": "past-simple-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "delivered",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We delivered yesterday.",
+    "vietnameseMeaning": "Chúng tôi đã giao (hàng) hôm qua"
   },
   {
     "id": "past-simple-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "didn't deliver",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't deliver yesterday.",
+    "vietnameseMeaning": "Chúng tôi đã không giao (hàng) hôm qua"
   },
   {
     "id": "past-simple-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (deliver) yesterday?",
+    "vietnameseMeaning": "đã giao (hàng) hôm qua"
   },
   {
     "id": "past-simple-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "disassembled",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You disassembled two days ago.",
+    "vietnameseMeaning": "Bạn đã tháo rời/tháo lắp hai ngày trước"
   },
   {
     "id": "past-simple-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "didn't disassemble",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't disassemble two days ago.",
+    "vietnameseMeaning": "Bạn đã không tháo rời/tháo lắp hai ngày trước"
   },
   {
     "id": "past-simple-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (disassemble) two days ago?",
+    "vietnameseMeaning": "đã tháo rời/tháo lắp hai ngày trước"
   },
   {
     "id": "past-simple-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "did",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She did two days ago.",
+    "vietnameseMeaning": "Cô ấy đã làm hai ngày trước"
   },
   {
     "id": "past-simple-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "didn't do",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't do two days ago.",
+    "vietnameseMeaning": "Cô ấy đã không làm hai ngày trước"
   },
   {
     "id": "past-simple-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (do) two days ago?",
+    "vietnameseMeaning": "đã làm hai ngày trước"
   },
   {
     "id": "past-simple-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "drank",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It drank two days ago.",
+    "vietnameseMeaning": "Nó đã uống hai ngày trước"
   },
   {
     "id": "past-simple-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "didn't drink",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't drink two days ago.",
+    "vietnameseMeaning": "Nó đã không uống hai ngày trước"
   },
   {
     "id": "past-simple-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (drink) two days ago?",
+    "vietnameseMeaning": "đã uống hai ngày trước"
   },
   {
     "id": "past-simple-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "ate",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They ate last night.",
+    "vietnameseMeaning": "Họ đã ăn tối qua"
   },
   {
     "id": "past-simple-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "didn't eat",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't eat last night.",
+    "vietnameseMeaning": "Họ đã không ăn tối qua"
   },
   {
     "id": "past-simple-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (eat) last night?",
+    "vietnameseMeaning": "đã ăn tối qua"
   },
   {
     "id": "past-simple-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "expired",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I expired last week.",
+    "vietnameseMeaning": "Tôi đã hết hạn tuần trước"
   },
   {
     "id": "past-simple-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "didn't expire",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't expire last week.",
+    "vietnameseMeaning": "Tôi đã không hết hạn tuần trước"
   },
   {
     "id": "past-simple-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (expire) last week?",
+    "vietnameseMeaning": "đã hết hạn tuần trước"
   },
   {
     "id": "past-simple-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "finished",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He finished last night.",
+    "vietnameseMeaning": "Anh ấy đã hoàn thành tối qua"
   },
   {
     "id": "past-simple-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "didn't finish",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't finish last night.",
+    "vietnameseMeaning": "Anh ấy đã không hoàn thành tối qua"
   },
   {
     "id": "past-simple-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (finish) last night?",
+    "vietnameseMeaning": "đã hoàn thành tối qua"
   },
   {
     "id": "past-simple-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "finalized",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We finalized last week.",
+    "vietnameseMeaning": "Chúng tôi đã hoàn tất/chốt tuần trước"
   },
   {
     "id": "past-simple-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "didn't finalize",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't finalize last week.",
+    "vietnameseMeaning": "Chúng tôi đã không hoàn tất/chốt tuần trước"
   },
   {
     "id": "past-simple-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (finalize) last week?",
+    "vietnameseMeaning": "đã hoàn tất/chốt tuần trước"
   },
   {
     "id": "past-simple-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "gave",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You gave last week.",
+    "vietnameseMeaning": "Bạn đã đưa/cho tuần trước"
   },
   {
     "id": "past-simple-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "didn't give",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't give last week.",
+    "vietnameseMeaning": "Bạn đã không đưa/cho tuần trước"
   },
   {
     "id": "past-simple-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (give) last week?",
+    "vietnameseMeaning": "đã đưa/cho tuần trước"
   },
   {
     "id": "past-simple-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "went",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She went two days ago.",
+    "vietnameseMeaning": "Cô ấy đã đi hai ngày trước"
   },
   {
     "id": "past-simple-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "didn't go",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't go two days ago.",
+    "vietnameseMeaning": "Cô ấy đã không đi hai ngày trước"
   },
   {
     "id": "past-simple-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (go) two days ago?",
+    "vietnameseMeaning": "đã đi hai ngày trước"
   },
   {
     "id": "past-simple-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "had",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It had yesterday.",
+    "vietnameseMeaning": "Nó đã có; (3rd: has) hôm qua"
   },
   {
     "id": "past-simple-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "didn't have",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't have yesterday.",
+    "vietnameseMeaning": "Nó đã không có; (3rd: has) hôm qua"
   },
   {
     "id": "past-simple-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (have) yesterday?",
+    "vietnameseMeaning": "đã có; (3rd: has) hôm qua"
   },
   {
     "id": "past-simple-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "helped",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They helped yesterday.",
+    "vietnameseMeaning": "Họ đã giúp hôm qua"
   },
   {
     "id": "past-simple-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "didn't help",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't help yesterday.",
+    "vietnameseMeaning": "Họ đã không giúp hôm qua"
   },
   {
     "id": "past-simple-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (help) yesterday?",
+    "vietnameseMeaning": "đã giúp hôm qua"
   },
   {
     "id": "past-simple-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "joined",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I joined last night.",
+    "vietnameseMeaning": "Tôi đã tham gia tối qua"
   },
   {
     "id": "past-simple-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "didn't join",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't join last night.",
+    "vietnameseMeaning": "Tôi đã không tham gia tối qua"
   },
   {
     "id": "past-simple-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (join) last night?",
+    "vietnameseMeaning": "đã tham gia tối qua"
   },
   {
     "id": "past-simple-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "left",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He left in 2010.",
+    "vietnameseMeaning": "Anh ấy đã rời đi năm 2010"
   },
   {
     "id": "past-simple-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "didn't leave",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't leave in 2010.",
+    "vietnameseMeaning": "Anh ấy đã không rời đi năm 2010"
   },
   {
     "id": "past-simple-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (leave) in 2010?",
+    "vietnameseMeaning": "đã rời đi năm 2010"
   },
   {
     "id": "past-simple-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "liked",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We liked last week.",
+    "vietnameseMeaning": "Chúng tôi đã thích tuần trước"
   },
   {
     "id": "past-simple-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "didn't like",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't like last week.",
+    "vietnameseMeaning": "Chúng tôi đã không thích tuần trước"
   },
   {
     "id": "past-simple-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (like) last week?",
+    "vietnameseMeaning": "đã thích tuần trước"
   },
   {
     "id": "past-simple-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "lived",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You lived two days ago.",
+    "vietnameseMeaning": "Bạn đã sống hai ngày trước"
   },
   {
     "id": "past-simple-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "didn't live",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't live two days ago.",
+    "vietnameseMeaning": "Bạn đã không sống hai ngày trước"
   },
   {
     "id": "past-simple-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (live) two days ago?",
+    "vietnameseMeaning": "đã sống hai ngày trước"
   },
   {
     "id": "past-simple-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "managed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She managed in 2010.",
+    "vietnameseMeaning": "Cô ấy đã quản lý năm 2010"
   },
   {
     "id": "past-simple-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "didn't manage",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't manage in 2010.",
+    "vietnameseMeaning": "Cô ấy đã không quản lý năm 2010"
   },
   {
     "id": "past-simple-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (manage) in 2010?",
+    "vietnameseMeaning": "đã quản lý năm 2010"
   },
   {
     "id": "past-simple-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "mattered",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It mattered last night.",
+    "vietnameseMeaning": "Nó đã quan trọng tối qua"
   },
   {
     "id": "past-simple-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "didn't matter",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't matter last night.",
+    "vietnameseMeaning": "Nó đã không quan trọng tối qua"
   },
   {
     "id": "past-simple-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (matter) last night?",
+    "vietnameseMeaning": "đã quan trọng tối qua"
   },
   {
     "id": "past-simple-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "met",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They met in 2010.",
+    "vietnameseMeaning": "Họ đã họp/gặp năm 2010"
   },
   {
     "id": "past-simple-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "didn't meet",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't meet in 2010.",
+    "vietnameseMeaning": "Họ đã không họp/gặp năm 2010"
   },
   {
     "id": "past-simple-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (meet) in 2010?",
+    "vietnameseMeaning": "đã họp/gặp năm 2010"
   },
   {
     "id": "past-simple-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "needed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I needed two days ago.",
+    "vietnameseMeaning": "Tôi đã cần hai ngày trước"
   },
   {
     "id": "past-simple-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "didn't need",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't need two days ago.",
+    "vietnameseMeaning": "Tôi đã không cần hai ngày trước"
   },
   {
     "id": "past-simple-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (need) two days ago?",
+    "vietnameseMeaning": "đã cần hai ngày trước"
   },
   {
     "id": "past-simple-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "offered",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He offered in 2010.",
+    "vietnameseMeaning": "Anh ấy đã cung cấp/đề nghị năm 2010"
   },
   {
     "id": "past-simple-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "didn't offer",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't offer in 2010.",
+    "vietnameseMeaning": "Anh ấy đã không cung cấp/đề nghị năm 2010"
   },
   {
     "id": "past-simple-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (offer) in 2010?",
+    "vietnameseMeaning": "đã cung cấp/đề nghị năm 2010"
   },
   {
     "id": "past-simple-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "opened",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We opened yesterday.",
+    "vietnameseMeaning": "Chúng tôi đã mở hôm qua"
   },
   {
     "id": "past-simple-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "didn't open",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't open yesterday.",
+    "vietnameseMeaning": "Chúng tôi đã không mở hôm qua"
   },
   {
     "id": "past-simple-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (open) yesterday?",
+    "vietnameseMeaning": "đã mở hôm qua"
   },
   {
     "id": "past-simple-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "ordered",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You ordered two days ago.",
+    "vietnameseMeaning": "Bạn đã đặt (mua) hai ngày trước"
   },
   {
     "id": "past-simple-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "didn't order",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't order two days ago.",
+    "vietnameseMeaning": "Bạn đã không đặt (mua) hai ngày trước"
   },
   {
     "id": "past-simple-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (order) two days ago?",
+    "vietnameseMeaning": "đã đặt (mua) hai ngày trước"
   },
   {
     "id": "past-simple-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "shipped",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She shipped in 2010.",
+    "vietnameseMeaning": "Cô ấy đã giao hàng/vận chuyển năm 2010"
   },
   {
     "id": "past-simple-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "didn't ship",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't ship in 2010.",
+    "vietnameseMeaning": "Cô ấy đã không giao hàng/vận chuyển năm 2010"
   },
   {
     "id": "past-simple-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (ship) in 2010?",
+    "vietnameseMeaning": "đã giao hàng/vận chuyển năm 2010"
   },
   {
     "id": "past-simple-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "organized",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It organized last week.",
+    "vietnameseMeaning": "Nó đã tổ chức/sắp xếp tuần trước"
   },
   {
     "id": "past-simple-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "didn't organize",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't organize last week.",
+    "vietnameseMeaning": "Nó đã không tổ chức/sắp xếp tuần trước"
   },
   {
     "id": "past-simple-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (organize) last week?",
+    "vietnameseMeaning": "đã tổ chức/sắp xếp tuần trước"
   },
   {
     "id": "past-simple-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "owned",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They owned in 2010.",
+    "vietnameseMeaning": "Họ đã sở hữu năm 2010"
   },
   {
     "id": "past-simple-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "didn't own",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't own in 2010.",
+    "vietnameseMeaning": "Họ đã không sở hữu năm 2010"
   },
   {
     "id": "past-simple-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (own) in 2010?",
+    "vietnameseMeaning": "đã sở hữu năm 2010"
   },
   {
     "id": "past-simple-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "played",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I played yesterday.",
+    "vietnameseMeaning": "Tôi đã chơi hôm qua"
   },
   {
     "id": "past-simple-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "didn't play",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't play yesterday.",
+    "vietnameseMeaning": "Tôi đã không chơi hôm qua"
   },
   {
     "id": "past-simple-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (play) yesterday?",
+    "vietnameseMeaning": "đã chơi hôm qua"
   },
   {
     "id": "past-simple-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "preferred",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He preferred last night.",
+    "vietnameseMeaning": "Anh ấy đã thích hơn tối qua"
   },
   {
     "id": "past-simple-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "didn't prefer",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't prefer last night.",
+    "vietnameseMeaning": "Anh ấy đã không thích hơn tối qua"
   },
   {
     "id": "past-simple-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (prefer) last night?",
+    "vietnameseMeaning": "đã thích hơn tối qua"
   },
   {
     "id": "past-simple-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "rained",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We rained last night.",
+    "vietnameseMeaning": "Chúng tôi đã mưa tối qua"
   },
   {
     "id": "past-simple-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "didn't rain",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't rain last night.",
+    "vietnameseMeaning": "Chúng tôi đã không mưa tối qua"
   },
   {
     "id": "past-simple-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (rain) last night?",
+    "vietnameseMeaning": "đã mưa tối qua"
   },
   {
     "id": "past-simple-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "read",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You read yesterday.",
+    "vietnameseMeaning": "Bạn đã đọc hôm qua"
   },
   {
     "id": "past-simple-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "didn't read",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't read yesterday.",
+    "vietnameseMeaning": "Bạn đã không đọc hôm qua"
   },
   {
     "id": "past-simple-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (read) yesterday?",
+    "vietnameseMeaning": "đã đọc hôm qua"
   },
   {
     "id": "past-simple-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "remembered",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She remembered in 2010.",
+    "vietnameseMeaning": "Cô ấy đã nhớ năm 2010"
   },
   {
     "id": "past-simple-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "didn't remember",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't remember in 2010.",
+    "vietnameseMeaning": "Cô ấy đã không nhớ năm 2010"
   },
   {
     "id": "past-simple-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (remember) in 2010?",
+    "vietnameseMeaning": "đã nhớ năm 2010"
   },
   {
     "id": "past-simple-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "rose",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It rose last night.",
+    "vietnameseMeaning": "Nó đã mọc/tăng tối qua"
   },
   {
     "id": "past-simple-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "didn't rise",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't rise last night.",
+    "vietnameseMeaning": "Nó đã không mọc/tăng tối qua"
   },
   {
     "id": "past-simple-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (rise) last night?",
+    "vietnameseMeaning": "đã mọc/tăng tối qua"
   },
   {
     "id": "past-simple-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "ran",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They ran two days ago.",
+    "vietnameseMeaning": "Họ đã vận hành/chạy hai ngày trước"
   },
   {
     "id": "past-simple-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "didn't run",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't run two days ago.",
+    "vietnameseMeaning": "Họ đã không vận hành/chạy hai ngày trước"
   },
   {
     "id": "past-simple-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (run) two days ago?",
+    "vietnameseMeaning": "đã vận hành/chạy hai ngày trước"
   },
   {
     "id": "past-simple-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "served",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I served last night.",
+    "vietnameseMeaning": "Tôi đã phục vụ tối qua"
   },
   {
     "id": "past-simple-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "didn't serve",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't serve last night.",
+    "vietnameseMeaning": "Tôi đã không phục vụ tối qua"
   },
   {
     "id": "past-simple-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (serve) last night?",
+    "vietnameseMeaning": "đã phục vụ tối qua"
   },
   {
     "id": "past-simple-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "spoke",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He spoke two days ago.",
+    "vietnameseMeaning": "Anh ấy đã nói hai ngày trước"
   },
   {
     "id": "past-simple-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "didn't speak",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't speak two days ago.",
+    "vietnameseMeaning": "Anh ấy đã không nói hai ngày trước"
   },
   {
     "id": "past-simple-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (speak) two days ago?",
+    "vietnameseMeaning": "đã nói hai ngày trước"
   },
   {
     "id": "past-simple-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "spoiled",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We spoiled last week.",
+    "vietnameseMeaning": "Chúng tôi đã hỏng (đồ ăn) tuần trước"
   },
   {
     "id": "past-simple-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "didn't spoil",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't spoil last week.",
+    "vietnameseMeaning": "Chúng tôi đã không hỏng (đồ ăn) tuần trước"
   },
   {
     "id": "past-simple-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (spoil) last week?",
+    "vietnameseMeaning": "đã hỏng (đồ ăn) tuần trước"
   },
   {
     "id": "past-simple-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "started",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You started last night.",
+    "vietnameseMeaning": "Bạn đã bắt đầu tối qua"
   },
   {
     "id": "past-simple-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "didn't start",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't start last night.",
+    "vietnameseMeaning": "Bạn đã không bắt đầu tối qua"
   },
   {
     "id": "past-simple-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (start) last night?",
+    "vietnameseMeaning": "đã bắt đầu tối qua"
   },
   {
     "id": "past-simple-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "stayed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She stayed last night.",
+    "vietnameseMeaning": "Cô ấy đã ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-simple-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "didn't stay",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't stay last night.",
+    "vietnameseMeaning": "Cô ấy đã không ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-simple-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (stay) last night?",
+    "vietnameseMeaning": "đã ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-simple-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "studied",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It studied two days ago.",
+    "vietnameseMeaning": "Nó đã học hai ngày trước"
   },
   {
     "id": "past-simple-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "didn't study",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't study two days ago.",
+    "vietnameseMeaning": "Nó đã không học hai ngày trước"
   },
   {
     "id": "past-simple-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (study) two days ago?",
+    "vietnameseMeaning": "đã học hai ngày trước"
   },
   {
     "id": "past-simple-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "took",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They took in 2010.",
+    "vietnameseMeaning": "Họ đã lấy; đi bằng; mất (thời gian) năm 2010"
   },
   {
     "id": "past-simple-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "didn't take",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't take in 2010.",
+    "vietnameseMeaning": "Họ đã không lấy; đi bằng; mất (thời gian) năm 2010"
   },
   {
     "id": "past-simple-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (take) in 2010?",
+    "vietnameseMeaning": "đã lấy; đi bằng; mất (thời gian) năm 2010"
   },
   {
     "id": "past-simple-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "taught",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I taught two days ago.",
+    "vietnameseMeaning": "Tôi đã dạy hai ngày trước"
   },
   {
     "id": "past-simple-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "didn't teach",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't teach two days ago.",
+    "vietnameseMeaning": "Tôi đã không dạy hai ngày trước"
   },
   {
     "id": "past-simple-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (teach) two days ago?",
+    "vietnameseMeaning": "đã dạy hai ngày trước"
   },
   {
     "id": "past-simple-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "traveled",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He traveled last night.",
+    "vietnameseMeaning": "Anh ấy đã đi du lịch tối qua"
   },
   {
     "id": "past-simple-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "didn't travel",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't travel last night.",
+    "vietnameseMeaning": "Anh ấy đã không đi du lịch tối qua"
   },
   {
     "id": "past-simple-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (travel) last night?",
+    "vietnameseMeaning": "đã đi du lịch tối qua"
   },
   {
     "id": "past-simple-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "understood",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We understood last night.",
+    "vietnameseMeaning": "Chúng tôi đã hiểu tối qua"
   },
   {
     "id": "past-simple-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "didn't understand",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't understand last night.",
+    "vietnameseMeaning": "Chúng tôi đã không hiểu tối qua"
   },
   {
     "id": "past-simple-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (understand) last night?",
+    "vietnameseMeaning": "đã hiểu tối qua"
   },
   {
     "id": "past-simple-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "used",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You used last night.",
+    "vietnameseMeaning": "Bạn đã dùng/sử dụng tối qua"
   },
   {
     "id": "past-simple-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "didn't use",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't use last night.",
+    "vietnameseMeaning": "Bạn đã không dùng/sử dụng tối qua"
   },
   {
     "id": "past-simple-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (use) last night?",
+    "vietnameseMeaning": "đã dùng/sử dụng tối qua"
   },
   {
     "id": "past-simple-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "visited",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She visited two days ago.",
+    "vietnameseMeaning": "Cô ấy đã thăm hai ngày trước"
   },
   {
     "id": "past-simple-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "didn't visit",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't visit two days ago.",
+    "vietnameseMeaning": "Cô ấy đã không thăm hai ngày trước"
   },
   {
     "id": "past-simple-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (visit) two days ago?",
+    "vietnameseMeaning": "đã thăm hai ngày trước"
   },
   {
     "id": "past-simple-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "watched",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It watched in 2010.",
+    "vietnameseMeaning": "Nó đã xem năm 2010"
   },
   {
     "id": "past-simple-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "didn't watch",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't watch in 2010.",
+    "vietnameseMeaning": "Nó đã không xem năm 2010"
   },
   {
     "id": "past-simple-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (watch) in 2010?",
+    "vietnameseMeaning": "đã xem năm 2010"
   },
   {
     "id": "past-simple-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "weighed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They weighed in 2010.",
+    "vietnameseMeaning": "Họ đã nặng/cân nặng năm 2010"
   },
   {
     "id": "past-simple-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "didn't weigh",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't weigh in 2010.",
+    "vietnameseMeaning": "Họ đã không nặng/cân nặng năm 2010"
   },
   {
     "id": "past-simple-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (weigh) in 2010?",
+    "vietnameseMeaning": "đã nặng/cân nặng năm 2010"
   },
   {
     "id": "past-simple-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "worked",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I worked yesterday.",
+    "vietnameseMeaning": "Tôi đã làm việc hôm qua"
   },
   {
     "id": "past-simple-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "didn't work",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I didn't work yesterday.",
+    "vietnameseMeaning": "Tôi đã không làm việc hôm qua"
   },
   {
     "id": "past-simple-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (work) yesterday?",
+    "vietnameseMeaning": "đã làm việc hôm qua"
   },
   {
     "id": "past-simple-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "was/were",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was/were last night.",
+    "vietnameseMeaning": "Anh ấy đã thì/là/ở tối qua"
   },
   {
     "id": "past-simple-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "didn't be",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He didn't be last night.",
+    "vietnameseMeaning": "Anh ấy đã không thì/là/ở tối qua"
   },
   {
     "id": "past-simple-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (be) last night?",
+    "vietnameseMeaning": "đã thì/là/ở tối qua"
   },
   {
     "id": "past-simple-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "brushed",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We brushed in 2010.",
+    "vietnameseMeaning": "Chúng tôi đã đánh (răng) năm 2010"
   },
   {
     "id": "past-simple-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "didn't brush",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We didn't brush in 2010.",
+    "vietnameseMeaning": "Chúng tôi đã không đánh (răng) năm 2010"
   },
   {
     "id": "past-simple-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (brush) in 2010?",
+    "vietnameseMeaning": "đã đánh (răng) năm 2010"
   },
   {
     "id": "past-simple-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "exercised",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You exercised last night.",
+    "vietnameseMeaning": "Bạn đã tập thể dục tối qua"
   },
   {
     "id": "past-simple-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "didn't exercise",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You didn't exercise last night.",
+    "vietnameseMeaning": "Bạn đã không tập thể dục tối qua"
   },
   {
     "id": "past-simple-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (exercise) last night?",
+    "vietnameseMeaning": "đã tập thể dục tối qua"
   },
   {
     "id": "past-simple-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "listened",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She listened last week.",
+    "vietnameseMeaning": "Cô ấy đã nghe tuần trước"
   },
   {
     "id": "past-simple-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "didn't listen",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She didn't listen last week.",
+    "vietnameseMeaning": "Cô ấy đã không nghe tuần trước"
   },
   {
     "id": "past-simple-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (listen) last week?",
+    "vietnameseMeaning": "đã nghe tuần trước"
   },
   {
     "id": "past-simple-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "slept",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It slept yesterday.",
+    "vietnameseMeaning": "Nó đã ngủ hôm qua"
   },
   {
     "id": "past-simple-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "didn't sleep",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It didn't sleep yesterday.",
+    "vietnameseMeaning": "Nó đã không ngủ hôm qua"
   },
   {
     "id": "past-simple-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Did",
     "explanation": "Past Simple (nghi vấn): Did + S + V?",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (sleep) yesterday?",
+    "vietnameseMeaning": "đã ngủ hôm qua"
   },
   {
     "id": "past-simple-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "researched",
     "explanation": "Past Simple: V2 (động từ quá khứ).",
     "tenseType": "past-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They researched last night.",
+    "vietnameseMeaning": "Họ đã nghiên cứu tối qua"
   },
   {
     "id": "past-simple-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "didn't research",
     "explanation": "Past Simple (phủ định): didn't + V (bare).",
     "tenseType": "past-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They didn't research last night.",
+    "vietnameseMeaning": "Họ đã không nghiên cứu tối qua"
   }
 ]

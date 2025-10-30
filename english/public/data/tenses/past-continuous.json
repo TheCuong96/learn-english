@@ -11,7 +11,9 @@
     "correctAnswer": "was approving",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was approving while he was away.",
+    "vietnameseMeaning": "Tôi đang phê duyệt trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "wasn't approving",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't approving while he was away.",
+    "vietnameseMeaning": "Tôi đã không phê duyệt trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (approve) while he was away?",
+    "vietnameseMeaning": "đang phê duyệt trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "were attending",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were attending when you called.",
+    "vietnameseMeaning": "Bạn đang tham dự khi bạn gọi"
   },
   {
     "id": "past-continuous-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "weren't attending",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't attending when you called.",
+    "vietnameseMeaning": "Bạn đã không tham dự khi bạn gọi"
   },
   {
     "id": "past-continuous-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (attend) when you called?",
+    "vietnameseMeaning": "đang tham dự khi bạn gọi"
   },
   {
     "id": "past-continuous-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "was boiling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was boiling while he was away.",
+    "vietnameseMeaning": "Anh ấy đang sôi/đun sôi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "wasn't boiling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't boiling while he was away.",
+    "vietnameseMeaning": "Anh ấy đã không sôi/đun sôi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (boil) while he was away?",
+    "vietnameseMeaning": "đang sôi/đun sôi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "was buyying",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was buyying at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đang mua tối qua"
   },
   {
     "id": "past-continuous-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "wasn't buyying",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't buyying at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đã không mua tối qua"
   },
   {
     "id": "past-continuous-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (buy) at 8 pm last night?",
+    "vietnameseMeaning": "đang mua tối qua"
   },
   {
     "id": "past-continuous-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "were calling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were calling when you called.",
+    "vietnameseMeaning": "Họ đang gọi khi bạn gọi"
   },
   {
     "id": "past-continuous-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "weren't calling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't calling when you called.",
+    "vietnameseMeaning": "Họ đã không gọi khi bạn gọi"
   },
   {
     "id": "past-continuous-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (call) when you called?",
+    "vietnameseMeaning": "đang gọi khi bạn gọi"
   },
   {
     "id": "past-continuous-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "was checking",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was checking when you called.",
+    "vietnameseMeaning": "Nó đang kiểm tra khi bạn gọi"
   },
   {
     "id": "past-continuous-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "wasn't checking",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't checking when you called.",
+    "vietnameseMeaning": "Nó đã không kiểm tra khi bạn gọi"
   },
   {
     "id": "past-continuous-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (check) when you called?",
+    "vietnameseMeaning": "đang kiểm tra khi bạn gọi"
   },
   {
     "id": "past-continuous-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "were closing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were closing when you called.",
+    "vietnameseMeaning": "Chúng tôi đang đóng khi bạn gọi"
   },
   {
     "id": "past-continuous-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "weren't closing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't closing when you called.",
+    "vietnameseMeaning": "Chúng tôi đã không đóng khi bạn gọi"
   },
   {
     "id": "past-continuous-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (close) when you called?",
+    "vietnameseMeaning": "đang đóng khi bạn gọi"
   },
   {
     "id": "past-continuous-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "was coordinating",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was coordinating while he was away.",
+    "vietnameseMeaning": "Tôi đang điều phối trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "wasn't coordinating",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't coordinating while he was away.",
+    "vietnameseMeaning": "Tôi đã không điều phối trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (coordinate) while he was away?",
+    "vietnameseMeaning": "đang điều phối trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "were cooking",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were cooking when you called.",
+    "vietnameseMeaning": "Bạn đang nấu ăn khi bạn gọi"
   },
   {
     "id": "past-continuous-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "weren't cooking",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't cooking when you called.",
+    "vietnameseMeaning": "Bạn đã không nấu ăn khi bạn gọi"
   },
   {
     "id": "past-continuous-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (cook) when you called?",
+    "vietnameseMeaning": "đang nấu ăn khi bạn gọi"
   },
   {
     "id": "past-continuous-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "was costing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was costing when you called.",
+    "vietnameseMeaning": "Anh ấy đang có giá khi bạn gọi"
   },
   {
     "id": "past-continuous-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "wasn't costing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't costing when you called.",
+    "vietnameseMeaning": "Anh ấy đã không có giá khi bạn gọi"
   },
   {
     "id": "past-continuous-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (cost) when you called?",
+    "vietnameseMeaning": "đang có giá khi bạn gọi"
   },
   {
     "id": "past-continuous-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "was departing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was departing when you called.",
+    "vietnameseMeaning": "Cô ấy đang khởi hành khi bạn gọi"
   },
   {
     "id": "past-continuous-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "wasn't departing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't departing when you called.",
+    "vietnameseMeaning": "Cô ấy đã không khởi hành khi bạn gọi"
   },
   {
     "id": "past-continuous-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (depart) when you called?",
+    "vietnameseMeaning": "đang khởi hành khi bạn gọi"
   },
   {
     "id": "past-continuous-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "were deliverring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were deliverring at 8 pm last night.",
+    "vietnameseMeaning": "Họ đang giao (hàng) tối qua"
   },
   {
     "id": "past-continuous-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "weren't deliverring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't deliverring at 8 pm last night.",
+    "vietnameseMeaning": "Họ đã không giao (hàng) tối qua"
   },
   {
     "id": "past-continuous-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (deliver) at 8 pm last night?",
+    "vietnameseMeaning": "đang giao (hàng) tối qua"
   },
   {
     "id": "past-continuous-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "was disassembling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was disassembling when you called.",
+    "vietnameseMeaning": "Nó đang tháo rời/tháo lắp khi bạn gọi"
   },
   {
     "id": "past-continuous-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "wasn't disassembling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't disassembling when you called.",
+    "vietnameseMeaning": "Nó đã không tháo rời/tháo lắp khi bạn gọi"
   },
   {
     "id": "past-continuous-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (disassemble) when you called?",
+    "vietnameseMeaning": "đang tháo rời/tháo lắp khi bạn gọi"
   },
   {
     "id": "past-continuous-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "were doing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were doing when you called.",
+    "vietnameseMeaning": "Chúng tôi đang làm khi bạn gọi"
   },
   {
     "id": "past-continuous-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "weren't doing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't doing when you called.",
+    "vietnameseMeaning": "Chúng tôi đã không làm khi bạn gọi"
   },
   {
     "id": "past-continuous-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (do) when you called?",
+    "vietnameseMeaning": "đang làm khi bạn gọi"
   },
   {
     "id": "past-continuous-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "was drinking",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was drinking when you called.",
+    "vietnameseMeaning": "Tôi đang uống khi bạn gọi"
   },
   {
     "id": "past-continuous-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "wasn't drinking",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't drinking when you called.",
+    "vietnameseMeaning": "Tôi đã không uống khi bạn gọi"
   },
   {
     "id": "past-continuous-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (drink) when you called?",
+    "vietnameseMeaning": "đang uống khi bạn gọi"
   },
   {
     "id": "past-continuous-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "were eating",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were eating while he was away.",
+    "vietnameseMeaning": "Bạn đang ăn trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "weren't eating",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't eating while he was away.",
+    "vietnameseMeaning": "Bạn đã không ăn trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (eat) while he was away?",
+    "vietnameseMeaning": "đang ăn trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "was expiring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was expiring at 8 pm last night.",
+    "vietnameseMeaning": "Anh ấy đang hết hạn tối qua"
   },
   {
     "id": "past-continuous-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "wasn't expiring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't expiring at 8 pm last night.",
+    "vietnameseMeaning": "Anh ấy đã không hết hạn tối qua"
   },
   {
     "id": "past-continuous-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (expire) at 8 pm last night?",
+    "vietnameseMeaning": "đang hết hạn tối qua"
   },
   {
     "id": "past-continuous-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "was finishing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was finishing when you called.",
+    "vietnameseMeaning": "Cô ấy đang hoàn thành khi bạn gọi"
   },
   {
     "id": "past-continuous-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "wasn't finishing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't finishing when you called.",
+    "vietnameseMeaning": "Cô ấy đã không hoàn thành khi bạn gọi"
   },
   {
     "id": "past-continuous-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (finish) when you called?",
+    "vietnameseMeaning": "đang hoàn thành khi bạn gọi"
   },
   {
     "id": "past-continuous-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "were finalizing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were finalizing when you called.",
+    "vietnameseMeaning": "Họ đang hoàn tất/chốt khi bạn gọi"
   },
   {
     "id": "past-continuous-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "weren't finalizing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't finalizing when you called.",
+    "vietnameseMeaning": "Họ đã không hoàn tất/chốt khi bạn gọi"
   },
   {
     "id": "past-continuous-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (finalize) when you called?",
+    "vietnameseMeaning": "đang hoàn tất/chốt khi bạn gọi"
   },
   {
     "id": "past-continuous-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "was giving",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was giving while he was away.",
+    "vietnameseMeaning": "Nó đang đưa/cho trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "wasn't giving",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't giving while he was away.",
+    "vietnameseMeaning": "Nó đã không đưa/cho trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (give) while he was away?",
+    "vietnameseMeaning": "đang đưa/cho trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "were going",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were going at 8 pm last night.",
+    "vietnameseMeaning": "Chúng tôi đang đi tối qua"
   },
   {
     "id": "past-continuous-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "weren't going",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't going at 8 pm last night.",
+    "vietnameseMeaning": "Chúng tôi đã không đi tối qua"
   },
   {
     "id": "past-continuous-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (go) at 8 pm last night?",
+    "vietnameseMeaning": "đang đi tối qua"
   },
   {
     "id": "past-continuous-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "was helping",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was helping when you called.",
+    "vietnameseMeaning": "Tôi đang giúp khi bạn gọi"
   },
   {
     "id": "past-continuous-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "wasn't helping",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't helping when you called.",
+    "vietnameseMeaning": "Tôi đã không giúp khi bạn gọi"
   },
   {
     "id": "past-continuous-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (help) when you called?",
+    "vietnameseMeaning": "đang giúp khi bạn gọi"
   },
   {
     "id": "past-continuous-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "were joining",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were joining when you called.",
+    "vietnameseMeaning": "Bạn đang tham gia khi bạn gọi"
   },
   {
     "id": "past-continuous-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "weren't joining",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't joining when you called.",
+    "vietnameseMeaning": "Bạn đã không tham gia khi bạn gọi"
   },
   {
     "id": "past-continuous-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (join) when you called?",
+    "vietnameseMeaning": "đang tham gia khi bạn gọi"
   },
   {
     "id": "past-continuous-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "was leaving",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was leaving at 8 pm last night.",
+    "vietnameseMeaning": "Anh ấy đang rời đi tối qua"
   },
   {
     "id": "past-continuous-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "wasn't leaving",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't leaving at 8 pm last night.",
+    "vietnameseMeaning": "Anh ấy đã không rời đi tối qua"
   },
   {
     "id": "past-continuous-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (leave) at 8 pm last night?",
+    "vietnameseMeaning": "đang rời đi tối qua"
   },
   {
     "id": "past-continuous-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "was living",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was living when you called.",
+    "vietnameseMeaning": "Cô ấy đang sống khi bạn gọi"
   },
   {
     "id": "past-continuous-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "wasn't living",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't living when you called.",
+    "vietnameseMeaning": "Cô ấy đã không sống khi bạn gọi"
   },
   {
     "id": "past-continuous-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (live) when you called?",
+    "vietnameseMeaning": "đang sống khi bạn gọi"
   },
   {
     "id": "past-continuous-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "were managing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were managing at 8 pm last night.",
+    "vietnameseMeaning": "Họ đang quản lý tối qua"
   },
   {
     "id": "past-continuous-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "weren't managing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't managing at 8 pm last night.",
+    "vietnameseMeaning": "Họ đã không quản lý tối qua"
   },
   {
     "id": "past-continuous-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (manage) at 8 pm last night?",
+    "vietnameseMeaning": "đang quản lý tối qua"
   },
   {
     "id": "past-continuous-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "was matterring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was matterring at 8 pm last night.",
+    "vietnameseMeaning": "Nó đang quan trọng tối qua"
   },
   {
     "id": "past-continuous-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "wasn't matterring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't matterring at 8 pm last night.",
+    "vietnameseMeaning": "Nó đã không quan trọng tối qua"
   },
   {
     "id": "past-continuous-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (matter) at 8 pm last night?",
+    "vietnameseMeaning": "đang quan trọng tối qua"
   },
   {
     "id": "past-continuous-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "were meeting",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were meeting while he was away.",
+    "vietnameseMeaning": "Chúng tôi đang họp/gặp trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "weren't meeting",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't meeting while he was away.",
+    "vietnameseMeaning": "Chúng tôi đã không họp/gặp trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (meet) while he was away?",
+    "vietnameseMeaning": "đang họp/gặp trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "was offerring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was offerring when you called.",
+    "vietnameseMeaning": "Tôi đang cung cấp/đề nghị khi bạn gọi"
   },
   {
     "id": "past-continuous-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "wasn't offerring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't offerring when you called.",
+    "vietnameseMeaning": "Tôi đã không cung cấp/đề nghị khi bạn gọi"
   },
   {
     "id": "past-continuous-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (offer) when you called?",
+    "vietnameseMeaning": "đang cung cấp/đề nghị khi bạn gọi"
   },
   {
     "id": "past-continuous-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "were openning",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were openning when you called.",
+    "vietnameseMeaning": "Bạn đang mở khi bạn gọi"
   },
   {
     "id": "past-continuous-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "weren't openning",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't openning when you called.",
+    "vietnameseMeaning": "Bạn đã không mở khi bạn gọi"
   },
   {
     "id": "past-continuous-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (open) when you called?",
+    "vietnameseMeaning": "đang mở khi bạn gọi"
   },
   {
     "id": "past-continuous-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "was orderring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was orderring when you called.",
+    "vietnameseMeaning": "Anh ấy đang đặt (mua) khi bạn gọi"
   },
   {
     "id": "past-continuous-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "wasn't orderring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't orderring when you called.",
+    "vietnameseMeaning": "Anh ấy đã không đặt (mua) khi bạn gọi"
   },
   {
     "id": "past-continuous-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (order) when you called?",
+    "vietnameseMeaning": "đang đặt (mua) khi bạn gọi"
   },
   {
     "id": "past-continuous-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "was shipping",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was shipping while he was away.",
+    "vietnameseMeaning": "Cô ấy đang giao hàng/vận chuyển trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "wasn't shipping",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't shipping while he was away.",
+    "vietnameseMeaning": "Cô ấy đã không giao hàng/vận chuyển trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (ship) while he was away?",
+    "vietnameseMeaning": "đang giao hàng/vận chuyển trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "were organizing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were organizing at 8 pm last night.",
+    "vietnameseMeaning": "Họ đang tổ chức/sắp xếp tối qua"
   },
   {
     "id": "past-continuous-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "weren't organizing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't organizing at 8 pm last night.",
+    "vietnameseMeaning": "Họ đã không tổ chức/sắp xếp tối qua"
   },
   {
     "id": "past-continuous-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (organize) at 8 pm last night?",
+    "vietnameseMeaning": "đang tổ chức/sắp xếp tối qua"
   },
   {
     "id": "past-continuous-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "was playying",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was playying while he was away.",
+    "vietnameseMeaning": "Nó đang chơi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "wasn't playying",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't playying while he was away.",
+    "vietnameseMeaning": "Nó đã không chơi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (play) while he was away?",
+    "vietnameseMeaning": "đang chơi trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "were raining",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were raining when you called.",
+    "vietnameseMeaning": "Chúng tôi đang mưa khi bạn gọi"
   },
   {
     "id": "past-continuous-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "weren't raining",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't raining when you called.",
+    "vietnameseMeaning": "Chúng tôi đã không mưa khi bạn gọi"
   },
   {
     "id": "past-continuous-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (rain) when you called?",
+    "vietnameseMeaning": "đang mưa khi bạn gọi"
   },
   {
     "id": "past-continuous-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "was reading",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was reading while he was away.",
+    "vietnameseMeaning": "Tôi đang đọc trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "wasn't reading",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't reading while he was away.",
+    "vietnameseMeaning": "Tôi đã không đọc trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (read) while he was away?",
+    "vietnameseMeaning": "đang đọc trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "were rememberring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were rememberring at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đang nhớ tối qua"
   },
   {
     "id": "past-continuous-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "weren't rememberring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't rememberring at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đã không nhớ tối qua"
   },
   {
     "id": "past-continuous-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (remember) at 8 pm last night?",
+    "vietnameseMeaning": "đang nhớ tối qua"
   },
   {
     "id": "past-continuous-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "was rising",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was rising when you called.",
+    "vietnameseMeaning": "Anh ấy đang mọc/tăng khi bạn gọi"
   },
   {
     "id": "past-continuous-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "wasn't rising",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't rising when you called.",
+    "vietnameseMeaning": "Anh ấy đã không mọc/tăng khi bạn gọi"
   },
   {
     "id": "past-continuous-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (rise) when you called?",
+    "vietnameseMeaning": "đang mọc/tăng khi bạn gọi"
   },
   {
     "id": "past-continuous-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "was running",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was running at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đang vận hành/chạy tối qua"
   },
   {
     "id": "past-continuous-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "wasn't running",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't running at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đã không vận hành/chạy tối qua"
   },
   {
     "id": "past-continuous-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (run) at 8 pm last night?",
+    "vietnameseMeaning": "đang vận hành/chạy tối qua"
   },
   {
     "id": "past-continuous-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "were serving",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were serving when you called.",
+    "vietnameseMeaning": "Họ đang phục vụ khi bạn gọi"
   },
   {
     "id": "past-continuous-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "weren't serving",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't serving when you called.",
+    "vietnameseMeaning": "Họ đã không phục vụ khi bạn gọi"
   },
   {
     "id": "past-continuous-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (serve) when you called?",
+    "vietnameseMeaning": "đang phục vụ khi bạn gọi"
   },
   {
     "id": "past-continuous-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "was speaking",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was speaking at 8 pm last night.",
+    "vietnameseMeaning": "Nó đang nói tối qua"
   },
   {
     "id": "past-continuous-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "wasn't speaking",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't speaking at 8 pm last night.",
+    "vietnameseMeaning": "Nó đã không nói tối qua"
   },
   {
     "id": "past-continuous-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (speak) at 8 pm last night?",
+    "vietnameseMeaning": "đang nói tối qua"
   },
   {
     "id": "past-continuous-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "were spoiling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were spoiling while he was away.",
+    "vietnameseMeaning": "Chúng tôi đang hỏng (đồ ăn) trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "weren't spoiling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't spoiling while he was away.",
+    "vietnameseMeaning": "Chúng tôi đã không hỏng (đồ ăn) trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (spoil) while he was away?",
+    "vietnameseMeaning": "đang hỏng (đồ ăn) trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "was starting",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was starting when you called.",
+    "vietnameseMeaning": "Tôi đang bắt đầu khi bạn gọi"
   },
   {
     "id": "past-continuous-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "wasn't starting",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't starting when you called.",
+    "vietnameseMeaning": "Tôi đã không bắt đầu khi bạn gọi"
   },
   {
     "id": "past-continuous-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (start) when you called?",
+    "vietnameseMeaning": "đang bắt đầu khi bạn gọi"
   },
   {
     "id": "past-continuous-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "were stayying",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were stayying at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đang ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-continuous-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "weren't stayying",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't stayying at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đã không ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-continuous-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (stay) at 8 pm last night?",
+    "vietnameseMeaning": "đang ở; (stay open: mở muộn) tối qua"
   },
   {
     "id": "past-continuous-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "was studying",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was studying when you called.",
+    "vietnameseMeaning": "Anh ấy đang học khi bạn gọi"
   },
   {
     "id": "past-continuous-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "wasn't studying",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't studying when you called.",
+    "vietnameseMeaning": "Anh ấy đã không học khi bạn gọi"
   },
   {
     "id": "past-continuous-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (study) when you called?",
+    "vietnameseMeaning": "đang học khi bạn gọi"
   },
   {
     "id": "past-continuous-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "was taking",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was taking when you called.",
+    "vietnameseMeaning": "Cô ấy đang lấy; đi bằng; mất (thời gian) khi bạn gọi"
   },
   {
     "id": "past-continuous-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "wasn't taking",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't taking when you called.",
+    "vietnameseMeaning": "Cô ấy đã không lấy; đi bằng; mất (thời gian) khi bạn gọi"
   },
   {
     "id": "past-continuous-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (take) when you called?",
+    "vietnameseMeaning": "đang lấy; đi bằng; mất (thời gian) khi bạn gọi"
   },
   {
     "id": "past-continuous-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "were teaching",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were teaching at 8 pm last night.",
+    "vietnameseMeaning": "Họ đang dạy tối qua"
   },
   {
     "id": "past-continuous-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "weren't teaching",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't teaching at 8 pm last night.",
+    "vietnameseMeaning": "Họ đã không dạy tối qua"
   },
   {
     "id": "past-continuous-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (teach) at 8 pm last night?",
+    "vietnameseMeaning": "đang dạy tối qua"
   },
   {
     "id": "past-continuous-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "was travelling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was travelling while he was away.",
+    "vietnameseMeaning": "Nó đang đi du lịch trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "wasn't travelling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't travelling while he was away.",
+    "vietnameseMeaning": "Nó đã không đi du lịch trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (travel) while he was away?",
+    "vietnameseMeaning": "đang đi du lịch trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "were using",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were using while he was away.",
+    "vietnameseMeaning": "Chúng tôi đang dùng/sử dụng trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "weren't using",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't using while he was away.",
+    "vietnameseMeaning": "Chúng tôi đã không dùng/sử dụng trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (use) while he was away?",
+    "vietnameseMeaning": "đang dùng/sử dụng trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "was visitting",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was visitting while he was away.",
+    "vietnameseMeaning": "Tôi đang thăm trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "wasn't visitting",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't visitting while he was away.",
+    "vietnameseMeaning": "Tôi đã không thăm trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (visit) while he was away?",
+    "vietnameseMeaning": "đang thăm trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "were watching",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were watching while he was away.",
+    "vietnameseMeaning": "Bạn đang xem trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "weren't watching",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't watching while he was away.",
+    "vietnameseMeaning": "Bạn đã không xem trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (watch) while he was away?",
+    "vietnameseMeaning": "đang xem trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "was weighing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was weighing when you called.",
+    "vietnameseMeaning": "Anh ấy đang nặng/cân nặng khi bạn gọi"
   },
   {
     "id": "past-continuous-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "wasn't weighing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't weighing when you called.",
+    "vietnameseMeaning": "Anh ấy đã không nặng/cân nặng khi bạn gọi"
   },
   {
     "id": "past-continuous-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (weigh) when you called?",
+    "vietnameseMeaning": "đang nặng/cân nặng khi bạn gọi"
   },
   {
     "id": "past-continuous-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "was working",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was working when you called.",
+    "vietnameseMeaning": "Cô ấy đang làm việc khi bạn gọi"
   },
   {
     "id": "past-continuous-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "wasn't working",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't working when you called.",
+    "vietnameseMeaning": "Cô ấy đã không làm việc khi bạn gọi"
   },
   {
     "id": "past-continuous-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (work) when you called?",
+    "vietnameseMeaning": "đang làm việc khi bạn gọi"
   },
   {
     "id": "past-continuous-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "were brushing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were brushing when you called.",
+    "vietnameseMeaning": "Họ đang đánh (răng) khi bạn gọi"
   },
   {
     "id": "past-continuous-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "weren't brushing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't brushing when you called.",
+    "vietnameseMeaning": "Họ đã không đánh (răng) khi bạn gọi"
   },
   {
     "id": "past-continuous-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (brush) when you called?",
+    "vietnameseMeaning": "đang đánh (răng) khi bạn gọi"
   },
   {
     "id": "past-continuous-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "was exercising",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was exercising while he was away.",
+    "vietnameseMeaning": "Nó đang tập thể dục trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "wasn't exercising",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't exercising while he was away.",
+    "vietnameseMeaning": "Nó đã không tập thể dục trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (exercise) while he was away?",
+    "vietnameseMeaning": "đang tập thể dục trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "were listenning",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were listenning when you called.",
+    "vietnameseMeaning": "Chúng tôi đang nghe khi bạn gọi"
   },
   {
     "id": "past-continuous-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "weren't listenning",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't listenning when you called.",
+    "vietnameseMeaning": "Chúng tôi đã không nghe khi bạn gọi"
   },
   {
     "id": "past-continuous-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (listen) when you called?",
+    "vietnameseMeaning": "đang nghe khi bạn gọi"
   },
   {
     "id": "past-continuous-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "was sleeping",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was sleeping at 8 pm last night.",
+    "vietnameseMeaning": "Tôi đang ngủ tối qua"
   },
   {
     "id": "past-continuous-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "wasn't sleeping",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't sleeping at 8 pm last night.",
+    "vietnameseMeaning": "Tôi đã không ngủ tối qua"
   },
   {
     "id": "past-continuous-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (sleep) at 8 pm last night?",
+    "vietnameseMeaning": "đang ngủ tối qua"
   },
   {
     "id": "past-continuous-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "were researching",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were researching at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đang nghiên cứu tối qua"
   },
   {
     "id": "past-continuous-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "weren't researching",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't researching at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đã không nghiên cứu tối qua"
   },
   {
     "id": "past-continuous-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (research) at 8 pm last night?",
+    "vietnameseMeaning": "đang nghiên cứu tối qua"
   },
   {
     "id": "past-continuous-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "was recycling",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was recycling when you called.",
+    "vietnameseMeaning": "Anh ấy đang tái chế khi bạn gọi"
   },
   {
     "id": "past-continuous-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "wasn't recycling",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't recycling when you called.",
+    "vietnameseMeaning": "Anh ấy đã không tái chế khi bạn gọi"
   },
   {
     "id": "past-continuous-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (recycle) when you called?",
+    "vietnameseMeaning": "đang tái chế khi bạn gọi"
   },
   {
     "id": "past-continuous-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "was diagnosing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was diagnosing at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đang chẩn đoán tối qua"
   },
   {
     "id": "past-continuous-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "wasn't diagnosing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't diagnosing at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đã không chẩn đoán tối qua"
   },
   {
     "id": "past-continuous-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (diagnose) at 8 pm last night?",
+    "vietnameseMeaning": "đang chẩn đoán tối qua"
   },
   {
     "id": "past-continuous-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "were negotiating",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They were negotiating when you called.",
+    "vietnameseMeaning": "Họ đang đàm phán khi bạn gọi"
   },
   {
     "id": "past-continuous-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "weren't negotiating",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They weren't negotiating when you called.",
+    "vietnameseMeaning": "Họ đã không đàm phán khi bạn gọi"
   },
   {
     "id": "past-continuous-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (negotiate) when you called?",
+    "vietnameseMeaning": "đang đàm phán khi bạn gọi"
   },
   {
     "id": "past-continuous-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "was investing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It was investing while he was away.",
+    "vietnameseMeaning": "Nó đang đầu tư trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "wasn't investing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It wasn't investing while he was away.",
+    "vietnameseMeaning": "Nó đã không đầu tư trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (invest) while he was away?",
+    "vietnameseMeaning": "đang đầu tư trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "were composing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We were composing at 8 pm last night.",
+    "vietnameseMeaning": "Chúng tôi đang sáng tác/soạn tối qua"
   },
   {
     "id": "past-continuous-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "weren't composing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We weren't composing at 8 pm last night.",
+    "vietnameseMeaning": "Chúng tôi đã không sáng tác/soạn tối qua"
   },
   {
     "id": "past-continuous-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (compose) at 8 pm last night?",
+    "vietnameseMeaning": "đang sáng tác/soạn tối qua"
   },
   {
     "id": "past-continuous-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "was rescuing",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I was rescuing when you called.",
+    "vietnameseMeaning": "Tôi đang cứu hộ/cứu khi bạn gọi"
   },
   {
     "id": "past-continuous-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "wasn't rescuing",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I wasn't rescuing when you called.",
+    "vietnameseMeaning": "Tôi đã không cứu hộ/cứu khi bạn gọi"
   },
   {
     "id": "past-continuous-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (rescue) when you called?",
+    "vietnameseMeaning": "đang cứu hộ/cứu khi bạn gọi"
   },
   {
     "id": "past-continuous-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "were broadcasting",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You were broadcasting at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đang phát sóng tối qua"
   },
   {
     "id": "past-continuous-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "weren't broadcasting",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You weren't broadcasting at 8 pm last night.",
+    "vietnameseMeaning": "Bạn đã không phát sóng tối qua"
   },
   {
     "id": "past-continuous-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Were",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (broadcast) at 8 pm last night?",
+    "vietnameseMeaning": "đang phát sóng tối qua"
   },
   {
     "id": "past-continuous-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "was discoverring",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He was discoverring while he was away.",
+    "vietnameseMeaning": "Anh ấy đang khám phá trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "wasn't discoverring",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He wasn't discoverring while he was away.",
+    "vietnameseMeaning": "Anh ấy đã không khám phá trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Was",
     "explanation": "Past Continuous (nghi vấn): Was/Were + S + V-ing?",
     "tenseType": "past-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (discover) while he was away?",
+    "vietnameseMeaning": "đang khám phá trong khi anh ấy vắng"
   },
   {
     "id": "past-continuous-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "was conserving",
     "explanation": "Past Continuous: was/were + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She was conserving at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đang bảo tồn tối qua"
   },
   {
     "id": "past-continuous-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "wasn't conserving",
     "explanation": "Past Continuous (phủ định): was/were + not + V-ing.",
     "tenseType": "past-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She wasn't conserving at 8 pm last night.",
+    "vietnameseMeaning": "Cô ấy đã không bảo tồn tối qua"
   }
 ]

@@ -11,7 +11,9 @@
     "correctAnswer": "are approving",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are approving at the moment.",
+    "vietnameseMeaning": "Bạn đang phê duyệt vào lúc này"
   },
   {
     "id": "present-continuous-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "aren't approving",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't approving at the moment.",
+    "vietnameseMeaning": "Bạn không đang phê duyệt vào lúc này"
   },
   {
     "id": "present-continuous-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (approve) at the moment?",
+    "vietnameseMeaning": "đang phê duyệt vào lúc này"
   },
   {
     "id": "present-continuous-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "am attending",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am attending right now.",
+    "vietnameseMeaning": "Tôi đang tham dự bây giờ"
   },
   {
     "id": "present-continuous-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "am not attending",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not attending right now.",
+    "vietnameseMeaning": "Tôi không đang tham dự bây giờ"
   },
   {
     "id": "present-continuous-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (attend) right now?",
+    "vietnameseMeaning": "đang tham dự bây giờ"
   },
   {
     "id": "present-continuous-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "is boiling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is boiling at the moment.",
+    "vietnameseMeaning": "Anh ấy đang sôi/đun sôi vào lúc này"
   },
   {
     "id": "present-continuous-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "isn't boiling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't boiling at the moment.",
+    "vietnameseMeaning": "Anh ấy không đang sôi/đun sôi vào lúc này"
   },
   {
     "id": "present-continuous-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (boil) at the moment?",
+    "vietnameseMeaning": "đang sôi/đun sôi vào lúc này"
   },
   {
     "id": "present-continuous-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "is buyying",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is buyying at the moment.",
+    "vietnameseMeaning": "Nó đang mua vào lúc này"
   },
   {
     "id": "present-continuous-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "isn't buyying",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't buyying at the moment.",
+    "vietnameseMeaning": "Nó không đang mua vào lúc này"
   },
   {
     "id": "present-continuous-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (buy) at the moment?",
+    "vietnameseMeaning": "đang mua vào lúc này"
   },
   {
     "id": "present-continuous-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "is calling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is calling these days.",
+    "vietnameseMeaning": "Cô ấy đang gọi dạo này"
   },
   {
     "id": "present-continuous-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "isn't calling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't calling these days.",
+    "vietnameseMeaning": "Cô ấy không đang gọi dạo này"
   },
   {
     "id": "present-continuous-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (call) these days?",
+    "vietnameseMeaning": "đang gọi dạo này"
   },
   {
     "id": "present-continuous-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "are checking",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are checking currently.",
+    "vietnameseMeaning": "Họ đang kiểm tra hiện tại"
   },
   {
     "id": "present-continuous-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "aren't checking",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't checking currently.",
+    "vietnameseMeaning": "Họ không đang kiểm tra hiện tại"
   },
   {
     "id": "present-continuous-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (check) currently?",
+    "vietnameseMeaning": "đang kiểm tra hiện tại"
   },
   {
     "id": "present-continuous-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "are closing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are closing at the moment.",
+    "vietnameseMeaning": "Chúng tôi đang đóng vào lúc này"
   },
   {
     "id": "present-continuous-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "aren't closing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't closing at the moment.",
+    "vietnameseMeaning": "Chúng tôi không đang đóng vào lúc này"
   },
   {
     "id": "present-continuous-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (close) at the moment?",
+    "vietnameseMeaning": "đang đóng vào lúc này"
   },
   {
     "id": "present-continuous-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "are coordinating",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are coordinating at the moment.",
+    "vietnameseMeaning": "Bạn đang điều phối vào lúc này"
   },
   {
     "id": "present-continuous-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "aren't coordinating",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't coordinating at the moment.",
+    "vietnameseMeaning": "Bạn không đang điều phối vào lúc này"
   },
   {
     "id": "present-continuous-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (coordinate) at the moment?",
+    "vietnameseMeaning": "đang điều phối vào lúc này"
   },
   {
     "id": "present-continuous-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "am cooking",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am cooking currently.",
+    "vietnameseMeaning": "Tôi đang nấu ăn hiện tại"
   },
   {
     "id": "present-continuous-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "am not cooking",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not cooking currently.",
+    "vietnameseMeaning": "Tôi không đang nấu ăn hiện tại"
   },
   {
     "id": "present-continuous-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (cook) currently?",
+    "vietnameseMeaning": "đang nấu ăn hiện tại"
   },
   {
     "id": "present-continuous-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "is costing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is costing right now.",
+    "vietnameseMeaning": "Anh ấy đang có giá bây giờ"
   },
   {
     "id": "present-continuous-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "isn't costing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't costing right now.",
+    "vietnameseMeaning": "Anh ấy không đang có giá bây giờ"
   },
   {
     "id": "present-continuous-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (cost) right now?",
+    "vietnameseMeaning": "đang có giá bây giờ"
   },
   {
     "id": "present-continuous-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "is departing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is departing these days.",
+    "vietnameseMeaning": "Nó đang khởi hành dạo này"
   },
   {
     "id": "present-continuous-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "isn't departing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't departing these days.",
+    "vietnameseMeaning": "Nó không đang khởi hành dạo này"
   },
   {
     "id": "present-continuous-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (depart) these days?",
+    "vietnameseMeaning": "đang khởi hành dạo này"
   },
   {
     "id": "present-continuous-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "is deliverring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is deliverring right now.",
+    "vietnameseMeaning": "Cô ấy đang giao (hàng) bây giờ"
   },
   {
     "id": "present-continuous-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "isn't deliverring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't deliverring right now.",
+    "vietnameseMeaning": "Cô ấy không đang giao (hàng) bây giờ"
   },
   {
     "id": "present-continuous-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (deliver) right now?",
+    "vietnameseMeaning": "đang giao (hàng) bây giờ"
   },
   {
     "id": "present-continuous-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "are disassembling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are disassembling currently.",
+    "vietnameseMeaning": "Họ đang tháo rời/tháo lắp hiện tại"
   },
   {
     "id": "present-continuous-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "aren't disassembling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't disassembling currently.",
+    "vietnameseMeaning": "Họ không đang tháo rời/tháo lắp hiện tại"
   },
   {
     "id": "present-continuous-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (disassemble) currently?",
+    "vietnameseMeaning": "đang tháo rời/tháo lắp hiện tại"
   },
   {
     "id": "present-continuous-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "are doing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are doing right now.",
+    "vietnameseMeaning": "Chúng tôi đang làm bây giờ"
   },
   {
     "id": "present-continuous-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "aren't doing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't doing right now.",
+    "vietnameseMeaning": "Chúng tôi không đang làm bây giờ"
   },
   {
     "id": "present-continuous-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (do) right now?",
+    "vietnameseMeaning": "đang làm bây giờ"
   },
   {
     "id": "present-continuous-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "are drinking",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are drinking now.",
+    "vietnameseMeaning": "Bạn đang uống bây giờ"
   },
   {
     "id": "present-continuous-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "aren't drinking",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't drinking now.",
+    "vietnameseMeaning": "Bạn không đang uống bây giờ"
   },
   {
     "id": "present-continuous-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (drink) now?",
+    "vietnameseMeaning": "đang uống bây giờ"
   },
   {
     "id": "present-continuous-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "am eating",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am eating at the moment.",
+    "vietnameseMeaning": "Tôi đang ăn vào lúc này"
   },
   {
     "id": "present-continuous-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "am not eating",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not eating at the moment.",
+    "vietnameseMeaning": "Tôi không đang ăn vào lúc này"
   },
   {
     "id": "present-continuous-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (eat) at the moment?",
+    "vietnameseMeaning": "đang ăn vào lúc này"
   },
   {
     "id": "present-continuous-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "is expiring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is expiring at the moment.",
+    "vietnameseMeaning": "Anh ấy đang hết hạn vào lúc này"
   },
   {
     "id": "present-continuous-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "isn't expiring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't expiring at the moment.",
+    "vietnameseMeaning": "Anh ấy không đang hết hạn vào lúc này"
   },
   {
     "id": "present-continuous-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (expire) at the moment?",
+    "vietnameseMeaning": "đang hết hạn vào lúc này"
   },
   {
     "id": "present-continuous-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "is finishing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is finishing these days.",
+    "vietnameseMeaning": "Nó đang hoàn thành dạo này"
   },
   {
     "id": "present-continuous-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "isn't finishing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't finishing these days.",
+    "vietnameseMeaning": "Nó không đang hoàn thành dạo này"
   },
   {
     "id": "present-continuous-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (finish) these days?",
+    "vietnameseMeaning": "đang hoàn thành dạo này"
   },
   {
     "id": "present-continuous-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "is finalizing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is finalizing now.",
+    "vietnameseMeaning": "Cô ấy đang hoàn tất/chốt bây giờ"
   },
   {
     "id": "present-continuous-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "isn't finalizing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't finalizing now.",
+    "vietnameseMeaning": "Cô ấy không đang hoàn tất/chốt bây giờ"
   },
   {
     "id": "present-continuous-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (finalize) now?",
+    "vietnameseMeaning": "đang hoàn tất/chốt bây giờ"
   },
   {
     "id": "present-continuous-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "are giving",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are giving now.",
+    "vietnameseMeaning": "Họ đang đưa/cho bây giờ"
   },
   {
     "id": "present-continuous-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "aren't giving",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't giving now.",
+    "vietnameseMeaning": "Họ không đang đưa/cho bây giờ"
   },
   {
     "id": "present-continuous-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (give) now?",
+    "vietnameseMeaning": "đang đưa/cho bây giờ"
   },
   {
     "id": "present-continuous-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "are going",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are going now.",
+    "vietnameseMeaning": "Chúng tôi đang đi bây giờ"
   },
   {
     "id": "present-continuous-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "aren't going",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't going now.",
+    "vietnameseMeaning": "Chúng tôi không đang đi bây giờ"
   },
   {
     "id": "present-continuous-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (go) now?",
+    "vietnameseMeaning": "đang đi bây giờ"
   },
   {
     "id": "present-continuous-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "are helping",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are helping currently.",
+    "vietnameseMeaning": "Bạn đang giúp hiện tại"
   },
   {
     "id": "present-continuous-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "aren't helping",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't helping currently.",
+    "vietnameseMeaning": "Bạn không đang giúp hiện tại"
   },
   {
     "id": "present-continuous-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (help) currently?",
+    "vietnameseMeaning": "đang giúp hiện tại"
   },
   {
     "id": "present-continuous-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "am joining",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am joining now.",
+    "vietnameseMeaning": "Tôi đang tham gia bây giờ"
   },
   {
     "id": "present-continuous-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "am not joining",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not joining now.",
+    "vietnameseMeaning": "Tôi không đang tham gia bây giờ"
   },
   {
     "id": "present-continuous-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (join) now?",
+    "vietnameseMeaning": "đang tham gia bây giờ"
   },
   {
     "id": "present-continuous-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "is leaving",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is leaving at the moment.",
+    "vietnameseMeaning": "Anh ấy đang rời đi vào lúc này"
   },
   {
     "id": "present-continuous-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "isn't leaving",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't leaving at the moment.",
+    "vietnameseMeaning": "Anh ấy không đang rời đi vào lúc này"
   },
   {
     "id": "present-continuous-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (leave) at the moment?",
+    "vietnameseMeaning": "đang rời đi vào lúc này"
   },
   {
     "id": "present-continuous-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "is living",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is living right now.",
+    "vietnameseMeaning": "Nó đang sống bây giờ"
   },
   {
     "id": "present-continuous-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "isn't living",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't living right now.",
+    "vietnameseMeaning": "Nó không đang sống bây giờ"
   },
   {
     "id": "present-continuous-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (live) right now?",
+    "vietnameseMeaning": "đang sống bây giờ"
   },
   {
     "id": "present-continuous-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "is managing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is managing currently.",
+    "vietnameseMeaning": "Cô ấy đang quản lý hiện tại"
   },
   {
     "id": "present-continuous-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "isn't managing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't managing currently.",
+    "vietnameseMeaning": "Cô ấy không đang quản lý hiện tại"
   },
   {
     "id": "present-continuous-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (manage) currently?",
+    "vietnameseMeaning": "đang quản lý hiện tại"
   },
   {
     "id": "present-continuous-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "are matterring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are matterring at the moment.",
+    "vietnameseMeaning": "Họ đang quan trọng vào lúc này"
   },
   {
     "id": "present-continuous-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "aren't matterring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't matterring at the moment.",
+    "vietnameseMeaning": "Họ không đang quan trọng vào lúc này"
   },
   {
     "id": "present-continuous-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (matter) at the moment?",
+    "vietnameseMeaning": "đang quan trọng vào lúc này"
   },
   {
     "id": "present-continuous-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "are meeting",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are meeting at the moment.",
+    "vietnameseMeaning": "Chúng tôi đang họp/gặp vào lúc này"
   },
   {
     "id": "present-continuous-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "aren't meeting",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't meeting at the moment.",
+    "vietnameseMeaning": "Chúng tôi không đang họp/gặp vào lúc này"
   },
   {
     "id": "present-continuous-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (meet) at the moment?",
+    "vietnameseMeaning": "đang họp/gặp vào lúc này"
   },
   {
     "id": "present-continuous-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "are offerring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are offerring at the moment.",
+    "vietnameseMeaning": "Bạn đang cung cấp/đề nghị vào lúc này"
   },
   {
     "id": "present-continuous-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "aren't offerring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't offerring at the moment.",
+    "vietnameseMeaning": "Bạn không đang cung cấp/đề nghị vào lúc này"
   },
   {
     "id": "present-continuous-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (offer) at the moment?",
+    "vietnameseMeaning": "đang cung cấp/đề nghị vào lúc này"
   },
   {
     "id": "present-continuous-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "am openning",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am openning at the moment.",
+    "vietnameseMeaning": "Tôi đang mở vào lúc này"
   },
   {
     "id": "present-continuous-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "am not openning",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not openning at the moment.",
+    "vietnameseMeaning": "Tôi không đang mở vào lúc này"
   },
   {
     "id": "present-continuous-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (open) at the moment?",
+    "vietnameseMeaning": "đang mở vào lúc này"
   },
   {
     "id": "present-continuous-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "is orderring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is orderring these days.",
+    "vietnameseMeaning": "Anh ấy đang đặt (mua) dạo này"
   },
   {
     "id": "present-continuous-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "isn't orderring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't orderring these days.",
+    "vietnameseMeaning": "Anh ấy không đang đặt (mua) dạo này"
   },
   {
     "id": "present-continuous-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (order) these days?",
+    "vietnameseMeaning": "đang đặt (mua) dạo này"
   },
   {
     "id": "present-continuous-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "is shipping",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is shipping now.",
+    "vietnameseMeaning": "Nó đang giao hàng/vận chuyển bây giờ"
   },
   {
     "id": "present-continuous-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "isn't shipping",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't shipping now.",
+    "vietnameseMeaning": "Nó không đang giao hàng/vận chuyển bây giờ"
   },
   {
     "id": "present-continuous-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (ship) now?",
+    "vietnameseMeaning": "đang giao hàng/vận chuyển bây giờ"
   },
   {
     "id": "present-continuous-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "is organizing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is organizing at the moment.",
+    "vietnameseMeaning": "Cô ấy đang tổ chức/sắp xếp vào lúc này"
   },
   {
     "id": "present-continuous-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "isn't organizing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't organizing at the moment.",
+    "vietnameseMeaning": "Cô ấy không đang tổ chức/sắp xếp vào lúc này"
   },
   {
     "id": "present-continuous-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (organize) at the moment?",
+    "vietnameseMeaning": "đang tổ chức/sắp xếp vào lúc này"
   },
   {
     "id": "present-continuous-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "are playying",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are playying currently.",
+    "vietnameseMeaning": "Họ đang chơi hiện tại"
   },
   {
     "id": "present-continuous-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "aren't playying",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't playying currently.",
+    "vietnameseMeaning": "Họ không đang chơi hiện tại"
   },
   {
     "id": "present-continuous-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (play) currently?",
+    "vietnameseMeaning": "đang chơi hiện tại"
   },
   {
     "id": "present-continuous-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "are raining",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are raining currently.",
+    "vietnameseMeaning": "Chúng tôi đang mưa hiện tại"
   },
   {
     "id": "present-continuous-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "aren't raining",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't raining currently.",
+    "vietnameseMeaning": "Chúng tôi không đang mưa hiện tại"
   },
   {
     "id": "present-continuous-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (rain) currently?",
+    "vietnameseMeaning": "đang mưa hiện tại"
   },
   {
     "id": "present-continuous-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "are reading",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are reading at the moment.",
+    "vietnameseMeaning": "Bạn đang đọc vào lúc này"
   },
   {
     "id": "present-continuous-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "aren't reading",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't reading at the moment.",
+    "vietnameseMeaning": "Bạn không đang đọc vào lúc này"
   },
   {
     "id": "present-continuous-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (read) at the moment?",
+    "vietnameseMeaning": "đang đọc vào lúc này"
   },
   {
     "id": "present-continuous-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "am rememberring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am rememberring these days.",
+    "vietnameseMeaning": "Tôi đang nhớ dạo này"
   },
   {
     "id": "present-continuous-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "am not rememberring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not rememberring these days.",
+    "vietnameseMeaning": "Tôi không đang nhớ dạo này"
   },
   {
     "id": "present-continuous-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (remember) these days?",
+    "vietnameseMeaning": "đang nhớ dạo này"
   },
   {
     "id": "present-continuous-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "is rising",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is rising at the moment.",
+    "vietnameseMeaning": "Anh ấy đang mọc/tăng vào lúc này"
   },
   {
     "id": "present-continuous-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "isn't rising",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't rising at the moment.",
+    "vietnameseMeaning": "Anh ấy không đang mọc/tăng vào lúc này"
   },
   {
     "id": "present-continuous-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (rise) at the moment?",
+    "vietnameseMeaning": "đang mọc/tăng vào lúc này"
   },
   {
     "id": "present-continuous-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "is running",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is running at the moment.",
+    "vietnameseMeaning": "Nó đang vận hành/chạy vào lúc này"
   },
   {
     "id": "present-continuous-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "isn't running",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't running at the moment.",
+    "vietnameseMeaning": "Nó không đang vận hành/chạy vào lúc này"
   },
   {
     "id": "present-continuous-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (run) at the moment?",
+    "vietnameseMeaning": "đang vận hành/chạy vào lúc này"
   },
   {
     "id": "present-continuous-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "is serving",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is serving now.",
+    "vietnameseMeaning": "Cô ấy đang phục vụ bây giờ"
   },
   {
     "id": "present-continuous-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "isn't serving",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't serving now.",
+    "vietnameseMeaning": "Cô ấy không đang phục vụ bây giờ"
   },
   {
     "id": "present-continuous-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (serve) now?",
+    "vietnameseMeaning": "đang phục vụ bây giờ"
   },
   {
     "id": "present-continuous-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "are speaking",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are speaking at the moment.",
+    "vietnameseMeaning": "Họ đang nói vào lúc này"
   },
   {
     "id": "present-continuous-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "aren't speaking",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't speaking at the moment.",
+    "vietnameseMeaning": "Họ không đang nói vào lúc này"
   },
   {
     "id": "present-continuous-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (speak) at the moment?",
+    "vietnameseMeaning": "đang nói vào lúc này"
   },
   {
     "id": "present-continuous-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "are spoiling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are spoiling these days.",
+    "vietnameseMeaning": "Chúng tôi đang hỏng (đồ ăn) dạo này"
   },
   {
     "id": "present-continuous-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "aren't spoiling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't spoiling these days.",
+    "vietnameseMeaning": "Chúng tôi không đang hỏng (đồ ăn) dạo này"
   },
   {
     "id": "present-continuous-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (spoil) these days?",
+    "vietnameseMeaning": "đang hỏng (đồ ăn) dạo này"
   },
   {
     "id": "present-continuous-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "are starting",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are starting currently.",
+    "vietnameseMeaning": "Bạn đang bắt đầu hiện tại"
   },
   {
     "id": "present-continuous-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "aren't starting",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't starting currently.",
+    "vietnameseMeaning": "Bạn không đang bắt đầu hiện tại"
   },
   {
     "id": "present-continuous-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (start) currently?",
+    "vietnameseMeaning": "đang bắt đầu hiện tại"
   },
   {
     "id": "present-continuous-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "am stayying",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am stayying these days.",
+    "vietnameseMeaning": "Tôi đang ở; (stay open: mở muộn) dạo này"
   },
   {
     "id": "present-continuous-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "am not stayying",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not stayying these days.",
+    "vietnameseMeaning": "Tôi không đang ở; (stay open: mở muộn) dạo này"
   },
   {
     "id": "present-continuous-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (stay) these days?",
+    "vietnameseMeaning": "đang ở; (stay open: mở muộn) dạo này"
   },
   {
     "id": "present-continuous-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "is studying",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is studying currently.",
+    "vietnameseMeaning": "Anh ấy đang học hiện tại"
   },
   {
     "id": "present-continuous-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "isn't studying",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't studying currently.",
+    "vietnameseMeaning": "Anh ấy không đang học hiện tại"
   },
   {
     "id": "present-continuous-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (study) currently?",
+    "vietnameseMeaning": "đang học hiện tại"
   },
   {
     "id": "present-continuous-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "is taking",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is taking at the moment.",
+    "vietnameseMeaning": "Nó đang lấy; đi bằng; mất (thời gian) vào lúc này"
   },
   {
     "id": "present-continuous-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "isn't taking",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't taking at the moment.",
+    "vietnameseMeaning": "Nó không đang lấy; đi bằng; mất (thời gian) vào lúc này"
   },
   {
     "id": "present-continuous-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (take) at the moment?",
+    "vietnameseMeaning": "đang lấy; đi bằng; mất (thời gian) vào lúc này"
   },
   {
     "id": "present-continuous-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "is teaching",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is teaching these days.",
+    "vietnameseMeaning": "Cô ấy đang dạy dạo này"
   },
   {
     "id": "present-continuous-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "isn't teaching",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't teaching these days.",
+    "vietnameseMeaning": "Cô ấy không đang dạy dạo này"
   },
   {
     "id": "present-continuous-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (teach) these days?",
+    "vietnameseMeaning": "đang dạy dạo này"
   },
   {
     "id": "present-continuous-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "are travelling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are travelling now.",
+    "vietnameseMeaning": "Họ đang đi du lịch bây giờ"
   },
   {
     "id": "present-continuous-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "aren't travelling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't travelling now.",
+    "vietnameseMeaning": "Họ không đang đi du lịch bây giờ"
   },
   {
     "id": "present-continuous-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (travel) now?",
+    "vietnameseMeaning": "đang đi du lịch bây giờ"
   },
   {
     "id": "present-continuous-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "are using",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are using right now.",
+    "vietnameseMeaning": "Chúng tôi đang dùng/sử dụng bây giờ"
   },
   {
     "id": "present-continuous-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "aren't using",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't using right now.",
+    "vietnameseMeaning": "Chúng tôi không đang dùng/sử dụng bây giờ"
   },
   {
     "id": "present-continuous-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (use) right now?",
+    "vietnameseMeaning": "đang dùng/sử dụng bây giờ"
   },
   {
     "id": "present-continuous-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "are visitting",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are visitting right now.",
+    "vietnameseMeaning": "Bạn đang thăm bây giờ"
   },
   {
     "id": "present-continuous-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "aren't visitting",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't visitting right now.",
+    "vietnameseMeaning": "Bạn không đang thăm bây giờ"
   },
   {
     "id": "present-continuous-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (visit) right now?",
+    "vietnameseMeaning": "đang thăm bây giờ"
   },
   {
     "id": "present-continuous-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "am watching",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am watching now.",
+    "vietnameseMeaning": "Tôi đang xem bây giờ"
   },
   {
     "id": "present-continuous-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "am not watching",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not watching now.",
+    "vietnameseMeaning": "Tôi không đang xem bây giờ"
   },
   {
     "id": "present-continuous-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (watch) now?",
+    "vietnameseMeaning": "đang xem bây giờ"
   },
   {
     "id": "present-continuous-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "is weighing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is weighing currently.",
+    "vietnameseMeaning": "Anh ấy đang nặng/cân nặng hiện tại"
   },
   {
     "id": "present-continuous-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "isn't weighing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't weighing currently.",
+    "vietnameseMeaning": "Anh ấy không đang nặng/cân nặng hiện tại"
   },
   {
     "id": "present-continuous-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (weigh) currently?",
+    "vietnameseMeaning": "đang nặng/cân nặng hiện tại"
   },
   {
     "id": "present-continuous-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "is working",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is working these days.",
+    "vietnameseMeaning": "Nó đang làm việc dạo này"
   },
   {
     "id": "present-continuous-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "isn't working",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't working these days.",
+    "vietnameseMeaning": "Nó không đang làm việc dạo này"
   },
   {
     "id": "present-continuous-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (work) these days?",
+    "vietnameseMeaning": "đang làm việc dạo này"
   },
   {
     "id": "present-continuous-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "is brushing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is brushing right now.",
+    "vietnameseMeaning": "Cô ấy đang đánh (răng) bây giờ"
   },
   {
     "id": "present-continuous-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "isn't brushing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't brushing right now.",
+    "vietnameseMeaning": "Cô ấy không đang đánh (răng) bây giờ"
   },
   {
     "id": "present-continuous-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (brush) right now?",
+    "vietnameseMeaning": "đang đánh (răng) bây giờ"
   },
   {
     "id": "present-continuous-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "are exercising",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are exercising now.",
+    "vietnameseMeaning": "Họ đang tập thể dục bây giờ"
   },
   {
     "id": "present-continuous-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "aren't exercising",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't exercising now.",
+    "vietnameseMeaning": "Họ không đang tập thể dục bây giờ"
   },
   {
     "id": "present-continuous-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (exercise) now?",
+    "vietnameseMeaning": "đang tập thể dục bây giờ"
   },
   {
     "id": "present-continuous-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "are listenning",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are listenning right now.",
+    "vietnameseMeaning": "Chúng tôi đang nghe bây giờ"
   },
   {
     "id": "present-continuous-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "aren't listenning",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't listenning right now.",
+    "vietnameseMeaning": "Chúng tôi không đang nghe bây giờ"
   },
   {
     "id": "present-continuous-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (listen) right now?",
+    "vietnameseMeaning": "đang nghe bây giờ"
   },
   {
     "id": "present-continuous-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "are sleeping",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are sleeping at the moment.",
+    "vietnameseMeaning": "Bạn đang ngủ vào lúc này"
   },
   {
     "id": "present-continuous-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "aren't sleeping",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't sleeping at the moment.",
+    "vietnameseMeaning": "Bạn không đang ngủ vào lúc này"
   },
   {
     "id": "present-continuous-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (sleep) at the moment?",
+    "vietnameseMeaning": "đang ngủ vào lúc này"
   },
   {
     "id": "present-continuous-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "am researching",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am researching at the moment.",
+    "vietnameseMeaning": "Tôi đang nghiên cứu vào lúc này"
   },
   {
     "id": "present-continuous-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "am not researching",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not researching at the moment.",
+    "vietnameseMeaning": "Tôi không đang nghiên cứu vào lúc này"
   },
   {
     "id": "present-continuous-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (research) at the moment?",
+    "vietnameseMeaning": "đang nghiên cứu vào lúc này"
   },
   {
     "id": "present-continuous-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "is recycling",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is recycling right now.",
+    "vietnameseMeaning": "Anh ấy đang tái chế bây giờ"
   },
   {
     "id": "present-continuous-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "isn't recycling",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't recycling right now.",
+    "vietnameseMeaning": "Anh ấy không đang tái chế bây giờ"
   },
   {
     "id": "present-continuous-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (recycle) right now?",
+    "vietnameseMeaning": "đang tái chế bây giờ"
   },
   {
     "id": "present-continuous-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "is diagnosing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is diagnosing currently.",
+    "vietnameseMeaning": "Nó đang chẩn đoán hiện tại"
   },
   {
     "id": "present-continuous-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "isn't diagnosing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't diagnosing currently.",
+    "vietnameseMeaning": "Nó không đang chẩn đoán hiện tại"
   },
   {
     "id": "present-continuous-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (diagnose) currently?",
+    "vietnameseMeaning": "đang chẩn đoán hiện tại"
   },
   {
     "id": "present-continuous-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "is negotiating",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "She is negotiating now.",
+    "vietnameseMeaning": "Cô ấy đang đàm phán bây giờ"
   },
   {
     "id": "present-continuous-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "isn't negotiating",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She isn't negotiating now.",
+    "vietnameseMeaning": "Cô ấy không đang đàm phán bây giờ"
   },
   {
     "id": "present-continuous-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (negotiate) now?",
+    "vietnameseMeaning": "đang đàm phán bây giờ"
   },
   {
     "id": "present-continuous-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "are investing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They are investing currently.",
+    "vietnameseMeaning": "Họ đang đầu tư hiện tại"
   },
   {
     "id": "present-continuous-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "aren't investing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They aren't investing currently.",
+    "vietnameseMeaning": "Họ không đang đầu tư hiện tại"
   },
   {
     "id": "present-continuous-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (invest) currently?",
+    "vietnameseMeaning": "đang đầu tư hiện tại"
   },
   {
     "id": "present-continuous-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "are composing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We are composing currently.",
+    "vietnameseMeaning": "Chúng tôi đang sáng tác/soạn hiện tại"
   },
   {
     "id": "present-continuous-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "aren't composing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We aren't composing currently.",
+    "vietnameseMeaning": "Chúng tôi không đang sáng tác/soạn hiện tại"
   },
   {
     "id": "present-continuous-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (compose) currently?",
+    "vietnameseMeaning": "đang sáng tác/soạn hiện tại"
   },
   {
     "id": "present-continuous-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "are rescuing",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You are rescuing right now.",
+    "vietnameseMeaning": "Bạn đang cứu hộ/cứu bây giờ"
   },
   {
     "id": "present-continuous-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "aren't rescuing",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You aren't rescuing right now.",
+    "vietnameseMeaning": "Bạn không đang cứu hộ/cứu bây giờ"
   },
   {
     "id": "present-continuous-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Are",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (rescue) right now?",
+    "vietnameseMeaning": "đang cứu hộ/cứu bây giờ"
   },
   {
     "id": "present-continuous-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "am broadcasting",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I am broadcasting right now.",
+    "vietnameseMeaning": "Tôi đang phát sóng bây giờ"
   },
   {
     "id": "present-continuous-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "am not broadcasting",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I am not broadcasting right now.",
+    "vietnameseMeaning": "Tôi không đang phát sóng bây giờ"
   },
   {
     "id": "present-continuous-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Am",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (broadcast) right now?",
+    "vietnameseMeaning": "đang phát sóng bây giờ"
   },
   {
     "id": "present-continuous-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "is discoverring",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "He is discoverring right now.",
+    "vietnameseMeaning": "Anh ấy đang khám phá bây giờ"
   },
   {
     "id": "present-continuous-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "isn't discoverring",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He isn't discoverring right now.",
+    "vietnameseMeaning": "Anh ấy không đang khám phá bây giờ"
   },
   {
     "id": "present-continuous-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Is",
     "explanation": "Present Continuous (nghi vấn): Am/Is/Are + S + V-ing?",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (discover) right now?",
+    "vietnameseMeaning": "đang khám phá bây giờ"
   },
   {
     "id": "present-continuous-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "is conserving",
     "explanation": "Present Continuous: am/is/are + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "It is conserving these days.",
+    "vietnameseMeaning": "Nó đang bảo tồn dạo này"
   },
   {
     "id": "present-continuous-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "isn't conserving",
     "explanation": "Present Continuous (phủ định): am/is/are + not + V-ing.",
     "tenseType": "present-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It isn't conserving these days.",
+    "vietnameseMeaning": "Nó không đang bảo tồn dạo này"
   }
 ]

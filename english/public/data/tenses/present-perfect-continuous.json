@@ -11,7 +11,9 @@
     "correctAnswer": "has been approving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been approving since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang phê duyệt từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "has been attending",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been attending for two hours.",
+    "vietnameseMeaning": "Nó đã đang tham dự trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "have been boiling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been boiling since morning.",
+    "vietnameseMeaning": "Tôi đã đang sôi/đun sôi từ sáng"
   },
   {
     "id": "present-perfect-continuous-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "have been buyying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been buyying for a long time.",
+    "vietnameseMeaning": "Bạn đã đang mua trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "has been calling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been calling for a long time.",
+    "vietnameseMeaning": "Anh ấy đã đang gọi trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "have been checking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been checking for two hours.",
+    "vietnameseMeaning": "Họ đã đang kiểm tra trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "have been closing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been closing since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang đóng từ sáng"
   },
   {
     "id": "present-perfect-continuous-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "has been coordinating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been coordinating since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang điều phối từ sáng"
   },
   {
     "id": "present-perfect-continuous-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "has been cooking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been cooking for a long time.",
+    "vietnameseMeaning": "Nó đã đang nấu ăn trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "have been costing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been costing for two hours.",
+    "vietnameseMeaning": "Tôi đã đang có giá trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "have been departing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been departing for two hours.",
+    "vietnameseMeaning": "Bạn đã đang khởi hành trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "has been deliverring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been deliverring for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang giao (hàng) trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "have been disassembling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been disassembling for a long time.",
+    "vietnameseMeaning": "Họ đã đang tháo rời/tháo lắp trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "have been doing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been doing since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang làm từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "has been drinking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been drinking for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang uống trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "has been eating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been eating since 2020.",
+    "vietnameseMeaning": "Nó đã đang ăn từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "have been expiring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been expiring for two hours.",
+    "vietnameseMeaning": "Tôi đã đang hết hạn trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "have been finishing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been finishing for two hours.",
+    "vietnameseMeaning": "Bạn đã đang hoàn thành trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "has been finalizing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been finalizing since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang hoàn tất/chốt từ sáng"
   },
   {
     "id": "present-perfect-continuous-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "have been giving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been giving since 2020.",
+    "vietnameseMeaning": "Họ đã đang đưa/cho từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "have been going",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been going since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang đi từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "has been helping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been helping since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang giúp từ sáng"
   },
   {
     "id": "present-perfect-continuous-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "has been joining",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been joining for a long time.",
+    "vietnameseMeaning": "Nó đã đang tham gia trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "have been leaving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been leaving for two hours.",
+    "vietnameseMeaning": "Tôi đã đang rời đi trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "have been living",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been living for a long time.",
+    "vietnameseMeaning": "Bạn đã đang sống trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "has been managing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been managing for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang quản lý trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "have been matterring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been matterring since 2020.",
+    "vietnameseMeaning": "Họ đã đang quan trọng từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "have been meeting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been meeting for two hours.",
+    "vietnameseMeaning": "Chúng tôi đã đang họp/gặp trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "has been offerring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been offerring for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang cung cấp/đề nghị trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "has been openning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been openning since 2020.",
+    "vietnameseMeaning": "Nó đã đang mở từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "have been orderring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been orderring for a long time.",
+    "vietnameseMeaning": "Tôi đã đang đặt (mua) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "have been shipping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been shipping since morning.",
+    "vietnameseMeaning": "Bạn đã đang giao hàng/vận chuyển từ sáng"
   },
   {
     "id": "present-perfect-continuous-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "has been organizing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been organizing since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang tổ chức/sắp xếp từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "have been playying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been playying for two hours.",
+    "vietnameseMeaning": "Họ đã đang chơi trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "have been raining",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been raining since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang mưa từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "has been reading",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been reading for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang đọc trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "has been rememberring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been rememberring for a long time.",
+    "vietnameseMeaning": "Nó đã đang nhớ trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "have been rising",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been rising for two hours.",
+    "vietnameseMeaning": "Tôi đã đang mọc/tăng trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "have been running",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been running since morning.",
+    "vietnameseMeaning": "Bạn đã đang vận hành/chạy từ sáng"
   },
   {
     "id": "present-perfect-continuous-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "has been serving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been serving since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang phục vụ từ sáng"
   },
   {
     "id": "present-perfect-continuous-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "have been speaking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been speaking since morning.",
+    "vietnameseMeaning": "Họ đã đang nói từ sáng"
   },
   {
     "id": "present-perfect-continuous-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "have been spoiling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been spoiling for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang hỏng (đồ ăn) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "has been starting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been starting since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang bắt đầu từ sáng"
   },
   {
     "id": "present-perfect-continuous-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "has been stayying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been stayying for a long time.",
+    "vietnameseMeaning": "Nó đã đang ở; (stay open: mở muộn) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "have been studying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been studying for two hours.",
+    "vietnameseMeaning": "Tôi đã đang học trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "have been taking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been taking for two hours.",
+    "vietnameseMeaning": "Bạn đã đang lấy; đi bằng; mất (thời gian) trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "has been teaching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been teaching since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang dạy từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "have been travelling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been travelling since 2020.",
+    "vietnameseMeaning": "Họ đã đang đi du lịch từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "have been using",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been using for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang dùng/sử dụng trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "has been visitting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been visitting for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang thăm trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "has been watching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been watching for two hours.",
+    "vietnameseMeaning": "Nó đã đang xem trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "have been weighing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been weighing since morning.",
+    "vietnameseMeaning": "Tôi đã đang nặng/cân nặng từ sáng"
   },
   {
     "id": "present-perfect-continuous-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "have been working",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been working since morning.",
+    "vietnameseMeaning": "Bạn đã đang làm việc từ sáng"
   },
   {
     "id": "present-perfect-continuous-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "has been brushing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been brushing since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang đánh (răng) từ sáng"
   },
   {
     "id": "present-perfect-continuous-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "have been exercising",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been exercising for a long time.",
+    "vietnameseMeaning": "Họ đã đang tập thể dục trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "have been listenning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been listenning for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang nghe trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "has been sleeping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been sleeping since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang ngủ từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "has been researching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been researching for a long time.",
+    "vietnameseMeaning": "Nó đã đang nghiên cứu trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "have been recycling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been recycling for two hours.",
+    "vietnameseMeaning": "Tôi đã đang tái chế trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "have been diagnosing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been diagnosing since morning.",
+    "vietnameseMeaning": "Bạn đã đang chẩn đoán từ sáng"
   },
   {
     "id": "present-perfect-continuous-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "has been negotiating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been negotiating since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang đàm phán từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "have been investing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been investing since morning.",
+    "vietnameseMeaning": "Họ đã đang đầu tư từ sáng"
   },
   {
     "id": "present-perfect-continuous-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "have been composing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been composing since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang sáng tác/soạn từ sáng"
   },
   {
     "id": "present-perfect-continuous-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "has been rescuing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been rescuing for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang cứu hộ/cứu trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "has been broadcasting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been broadcasting for two hours.",
+    "vietnameseMeaning": "Nó đã đang phát sóng trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "have been discoverring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been discoverring for two hours.",
+    "vietnameseMeaning": "Tôi đã đang khám phá trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "have been conserving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been conserving since 2020.",
+    "vietnameseMeaning": "Bạn đã đang bảo tồn từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "has been scheduling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been scheduling for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang lên lịch trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "have been enrolling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been enrolling for two hours.",
+    "vietnameseMeaning": "Họ đã đang ghi danh/đăng ký trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "have been manufacturing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been manufacturing for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang sản xuất/chế tạo trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "has been donating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been donating for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang quyên góp/hiến tặng trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "has been forecasting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been forecasting for two hours.",
+    "vietnameseMeaning": "Nó đã đang dự báo trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "have been sayying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been sayying for a long time.",
+    "vietnameseMeaning": "Tôi đã đang nói trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "have been getting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been getting since 2020.",
+    "vietnameseMeaning": "Bạn đã đang nhận/được từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "has been making",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been making since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang làm/tạo từ sáng"
   },
   {
     "id": "present-perfect-continuous-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "have been seeing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been seeing since morning.",
+    "vietnameseMeaning": "Họ đã đang nhìn thấy từ sáng"
   },
   {
     "id": "present-perfect-continuous-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "have been coming",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been coming since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang đến/đi đến từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "has been thinking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been thinking for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang nghĩ trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "has been looking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been looking for two hours.",
+    "vietnameseMeaning": "Nó đã đang nhìn/tìm trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "have been finding",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been finding since 2020.",
+    "vietnameseMeaning": "Tôi đã đang tìm thấy từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "have been telling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been telling since 2020.",
+    "vietnameseMeaning": "Bạn đã đang kể/nói với từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "has been asking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been asking for a long time.",
+    "vietnameseMeaning": "Anh ấy đã đang hỏi/yêu cầu trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "have been putting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been putting since morning.",
+    "vietnameseMeaning": "Họ đã đang đặt/để từ sáng"
   },
   {
     "id": "present-perfect-continuous-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "have been keeping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been keeping for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang giữ trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "has been beginning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been beginning since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang bắt đầu từ sáng"
   },
   {
     "id": "present-perfect-continuous-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "has been turning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been turning since morning.",
+    "vietnameseMeaning": "Nó đã đang xoay/bật/tắt từ sáng"
   },
   {
     "id": "present-perfect-continuous-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "have been showwing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been showwing since 2020.",
+    "vietnameseMeaning": "Tôi đã đang cho xem từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "have been hearing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been hearing for a long time.",
+    "vietnameseMeaning": "Bạn đã đang nghe thấy trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "has been moving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been moving for a long time.",
+    "vietnameseMeaning": "Anh ấy đã đang di chuyển trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "have been bringing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been bringing for two hours.",
+    "vietnameseMeaning": "Họ đã đang mang/đem trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "have been writing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been writing since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang viết từ sáng"
   },
   {
     "id": "present-perfect-continuous-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "has been sitting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been sitting for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang ngồi trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "has been standing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been standing since 2020.",
+    "vietnameseMeaning": "Nó đã đang đứng từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "have been losing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been losing for two hours.",
+    "vietnameseMeaning": "Tôi đã đang mất/đánh mất trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "have been payying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been payying since 2020.",
+    "vietnameseMeaning": "Bạn đã đang trả (tiền) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "has been passing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been passing for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang vượt qua/chuyền trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "have been posting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been posting since 2020.",
+    "vietnameseMeaning": "Họ đã đang đăng/gửi từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "have been including",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been including since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang bao gồm từ sáng"
   },
   {
     "id": "present-perfect-continuous-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "has been continuing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been continuing for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang tiếp tục trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "has been setting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been setting since 2020.",
+    "vietnameseMeaning": "Nó đã đang đặt/thiết lập từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "have been learning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been learning since 2020.",
+    "vietnameseMeaning": "Tôi đã đang học từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "have been changing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been changing since morning.",
+    "vietnameseMeaning": "Bạn đã đang thay đổi từ sáng"
   },
   {
     "id": "present-perfect-continuous-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "has been leading",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been leading for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang dẫn dắt trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "have been followwing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been followwing for two hours.",
+    "vietnameseMeaning": "Họ đã đang theo dõi/theo sau trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "have been stopping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been stopping since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang dừng từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "has been creating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been creating for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang tạo ra trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "has been completing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been completing since 2020.",
+    "vietnameseMeaning": "Nó đã đang hoàn thành từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "have been allowwing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been allowwing for two hours.",
+    "vietnameseMeaning": "Tôi đã đang cho phép trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "have been adding",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been adding for a long time.",
+    "vietnameseMeaning": "Bạn đã đang thêm trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "has been spending",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been spending since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang dành/tiêu (thời gian/tiền) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "have been growwing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been growwing for a long time.",
+    "vietnameseMeaning": "Họ đã đang phát triển/lớn lên trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "have been walking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been walking since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang đi bộ từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "has been winning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been winning since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang thắng từ sáng"
   },
   {
     "id": "present-perfect-continuous-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "has been considerring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been considerring for two hours.",
+    "vietnameseMeaning": "Nó đã đang cân nhắc/xem xét trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "have been appearing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been appearing since morning.",
+    "vietnameseMeaning": "Tôi đã đang xuất hiện từ sáng"
   },
   {
     "id": "present-perfect-continuous-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "have been waiting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been waiting since morning.",
+    "vietnameseMeaning": "Bạn đã đang chờ/đợi từ sáng"
   },
   {
     "id": "present-perfect-continuous-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "has been sending",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been sending since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang gửi từ sáng"
   },
   {
     "id": "present-perfect-continuous-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "have been expecting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been expecting for two hours.",
+    "vietnameseMeaning": "Họ đã đang mong đợi trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "have been building",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been building since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang xây dựng từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "has been falling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been falling since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang ngã/rơi từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "has been cutting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been cutting since morning.",
+    "vietnameseMeaning": "Nó đã đang cắt từ sáng"
   },
   {
     "id": "present-perfect-continuous-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "have been reaching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been reaching since 2020.",
+    "vietnameseMeaning": "Tôi đã đang đến/chạm tới từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "have been remaining",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been remaining since 2020.",
+    "vietnameseMeaning": "Bạn đã đang vẫn/duy trì từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "has been cleaning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been cleaning for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang dọn dẹp trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "have been washing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been washing since 2020.",
+    "vietnameseMeaning": "Họ đã đang rửa/giặt từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "have been driving",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been driving since 2020.",
+    "vietnameseMeaning": "Chúng tôi đã đang lái (xe) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "has been riding",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been riding since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang đi (xe đạp/xe máy/ngựa) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "has been shopping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been shopping for a long time.",
+    "vietnameseMeaning": "Nó đã đang mua sắm trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "have been fixxing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been fixxing since 2020.",
+    "vietnameseMeaning": "Tôi đã đang sửa/chỉnh từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "have been repairing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been repairing for two hours.",
+    "vietnameseMeaning": "Bạn đã đang sửa chữa trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "has been charging",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been charging since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang sạc (pin) từ sáng"
   },
   {
     "id": "present-perfect-continuous-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "have been carrying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been carrying since 2020.",
+    "vietnameseMeaning": "Họ đã đang mang/vác từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "have been wearing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been wearing for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang mặc/đeo trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "has been porting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been porting for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang chuyển (ứng dụng/mã) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "has been compiling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been compiling since 2020.",
+    "vietnameseMeaning": "Nó đã đang biên dịch từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "have been executing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been executing since 2020.",
+    "vietnameseMeaning": "Tôi đã đang thực thi từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "have been deployying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been deployying for two hours.",
+    "vietnameseMeaning": "Bạn đã đang triển khai trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "has been releasing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been releasing for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang phát hành trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "have been committing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been committing since morning.",
+    "vietnameseMeaning": "Họ đã đang commit (lưu thay đổi) từ sáng"
   },
   {
     "id": "present-perfect-continuous-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "have been pushing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been pushing since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang đẩy (mã lên) từ sáng"
   },
   {
     "id": "present-perfect-continuous-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "has been pulling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been pulling since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang kéo (mã về) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "has been merging",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been merging since morning.",
+    "vietnameseMeaning": "Nó đã đang gộp nhánh từ sáng"
   },
   {
     "id": "present-perfect-continuous-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "have been branching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been branching since 2020.",
+    "vietnameseMeaning": "Tôi đã đang tạo nhánh từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "have been rebasing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been rebasing since 2020.",
+    "vietnameseMeaning": "Bạn đã đang rebase (sắp xếp lại lịch sử) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "has been stashing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been stashing for a long time.",
+    "vietnameseMeaning": "Anh ấy đã đang stash (cất tạm thay đổi) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "have been cloning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been cloning for a long time.",
+    "vietnameseMeaning": "Họ đã đang nhân bản kho mã trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "have been forking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been forking for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang fork (tách kho mã) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "has been debugging",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been debugging for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang gỡ lỗi trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "has been logging",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been logging since morning.",
+    "vietnameseMeaning": "Nó đã đang ghi log từ sáng"
   },
   {
     "id": "present-perfect-continuous-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "have been tracing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been tracing since 2020.",
+    "vietnameseMeaning": "Tôi đã đang theo vết từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "have been profiling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been profiling since morning.",
+    "vietnameseMeaning": "Bạn đã đang dò hiệu năng từ sáng"
   },
   {
     "id": "present-perfect-continuous-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "has been optimizing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been optimizing for a long time.",
+    "vietnameseMeaning": "Anh ấy đã đang tối ưu trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "have been refactorring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been refactorring since 2020.",
+    "vietnameseMeaning": "Họ đã đang tái cấu trúc mã từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "have been testing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been testing since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang kiểm thử từ sáng"
   },
   {
     "id": "present-perfect-continuous-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "has been mocking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been mocking for a long time.",
+    "vietnameseMeaning": "Cô ấy đã đang giả lập (mock) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "has been stubbing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been stubbing since morning.",
+    "vietnameseMeaning": "Nó đã đang stub (giả đối tượng) từ sáng"
   },
   {
     "id": "present-perfect-continuous-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "have been linting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been linting since morning.",
+    "vietnameseMeaning": "Tôi đã đang kiểm tra style (lint) từ sáng"
   },
   {
     "id": "present-perfect-continuous-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "have been formatting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been formatting for two hours.",
+    "vietnameseMeaning": "Bạn đã đang định dạng (mã) trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "has been packaging",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been packaging for two hours.",
+    "vietnameseMeaning": "Anh ấy đã đang đóng gói trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "have been bundling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been bundling since morning.",
+    "vietnameseMeaning": "Họ đã đang bundle (đóng gói) từ sáng"
   },
   {
     "id": "present-perfect-continuous-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "have been installing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been installing for two hours.",
+    "vietnameseMeaning": "Chúng tôi đã đang cài đặt trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "has been updating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been updating for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang cập nhật trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "has been upgrading",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been upgrading since morning.",
+    "vietnameseMeaning": "Nó đã đang nâng cấp từ sáng"
   },
   {
     "id": "present-perfect-continuous-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "have been rollbacking",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been rollbacking for a long time.",
+    "vietnameseMeaning": "Tôi đã đang khôi phục phiên bản trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "have been migrating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been migrating for a long time.",
+    "vietnameseMeaning": "Bạn đã đang di chuyển (dữ liệu/lược đồ) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "has been seeding",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been seeding since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang seed (gieo dữ liệu) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "have been provisioning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been provisioning since 2020.",
+    "vietnameseMeaning": "Họ đã đang cấp phát (hạ tầng) từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "have been configuring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been configuring for two hours.",
+    "vietnameseMeaning": "Chúng tôi đã đang cấu hình trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "has been authenticating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been authenticating since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang xác thực từ sáng"
   },
   {
     "id": "present-perfect-continuous-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "has been authorizing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been authorizing since 2020.",
+    "vietnameseMeaning": "Nó đã đang phân quyền từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "have been encrypting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been encrypting since morning.",
+    "vietnameseMeaning": "Tôi đã đang mã hóa từ sáng"
   },
   {
     "id": "present-perfect-continuous-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "have been decrypting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been decrypting since 2020.",
+    "vietnameseMeaning": "Bạn đã đang giải mã từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "has been hashing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been hashing since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang băm (hash) từ sáng"
   },
   {
     "id": "present-perfect-continuous-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "have been signing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been signing for two hours.",
+    "vietnameseMeaning": "Họ đã đang ký (số) trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "have been verifying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been verifying since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang xác minh từ sáng"
   },
   {
     "id": "present-perfect-continuous-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "has been fetching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been fetching since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang lấy (dữ liệu) từ sáng"
   },
   {
     "id": "present-perfect-continuous-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "has been requesting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been requesting for two hours.",
+    "vietnameseMeaning": "Nó đã đang gửi yêu cầu trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "have been responding",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been responding for two hours.",
+    "vietnameseMeaning": "Tôi đã đang phản hồi trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "have been renderring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been renderring since morning.",
+    "vietnameseMeaning": "Bạn đã đang kết xuất từ sáng"
   },
   {
     "id": "present-perfect-continuous-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "has been parsing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been parsing since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang phân tích cú pháp từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "have been stringifying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been stringifying since morning.",
+    "vietnameseMeaning": "Họ đã đang chuỗi hóa từ sáng"
   },
   {
     "id": "present-perfect-continuous-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "have been serializing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been serializing for a long time.",
+    "vietnameseMeaning": "Chúng tôi đã đang tuần tự hóa trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "has been deserializing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been deserializing since 2020.",
+    "vietnameseMeaning": "Cô ấy đã đang giải tuần tự từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "has been caching",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been caching for a long time.",
+    "vietnameseMeaning": "Nó đã đang bộ nhớ đệm trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "have been invalidating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been invalidating for a long time.",
+    "vietnameseMeaning": "Tôi đã đang hủy (cache) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "have been indexxing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been indexxing since 2020.",
+    "vietnameseMeaning": "Bạn đã đang đánh chỉ mục từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "has been querying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been querying since 2020.",
+    "vietnameseMeaning": "Anh ấy đã đang truy vấn từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "have been filterring",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been filterring since 2020.",
+    "vietnameseMeaning": "Họ đã đang lọc từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "have been mapping",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been mapping since morning.",
+    "vietnameseMeaning": "Chúng tôi đã đang ánh xạ từ sáng"
   },
   {
     "id": "present-perfect-continuous-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "has been reducing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been reducing since morning.",
+    "vietnameseMeaning": "Cô ấy đã đang rút gọn/tổng hợp từ sáng"
   },
   {
     "id": "present-perfect-continuous-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "has been scanning",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been scanning since 2020.",
+    "vietnameseMeaning": "Nó đã đang quét từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "have been connecting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been connecting for a long time.",
+    "vietnameseMeaning": "Tôi đã đang kết nối trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "have been disconnecting",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been disconnecting since morning.",
+    "vietnameseMeaning": "Bạn đã đang ngắt kết nối từ sáng"
   },
   {
     "id": "present-perfect-continuous-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "has been subscribing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He has been subscribing since morning.",
+    "vietnameseMeaning": "Anh ấy đã đang đăng ký (sự kiện) từ sáng"
   },
   {
     "id": "present-perfect-continuous-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "have been publishing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They have been publishing for a long time.",
+    "vietnameseMeaning": "Họ đã đang phát (sự kiện) trong một thời gian dài"
   },
   {
     "id": "present-perfect-continuous-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "have been queuing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We have been queuing for two hours.",
+    "vietnameseMeaning": "Chúng tôi đã đang xếp hàng (tác vụ) trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "has been retrying",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She has been retrying for two hours.",
+    "vietnameseMeaning": "Cô ấy đã đang thử lại trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "has been throttling",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It has been throttling for two hours.",
+    "vietnameseMeaning": "Nó đã đang giới hạn tần suất trong hai giờ"
   },
   {
     "id": "present-perfect-continuous-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "have been debouncing",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I have been debouncing since 2020.",
+    "vietnameseMeaning": "Tôi đã đang chống dội từ năm 2020"
   },
   {
     "id": "present-perfect-continuous-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "have been paginating",
     "explanation": "Present Perfect Continuous: have/has been + V-ing.",
     "tenseType": "present-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You have been paginating since morning.",
+    "vietnameseMeaning": "Bạn đã đang phân trang từ sáng"
   }
 ]
