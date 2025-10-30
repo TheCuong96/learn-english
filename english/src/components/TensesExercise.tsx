@@ -118,6 +118,38 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
     }
   };
 
+  // Keyboard shortcuts for selecting answers
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      if (!showExplanation && currentQuestion.options) {
+        // Chọn đáp án bằng phím số 1-4
+        const numKey = parseInt(e.key);
+        if (numKey >= 1 && numKey <= 4 && numKey <= currentQuestion.options.length) {
+          e.preventDefault();
+          const selectedOption = currentQuestion.options[numKey - 1];
+          handleSelectAnswer(selectedOption);
+        }
+      }
+
+      // Enter để submit hoặc next
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (!showExplanation && selectedAnswer) {
+          handleSubmit();
+        } else if (showExplanation) {
+          handleNext();
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [showExplanation, selectedAnswer, currentQuestion.options]);
+
   const progress = ((currentIndex + 1) / questions.length) * 100;
 
   return (
@@ -131,6 +163,11 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
           </Badge>
         </div>
         <Progress value={progress} className="h-2" />
+        {!showExplanation && (
+          <p className="text-xs text-slate-400 text-center">
+            💡 Mẹo: Nhấn phím <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">1-4</kbd> để chọn đáp án, <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Enter</kbd> để xác nhận
+          </p>
+        )}
       </div>
 
       {/* Question Card */}
@@ -266,7 +303,7 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
             ) : (
               <Button
                 onClick={handleNext}
-                className="flex-1 cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-lg"
+                className="flex-1 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25"
               >
                 {currentIndex + 1 >= questions.length ? 'Xem kết quả' : 'Câu tiếp theo'}
               </Button>

@@ -217,34 +217,6 @@ ${wrongAnswers.map((a, i) => `${i + 1}. ${a.question}\n   Bạn trả lời: ${a
       <main className="container mx-auto px-0 sm:px-4 md:px-6 py-4 sm:py-6 text-slate-100">
         {currentScreen === 'home' && (
           <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6 px-3 sm:px-0">
-            {/* Quick Stats */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4">
-              <Card>
-                <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-blue-400">12</div>
-                  <div className="text-sm text-muted-foreground">Thì tiếng Anh</div>
-                </CardContent>
-              </Card>
-              <Card>
-                <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-green-400">4</div>
-                  <div className="text-sm text-muted-foreground">Thì hiện tại</div>
-                </CardContent>
-              </Card>
-              <Card>
-                <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-orange-400">4</div>
-                  <div className="text-sm text-muted-foreground">Thì quá khứ</div>
-                </CardContent>
-              </Card>
-              <Card>
-                <CardContent className="pt-6">
-                  <div className="text-3xl font-bold text-purple-400">4</div>
-                  <div className="text-sm text-muted-foreground">Thì tương lai</div>
-                </CardContent>
-              </Card>
-            </div>
-
             {/* Configuration */}
             <Card>
               <CardHeader>
