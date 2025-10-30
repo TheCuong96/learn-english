@@ -27,7 +27,7 @@
     "v1": "believe",
     "v2": "believed",
     "v3": "believed",
-    "definition": "tin",
+    "definition": "tin tưởng",
     "english_definition": "to think that something is true or that someone is telling the truth",
     "example": "I believe every day.",
     "icon": "🙏"
@@ -126,7 +126,7 @@
     "v1": "cost",
     "v2": "cost",
     "v3": "cost",
-    "definition": "có giá",
+    "definition": "có giá/tốn",
     "english_definition": "to have a particular price",
     "example": "I cost every day.",
     "icon": "💰"
@@ -137,7 +137,7 @@
     "v1": "depart",
     "v2": "departed",
     "v3": "departed",
-    "definition": "khởi hành",
+    "definition": "khởi hành/rời đi",
     "english_definition": "to leave, especially to start a journey",
     "example": "I depart every day.",
     "icon": "✈️"
@@ -148,7 +148,7 @@
     "v1": "deliver",
     "v2": "delivered",
     "v3": "delivered",
-    "definition": "giao (hàng)",
+    "definition": "giao hàng",
     "english_definition": "to take something to a person or place",
     "example": "I deliver every day.",
     "icon": "📦"
@@ -159,7 +159,7 @@
     "v1": "disassemble",
     "v2": "disassembled",
     "v3": "disassembled",
-    "definition": "tháo rời/tháo lắp",
+    "definition": "tháo rời",
     "english_definition": "to take something apart",
     "example": "I disassemble the device.",
     "icon": "🔧"
@@ -225,7 +225,7 @@
     "v1": "finalize",
     "v2": "finalized",
     "v3": "finalized",
-    "definition": "hoàn tất/chốt",
+    "definition": "hoàn tất",
     "english_definition": "to make a final decision about something",
     "example": "I finalize the plan today.",
     "icon": "✅"
@@ -236,7 +236,7 @@
     "v1": "give",
     "v2": "gave",
     "v3": "given",
-    "definition": "đưa/cho",
+    "definition": "cho/tặng",
     "english_definition": "to offer something to someone",
     "example": "I give her a gift.",
     "icon": "🎁"
@@ -258,7 +258,7 @@
     "v1": "have",
     "v2": "had",
     "v3": "had",
-    "definition": "có; (3rd: has)",
+    "definition": "có",
     "english_definition": "to own, possess, or hold something",
     "example": "I have a meeting at nine.",
     "icon": "🤲"
@@ -269,7 +269,7 @@
     "v1": "help",
     "v2": "helped",
     "v3": "helped",
-    "definition": "giúp",
+    "definition": "giúp đỡ",
     "english_definition": "to make it easier for someone to do something",
     "example": "I help my friend.",
     "icon": "🤝"
@@ -346,7 +346,7 @@
     "v1": "meet",
     "v2": "met",
     "v3": "met",
-    "definition": "họp/gặp",
+    "definition": "gặp mặt",
     "english_definition": "to see and talk to someone for the first time or after not seeing them",
     "example": "I meet new people.",
     "icon": "🤝"
@@ -368,7 +368,7 @@
     "v1": "offer",
     "v2": "offered",
     "v3": "offered",
-    "definition": "cung cấp/đề nghị",
+    "definition": "đề nghị",
     "english_definition": "to give something to someone or provide something",
     "example": "I offer every day.",
     "icon": "🎁"
@@ -390,7 +390,7 @@
     "v1": "order",
     "v2": "ordered",
     "v3": "ordered",
-    "definition": "đặt (mua)",
+    "definition": "đặt hàng",
     "english_definition": "to ask for something to be made, supplied, or delivered",
     "example": "I order food for lunch.",
     "icon": "📋"
@@ -401,7 +401,7 @@
     "v1": "ship",
     "v2": "shipped",
     "v3": "shipped",
-    "definition": "giao hàng/vận chuyển",
+    "definition": "vận chuyển",
     "english_definition": "to send goods to someone",
     "example": "We ship orders every day.",
     "icon": "🚢"
@@ -412,7 +412,7 @@
     "v1": "organize",
     "v2": "organized",
     "v3": "organized",
-    "definition": "tổ chức/sắp xếp",
+    "definition": "tổ chức",
     "english_definition": "to plan or arrange something",
     "example": "I organize my desk every week.",
     "icon": "📋"
@@ -489,7 +489,7 @@
     "v1": "rise",
     "v2": "rose",
     "v3": "risen",
-    "definition": "mọc/tăng",
+    "definition": "tăng lên",
     "english_definition": "to move upwards or increase",
     "example": "I rise every day.",
     "icon": "📈"
@@ -500,7 +500,7 @@
     "v1": "run",
     "v2": "ran",
     "v3": "run",
-    "definition": "vận hành/chạy",
+    "definition": "chạy",
     "english_definition": "to move on your feet at a faster speed than walking",
     "example": "I run every morning.",
     "icon": "🏃"
@@ -533,7 +533,7 @@
     "v1": "spoil",
     "v2": "spoiled",
     "v3": "spoiled",
-    "definition": "hỏng (đồ ăn)",
+    "definition": "hỏng",
     "english_definition": "to become bad or go bad, especially food",
     "example": "I spoil every day.",
     "icon": "💔"
@@ -577,7 +577,7 @@
     "v1": "take",
     "v2": "took",
     "v3": "taken",
-    "definition": "lấy; đi bằng; mất (thời gian)",
+    "definition": "lấy",
     "english_definition": "to move or go with something or someone from one place to another",
     "example": "I take the bus to work.",
     "icon": "✋"
@@ -599,7 +599,7 @@
     "v1": "travel",
     "v2": "traveled",
     "v3": "traveled",
-    "definition": "đi du lịch",
+    "definition": "du lịch",
     "english_definition": "to make a journey",
     "example": "I travel by train.",
     "icon": "✈️"
@@ -621,7 +621,7 @@
     "v1": "use",
     "v2": "used",
     "v3": "used",
-    "definition": "dùng/sử dụng",
+    "definition": "sử dụng",
     "english_definition": "to do something with an object, machine, person, method, etc.",
     "example": "I use this app daily.",
     "icon": "🔧"
@@ -654,7 +654,7 @@
     "v1": "weigh",
     "v2": "weighed",
     "v3": "weighed",
-    "definition": "nặng/cân nặng",
+    "definition": "cân",
     "english_definition": "to have a particular weight",
     "example": "This box weighs five kilos.",
     "icon": "⚖️"
@@ -676,7 +676,7 @@
     "v1": "be",
     "v2": "was/were",
     "v3": "been",
-    "definition": "thì/là/ở",
+    "definition": "là/ở",
     "english_definition": "to exist or live",
     "example": "I am happy today.",
     "icon": "👤"
@@ -687,7 +687,7 @@
     "v1": "brush",
     "v2": "brushed",
     "v3": "brushed",
-    "definition": "đánh (răng)",
+    "definition": "đánh răng",
     "english_definition": "to clean something with a brush",
     "example": "I brush my teeth.",
     "icon": "⚡"
@@ -797,7 +797,7 @@
     "v1": "compose",
     "v2": "composed",
     "v3": "composed",
-    "definition": "sáng tác/soạn",
+    "definition": "soạn nhạc",
     "english_definition": "to write music or create something",
     "example": "She composes music.",
     "icon": "⚡"
@@ -808,7 +808,7 @@
     "v1": "rescue",
     "v2": "rescued",
     "v3": "rescued",
-    "definition": "cứu hộ/cứu",
+    "definition": "cứu",
     "english_definition": "to save someone from a dangerous situation",
     "example": "They rescue animals.",
     "icon": "⚡"
@@ -863,7 +863,7 @@
     "v1": "enroll",
     "v2": "enrolled",
     "v3": "enrolled",
-    "definition": "ghi danh/đăng ký",
+    "definition": "đăng ký",
     "english_definition": "to put yourself or someone else on an official list",
     "example": "I enroll in a course.",
     "icon": "⚡"
@@ -874,7 +874,7 @@
     "v1": "manufacture",
     "v2": "manufactured",
     "v3": "manufactured",
-    "definition": "sản xuất/chế tạo",
+    "definition": "sản xuất",
     "english_definition": "to produce goods in large quantities using machines",
     "example": "They manufacture cars.",
     "icon": "⚡"
@@ -885,7 +885,7 @@
     "v1": "donate",
     "v2": "donated",
     "v3": "donated",
-    "definition": "quyên góp/hiến tặng",
+    "definition": "quyên góp",
     "english_definition": "to give money or goods to help a person or organization",
     "example": "We donate clothes.",
     "icon": "⚡"
@@ -918,7 +918,7 @@
     "v1": "get",
     "v2": "got",
     "v3": "gotten",
-    "definition": "nhận/được",
+    "definition": "nhận",
     "english_definition": "to receive, obtain or buy something",
     "example": "I get up at six.",
     "icon": "✨"
@@ -929,7 +929,7 @@
     "v1": "make",
     "v2": "made",
     "v3": "made",
-    "definition": "làm/tạo",
+    "definition": "làm",
     "english_definition": "to produce or create something",
     "example": "I make breakfast every morning.",
     "icon": "🔨"
@@ -951,7 +951,7 @@
     "v1": "come",
     "v2": "came",
     "v3": "come",
-    "definition": "đến/đi đến",
+    "definition": "đến",
     "english_definition": "to move toward or arrive at a place",
     "example": "I come home late.",
     "icon": "🚶"
@@ -973,7 +973,7 @@
     "v1": "look",
     "v2": "looked",
     "v3": "looked",
-    "definition": "nhìn/tìm",
+    "definition": "nhìn",
     "english_definition": "to direct your eyes toward something",
     "example": "I look for my keys.",
     "icon": "👀"
@@ -1006,7 +1006,7 @@
     "v1": "tell",
     "v2": "told",
     "v3": "told",
-    "definition": "kể/nói với",
+    "definition": "kể",
     "english_definition": "to give information to someone",
     "example": "I tell the truth.",
     "icon": "🗣️"
@@ -1017,7 +1017,7 @@
     "v1": "ask",
     "v2": "asked",
     "v3": "asked",
-    "definition": "hỏi/yêu cầu",
+    "definition": "hỏi",
     "english_definition": "to say or write something as a question",
     "example": "I ask a lot of questions.",
     "icon": "❓"
@@ -1028,7 +1028,7 @@
     "v1": "put",
     "v2": "put",
     "v3": "put",
-    "definition": "đặt/để",
+    "definition": "đặt",
     "english_definition": "to move something to a place or position",
     "example": "I put the keys on the table.",
     "icon": "📍"
@@ -1072,7 +1072,7 @@
     "v1": "turn",
     "v2": "turned",
     "v3": "turned",
-    "definition": "xoay/bật/tắt",
+    "definition": "quay",
     "english_definition": "to move or make something move in a circle",
     "example": "I turn every day.",
     "icon": "🔄"
@@ -1083,7 +1083,7 @@
     "v1": "show",
     "v2": "showed",
     "v3": "shown",
-    "definition": "cho xem",
+    "definition": "cho thấy",
     "english_definition": "to let someone see something",
     "example": "I show him the picture.",
     "icon": "👆"
@@ -1094,7 +1094,7 @@
     "v1": "hear",
     "v2": "heard",
     "v3": "heard",
-    "definition": "nghe thấy",
+    "definition": "nghe",
     "english_definition": "to be aware of sounds with your ears",
     "example": "I hear a noise.",
     "icon": "👂"
@@ -2249,7 +2249,7 @@
     "v1": "commit transaction",
     "v2": "committed transaction",
     "v3": "committed transaction",
-    "definition": "commit giao dịch",
+    "definition": "cam kết giao dịch",
     "english_definition": "to commit transaction",
     "example": "I commit transaction every day.",
     "icon": "⚡"
@@ -2260,7 +2260,7 @@
     "v1": "rollback transaction",
     "v2": "rolled back transaction",
     "v3": "rolled back transaction",
-    "definition": "rollback giao dịch",
+    "definition": "hoàn tác giao dịch",
     "english_definition": "to rollback transaction",
     "example": "I rollback transaction every day.",
     "icon": "⚡"
@@ -5395,7 +5395,7 @@
     "v1": "abide",
     "v2": "abode/abided",
     "v3": "abode/abided",
-    "definition": "",
+    "definition": "tuân thủ",
     "english_definition": "to abide",
     "example": "I abide every day.",
     "icon": "⚡"
@@ -5406,7 +5406,7 @@
     "v1": "arise",
     "v2": "arose",
     "v3": "arisen",
-    "definition": "",
+    "definition": "phát sinh",
     "english_definition": "to arise",
     "example": "I arise every day.",
     "icon": "⚡"
@@ -5417,7 +5417,7 @@
     "v1": "awake",
     "v2": "awoke",
     "v3": "awoken",
-    "definition": "",
+    "definition": "thức giấc",
     "english_definition": "to awake",
     "example": "I awake every day.",
     "icon": "⚡"
@@ -5428,7 +5428,7 @@
     "v1": "backslide",
     "v2": "backslid",
     "v3": "backslide/backslid",
-    "definition": "",
+    "definition": "tái phạm",
     "english_definition": "to backslide",
     "example": "I backslide every day.",
     "icon": "⚡"
@@ -5439,7 +5439,7 @@
     "v1": "befall",
     "v2": "befell",
     "v3": "befallen",
-    "definition": "",
+    "definition": "xảy ra",
     "english_definition": "to befall",
     "example": "I befall every day.",
     "icon": "⚡"
@@ -5450,7 +5450,7 @@
     "v1": "behold",
     "v2": "beheld",
     "v3": "beheld",
-    "definition": "",
+    "definition": "chứng kiến",
     "english_definition": "to behold",
     "example": "I behold every day.",
     "icon": "⚡"
@@ -5461,7 +5461,7 @@
     "v1": "bend",
     "v2": "bent",
     "v3": "bent",
-    "definition": "",
+    "definition": "uốn cong",
     "english_definition": "to bend",
     "example": "I bend every day.",
     "icon": "⚡"
@@ -5472,7 +5472,7 @@
     "v1": "beset",
     "v2": "beset",
     "v3": "beset",
-    "definition": "",
+    "definition": "bao vây",
     "english_definition": "to beset",
     "example": "I beset every day.",
     "icon": "⚡"
@@ -5483,7 +5483,7 @@
     "v1": "bespeak",
     "v2": "bespoke",
     "v3": "bespoken",
-    "definition": "",
+    "definition": "đặt trước",
     "english_definition": "to bespeak",
     "example": "I bespeak every day.",
     "icon": "⚡"
@@ -5494,7 +5494,7 @@
     "v1": "bet",
     "v2": "bet/betted",
     "v3": "bet/betted",
-    "definition": "",
+    "definition": "đặt cược",
     "english_definition": "to bet",
     "example": "I bet every day.",
     "icon": "⚡"
@@ -5505,7 +5505,7 @@
     "v1": "bid",
     "v2": "bid",
     "v3": "bid",
-    "definition": "",
+    "definition": "đấu thầu",
     "english_definition": "to bid",
     "example": "I bid every day.",
     "icon": "⚡"
@@ -5516,7 +5516,7 @@
     "v1": "bind",
     "v2": "bound",
     "v3": "bound",
-    "definition": "",
+    "definition": "buộc",
     "english_definition": "to bind",
     "example": "I bind every day.",
     "icon": "⚡"
@@ -5527,7 +5527,7 @@
     "v1": "bite",
     "v2": "bit",
     "v3": "bitten",
-    "definition": "",
+    "definition": "cắn",
     "english_definition": "to bite",
     "example": "I bite every day.",
     "icon": "⚡"
@@ -5538,7 +5538,7 @@
     "v1": "bleed",
     "v2": "bled",
     "v3": "bled",
-    "definition": "",
+    "definition": "chảy máu",
     "english_definition": "to bleed",
     "example": "I bleed every day.",
     "icon": "⚡"
@@ -5549,7 +5549,7 @@
     "v1": "blow",
     "v2": "blew",
     "v3": "blown",
-    "definition": "",
+    "definition": "thổi",
     "english_definition": "to blow",
     "example": "I blow every day.",
     "icon": "⚡"
@@ -5560,7 +5560,7 @@
     "v1": "break",
     "v2": "broke",
     "v3": "broken",
-    "definition": "",
+    "definition": "vỡ/phá",
     "english_definition": "to break",
     "example": "I break every day.",
     "icon": "⚡"
@@ -5571,7 +5571,7 @@
     "v1": "breed",
     "v2": "bred",
     "v3": "bred",
-    "definition": "",
+    "definition": "nuôi dưỡng",
     "english_definition": "to breed",
     "example": "I breed every day.",
     "icon": "⚡"
@@ -5582,7 +5582,7 @@
     "v1": "browbeat",
     "v2": "browbeat",
     "v3": "browbeaten/browbeat",
-    "definition": "",
+    "definition": "đe dọa",
     "english_definition": "to browbeat",
     "example": "I browbeat every day.",
     "icon": "⚡"
@@ -5593,7 +5593,7 @@
     "v1": "burn",
     "v2": "burnt/burned",
     "v3": "burnt/burned",
-    "definition": "",
+    "definition": "đốt",
     "english_definition": "to burn",
     "example": "I burn every day.",
     "icon": "⚡"
@@ -5604,7 +5604,7 @@
     "v1": "burst",
     "v2": "burst",
     "v3": "burst",
-    "definition": "",
+    "definition": "nổ bùng",
     "english_definition": "to burst",
     "example": "I burst every day.",
     "icon": "⚡"
@@ -5615,7 +5615,7 @@
     "v1": "bust",
     "v2": "busted/bust",
     "v3": "busted/bust",
-    "definition": "",
+    "definition": "vỡ tan",
     "english_definition": "to bust",
     "example": "I bust every day.",
     "icon": "⚡"
@@ -5626,7 +5626,7 @@
     "v1": "cast",
     "v2": "cast",
     "v3": "cast",
-    "definition": "",
+    "definition": "ném/đúc",
     "english_definition": "to cast",
     "example": "I cast every day.",
     "icon": "⚡"
@@ -5637,7 +5637,7 @@
     "v1": "catch",
     "v2": "caught",
     "v3": "caught",
-    "definition": "",
+    "definition": "bắt",
     "english_definition": "to catch",
     "example": "I catch every day.",
     "icon": "⚡"
@@ -5648,7 +5648,7 @@
     "v1": "chide",
     "v2": "chid/chided",
     "v3": "chid/chidden/chided",
-    "definition": "",
+    "definition": "mắng mỏ",
     "english_definition": "to chide",
     "example": "I chide every day.",
     "icon": "⚡"
@@ -5659,7 +5659,7 @@
     "v1": "choose",
     "v2": "chose",
     "v3": "chosen",
-    "definition": "",
+    "definition": "chọn",
     "english_definition": "to choose",
     "example": "I choose every day.",
     "icon": "⚡"
@@ -5670,7 +5670,7 @@
     "v1": "cleave",
     "v2": "clove/cleft/cleaved",
     "v3": "cloven/cleft/cleaved",
-    "definition": "",
+    "definition": "chia tách",
     "english_definition": "to cleave",
     "example": "I cleave every day.",
     "icon": "⚡"
@@ -5681,7 +5681,7 @@
     "v1": "cling",
     "v2": "clung",
     "v3": "clung",
-    "definition": "",
+    "definition": "bám chặt",
     "english_definition": "to cling",
     "example": "I cling every day.",
     "icon": "⚡"
@@ -5692,7 +5692,7 @@
     "v1": "clothe",
     "v2": "clothed/clad",
     "v3": "clothed/clad",
-    "definition": "",
+    "definition": "mặc",
     "english_definition": "to clothe",
     "example": "I clothe every day.",
     "icon": "⚡"
@@ -5703,7 +5703,7 @@
     "v1": "creep",
     "v2": "crept",
     "v3": "crept",
-    "definition": "",
+    "definition": "leo trườn",
     "english_definition": "to creep",
     "example": "I creep every day.",
     "icon": "⚡"
@@ -5714,7 +5714,7 @@
     "v1": "crossbreed",
     "v2": "crossbred",
     "v3": "crossbred",
-    "definition": "",
+    "definition": "lai giống",
     "english_definition": "to crossbreed",
     "example": "I crossbreed every day.",
     "icon": "⚡"
@@ -5725,7 +5725,7 @@
     "v1": "crow",
     "v2": "crew/crewed",
     "v3": "crowed",
-    "definition": "",
+    "definition": "gáy",
     "english_definition": "to crow",
     "example": "I crow every day.",
     "icon": "⚡"
@@ -5736,7 +5736,7 @@
     "v1": "daydream",
     "v2": "daydreamed/daydreamt",
     "v3": "daydreamed/daydreamt",
-    "definition": "",
+    "definition": "mơ mộng",
     "english_definition": "to daydream",
     "example": "I daydream every day.",
     "icon": "⚡"
@@ -5747,7 +5747,7 @@
     "v1": "deal",
     "v2": "dealt",
     "v3": "dealt",
-    "definition": "",
+    "definition": "xử lý",
     "english_definition": "to deal",
     "example": "I deal every day.",
     "icon": "⚡"
@@ -5758,7 +5758,7 @@
     "v1": "dig",
     "v2": "dug",
     "v3": "dug",
-    "definition": "",
+    "definition": "đào",
     "english_definition": "to dig",
     "example": "I dig every day.",
     "icon": "⚡"
@@ -5769,7 +5769,7 @@
     "v1": "disprove",
     "v2": "disproved",
     "v3": "disproved/disproven",
-    "definition": "",
+    "definition": "chứng minh sai",
     "english_definition": "to disprove",
     "example": "I disprove every day.",
     "icon": "⚡"
@@ -5780,7 +5780,7 @@
     "v1": "dive",
     "v2": "dove/dived",
     "v3": "dived",
-    "definition": "",
+    "definition": "lặn",
     "english_definition": "to dive",
     "example": "I dive every day.",
     "icon": "⚡"
@@ -5791,7 +5791,7 @@
     "v1": "draw",
     "v2": "drew",
     "v3": "drawn",
-    "definition": "",
+    "definition": "vẽ/kéo",
     "english_definition": "to draw",
     "example": "I draw every day.",
     "icon": "⚡"
@@ -5802,7 +5802,7 @@
     "v1": "dream",
     "v2": "dreamt/dreamed",
     "v3": "dreamt/dreamed",
-    "definition": "",
+    "definition": "mơ",
     "english_definition": "to dream",
     "example": "I dream every day.",
     "icon": "⚡"
@@ -5813,7 +5813,7 @@
     "v1": "dwell",
     "v2": "dwelt",
     "v3": "dwelt",
-    "definition": "",
+    "definition": "cư trú",
     "english_definition": "to dwell",
     "example": "I dwell every day.",
     "icon": "⚡"
@@ -5824,7 +5824,7 @@
     "v1": "feed",
     "v2": "fed",
     "v3": "fed",
-    "definition": "",
+    "definition": "cho ăn",
     "english_definition": "to feed",
     "example": "I feed every day.",
     "icon": "⚡"
@@ -5835,7 +5835,7 @@
     "v1": "fight",
     "v2": "fought",
     "v3": "fought",
-    "definition": "",
+    "definition": "chiến đấu",
     "english_definition": "to fight",
     "example": "I fight every day.",
     "icon": "⚡"
@@ -5846,7 +5846,7 @@
     "v1": "fit",
     "v2": "fitted/fit",
     "v3": "fitted/fit",
-    "definition": "",
+    "definition": "vừa khít",
     "english_definition": "to fit",
     "example": "I fit every day.",
     "icon": "⚡"
@@ -5857,7 +5857,7 @@
     "v1": "flee",
     "v2": "fled",
     "v3": "fled",
-    "definition": "",
+    "definition": "chạy trốn",
     "english_definition": "to flee",
     "example": "I flee every day.",
     "icon": "⚡"
@@ -5868,7 +5868,7 @@
     "v1": "fling",
     "v2": "flung",
     "v3": "flung",
-    "definition": "",
+    "definition": "ném mạnh",
     "english_definition": "to fling",
     "example": "I fling every day.",
     "icon": "⚡"
@@ -5879,7 +5879,7 @@
     "v1": "fly",
     "v2": "flew",
     "v3": "flown",
-    "definition": "",
+    "definition": "bay",
     "english_definition": "to fly",
     "example": "I fly every day.",
     "icon": "⚡"
@@ -5890,7 +5890,7 @@
     "v1": "forbear",
     "v2": "forbore",
     "v3": "forborne",
-    "definition": "",
+    "definition": "nhịn",
     "english_definition": "to forbear",
     "example": "I forbear every day.",
     "icon": "⚡"
@@ -5901,7 +5901,7 @@
     "v1": "forbid",
     "v2": "forbade/forbad",
     "v3": "forbidden",
-    "definition": "",
+    "definition": "cấm",
     "english_definition": "to forbid",
     "example": "I forbid every day.",
     "icon": "⚡"
@@ -5912,7 +5912,7 @@
     "v1": "forego (forgo)",
     "v2": "forewent",
     "v3": "foregone",
-    "definition": "",
+    "definition": "từ bỏ",
     "english_definition": "to forego (forgo)",
     "example": "I forego (forgo) every day.",
     "icon": "⚡"
@@ -5923,7 +5923,7 @@
     "v1": "foresee",
     "v2": "foresaw",
     "v3": "foreseen",
-    "definition": "",
+    "definition": "dự đoán",
     "english_definition": "to foresee",
     "example": "I foresee every day.",
     "icon": "⚡"
@@ -5934,7 +5934,7 @@
     "v1": "foretell",
     "v2": "foretold",
     "v3": "foretold",
-    "definition": "",
+    "definition": "tiên đoán",
     "english_definition": "to foretell",
     "example": "I foretell every day.",
     "icon": "⚡"
@@ -5945,7 +5945,7 @@
     "v1": "forget",
     "v2": "forgot",
     "v3": "forgotten",
-    "definition": "",
+    "definition": "quên",
     "english_definition": "to forget",
     "example": "I forget every day.",
     "icon": "❓"
@@ -5956,7 +5956,7 @@
     "v1": "forgive",
     "v2": "forgave",
     "v3": "forgiven",
-    "definition": "",
+    "definition": "tha thứ",
     "english_definition": "to forgive",
     "example": "I forgive every day.",
     "icon": "⚡"
@@ -5967,7 +5967,7 @@
     "v1": "forsake",
     "v2": "forsook",
     "v3": "forsaken",
-    "definition": "",
+    "definition": "từ bỏ",
     "english_definition": "to forsake",
     "example": "I forsake every day.",
     "icon": "⚡"
@@ -5978,7 +5978,7 @@
     "v1": "freeze",
     "v2": "froze",
     "v3": "frozen",
-    "definition": "",
+    "definition": "đông cứng",
     "english_definition": "to freeze",
     "example": "I freeze every day.",
     "icon": "⚡"
@@ -5989,7 +5989,7 @@
     "v1": "frostbite",
     "v2": "frostbit",
     "v3": "frostbitten",
-    "definition": "",
+    "definition": "bỏng lạnh",
     "english_definition": "to frostbite",
     "example": "I frostbite every day.",
     "icon": "⚡"
@@ -6000,7 +6000,7 @@
     "v1": "gild",
     "v2": "gilt/gilded",
     "v3": "gilt/gilded",
-    "definition": "",
+    "definition": "mạ vàng",
     "english_definition": "to gild",
     "example": "I gild every day.",
     "icon": "⚡"
@@ -6011,7 +6011,7 @@
     "v1": "gird",
     "v2": "girt/girded",
     "v3": "girt/girded",
-    "definition": "",
+    "definition": "thắt lưng",
     "english_definition": "to gird",
     "example": "I gird every day.",
     "icon": "⚡"
@@ -6022,7 +6022,7 @@
     "v1": "grind",
     "v2": "ground",
     "v3": "ground",
-    "definition": "",
+    "definition": "xay nghiền",
     "english_definition": "to grind",
     "example": "I grind every day.",
     "icon": "⚡"
@@ -6033,7 +6033,7 @@
     "v1": "hand-feed",
     "v2": "hand-fed",
     "v3": "hand-fed",
-    "definition": "",
+    "definition": "cho ăn bằng tay",
     "english_definition": "to hand-feed",
     "example": "I hand-feed every day.",
     "icon": "⚡"
@@ -6044,7 +6044,7 @@
     "v1": "handwrite",
     "v2": "handwrote",
     "v3": "handwritten",
-    "definition": "",
+    "definition": "viết tay",
     "english_definition": "to handwrite",
     "example": "I handwrite every day.",
     "icon": "⚡"
@@ -6055,7 +6055,7 @@
     "v1": "hang",
     "v2": "hung",
     "v3": "hung",
-    "definition": "",
+    "definition": "treo",
     "english_definition": "to hang",
     "example": "I hang every day.",
     "icon": "⚡"
@@ -6066,7 +6066,7 @@
     "v1": "heave",
     "v2": "hove/heaved",
     "v3": "hove/heaved",
-    "definition": "",
+    "definition": "nhấc nặng",
     "english_definition": "to heave",
     "example": "I heave every day.",
     "icon": "⚡"
@@ -6077,7 +6077,7 @@
     "v1": "hew",
     "v2": "hewed",
     "v3": "hewn/hewed",
-    "definition": "",
+    "definition": "đẵn",
     "english_definition": "to hew",
     "example": "I hew every day.",
     "icon": "⚡"
@@ -6088,7 +6088,7 @@
     "v1": "hide",
     "v2": "hid",
     "v3": "hidden",
-    "definition": "",
+    "definition": "giấu",
     "english_definition": "to hide",
     "example": "I hide every day.",
     "icon": "⚡"
@@ -6099,7 +6099,7 @@
     "v1": "hit",
     "v2": "hit",
     "v3": "hit",
-    "definition": "",
+    "definition": "đánh",
     "english_definition": "to hit",
     "example": "I hit every day.",
     "icon": "⚡"
@@ -6110,7 +6110,7 @@
     "v1": "hurt",
     "v2": "hurt",
     "v3": "hurt",
-    "definition": "",
+    "definition": "làm đau",
     "english_definition": "to hurt",
     "example": "I hurt every day.",
     "icon": "😢"
@@ -6121,7 +6121,7 @@
     "v1": "inbreed",
     "v2": "inbred",
     "v3": "inbred",
-    "definition": "",
+    "definition": "giao phối cận huyết",
     "english_definition": "to inbreed",
     "example": "I inbreed every day.",
     "icon": "⚡"
@@ -6132,7 +6132,7 @@
     "v1": "inlay",
     "v2": "inlaid",
     "v3": "inlaid",
-    "definition": "",
+    "definition": "khảm",
     "english_definition": "to inlay",
     "example": "I inlay every day.",
     "icon": "⚡"
@@ -6143,7 +6143,7 @@
     "v1": "input",
     "v2": "input",
     "v3": "input",
-    "definition": "",
+    "definition": "nhập",
     "english_definition": "to input",
     "example": "I input every day.",
     "icon": "⚡"
@@ -6154,7 +6154,7 @@
     "v1": "inset",
     "v2": "inset",
     "v3": "inset",
-    "definition": "",
+    "definition": "chèn",
     "english_definition": "to inset",
     "example": "I inset every day.",
     "icon": "⚡"
@@ -6165,7 +6165,7 @@
     "v1": "interbreed",
     "v2": "interbred",
     "v3": "interbred",
-    "definition": "",
+    "definition": "lai tạo",
     "english_definition": "to interbreed",
     "example": "I interbreed every day.",
     "icon": "⚡"
@@ -6176,7 +6176,7 @@
     "v1": "interweave",
     "v2": "interwove/interweaved",
     "v3": "interwoven/interweaved",
-    "definition": "",
+    "definition": "dệt xen",
     "english_definition": "to interweave",
     "example": "I interweave every day.",
     "icon": "⚡"
@@ -6187,7 +6187,7 @@
     "v1": "interwind",
     "v2": "interwound",
     "v3": "interwound",
-    "definition": "",
+    "definition": "quấn xen",
     "english_definition": "to interwind",
     "example": "I interwind every day.",
     "icon": "⚡"
@@ -6198,7 +6198,7 @@
     "v1": "jerry-build",
     "v2": "jerry-built",
     "v3": "jerry-built",
-    "definition": "",
+    "definition": "xây dởm",
     "english_definition": "to jerry-build",
     "example": "I jerry-build every day.",
     "icon": "⚡"
@@ -6209,7 +6209,7 @@
     "v1": "kneel",
     "v2": "knelt/kneeled",
     "v3": "knelt/kneeled",
-    "definition": "",
+    "definition": "quỳ",
     "english_definition": "to kneel",
     "example": "I kneel every day.",
     "icon": "⚡"
@@ -6220,7 +6220,7 @@
     "v1": "knit",
     "v2": "knit/knitted",
     "v3": "knit/knitted",
-    "definition": "",
+    "definition": "đan",
     "english_definition": "to knit",
     "example": "I knit every day.",
     "icon": "⚡"
@@ -6231,7 +6231,7 @@
     "v1": "lay",
     "v2": "laid",
     "v3": "laid",
-    "definition": "",
+    "definition": "đặt",
     "english_definition": "to lay",
     "example": "I lay every day.",
     "icon": "⚡"
@@ -6242,7 +6242,7 @@
     "v1": "lean",
     "v2": "leaned/leant",
     "v3": "leaned/leant",
-    "definition": "",
+    "definition": "dựa",
     "english_definition": "to lean",
     "example": "I lean every day.",
     "icon": "⚡"
@@ -6253,7 +6253,7 @@
     "v1": "leap",
     "v2": "leapt",
     "v3": "leapt",
-    "definition": "",
+    "definition": "nhảy",
     "english_definition": "to leap",
     "example": "I leap every day.",
     "icon": "⚡"
@@ -6264,7 +6264,7 @@
     "v1": "lend",
     "v2": "lent",
     "v3": "lent",
-    "definition": "",
+    "definition": "cho mượn",
     "english_definition": "to lend",
     "example": "I lend him my pen.",
     "icon": "⚡"
@@ -6275,7 +6275,7 @@
     "v1": "let",
     "v2": "let",
     "v3": "let",
-    "definition": "",
+    "definition": "để cho",
     "english_definition": "to let",
     "example": "I let every day.",
     "icon": "⚡"
@@ -6286,7 +6286,7 @@
     "v1": "light",
     "v2": "lit/lighted",
     "v3": "lit/lighted",
-    "definition": "",
+    "definition": "thắp sáng",
     "english_definition": "to light",
     "example": "I light every day.",
     "icon": "⚡"
@@ -6297,7 +6297,7 @@
     "v1": "lip-read",
     "v2": "lip-read",
     "v3": "lip-read",
-    "definition": "",
+    "definition": "đọc môi",
     "english_definition": "to lip-read",
     "example": "I lip-read every day.",
     "icon": "⚡"
@@ -6308,7 +6308,7 @@
     "v1": "mean",
     "v2": "meant",
     "v3": "meant",
-    "definition": "",
+    "definition": "nghĩa là",
     "english_definition": "to mean",
     "example": "I mean every day.",
     "icon": "⚡"
@@ -6319,7 +6319,7 @@
     "v1": "miscast",
     "v2": "miscast",
     "v3": "miscast",
-    "definition": "",
+    "definition": "chọn sai",
     "english_definition": "to miscast",
     "example": "I miscast every day.",
     "icon": "⚡"
@@ -6330,7 +6330,7 @@
     "v1": "misdeal",
     "v2": "misdealt",
     "v3": "misdealt",
-    "definition": "",
+    "definition": "phát sai",
     "english_definition": "to misdeal",
     "example": "I misdeal every day.",
     "icon": "⚡"
@@ -6341,7 +6341,7 @@
     "v1": "misdo",
     "v2": "misdid",
     "v3": "misdone",
-    "definition": "",
+    "definition": "làm sai",
     "english_definition": "to misdo",
     "example": "I misdo every day.",
     "icon": "⚡"
@@ -6352,7 +6352,7 @@
     "v1": "mishear",
     "v2": "misheard",
     "v3": "misheard",
-    "definition": "",
+    "definition": "nghe sai",
     "english_definition": "to mishear",
     "example": "I mishear every day.",
     "icon": "⚡"
@@ -6363,7 +6363,7 @@
     "v1": "mislay",
     "v2": "mislaid",
     "v3": "mislaid",
-    "definition": "",
+    "definition": "đặt nhầm",
     "english_definition": "to mislay",
     "example": "I mislay every day.",
     "icon": "⚡"
@@ -6374,7 +6374,7 @@
     "v1": "mislead",
     "v2": "misled",
     "v3": "misled",
-    "definition": "",
+    "definition": "dẫn sai",
     "english_definition": "to mislead",
     "example": "I mislead every day.",
     "icon": "⚡"
@@ -6385,7 +6385,7 @@
     "v1": "mislearn",
     "v2": "mislearned/mislearnt",
     "v3": "mislearned/mislearnt",
-    "definition": "",
+    "definition": "học sai",
     "english_definition": "to mislearn",
     "example": "I mislearn every day.",
     "icon": "⚡"
@@ -6396,7 +6396,7 @@
     "v1": "misread",
     "v2": "misread",
     "v3": "misread",
-    "definition": "",
+    "definition": "đọc sai",
     "english_definition": "to misread",
     "example": "I misread every day.",
     "icon": "⚡"
@@ -6407,7 +6407,7 @@
     "v1": "misset",
     "v2": "misset",
     "v3": "misset",
-    "definition": "",
+    "definition": "đặt nhầm",
     "english_definition": "to misset",
     "example": "I misset every day.",
     "icon": "⚡"
@@ -6418,7 +6418,7 @@
     "v1": "misspeak",
     "v2": "misspoke",
     "v3": "misspoken",
-    "definition": "",
+    "definition": "nói sai",
     "english_definition": "to misspeak",
     "example": "I misspeak every day.",
     "icon": "⚡"
@@ -6429,7 +6429,7 @@
     "v1": "misspell",
     "v2": "misspelt/misspelled",
     "v3": "misspelt/misspelled",
-    "definition": "",
+    "definition": "viết sai chính tả",
     "english_definition": "to misspell",
     "example": "I misspell every day.",
     "icon": "⚡"
@@ -6440,7 +6440,7 @@
     "v1": "misspend",
     "v2": "misspent",
     "v3": "misspent",
-    "definition": "",
+    "definition": "tiêu phí",
     "english_definition": "to misspend",
     "example": "I misspend every day.",
     "icon": "⚡"
@@ -6451,7 +6451,7 @@
     "v1": "mistake",
     "v2": "mistook",
     "v3": "mistaken",
-    "definition": "",
+    "definition": "nhầm lẫn",
     "english_definition": "to mistake",
     "example": "I mistake every day.",
     "icon": "⚡"
@@ -6462,7 +6462,7 @@
     "v1": "misteach",
     "v2": "mistaught",
     "v3": "mistaught",
-    "definition": "",
+    "definition": "dạy sai",
     "english_definition": "to misteach",
     "example": "I misteach every day.",
     "icon": "⚡"
@@ -6473,7 +6473,7 @@
     "v1": "misunderstand",
     "v2": "misunderstood",
     "v3": "misunderstood",
-    "definition": "",
+    "definition": "hiểu sai",
     "english_definition": "to misunderstand",
     "example": "I misunderstand every day.",
     "icon": "⚡"
@@ -6484,7 +6484,7 @@
     "v1": "miswrite",
     "v2": "miswrote",
     "v3": "miswritten",
-    "definition": "",
+    "definition": "viết sai",
     "english_definition": "to miswrite",
     "example": "I miswrite every day.",
     "icon": "⚡"
@@ -6495,7 +6495,7 @@
     "v1": "mow",
     "v2": "mowed",
     "v3": "mown/mowed",
-    "definition": "",
+    "definition": "cắt cỏ",
     "english_definition": "to mow",
     "example": "I mow every day.",
     "icon": "⚡"
@@ -6506,7 +6506,7 @@
     "v1": "offset",
     "v2": "offset",
     "v3": "offset",
-    "definition": "",
+    "definition": "bù đắp",
     "english_definition": "to offset",
     "example": "I offset every day.",
     "icon": "⚡"
@@ -6517,7 +6517,7 @@
     "v1": "outbid",
     "v2": "outbid",
     "v3": "outbid",
-    "definition": "",
+    "definition": "trả cao hơn",
     "english_definition": "to outbid",
     "example": "I outbid every day.",
     "icon": "⚡"
@@ -6528,7 +6528,7 @@
     "v1": "outbreed",
     "v2": "outbred",
     "v3": "outbred",
-    "definition": "",
+    "definition": "lai ngoài",
     "english_definition": "to outbreed",
     "example": "I outbreed every day.",
     "icon": "⚡"
@@ -6539,7 +6539,7 @@
     "v1": "outdo",
     "v2": "outdid",
     "v3": "outdone",
-    "definition": "",
+    "definition": "vượt mặt",
     "english_definition": "to outdo",
     "example": "I outdo every day.",
     "icon": "⚡"
@@ -6550,7 +6550,7 @@
     "v1": "outdraw",
     "v2": "outdrew",
     "v3": "outdrawn",
-    "definition": "",
+    "definition": "rút vũ khí nhanh hơn",
     "english_definition": "to outdraw",
     "example": "I outdraw every day.",
     "icon": "⚡"
@@ -6561,7 +6561,7 @@
     "v1": "outdrink",
     "v2": "outdrank",
     "v3": "outdrunk",
-    "definition": "",
+    "definition": "uống nhiều hơn",
     "english_definition": "to outdrink",
     "example": "I outdrink every day.",
     "icon": "⚡"
@@ -6572,7 +6572,7 @@
     "v1": "outdrive",
     "v2": "outdrove",
     "v3": "outdriven",
-    "definition": "",
+    "definition": "lái vượt",
     "english_definition": "to outdrive",
     "example": "I outdrive every day.",
     "icon": "⚡"
@@ -6583,7 +6583,7 @@
     "v1": "outfight",
     "v2": "outfought",
     "v3": "outfought",
-    "definition": "",
+    "definition": "đánh thắng",
     "english_definition": "to outfight",
     "example": "I outfight every day.",
     "icon": "⚡"
@@ -6594,7 +6594,7 @@
     "v1": "outfly",
     "v2": "outflew",
     "v3": "outflown",
-    "definition": "",
+    "definition": "bay vượt",
     "english_definition": "to outfly",
     "example": "I outfly every day.",
     "icon": "⚡"
@@ -6605,7 +6605,7 @@
     "v1": "outgrow",
     "v2": "outgrew",
     "v3": "outgrown",
-    "definition": "",
+    "definition": "lớn hơn",
     "english_definition": "to outgrow",
     "example": "I outgrow every day.",
     "icon": "⚡"
@@ -6616,7 +6616,7 @@
     "v1": "outleap",
     "v2": "outleaped/outleapt",
     "v3": "outleaped/outleapt",
-    "definition": "",
+    "definition": "nhảy xa hơn",
     "english_definition": "to outleap",
     "example": "I outleap every day.",
     "icon": "⚡"
@@ -6627,7 +6627,7 @@
     "v1": "outlie",
     "v2": "outlied",
     "v3": "outlied",
-    "definition": "",
+    "definition": "nói dối nhiều hơn",
     "english_definition": "to outlie",
     "example": "I outlie every day.",
     "icon": "⚡"
@@ -6638,7 +6638,7 @@
     "v1": "output",
     "v2": "output",
     "v3": "output",
-    "definition": "",
+    "definition": "xuất",
     "english_definition": "to output",
     "example": "I output every day.",
     "icon": "⚡"
@@ -6649,7 +6649,7 @@
     "v1": "outride",
     "v2": "outrode",
     "v3": "outridden",
-    "definition": "",
+    "definition": "cưỡi vượt",
     "english_definition": "to outride",
     "example": "I outride every day.",
     "icon": "⚡"
@@ -6660,7 +6660,7 @@
     "v1": "outrun",
     "v2": "outran",
     "v3": "outrun",
-    "definition": "",
+    "definition": "chạy vượt",
     "english_definition": "to outrun",
     "example": "I outrun every day.",
     "icon": "⚡"
@@ -6671,7 +6671,7 @@
     "v1": "outsell",
     "v2": "outsold",
     "v3": "outsold",
-    "definition": "",
+    "definition": "bán nhiều hơn",
     "english_definition": "to outsell",
     "example": "I outsell every day.",
     "icon": "⚡"
@@ -6682,7 +6682,7 @@
     "v1": "outshine",
     "v2": "outshined/outshone",
     "v3": "outshined/outshone",
-    "definition": "",
+    "definition": "sáng hơn",
     "english_definition": "to outshine",
     "example": "I outshine every day.",
     "icon": "⚡"
@@ -6693,7 +6693,7 @@
     "v1": "outshoot",
     "v2": "outshot",
     "v3": "outshot",
-    "definition": "",
+    "definition": "bắn giỏi hơn",
     "english_definition": "to outshoot",
     "example": "I outshoot every day.",
     "icon": "⚡"
@@ -6704,7 +6704,7 @@
     "v1": "outsing",
     "v2": "outsang",
     "v3": "outsung",
-    "definition": "",
+    "definition": "hát hay hơn",
     "english_definition": "to outsing",
     "example": "I outsing every day.",
     "icon": "⚡"
@@ -6715,7 +6715,7 @@
     "v1": "outsit",
     "v2": "outsat",
     "v3": "outsat",
-    "definition": "",
+    "definition": "ngồi lâu hơn",
     "english_definition": "to outsit",
     "example": "I outsit every day.",
     "icon": "⚡"
@@ -6726,7 +6726,7 @@
     "v1": "outsleep",
     "v2": "outslept",
     "v3": "outslept",
-    "definition": "",
+    "definition": "ngủ lâu hơn",
     "english_definition": "to outsleep",
     "example": "I outsleep every day.",
     "icon": "⚡"
@@ -6737,7 +6737,7 @@
     "v1": "outsmell",
     "v2": "outsmelled/outsmelt",
     "v3": "outsmelled/outsmelt",
-    "definition": "",
+    "definition": "ngửi tốt hơn",
     "english_definition": "to outsmell",
     "example": "I outsmell every day.",
     "icon": "⚡"
@@ -6748,7 +6748,7 @@
     "v1": "outspeak",
     "v2": "outspoke",
     "v3": "outspoken",
-    "definition": "",
+    "definition": "nói to hơn",
     "english_definition": "to outspeak",
     "example": "I outspeak every day.",
     "icon": "⚡"
@@ -6759,7 +6759,7 @@
     "v1": "outspeed",
     "v2": "outsped",
     "v3": "outsped",
-    "definition": "",
+    "definition": "nhanh hơn",
     "english_definition": "to outspeed",
     "example": "I outspeed every day.",
     "icon": "⚡"
@@ -6770,7 +6770,7 @@
     "v1": "outspend",
     "v2": "outspent",
     "v3": "outspent",
-    "definition": "",
+    "definition": "tiêu nhiều hơn",
     "english_definition": "to outspend",
     "example": "I outspend every day.",
     "icon": "⚡"
@@ -6781,7 +6781,7 @@
     "v1": "outswear",
     "v2": "outswore",
     "v3": "outsworn",
-    "definition": "",
+    "definition": "nói dối nhiều hơn",
     "english_definition": "to outswear",
     "example": "I outswear every day.",
     "icon": "⚡"
@@ -6792,7 +6792,7 @@
     "v1": "outswim",
     "v2": "outswam",
     "v3": "outswum",
-    "definition": "",
+    "definition": "bơi nhanh hơn",
     "english_definition": "to outswim",
     "example": "I outswim every day.",
     "icon": "⚡"
@@ -6803,7 +6803,7 @@
     "v1": "outthink",
     "v2": "outthought",
     "v3": "outthought",
-    "definition": "",
+    "definition": "suy nghĩ vượt",
     "english_definition": "to outthink",
     "example": "I outthink every day.",
     "icon": "⚡"
@@ -6814,7 +6814,7 @@
     "v1": "outthrow",
     "v2": "outthrew",
     "v3": "outthrown",
-    "definition": "",
+    "definition": "ném xa hơn",
     "english_definition": "to outthrow",
     "example": "I outthrow every day.",
     "icon": "⚡"
@@ -6825,7 +6825,7 @@
     "v1": "outwrite",
     "v2": "outwrote",
     "v3": "outwritten",
-    "definition": "",
+    "definition": "viết nhiều hơn",
     "english_definition": "to outwrite",
     "example": "I outwrite every day.",
     "icon": "⚡"
@@ -6836,7 +6836,7 @@
     "v1": "overbid",
     "v2": "overbid",
     "v3": "overbid",
-    "definition": "",
+    "definition": "trả cao quá",
     "english_definition": "to overbid",
     "example": "I overbid every day.",
     "icon": "⚡"
@@ -6847,7 +6847,7 @@
     "v1": "overbreed",
     "v2": "overbred",
     "v3": "overbred",
-    "definition": "",
+    "definition": "lai quá mức",
     "english_definition": "to overbreed",
     "example": "I overbreed every day.",
     "icon": "⚡"
@@ -6858,7 +6858,7 @@
     "v1": "overbuild",
     "v2": "overbuilt",
     "v3": "overbuilt",
-    "definition": "",
+    "definition": "xây quá tải",
     "english_definition": "to overbuild",
     "example": "I overbuild every day.",
     "icon": "⚡"
@@ -6869,7 +6869,7 @@
     "v1": "overbuy",
     "v2": "overbought",
     "v3": "overbought",
-    "definition": "",
+    "definition": "mua quá nhiều",
     "english_definition": "to overbuy",
     "example": "I overbuy every day.",
     "icon": "⚡"
@@ -6880,7 +6880,7 @@
     "v1": "overcome",
     "v2": "overcame",
     "v3": "overcome",
-    "definition": "",
+    "definition": "vượt qua",
     "english_definition": "to overcome",
     "example": "I overcome every day.",
     "icon": "⚡"
@@ -6891,7 +6891,7 @@
     "v1": "overdo",
     "v2": "overdid",
     "v3": "overdone",
-    "definition": "",
+    "definition": "làm quá mức",
     "english_definition": "to overdo",
     "example": "I overdo every day.",
     "icon": "⚡"
@@ -6902,7 +6902,7 @@
     "v1": "overdraw",
     "v2": "overdrew",
     "v3": "overdrawn",
-    "definition": "",
+    "definition": "rút quá",
     "english_definition": "to overdraw",
     "example": "I overdraw every day.",
     "icon": "⚡"
@@ -6913,7 +6913,7 @@
     "v1": "overdrink",
     "v2": "overdrank",
     "v3": "overdrunk",
-    "definition": "",
+    "definition": "uống quá nhiều",
     "english_definition": "to overdrink",
     "example": "I overdrink every day.",
     "icon": "⚡"
@@ -6924,7 +6924,7 @@
     "v1": "overeat",
     "v2": "overate",
     "v3": "overeaten",
-    "definition": "",
+    "definition": "ăn quá nhiều",
     "english_definition": "to overeat",
     "example": "I overeat every day.",
     "icon": "⚡"
@@ -6935,7 +6935,7 @@
     "v1": "overfeed",
     "v2": "overfed",
     "v3": "overfed",
-    "definition": "",
+    "definition": "cho ăn quá",
     "english_definition": "to overfeed",
     "example": "I overfeed every day.",
     "icon": "⚡"
@@ -6946,7 +6946,7 @@
     "v1": "overfly",
     "v2": "overflew",
     "v3": "overflown",
-    "definition": "",
+    "definition": "bay quá",
     "english_definition": "to overfly",
     "example": "I overfly every day.",
     "icon": "⚡"
@@ -6957,7 +6957,7 @@
     "v1": "overhang",
     "v2": "overhung",
     "v3": "overhung",
-    "definition": "",
+    "definition": "treo vượt",
     "english_definition": "to overhang",
     "example": "I overhang every day.",
     "icon": "⚡"
@@ -6968,7 +6968,7 @@
     "v1": "overhear",
     "v2": "overheard",
     "v3": "overheard",
-    "definition": "",
+    "definition": "nghe lỏm",
     "english_definition": "to overhear",
     "example": "I overhear every day.",
     "icon": "⚡"
@@ -6979,7 +6979,7 @@
     "v1": "overlay",
     "v2": "overlaid",
     "v3": "overlaid",
-    "definition": "",
+    "definition": "phủ lên",
     "english_definition": "to overlay",
     "example": "I overlay every day.",
     "icon": "⚡"
@@ -6990,7 +6990,7 @@
     "v1": "overpay",
     "v2": "overpaid",
     "v3": "overpaid",
-    "definition": "",
+    "definition": "trả quá",
     "english_definition": "to overpay",
     "example": "I overpay every day.",
     "icon": "⚡"
@@ -7001,7 +7001,7 @@
     "v1": "override",
     "v2": "overrode",
     "v3": "overridden",
-    "definition": "",
+    "definition": "ghi đè",
     "english_definition": "to override",
     "example": "I override every day.",
     "icon": "⚡"
@@ -7012,7 +7012,7 @@
     "v1": "overrun",
     "v2": "overran",
     "v3": "overrun",
-    "definition": "",
+    "definition": "chạy quá",
     "english_definition": "to overrun",
     "example": "I overrun every day.",
     "icon": "⚡"
@@ -7023,7 +7023,7 @@
     "v1": "oversee",
     "v2": "oversaw",
     "v3": "overseen",
-    "definition": "",
+    "definition": "giám sát",
     "english_definition": "to oversee",
     "example": "I oversee every day.",
     "icon": "⚡"
@@ -7034,7 +7034,7 @@
     "v1": "oversell",
     "v2": "oversold",
     "v3": "oversold",
-    "definition": "",
+    "definition": "bán quá",
     "english_definition": "to oversell",
     "example": "I oversell every day.",
     "icon": "⚡"
@@ -7045,7 +7045,7 @@
     "v1": "oversew",
     "v2": "oversewed",
     "v3": "oversewn/oversewed",
-    "definition": "",
+    "definition": "khâu quá",
     "english_definition": "to oversew",
     "example": "I oversew every day.",
     "icon": "⚡"
@@ -7056,7 +7056,7 @@
     "v1": "overshoot",
     "v2": "overshot",
     "v3": "overshot",
-    "definition": "",
+    "definition": "bắn quá",
     "english_definition": "to overshoot",
     "example": "I overshoot every day.",
     "icon": "⚡"
@@ -7067,7 +7067,7 @@
     "v1": "oversleep",
     "v2": "overslept",
     "v3": "overslept",
-    "definition": "",
+    "definition": "ngủ quên",
     "english_definition": "to oversleep",
     "example": "I oversleep every day.",
     "icon": "⚡"
@@ -7078,7 +7078,7 @@
     "v1": "overspeak",
     "v2": "overspoke",
     "v3": "overspoken",
-    "definition": "",
+    "definition": "nói quá",
     "english_definition": "to overspeak",
     "example": "I overspeak every day.",
     "icon": "⚡"
@@ -7089,7 +7089,7 @@
     "v1": "overspend",
     "v2": "overspent",
     "v3": "overspent",
-    "definition": "",
+    "definition": "tiêu quá",
     "english_definition": "to overspend",
     "example": "I overspend every day.",
     "icon": "⚡"
@@ -7100,7 +7100,7 @@
     "v1": "overspill",
     "v2": "overspilled/overspilt",
     "v3": "overspilled/overspilt",
-    "definition": "",
+    "definition": "tràn quá",
     "english_definition": "to overspill",
     "example": "I overspill every day.",
     "icon": "⚡"
@@ -7111,7 +7111,7 @@
     "v1": "overtake",
     "v2": "overtook",
     "v3": "overtaken",
-    "definition": "",
+    "definition": "vượt lên",
     "english_definition": "to overtake",
     "example": "I overtake every day.",
     "icon": "⚡"
@@ -7122,7 +7122,7 @@
     "v1": "overthink",
     "v2": "overthought",
     "v3": "overthought",
-    "definition": "",
+    "definition": "suy nghĩ quá",
     "english_definition": "to overthink",
     "example": "I overthink every day.",
     "icon": "⚡"
@@ -7133,7 +7133,7 @@
     "v1": "overthrow",
     "v2": "overthrew",
     "v3": "overthrown",
-    "definition": "",
+    "definition": "lật đổ",
     "english_definition": "to overthrow",
     "example": "I overthrow every day.",
     "icon": "⚡"
@@ -7144,7 +7144,7 @@
     "v1": "overwind",
     "v2": "overwound",
     "v3": "overwound",
-    "definition": "",
+    "definition": "vặn quá",
     "english_definition": "to overwind",
     "example": "I overwind every day.",
     "icon": "⚡"
@@ -7155,7 +7155,7 @@
     "v1": "overwrite",
     "v2": "overwrote",
     "v3": "overwritten",
-    "definition": "",
+    "definition": "ghi đè",
     "english_definition": "to overwrite",
     "example": "I overwrite every day.",
     "icon": "⚡"
@@ -7166,7 +7166,7 @@
     "v1": "partake",
     "v2": "partook",
     "v3": "partaken",
-    "definition": "",
+    "definition": "tham dự",
     "english_definition": "to partake",
     "example": "I partake every day.",
     "icon": "⚡"
@@ -7177,7 +7177,7 @@
     "v1": "plead",
     "v2": "pleaded/pled",
     "v3": "pleaded/pled",
-    "definition": "",
+    "definition": "kháng cáo",
     "english_definition": "to plead",
     "example": "I plead every day.",
     "icon": "⚡"
@@ -7188,7 +7188,7 @@
     "v1": "prebuild",
     "v2": "prebuilt",
     "v3": "prebuilt",
-    "definition": "",
+    "definition": "xây dựng trước",
     "english_definition": "to prebuild",
     "example": "I prebuild every day.",
     "icon": "⚡"
@@ -7199,7 +7199,7 @@
     "v1": "predo",
     "v2": "predid",
     "v3": "predone",
-    "definition": "",
+    "definition": "làm trước",
     "english_definition": "to predo",
     "example": "I predo every day.",
     "icon": "⚡"
@@ -7210,7 +7210,7 @@
     "v1": "premake",
     "v2": "premade",
     "v3": "premade",
-    "definition": "",
+    "definition": "làm trước",
     "english_definition": "to premake",
     "example": "I premake every day.",
     "icon": "⚡"
@@ -7221,7 +7221,7 @@
     "v1": "prepay",
     "v2": "prepaid",
     "v3": "prepaid",
-    "definition": "",
+    "definition": "trả trước",
     "english_definition": "to prepay",
     "example": "I prepay every day.",
     "icon": "⚡"
@@ -7232,7 +7232,7 @@
     "v1": "presell",
     "v2": "presold",
     "v3": "presold",
-    "definition": "",
+    "definition": "bán trước",
     "english_definition": "to presell",
     "example": "I presell every day.",
     "icon": "⚡"
@@ -7243,7 +7243,7 @@
     "v1": "preset",
     "v2": "preset",
     "v3": "preset",
-    "definition": "",
+    "definition": "đặt trước",
     "english_definition": "to preset",
     "example": "I preset every day.",
     "icon": "⚡"
@@ -7254,7 +7254,7 @@
     "v1": "preshrink",
     "v2": "preshrank",
     "v3": "preshrunk",
-    "definition": "",
+    "definition": "co trước",
     "english_definition": "to preshrink",
     "example": "I preshrink every day.",
     "icon": "⚡"
@@ -7265,7 +7265,7 @@
     "v1": "prove",
     "v2": "proved",
     "v3": "proven/proved",
-    "definition": "",
+    "definition": "chứng minh",
     "english_definition": "to prove",
     "example": "I prove every day.",
     "icon": "⚡"
@@ -7276,7 +7276,7 @@
     "v1": "quick-freeze",
     "v2": "quick-froze",
     "v3": "quick-frozen",
-    "definition": "",
+    "definition": "làm đông nhanh",
     "english_definition": "to quick-freeze",
     "example": "I quick-freeze every day.",
     "icon": "⚡"
@@ -7287,7 +7287,7 @@
     "v1": "quit",
     "v2": "quit/quitted",
     "v3": "quit/quitted",
-    "definition": "",
+    "definition": "bỏ",
     "english_definition": "to quit",
     "example": "I quit every day.",
     "icon": "⚡"
@@ -7298,7 +7298,7 @@
     "v1": "reawake",
     "v2": "reawoke",
     "v3": "reawaken",
-    "definition": "",
+    "definition": "thức lại",
     "english_definition": "to reawake",
     "example": "I reawake every day.",
     "icon": "⚡"
@@ -7309,7 +7309,7 @@
     "v1": "rebid",
     "v2": "rebid",
     "v3": "rebid",
-    "definition": "",
+    "definition": "đấu lại",
     "english_definition": "to rebid",
     "example": "I rebid every day.",
     "icon": "⚡"
@@ -7320,7 +7320,7 @@
     "v1": "rebind",
     "v2": "rebound",
     "v3": "rebound",
-    "definition": "",
+    "definition": "buộc lại",
     "english_definition": "to rebind",
     "example": "I rebind every day.",
     "icon": "⚡"
@@ -7331,7 +7331,7 @@
     "v1": "rebroadcast",
     "v2": "rebroadcast/rebroadcasted",
     "v3": "rebroadcast/rebroadcasted",
-    "definition": "",
+    "definition": "phát sóng lại",
     "english_definition": "to rebroadcast",
     "example": "I rebroadcast every day.",
     "icon": "⚡"
@@ -7342,7 +7342,7 @@
     "v1": "rebuild",
     "v2": "rebuilt",
     "v3": "rebuilt",
-    "definition": "",
+    "definition": "xây lại",
     "english_definition": "to rebuild",
     "example": "I rebuild every day.",
     "icon": "⚡"
@@ -7353,7 +7353,7 @@
     "v1": "recast",
     "v2": "recast",
     "v3": "recast",
-    "definition": "",
+    "definition": "đúc lại",
     "english_definition": "to recast",
     "example": "I recast every day.",
     "icon": "⚡"
@@ -7364,7 +7364,7 @@
     "v1": "recut",
     "v2": "recut",
     "v3": "recut",
-    "definition": "",
+    "definition": "cắt lại",
     "english_definition": "to recut",
     "example": "I recut every day.",
     "icon": "⚡"
@@ -7375,7 +7375,7 @@
     "v1": "redeal",
     "v2": "redealt",
     "v3": "redealt",
-    "definition": "",
+    "definition": "phát lại",
     "english_definition": "to redeal",
     "example": "I redeal every day.",
     "icon": "⚡"
@@ -7386,7 +7386,7 @@
     "v1": "redo",
     "v2": "redid",
     "v3": "redone",
-    "definition": "",
+    "definition": "làm lại",
     "english_definition": "to redo",
     "example": "I redo every day.",
     "icon": "⚡"
@@ -7397,7 +7397,7 @@
     "v1": "redraw",
     "v2": "redrew",
     "v3": "redrawn",
-    "definition": "",
+    "definition": "vẽ lại",
     "english_definition": "to redraw",
     "example": "I redraw every day.",
     "icon": "⚡"
@@ -7408,7 +7408,7 @@
     "v1": "refit",
     "v2": "refitted/refit",
     "v3": "refitted/refit",
-    "definition": "",
+    "definition": "sửa lại",
     "english_definition": "to refit",
     "example": "I refit every day.",
     "icon": "⚡"
@@ -7419,7 +7419,7 @@
     "v1": "regrind",
     "v2": "reground",
     "v3": "reground",
-    "definition": "",
+    "definition": "xay lại",
     "english_definition": "to regrind",
     "example": "I regrind every day.",
     "icon": "⚡"
@@ -7430,7 +7430,7 @@
     "v1": "regrow",
     "v2": "regrew",
     "v3": "regrown",
-    "definition": "",
+    "definition": "mọc lại",
     "english_definition": "to regrow",
     "example": "I regrow every day.",
     "icon": "⚡"
@@ -7441,7 +7441,7 @@
     "v1": "rehang",
     "v2": "rehung",
     "v3": "rehung",
-    "definition": "",
+    "definition": "treo lại",
     "english_definition": "to rehang",
     "example": "I rehang every day.",
     "icon": "⚡"
@@ -7452,7 +7452,7 @@
     "v1": "rehear",
     "v2": "reheard",
     "v3": "reheard",
-    "definition": "",
+    "definition": "nghe lại",
     "english_definition": "to rehear",
     "example": "I rehear every day.",
     "icon": "⚡"
@@ -7463,7 +7463,7 @@
     "v1": "reknit",
     "v2": "reknitted/reknit",
     "v3": "reknitted/reknit",
-    "definition": "",
+    "definition": "đan lại",
     "english_definition": "to reknit",
     "example": "I reknit every day.",
     "icon": "⚡"
@@ -7474,7 +7474,7 @@
     "v1": "relay",
     "v2": "relaid",
     "v3": "relaid",
-    "definition": "",
+    "definition": "chuyển tiếp",
     "english_definition": "to relay",
     "example": "I relay every day.",
     "icon": "⚡"
@@ -7485,7 +7485,7 @@
     "v1": "relearn",
     "v2": "relearned/relearnt",
     "v3": "relearned/relearnt",
-    "definition": "",
+    "definition": "học lại",
     "english_definition": "to relearn",
     "example": "I relearn every day.",
     "icon": "⚡"
@@ -7496,7 +7496,7 @@
     "v1": "relight",
     "v2": "relit/relighted",
     "v3": "relit/relighted",
-    "definition": "",
+    "definition": "thắp lại",
     "english_definition": "to relight",
     "example": "I relight every day.",
     "icon": "⚡"
@@ -7507,7 +7507,7 @@
     "v1": "remake",
     "v2": "remade",
     "v3": "remade",
-    "definition": "",
+    "definition": "làm lại",
     "english_definition": "to remake",
     "example": "I remake every day.",
     "icon": "⚡"
@@ -7518,7 +7518,7 @@
     "v1": "rend",
     "v2": "rent",
     "v3": "rent",
-    "definition": "",
+    "definition": "xé",
     "english_definition": "to rend",
     "example": "I rend every day.",
     "icon": "⚡"
@@ -7529,7 +7529,7 @@
     "v1": "repay",
     "v2": "repaid",
     "v3": "repaid",
-    "definition": "",
+    "definition": "trả lại",
     "english_definition": "to repay",
     "example": "I repay every day.",
     "icon": "⚡"
@@ -7540,7 +7540,7 @@
     "v1": "reread",
     "v2": "reread",
     "v3": "reread",
-    "definition": "",
+    "definition": "đọc lại",
     "english_definition": "to reread",
     "example": "I reread every day.",
     "icon": "⚡"
@@ -7551,7 +7551,7 @@
     "v1": "rerun",
     "v2": "reran",
     "v3": "rerun",
-    "definition": "",
+    "definition": "chạy lại",
     "english_definition": "to rerun",
     "example": "I rerun every day.",
     "icon": "⚡"
@@ -7562,7 +7562,7 @@
     "v1": "resell",
     "v2": "resold",
     "v3": "resold",
-    "definition": "",
+    "definition": "bán lại",
     "english_definition": "to resell",
     "example": "I resell every day.",
     "icon": "⚡"
@@ -7573,7 +7573,7 @@
     "v1": "resend",
     "v2": "resent",
     "v3": "resent",
-    "definition": "",
+    "definition": "gửi lại",
     "english_definition": "to resend",
     "example": "I resend every day.",
     "icon": "⚡"
@@ -7584,7 +7584,7 @@
     "v1": "resew",
     "v2": "resewed",
     "v3": "resewn/resewed",
-    "definition": "",
+    "definition": "khâu lại",
     "english_definition": "to resew",
     "example": "I resew every day.",
     "icon": "⚡"
@@ -7595,7 +7595,7 @@
     "v1": "retake",
     "v2": "retook",
     "v3": "retaken",
-    "definition": "",
+    "definition": "lấy lại",
     "english_definition": "to retake",
     "example": "I retake every day.",
     "icon": "⚡"
@@ -7606,7 +7606,7 @@
     "v1": "reteach",
     "v2": "retaught",
     "v3": "retaught",
-    "definition": "",
+    "definition": "dạy lại",
     "english_definition": "to reteach",
     "example": "I reteach every day.",
     "icon": "⚡"
@@ -7617,7 +7617,7 @@
     "v1": "retear",
     "v2": "retore",
     "v3": "retorn",
-    "definition": "",
+    "definition": "xé lại",
     "english_definition": "to retear",
     "example": "I retear every day.",
     "icon": "⚡"
@@ -7628,7 +7628,7 @@
     "v1": "retell",
     "v2": "retold",
     "v3": "retold",
-    "definition": "",
+    "definition": "kể lại",
     "english_definition": "to retell",
     "example": "I retell every day.",
     "icon": "⚡"
@@ -7639,7 +7639,7 @@
     "v1": "rethink",
     "v2": "rethought",
     "v3": "rethought",
-    "definition": "",
+    "definition": "suy nghĩ lại",
     "english_definition": "to rethink",
     "example": "I rethink every day.",
     "icon": "⚡"
@@ -7650,7 +7650,7 @@
     "v1": "retread",
     "v2": "retread",
     "v3": "retread",
-    "definition": "",
+    "definition": "lốp lại",
     "english_definition": "to retread",
     "example": "I retread every day.",
     "icon": "⚡"
@@ -7661,7 +7661,7 @@
     "v1": "retrofit",
     "v2": "retrofitted/retrofit",
     "v3": "retrofitted/retrofit",
-    "definition": "",
+    "definition": "nâng cấp",
     "english_definition": "to retrofit",
     "example": "I retrofit every day.",
     "icon": "⚡"
@@ -7672,7 +7672,7 @@
     "v1": "rewake",
     "v2": "rewoke/rewaked",
     "v3": "rewaken/rewaked",
-    "definition": "",
+    "definition": "thức lại",
     "english_definition": "to rewake",
     "example": "I rewake every day.",
     "icon": "⚡"
@@ -7683,7 +7683,7 @@
     "v1": "rewear",
     "v2": "rewore",
     "v3": "reworn",
-    "definition": "",
+    "definition": "mặc lại",
     "english_definition": "to rewear",
     "example": "I rewear every day.",
     "icon": "⚡"
@@ -7694,7 +7694,7 @@
     "v1": "reweave",
     "v2": "rewove/reweaved",
     "v3": "rewoven/reweaved",
-    "definition": "",
+    "definition": "dệt lại",
     "english_definition": "to reweave",
     "example": "I reweave every day.",
     "icon": "⚡"
@@ -7705,7 +7705,7 @@
     "v1": "rewed",
     "v2": "rewed/rewedded",
     "v3": "rewed/rewedded",
-    "definition": "",
+    "definition": "kết hôn lại",
     "english_definition": "to rewed",
     "example": "I rewed every day.",
     "icon": "⚡"
@@ -7716,7 +7716,7 @@
     "v1": "rewet",
     "v2": "rewet/rewetted",
     "v3": "rewet/rewetted",
-    "definition": "",
+    "definition": "ướt lại",
     "english_definition": "to rewet",
     "example": "I rewet every day.",
     "icon": "⚡"
@@ -7727,7 +7727,7 @@
     "v1": "rewin",
     "v2": "rewon",
     "v3": "rewon",
-    "definition": "",
+    "definition": "thắng lại",
     "english_definition": "to rewin",
     "example": "I rewin every day.",
     "icon": "⚡"
@@ -7738,7 +7738,7 @@
     "v1": "rewind",
     "v2": "rewound",
     "v3": "rewound",
-    "definition": "",
+    "definition": "quay lại",
     "english_definition": "to rewind",
     "example": "I rewind every day.",
     "icon": "⚡"
@@ -7749,7 +7749,7 @@
     "v1": "rid",
     "v2": "rid",
     "v3": "rid",
-    "definition": "",
+    "definition": "loại bỏ",
     "english_definition": "to rid",
     "example": "I rid every day.",
     "icon": "⚡"
@@ -7760,7 +7760,7 @@
     "v1": "saw",
     "v2": "sawed",
     "v3": "sawn",
-    "definition": "",
+    "definition": "cưa",
     "english_definition": "to saw",
     "example": "I saw every day.",
     "icon": "⚡"
@@ -7771,7 +7771,7 @@
     "v1": "seek",
     "v2": "sought",
     "v3": "sought",
-    "definition": "",
+    "definition": "tìm kiếm",
     "english_definition": "to seek",
     "example": "I seek every day.",
     "icon": "⚡"
@@ -7782,7 +7782,7 @@
     "v1": "sell",
     "v2": "sold",
     "v3": "sold",
-    "definition": "",
+    "definition": "bán",
     "english_definition": "to sell",
     "example": "I sell every day.",
     "icon": "💰"
@@ -7793,7 +7793,7 @@
     "v1": "sew",
     "v2": "sewed",
     "v3": "sewn/sewed",
-    "definition": "",
+    "definition": "khâu",
     "english_definition": "to sew",
     "example": "I sew every day.",
     "icon": "⚡"
@@ -7804,7 +7804,7 @@
     "v1": "shake",
     "v2": "shook",
     "v3": "shaken",
-    "definition": "",
+    "definition": "lắc",
     "english_definition": "to shake",
     "example": "I shake every day.",
     "icon": "🤝"
@@ -7815,7 +7815,7 @@
     "v1": "shave",
     "v2": "shaved",
     "v3": "shaved/shaven",
-    "definition": "",
+    "definition": "cạo",
     "english_definition": "to shave",
     "example": "I shave every day.",
     "icon": "⚡"
@@ -7826,7 +7826,7 @@
     "v1": "shear",
     "v2": "sheared",
     "v3": "shorn",
-    "definition": "",
+    "definition": "xén",
     "english_definition": "to shear",
     "example": "I shear every day.",
     "icon": "⚡"
@@ -7837,7 +7837,7 @@
     "v1": "shed",
     "v2": "shed",
     "v3": "shed",
-    "definition": "",
+    "definition": "rụng",
     "english_definition": "to shed",
     "example": "I shed every day.",
     "icon": "⚡"
@@ -7848,7 +7848,7 @@
     "v1": "shine",
     "v2": "shone",
     "v3": "shone",
-    "definition": "",
+    "definition": "sáng",
     "english_definition": "to shine",
     "example": "I shine every day.",
     "icon": "⚡"
@@ -7859,7 +7859,7 @@
     "v1": "shit",
     "v2": "shit/shat/shitted",
     "v3": "shit/shat/shitted",
-    "definition": "",
+    "definition": "đi ngoài",
     "english_definition": "to shit",
     "example": "I shit every day.",
     "icon": "⚡"
@@ -7870,7 +7870,7 @@
     "v1": "shoot",
     "v2": "shot",
     "v3": "shot",
-    "definition": "",
+    "definition": "bắn",
     "english_definition": "to shoot",
     "example": "I shoot every day.",
     "icon": "🎯"
@@ -7881,7 +7881,7 @@
     "v1": "shrink",
     "v2": "shrank",
     "v3": "shrunk",
-    "definition": "",
+    "definition": "co lại",
     "english_definition": "to shrink",
     "example": "I shrink every day.",
     "icon": "⚡"
@@ -7892,7 +7892,7 @@
     "v1": "shut",
     "v2": "shut",
     "v3": "shut",
-    "definition": "",
+    "definition": "đóng",
     "english_definition": "to shut",
     "example": "I shut every day.",
     "icon": "🚪"
@@ -7903,7 +7903,7 @@
     "v1": "sight-read",
     "v2": "sight-read",
     "v3": "sight-read",
-    "definition": "",
+    "definition": "đọc nhạc",
     "english_definition": "to sight-read",
     "example": "I sight-read every day.",
     "icon": "⚡"
@@ -7914,7 +7914,7 @@
     "v1": "sing",
     "v2": "sang",
     "v3": "sung",
-    "definition": "",
+    "definition": "hát",
     "english_definition": "to sing",
     "example": "I sing every day.",
     "icon": "🎤"
@@ -7925,7 +7925,7 @@
     "v1": "sink",
     "v2": "sank",
     "v3": "sunk",
-    "definition": "",
+    "definition": "chìm",
     "english_definition": "to sink",
     "example": "I sink every day.",
     "icon": "⬇️"
@@ -7936,7 +7936,7 @@
     "v1": "slay",
     "v2": "slew",
     "v3": "slain",
-    "definition": "",
+    "definition": "giết",
     "english_definition": "to slay",
     "example": "I slay every day.",
     "icon": "⚡"
@@ -7947,7 +7947,7 @@
     "v1": "slide",
     "v2": "slid",
     "v3": "slid",
-    "definition": "",
+    "definition": "trượt",
     "english_definition": "to slide",
     "example": "I slide every day.",
     "icon": "⚡"
@@ -7958,7 +7958,7 @@
     "v1": "sling",
     "v2": "slung",
     "v3": "slung",
-    "definition": "",
+    "definition": "ném",
     "english_definition": "to sling",
     "example": "I sling every day.",
     "icon": "⚡"
@@ -7969,7 +7969,7 @@
     "v1": "slink",
     "v2": "slunk",
     "v3": "slunk",
-    "definition": "",
+    "definition": "lẻn",
     "english_definition": "to slink",
     "example": "I slink every day.",
     "icon": "⚡"
@@ -7980,7 +7980,7 @@
     "v1": "slit",
     "v2": "slit",
     "v3": "slit",
-    "definition": "",
+    "definition": "rạch",
     "english_definition": "to slit",
     "example": "I slit every day.",
     "icon": "⚡"
@@ -7991,7 +7991,7 @@
     "v1": "smell",
     "v2": "smelt",
     "v3": "smelt",
-    "definition": "",
+    "definition": "ngửi",
     "english_definition": "to smell",
     "example": "I smell every day.",
     "icon": "👃"
@@ -8002,7 +8002,7 @@
     "v1": "smite",
     "v2": "smote",
     "v3": "smitten",
-    "definition": "",
+    "definition": "đánh",
     "english_definition": "to smite",
     "example": "I smite every day.",
     "icon": "⚡"
@@ -8013,7 +8013,7 @@
     "v1": "sneak",
     "v2": "sneaked/snuck",
     "v3": "sneaked/snuck",
-    "definition": "",
+    "definition": "lẻn",
     "english_definition": "to sneak",
     "example": "I sneak every day.",
     "icon": "⚡"
@@ -8024,7 +8024,7 @@
     "v1": "sow",
     "v2": "sowed",
     "v3": "sown/sewed",
-    "definition": "",
+    "definition": "gieo",
     "english_definition": "to sow",
     "example": "I sow every day.",
     "icon": "⚡"
@@ -8035,7 +8035,7 @@
     "v1": "speed",
     "v2": "sped/speeded",
     "v3": "sped/speeded",
-    "definition": "",
+    "definition": "tăng tốc",
     "english_definition": "to speed",
     "example": "I speed every day.",
     "icon": "⚡"
@@ -8046,7 +8046,7 @@
     "v1": "spell",
     "v2": "spelt/spelled",
     "v3": "spelt/spelled",
-    "definition": "",
+    "definition": "đánh vần",
     "english_definition": "to spell",
     "example": "I spell every day.",
     "icon": "⚡"
@@ -8057,7 +8057,7 @@
     "v1": "spill",
     "v2": "spilt/spilled",
     "v3": "spilt/spilled",
-    "definition": "",
+    "definition": "đổ tràn",
     "english_definition": "to spill",
     "example": "I spill every day.",
     "icon": "⚡"
@@ -8068,7 +8068,7 @@
     "v1": "spin",
     "v2": "spun/span",
     "v3": "spun",
-    "definition": "",
+    "definition": "quay",
     "english_definition": "to spin",
     "example": "I spin every day.",
     "icon": "⚡"
@@ -8079,7 +8079,7 @@
     "v1": "spit",
     "v2": "spat",
     "v3": "spat",
-    "definition": "",
+    "definition": "nhổ",
     "english_definition": "to spit",
     "example": "I spit every day.",
     "icon": "⚡"
@@ -8090,7 +8090,7 @@
     "v1": "spoon-feed",
     "v2": "spoon-fed",
     "v3": "spoon-fed",
-    "definition": "",
+    "definition": "cho ăn bằng thìa",
     "english_definition": "to spoon-feed",
     "example": "I spoon-feed every day.",
     "icon": "⚡"
@@ -8101,7 +8101,7 @@
     "v1": "spread",
     "v2": "spread",
     "v3": "spread",
-    "definition": "",
+    "definition": "trải rộng",
     "english_definition": "to spread",
     "example": "I spread every day.",
     "icon": "⚡"
@@ -8112,7 +8112,7 @@
     "v1": "spring",
     "v2": "sprang",
     "v3": "sprung",
-    "definition": "",
+    "definition": "bật",
     "english_definition": "to spring",
     "example": "I spring every day.",
     "icon": "⚡"
@@ -8123,7 +8123,7 @@
     "v1": "stave",
     "v2": "stove/staved",
     "v3": "stove/staved",
-    "definition": "",
+    "definition": "đâm thủng",
     "english_definition": "to stave",
     "example": "I stave every day.",
     "icon": "⚡"
@@ -8134,7 +8134,7 @@
     "v1": "steal",
     "v2": "stole",
     "v3": "stolen",
-    "definition": "",
+    "definition": "ăn cắp",
     "english_definition": "to steal",
     "example": "I steal every day.",
     "icon": "⚡"
@@ -8145,7 +8145,7 @@
     "v1": "stick",
     "v2": "stuck",
     "v3": "stuck",
-    "definition": "",
+    "definition": "dán",
     "english_definition": "to stick",
     "example": "I stick every day.",
     "icon": "📌"
@@ -8156,7 +8156,7 @@
     "v1": "sting",
     "v2": "stung",
     "v3": "stung",
-    "definition": "",
+    "definition": "chích",
     "english_definition": "to sting",
     "example": "I sting every day.",
     "icon": "⚡"
@@ -8167,7 +8167,7 @@
     "v1": "stink",
     "v2": "stunk/stank",
     "v3": "stunk",
-    "definition": "",
+    "definition": "hôi",
     "english_definition": "to stink",
     "example": "I stink every day.",
     "icon": "⚡"
@@ -8178,7 +8178,7 @@
     "v1": "strew",
     "v2": "strewed",
     "v3": "strewn/strewed",
-    "definition": "",
+    "definition": "rải",
     "english_definition": "to strew",
     "example": "I strew every day.",
     "icon": "⚡"
@@ -8189,7 +8189,7 @@
     "v1": "stride",
     "v2": "strode",
     "v3": "stridden",
-    "definition": "",
+    "definition": "sải bước",
     "english_definition": "to stride",
     "example": "I stride every day.",
     "icon": "⚡"
@@ -8200,7 +8200,7 @@
     "v1": "strike",
     "v2": "struck",
     "v3": "struck",
-    "definition": "",
+    "definition": "đánh",
     "english_definition": "to strike",
     "example": "I strike every day.",
     "icon": "⚡"
@@ -8211,7 +8211,7 @@
     "v1": "string",
     "v2": "strung",
     "v3": "strung",
-    "definition": "",
+    "definition": "buộc dây",
     "english_definition": "to string",
     "example": "I string every day.",
     "icon": "⚡"
@@ -8222,7 +8222,7 @@
     "v1": "strive",
     "v2": "strove",
     "v3": "striven",
-    "definition": "",
+    "definition": "phấn đấu",
     "english_definition": "to strive",
     "example": "I strive every day.",
     "icon": "⚡"
@@ -8233,7 +8233,7 @@
     "v1": "sublet",
     "v2": "sublet",
     "v3": "sublet",
-    "definition": "",
+    "definition": "cho thuê lại",
     "english_definition": "to sublet",
     "example": "I sublet every day.",
     "icon": "⚡"
@@ -8244,7 +8244,7 @@
     "v1": "sunburn",
     "v2": "sunburned/sunburnt",
     "v3": "sunburned/sunburnt",
-    "definition": "",
+    "definition": "cháy nắng",
     "english_definition": "to sunburn",
     "example": "I sunburn every day.",
     "icon": "⚡"
@@ -8255,7 +8255,7 @@
     "v1": "swear",
     "v2": "swore",
     "v3": "sworn",
-    "definition": "",
+    "definition": "thề",
     "english_definition": "to swear",
     "example": "I swear every day.",
     "icon": "⚡"
@@ -8266,7 +8266,7 @@
     "v1": "sweat",
     "v2": "sweat/sweated",
     "v3": "sweat/sweated",
-    "definition": "",
+    "definition": "đổ mồ hôi",
     "english_definition": "to sweat",
     "example": "I sweat every day.",
     "icon": "⚡"
@@ -8277,7 +8277,7 @@
     "v1": "sweep",
     "v2": "swept",
     "v3": "swept",
-    "definition": "",
+    "definition": "quét",
     "english_definition": "to sweep",
     "example": "I sweep every day.",
     "icon": "⚡"
@@ -8288,7 +8288,7 @@
     "v1": "swell",
     "v2": "swelled",
     "v3": "swollen/swelled",
-    "definition": "",
+    "definition": "sưng",
     "english_definition": "to swell",
     "example": "I swell every day.",
     "icon": "⚡"
@@ -8299,7 +8299,7 @@
     "v1": "swim",
     "v2": "swam",
     "v3": "swum",
-    "definition": "",
+    "definition": "bơi",
     "english_definition": "to swim",
     "example": "I swim every day.",
     "icon": "⚡"
@@ -8310,7 +8310,7 @@
     "v1": "swing",
     "v2": "swung",
     "v3": "swung",
-    "definition": "",
+    "definition": "đu",
     "english_definition": "to swing",
     "example": "I swing every day.",
     "icon": "⚡"
@@ -8321,7 +8321,7 @@
     "v1": "telecast",
     "v2": "telecast",
     "v3": "telecast",
-    "definition": "",
+    "definition": "truyền hình",
     "english_definition": "to telecast",
     "example": "I telecast every day.",
     "icon": "⚡"
@@ -8332,7 +8332,7 @@
     "v1": "test-drive",
     "v2": "test-drove",
     "v3": "test-driven",
-    "definition": "",
+    "definition": "thử xe",
     "english_definition": "to test-drive",
     "example": "I test-drive every day.",
     "icon": "⚡"
@@ -8343,7 +8343,7 @@
     "v1": "test-fly",
     "v2": "test-flew",
     "v3": "test-flown",
-    "definition": "",
+    "definition": "thử bay",
     "english_definition": "to test-fly",
     "example": "I test-fly every day.",
     "icon": "⚡"
@@ -8354,7 +8354,7 @@
     "v1": "thrust",
     "v2": "thrust",
     "v3": "thrust",
-    "definition": "",
+    "definition": "đẩy",
     "english_definition": "to thrust",
     "example": "I thrust every day.",
     "icon": "⚡"
@@ -8365,7 +8365,7 @@
     "v1": "tread",
     "v2": "trod",
     "v3": "trodden/trod",
-    "definition": "",
+    "definition": "giẫm",
     "english_definition": "to tread",
     "example": "I tread every day.",
     "icon": "⚡"
@@ -8376,7 +8376,7 @@
     "v1": "typecast",
     "v2": "typecast",
     "v3": "typecast",
-    "definition": "",
+    "definition": "đóng vai",
     "english_definition": "to typecast",
     "example": "I typecast every day.",
     "icon": "⚡"
@@ -8387,7 +8387,7 @@
     "v1": "typeset",
     "v2": "typeset",
     "v3": "typeset",
-    "definition": "",
+    "definition": "sắp chữ",
     "english_definition": "to typeset",
     "example": "I typeset every day.",
     "icon": "⚡"
@@ -8398,7 +8398,7 @@
     "v1": "typewrite",
     "v2": "typewrote",
     "v3": "typewritten",
-    "definition": "",
+    "definition": "đánh máy",
     "english_definition": "to typewrite",
     "example": "I typewrite every day.",
     "icon": "⚡"
@@ -8409,7 +8409,7 @@
     "v1": "unbend",
     "v2": "unbent",
     "v3": "unbent",
-    "definition": "",
+    "definition": "uốn thẳng",
     "english_definition": "to unbend",
     "example": "I unbend every day.",
     "icon": "⚡"
@@ -8420,7 +8420,7 @@
     "v1": "unbind",
     "v2": "unbound",
     "v3": "unbound",
-    "definition": "",
+    "definition": "mở",
     "english_definition": "to unbind",
     "example": "I unbind every day.",
     "icon": "⚡"
@@ -8431,7 +8431,7 @@
     "v1": "unclothe",
     "v2": "unclothed/unclad",
     "v3": "unclothed/unclad",
-    "definition": "",
+    "definition": "cởi",
     "english_definition": "to unclothe",
     "example": "I unclothe every day.",
     "icon": "⚡"
@@ -8442,7 +8442,7 @@
     "v1": "underbid",
     "v2": "underbid",
     "v3": "underbid",
-    "definition": "",
+    "definition": "trả thấp",
     "english_definition": "to underbid",
     "example": "I underbid every day.",
     "icon": "⚡"
@@ -8453,7 +8453,7 @@
     "v1": "undercut",
     "v2": "undercut",
     "v3": "undercut",
-    "definition": "",
+    "definition": "cắt dưới",
     "english_definition": "to undercut",
     "example": "I undercut every day.",
     "icon": "⚡"
@@ -8464,7 +8464,7 @@
     "v1": "underfeed",
     "v2": "underfed",
     "v3": "underfed",
-    "definition": "",
+    "definition": "cho ăn thiếu",
     "english_definition": "to underfeed",
     "example": "I underfeed every day.",
     "icon": "⚡"
@@ -8475,7 +8475,7 @@
     "v1": "undergo",
     "v2": "underwent",
     "v3": "undergone",
-    "definition": "",
+    "definition": "trải qua",
     "english_definition": "to undergo",
     "example": "I undergo every day.",
     "icon": "⚡"
@@ -8486,7 +8486,7 @@
     "v1": "underlie",
     "v2": "underlay",
     "v3": "underlain",
-    "definition": "",
+    "definition": "nằm dưới",
     "english_definition": "to underlie",
     "example": "I underlie every day.",
     "icon": "⚡"
@@ -8497,7 +8497,7 @@
     "v1": "underpay",
     "v2": "underpaid",
     "v3": "underpaid",
-    "definition": "",
+    "definition": "trả thiếu",
     "english_definition": "to underpay",
     "example": "I underpay every day.",
     "icon": "⚡"
@@ -8508,7 +8508,7 @@
     "v1": "undersell",
     "v2": "undersold",
     "v3": "undersold",
-    "definition": "",
+    "definition": "bán dưới giá",
     "english_definition": "to undersell",
     "example": "I undersell every day.",
     "icon": "⚡"
@@ -8519,7 +8519,7 @@
     "v1": "underspend",
     "v2": "underspent",
     "v3": "underspent",
-    "definition": "",
+    "definition": "tiêu ít",
     "english_definition": "to underspend",
     "example": "I underspend every day.",
     "icon": "⚡"
@@ -8530,7 +8530,7 @@
     "v1": "undertake",
     "v2": "undertook",
     "v3": "undertaken",
-    "definition": "",
+    "definition": "đảm nhận",
     "english_definition": "to undertake",
     "example": "I undertake every day.",
     "icon": "⚡"
@@ -8541,7 +8541,7 @@
     "v1": "underwrite",
     "v2": "underwrote",
     "v3": "underwritten",
-    "definition": "",
+    "definition": "bảo lãnh",
     "english_definition": "to underwrite",
     "example": "I underwrite every day.",
     "icon": "⚡"
@@ -8552,7 +8552,7 @@
     "v1": "undo",
     "v2": "undid",
     "v3": "undone",
-    "definition": "",
+    "definition": "hoàn tác",
     "english_definition": "to undo",
     "example": "I undo every day.",
     "icon": "⚡"
@@ -8563,7 +8563,7 @@
     "v1": "unfreeze",
     "v2": "unfroze",
     "v3": "unfrozen",
-    "definition": "",
+    "definition": "rã đông",
     "english_definition": "to unfreeze",
     "example": "I unfreeze every day.",
     "icon": "⚡"
@@ -8574,7 +8574,7 @@
     "v1": "unhang",
     "v2": "unhung",
     "v3": "unhung",
-    "definition": "",
+    "definition": "gỡ",
     "english_definition": "to unhang",
     "example": "I unhang every day.",
     "icon": "⚡"
@@ -8585,7 +8585,7 @@
     "v1": "unhide",
     "v2": "unhid",
     "v3": "unhidden",
-    "definition": "",
+    "definition": "hiện",
     "english_definition": "to unhide",
     "example": "I unhide every day.",
     "icon": "⚡"
@@ -8596,7 +8596,7 @@
     "v1": "unknit",
     "v2": "unknitted/unknit",
     "v3": "unknitted/unknit",
-    "definition": "",
+    "definition": "tháo đan",
     "english_definition": "to unknit",
     "example": "I unknit every day.",
     "icon": "⚡"
@@ -8607,7 +8607,7 @@
     "v1": "unlearn",
     "v2": "unlearned/unlearnt",
     "v3": "unlearned/unlearnt",
-    "definition": "",
+    "definition": "quên đi",
     "english_definition": "to unlearn",
     "example": "I unlearn every day.",
     "icon": "⚡"
@@ -8618,7 +8618,7 @@
     "v1": "unsew",
     "v2": "unsewed",
     "v3": "unsewn/unsewed",
-    "definition": "",
+    "definition": "tháo khâu",
     "english_definition": "to unsew",
     "example": "I unsew every day.",
     "icon": "⚡"
@@ -8629,7 +8629,7 @@
     "v1": "unsling",
     "v2": "unslung",
     "v3": "unslung",
-    "definition": "",
+    "definition": "tháo băng",
     "english_definition": "to unsling",
     "example": "I unsling every day.",
     "icon": "⚡"
@@ -8640,7 +8640,7 @@
     "v1": "unspin",
     "v2": "unspun",
     "v3": "unspun",
-    "definition": "",
+    "definition": "giải quay",
     "english_definition": "to unspin",
     "example": "I unspin every day.",
     "icon": "⚡"
@@ -8651,7 +8651,7 @@
     "v1": "unstick",
     "v2": "unstuck",
     "v3": "unstuck",
-    "definition": "",
+    "definition": "tháo dán",
     "english_definition": "to unstick",
     "example": "I unstick every day.",
     "icon": "⚡"
@@ -8662,7 +8662,7 @@
     "v1": "unstring",
     "v2": "unstrung",
     "v3": "unstrung",
-    "definition": "",
+    "definition": "tháo dây",
     "english_definition": "to unstring",
     "example": "I unstring every day.",
     "icon": "⚡"
@@ -8673,7 +8673,7 @@
     "v1": "unweave",
     "v2": "unwove/unweaved",
     "v3": "unwoven/unweaved",
-    "definition": "",
+    "definition": "tháo dệt",
     "english_definition": "to unweave",
     "example": "I unweave every day.",
     "icon": "⚡"
@@ -8684,7 +8684,7 @@
     "v1": "unwind",
     "v2": "unwound",
     "v3": "unwound",
-    "definition": "",
+    "definition": "tháo",
     "english_definition": "to unwind",
     "example": "I unwind every day.",
     "icon": "⚡"
@@ -8695,7 +8695,7 @@
     "v1": "uphold",
     "v2": "upheld",
     "v3": "upheld",
-    "definition": "",
+    "definition": "duy trì",
     "english_definition": "to uphold",
     "example": "I uphold every day.",
     "icon": "⚡"
@@ -8706,7 +8706,7 @@
     "v1": "upset",
     "v2": "upset",
     "v3": "upset",
-    "definition": "",
+    "definition": "làm phiền",
     "english_definition": "to upset",
     "example": "I upset every day.",
     "icon": "⚡"
@@ -8717,7 +8717,7 @@
     "v1": "wake",
     "v2": "woke/waked",
     "v3": "woken/waked",
-    "definition": "",
+    "definition": "thức dậy",
     "english_definition": "to wake",
     "example": "I wake every day.",
     "icon": "⚡"
@@ -8728,7 +8728,7 @@
     "v1": "waylay",
     "v2": "waylaid",
     "v3": "waylaid",
-    "definition": "",
+    "definition": "chặn đường",
     "english_definition": "to waylay",
     "example": "I waylay every day.",
     "icon": "⚡"
@@ -8739,7 +8739,7 @@
     "v1": "weave",
     "v2": "wove/weaved",
     "v3": "woven/weaved",
-    "definition": "",
+    "definition": "dệt",
     "english_definition": "to weave",
     "example": "I weave every day.",
     "icon": "⚡"
@@ -8750,7 +8750,7 @@
     "v1": "wed",
     "v2": "wed/wedded",
     "v3": "wed/wedded",
-    "definition": "",
+    "definition": "kết hôn",
     "english_definition": "to wed",
     "example": "I wed every day.",
     "icon": "⚡"
@@ -8761,7 +8761,7 @@
     "v1": "weep",
     "v2": "wept",
     "v3": "wept",
-    "definition": "",
+    "definition": "khóc",
     "english_definition": "to weep",
     "example": "I weep every day.",
     "icon": "⚡"
@@ -8772,7 +8772,7 @@
     "v1": "wet",
     "v2": "wet/wetted",
     "v3": "wet/wetted",
-    "definition": "",
+    "definition": "làm ướt",
     "english_definition": "to wet",
     "example": "I wet every day.",
     "icon": "⚡"
@@ -8783,7 +8783,7 @@
     "v1": "whet",
     "v2": "whetted",
     "v3": "whetted",
-    "definition": "",
+    "definition": "mài",
     "english_definition": "to whet",
     "example": "I whet every day.",
     "icon": "⚡"
@@ -8794,7 +8794,7 @@
     "v1": "wind",
     "v2": "wound",
     "v3": "wound",
-    "definition": "",
+    "definition": "quấn",
     "english_definition": "to wind",
     "example": "I wind every day.",
     "icon": "⚡"
@@ -8805,7 +8805,7 @@
     "v1": "withdraw",
     "v2": "withdrew",
     "v3": "withdrawn",
-    "definition": "",
+    "definition": "rút",
     "english_definition": "to withdraw",
     "example": "I withdraw every day.",
     "icon": "⚡"
@@ -8816,7 +8816,7 @@
     "v1": "withhold",
     "v2": "withheld",
     "v3": "withheld",
-    "definition": "",
+    "definition": "giữ lại",
     "english_definition": "to withhold",
     "example": "I withhold every day.",
     "icon": "⚡"
@@ -8827,7 +8827,7 @@
     "v1": "withstand",
     "v2": "withstood",
     "v3": "withstood",
-    "definition": "",
+    "definition": "chịu đựng",
     "english_definition": "to withstand",
     "example": "I withstand every day.",
     "icon": "⚡"
@@ -8838,9 +8838,75 @@
     "v1": "wring",
     "v2": "wrung",
     "v3": "wrung",
-    "definition": "",
+    "definition": "vắt",
     "english_definition": "to wring",
     "example": "I wring every day.",
     "icon": "⚡"
+  },
+  {
+    "word": "tear",
+    "type": "verb",
+    "v1": "tear",
+    "v2": "tore",
+    "v3": "torn",
+    "definition": "xé",
+    "english_definition": "to pull something apart or to pieces",
+    "example": "I tear the paper.",
+    "icon": "⚡"
+  },
+  {
+    "word": "feel",
+    "type": "verb",
+    "v1": "feel",
+    "v2": "felt",
+    "v3": "felt",
+    "definition": "cảm thấy",
+    "english_definition": "to experience an emotion or sensation",
+    "example": "I feel happy today.",
+    "icon": "❤️"
+  },
+  {
+    "word": "hold",
+    "type": "verb",
+    "v1": "hold",
+    "v2": "held",
+    "v3": "held",
+    "definition": "cầm/giữ",
+    "english_definition": "to grasp, carry, or support with your hands or arms",
+    "example": "I hold the bag.",
+    "icon": "🤲"
+  },
+  {
+    "word": "ring",
+    "type": "verb",
+    "v1": "ring",
+    "v2": "rang",
+    "v3": "rung",
+    "definition": "rung/reng",
+    "english_definition": "to make a bell sound",
+    "example": "I ring the bell.",
+    "icon": "🔔"
+  },
+  {
+    "word": "split",
+    "type": "verb",
+    "v1": "split",
+    "v2": "split",
+    "v3": "split",
+    "definition": "chia tách",
+    "english_definition": "to divide into parts",
+    "example": "I split the wood.",
+    "icon": "⚡"
+  },
+  {
+    "word": "throw",
+    "type": "verb",
+    "v1": "throw",
+    "v2": "threw",
+    "v3": "thrown",
+    "definition": "ném",
+    "english_definition": "to propel something through the air",
+    "example": "I throw the ball.",
+    "icon": "⚽"
   }
 ]

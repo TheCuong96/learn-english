@@ -73,6 +73,25 @@ export default function VerbsAudioPage() {
     return (a || '').toLowerCase() === (b || '').toLowerCase();
   };
 
+  // Helper function to get clean Vietnamese meaning
+  const getCleanMeaning = (definition: string): string => {
+    if (!definition) return '';
+    
+    // Remove anything after semicolon (extra notes)
+    let clean = definition.split(';')[0];
+    
+    // Remove anything after slash but take first part
+    clean = clean.split('/')[0];
+    
+    // Remove anything in parentheses (including spaces before them)
+    clean = clean.replace(/\s*\([^)]*\)/g, '');
+    
+    // Trim whitespace
+    clean = clean.trim();
+    
+    return clean;
+  };
+
   const handleSpeak = (text: string) => {
     speak(text);
   };
@@ -201,7 +220,7 @@ export default function VerbsAudioPage() {
                           {verb.v1}
                         </div>
                         <div className="text-xs text-white/50 italic text-center max-w-[120px]">
-                          {verb.definition}
+                          {getCleanMeaning(verb.definition)}
                         </div>
                       </div>
 
@@ -221,7 +240,7 @@ export default function VerbsAudioPage() {
                           {verb.v2}
                         </div>
                         <div className="text-xs text-white/50 italic text-center max-w-[120px]">
-                          đã {verb.definition.split('/')[0]}
+                          đã {getCleanMeaning(verb.definition)}
                         </div>
                       </div>
 
@@ -241,7 +260,7 @@ export default function VerbsAudioPage() {
                           {verb.v3}
                         </div>
                         <div className="text-xs text-white/50 italic text-center max-w-[120px]">
-                          được {verb.definition.split('/')[0]}
+                          được {getCleanMeaning(verb.definition)}
                         </div>
                       </div>
                     </div>
