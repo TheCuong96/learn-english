@@ -9,7 +9,7 @@ import { TensesQuestion } from '@/types/tenses';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
 import { speak } from '@/utils/speech';
 import { CheckCircle2, XCircle } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 interface TensesExerciseProps {
   questions: TensesQuestion[];
@@ -34,36 +34,52 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
     explanation: string;
   }>>([]);
   const [autoNextProgress, setAutoNextProgress] = useState(0);
+  const autoNextTimerRef = useRef<NodeJS.Timeout | null>(null);
+  const autoNextIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
   const AUTO_NEXT_DELAY = 1500; // ms
 
   const currentQuestion = questions[currentIndex];
 
+  // Function to clear auto-next timers
+  const clearAutoNext = () => {
+    if (autoNextTimerRef.current) {
+      clearTimeout(autoNextTimerRef.current);
+      autoNextTimerRef.current = null;
+    }
+    if (autoNextIntervalRef.current) {
+      clearInterval(autoNextIntervalRef.current);
+      autoNextIntervalRef.current = null;
+    }
+    setAutoNextProgress(0);
+  };
+
   useEffect(() => {
+    // Clear any existing auto-next timers
+    clearAutoNext();
+
     // Auto-next when correct with progress indicator
     if (showExplanation && selectedAnswer === currentQuestion.correctAnswer) {
       playCorrectSound();
       setAutoNextProgress(0);
       const startTime = Date.now();
-      const progressInterval = setInterval(() => {
+      autoNextIntervalRef.current = setInterval(() => {
         const elapsed = Date.now() - startTime;
         const newProgress = Math.min((elapsed / AUTO_NEXT_DELAY) * 100, 100);
         setAutoNextProgress(newProgress);
       }, 50);
-      const timer = setTimeout(() => {
+      autoNextTimerRef.current = setTimeout(() => {
         handleNext();
       }, AUTO_NEXT_DELAY);
-      return () => {
-        clearTimeout(timer);
-        clearInterval(progressInterval);
-        setAutoNextProgress(0);
-      };
     } else if (showExplanation && selectedAnswer && selectedAnswer !== currentQuestion.correctAnswer) {
       playIncorrectSound();
       setAutoNextProgress(0);
-    } else {
-      setAutoNextProgress(0);
     }
+
+    // Cleanup function
+    return () => {
+      clearAutoNext();
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [showExplanation]);
 
@@ -164,7 +180,9 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
 
           {/* Explanation */}
           {showExplanation && (
-            <div className={`p-4 rounded-lg border-2 ${
+            <div onClick={clearAutoNext}
+                  onTouchStart={clearAutoNext} 
+            className={`p-4 rounded-lg border-2 ${
               selectedAnswer === currentQuestion.correctAnswer
                 ? 'bg-green-900/20 border-green-500 text-slate-100'
                 : 'bg-red-900/20 border-red-500 text-slate-100'
@@ -220,7 +238,9 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
                           {((AUTO_NEXT_DELAY - (autoNextProgress / 100 * AUTO_NEXT_DELAY)) / 1000).toFixed(1)}s
                         </span>
                       </div>
-                      <div className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden">
+                      <div 
+                        className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden cursor-pointer"
+                      >
                         <div 
                           className="bg-gradient-to-r from-green-500 to-emerald-400 h-full rounded-full transition-all duration-75 ease-linear"
                           style={{ width: `${autoNextProgress}%` }}
