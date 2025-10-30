@@ -7,8 +7,9 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
 import { TensesQuestion } from '@/types/tenses';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
+import { speak } from '@/utils/speech';
 import { CheckCircle2, XCircle } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 interface TensesExerciseProps {
   questions: TensesQuestion[];
@@ -33,41 +34,59 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
     explanation: string;
   }>>([]);
   const [autoNextProgress, setAutoNextProgress] = useState(0);
+  const autoNextTimerRef = useRef<NodeJS.Timeout | null>(null);
+  const autoNextIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
   const AUTO_NEXT_DELAY = 1500; // ms
 
   const currentQuestion = questions[currentIndex];
 
+  // Function to clear auto-next timers
+  const clearAutoNext = () => {
+    if (autoNextTimerRef.current) {
+      clearTimeout(autoNextTimerRef.current);
+      autoNextTimerRef.current = null;
+    }
+    if (autoNextIntervalRef.current) {
+      clearInterval(autoNextIntervalRef.current);
+      autoNextIntervalRef.current = null;
+    }
+    setAutoNextProgress(0);
+  };
+
   useEffect(() => {
+    // Clear any existing auto-next timers
+    clearAutoNext();
+
     // Auto-next when correct with progress indicator
     if (showExplanation && selectedAnswer === currentQuestion.correctAnswer) {
       playCorrectSound();
       setAutoNextProgress(0);
       const startTime = Date.now();
-      const progressInterval = setInterval(() => {
+      autoNextIntervalRef.current = setInterval(() => {
         const elapsed = Date.now() - startTime;
         const newProgress = Math.min((elapsed / AUTO_NEXT_DELAY) * 100, 100);
         setAutoNextProgress(newProgress);
       }, 50);
-      const timer = setTimeout(() => {
+      autoNextTimerRef.current = setTimeout(() => {
         handleNext();
       }, AUTO_NEXT_DELAY);
-      return () => {
-        clearTimeout(timer);
-        clearInterval(progressInterval);
-        setAutoNextProgress(0);
-      };
     } else if (showExplanation && selectedAnswer && selectedAnswer !== currentQuestion.correctAnswer) {
       playIncorrectSound();
       setAutoNextProgress(0);
-    } else {
-      setAutoNextProgress(0);
     }
+
+    // Cleanup function
+    return () => {
+      clearAutoNext();
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [showExplanation]);
 
   const handleSelectAnswer = (answer: string) => {
     setSelectedAnswer(answer);
+    // Play pronunciation of the selected answer only
+    speak(answer);
   };
 
   const handleSubmit = () => {
@@ -99,6 +118,38 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
     }
   };
 
+  // Keyboard shortcuts for selecting answers
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      // Bỏ qua nếu đang focus vào input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      if (!showExplanation && currentQuestion.options) {
+        // Chọn đáp án bằng phím số 1-4
+        const numKey = parseInt(e.key);
+        if (numKey >= 1 && numKey <= 4 && numKey <= currentQuestion.options.length) {
+          e.preventDefault();
+          const selectedOption = currentQuestion.options[numKey - 1];
+          handleSelectAnswer(selectedOption);
+        }
+      }
+
+      // Enter để submit hoặc next
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (!showExplanation && selectedAnswer) {
+          handleSubmit();
+        } else if (showExplanation) {
+          handleNext();
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [showExplanation, selectedAnswer, currentQuestion.options]);
+
   const progress = ((currentIndex + 1) / questions.length) * 100;
 
   return (
@@ -112,6 +163,11 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
           </Badge>
         </div>
         <Progress value={progress} className="h-2" />
+        {!showExplanation && (
+          <p className="text-xs text-slate-400 text-center">
+            💡 Mẹo: Nhấn phím <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">1-4</kbd> để chọn đáp án, <kbd className="px-2 py-1 bg-slate-700 rounded border border-slate-600 text-xs">Enter</kbd> để xác nhận
+          </p>
+        )}
       </div>
 
       {/* Question Card */}
@@ -123,10 +179,18 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
         </CardHeader>
         <CardContent className="space-y-4">
           {/* Question */}
-          <div className="text-lg font-medium bg-slate-800/50 border border-slate-700 p-4 rounded-lg text-slate-100 flex items-start justify-between gap-3">
-            <span className="flex-1">{currentQuestion.question}</span>
-            {!showExplanation && (
-              <SpeakButton text={currentQuestion.question.replace('___', '...')} className="shrink-0" />
+          <div className="bg-slate-800/50 border border-slate-700 p-4 rounded-lg text-slate-100 space-y-2">
+            <div className="flex items-start justify-between gap-3">
+              <span className="flex-1 text-lg font-medium">{currentQuestion.question}</span>
+              {!showExplanation && (
+                <SpeakButton text={currentQuestion.question.replace('___', '...')} className="shrink-0" />
+              )}
+            </div>
+            {/* Vietnamese meaning hint */}
+            {!showExplanation && currentQuestion.vietnameseMeaning && (
+              <div className="text-sm text-slate-400 italic pt-2 border-t border-slate-700">
+                💡 {currentQuestion.vietnameseMeaning}
+              </div>
             )}
           </div>
 
@@ -153,7 +217,9 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
 
           {/* Explanation */}
           {showExplanation && (
-            <div className={`p-4 rounded-lg border-2 ${
+            <div onClick={clearAutoNext}
+                  onTouchStart={clearAutoNext} 
+            className={`p-4 rounded-lg border-2 ${
               selectedAnswer === currentQuestion.correctAnswer
                 ? 'bg-green-900/20 border-green-500 text-slate-100'
                 : 'bg-red-900/20 border-red-500 text-slate-100'
@@ -209,7 +275,9 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
                           {((AUTO_NEXT_DELAY - (autoNextProgress / 100 * AUTO_NEXT_DELAY)) / 1000).toFixed(1)}s
                         </span>
                       </div>
-                      <div className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden">
+                      <div 
+                        className="w-full bg-green-900/30 rounded-full h-2 overflow-hidden cursor-pointer"
+                      >
                         <div 
                           className="bg-gradient-to-r from-green-500 to-emerald-400 h-full rounded-full transition-all duration-75 ease-linear"
                           style={{ width: `${autoNextProgress}%` }}
@@ -235,7 +303,7 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
             ) : (
               <Button
                 onClick={handleNext}
-                className="flex-1 cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-lg"
+                className="flex-1 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white cursor-pointer transition-all duration-200 transform hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25"
               >
                 {currentIndex + 1 >= questions.length ? 'Xem kết quả' : 'Câu tiếp theo'}
               </Button>
