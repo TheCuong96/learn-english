@@ -11,7 +11,9 @@
     "correctAnswer": "will be approving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be approving all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang phê duyệt ngày mai"
   },
   {
     "id": "future-continuous-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "will be attending",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be attending all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang tham dự ngày mai"
   },
   {
     "id": "future-continuous-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "will be boiling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be boiling all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang sôi/đun sôi ngày mai"
   },
   {
     "id": "future-continuous-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "will be buyying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be buyying all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang mua ngày mai"
   },
   {
     "id": "future-continuous-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "will be calling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be calling at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang gọi ngày mai"
   },
   {
     "id": "future-continuous-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "will be checking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be checking at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang kiểm tra ngày mai"
   },
   {
     "id": "future-continuous-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "will be closing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be closing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang đóng ngày mai"
   },
   {
     "id": "future-continuous-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "will be coordinating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be coordinating at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang điều phối ngày mai"
   },
   {
     "id": "future-continuous-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "will be cooking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be cooking at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang nấu ăn ngày mai"
   },
   {
     "id": "future-continuous-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "will be costing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be costing all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang có giá ngày mai"
   },
   {
     "id": "future-continuous-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "will be departing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be departing at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang khởi hành ngày mai"
   },
   {
     "id": "future-continuous-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "will be deliverring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be deliverring at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang giao (hàng) ngày mai"
   },
   {
     "id": "future-continuous-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "will be disassembling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be disassembling at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang tháo rời/tháo lắp ngày mai"
   },
   {
     "id": "future-continuous-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "will be doing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be doing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang làm ngày mai"
   },
   {
     "id": "future-continuous-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "will be drinking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be drinking all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang uống ngày mai"
   },
   {
     "id": "future-continuous-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "will be eating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be eating all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang ăn ngày mai"
   },
   {
     "id": "future-continuous-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "will be expiring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be expiring at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang hết hạn ngày mai"
   },
   {
     "id": "future-continuous-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "will be finishing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be finishing at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang hoàn thành ngày mai"
   },
   {
     "id": "future-continuous-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "will be finalizing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be finalizing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang hoàn tất/chốt ngày mai"
   },
   {
     "id": "future-continuous-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "will be giving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be giving all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang đưa/cho ngày mai"
   },
   {
     "id": "future-continuous-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "will be going",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be going at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang đi ngày mai"
   },
   {
     "id": "future-continuous-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "will be helping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be helping all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang giúp ngày mai"
   },
   {
     "id": "future-continuous-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "will be joining",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be joining all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang tham gia ngày mai"
   },
   {
     "id": "future-continuous-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "will be leaving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be leaving at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang rời đi ngày mai"
   },
   {
     "id": "future-continuous-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "will be living",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be living all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang sống ngày mai"
   },
   {
     "id": "future-continuous-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "will be managing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be managing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang quản lý ngày mai"
   },
   {
     "id": "future-continuous-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "will be matterring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be matterring at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang quan trọng ngày mai"
   },
   {
     "id": "future-continuous-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "will be meeting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be meeting at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang họp/gặp ngày mai"
   },
   {
     "id": "future-continuous-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "will be offerring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be offerring all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang cung cấp/đề nghị ngày mai"
   },
   {
     "id": "future-continuous-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "will be openning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be openning all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang mở ngày mai"
   },
   {
     "id": "future-continuous-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "will be orderring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be orderring all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang đặt (mua) ngày mai"
   },
   {
     "id": "future-continuous-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "will be shipping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be shipping all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang giao hàng/vận chuyển ngày mai"
   },
   {
     "id": "future-continuous-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "will be organizing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be organizing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang tổ chức/sắp xếp ngày mai"
   },
   {
     "id": "future-continuous-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "will be playying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be playying all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang chơi ngày mai"
   },
   {
     "id": "future-continuous-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "will be raining",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be raining all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang mưa ngày mai"
   },
   {
     "id": "future-continuous-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "will be reading",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be reading at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang đọc ngày mai"
   },
   {
     "id": "future-continuous-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "will be rememberring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be rememberring at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang nhớ ngày mai"
   },
   {
     "id": "future-continuous-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "will be rising",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be rising at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang mọc/tăng ngày mai"
   },
   {
     "id": "future-continuous-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "will be running",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be running at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang vận hành/chạy ngày mai"
   },
   {
     "id": "future-continuous-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "will be serving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be serving at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang phục vụ ngày mai"
   },
   {
     "id": "future-continuous-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "will be speaking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be speaking all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang nói ngày mai"
   },
   {
     "id": "future-continuous-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "will be spoiling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be spoiling all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang hỏng (đồ ăn) ngày mai"
   },
   {
     "id": "future-continuous-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "will be starting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be starting all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang bắt đầu ngày mai"
   },
   {
     "id": "future-continuous-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "will be stayying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be stayying all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang ở; (stay open: mở muộn) ngày mai"
   },
   {
     "id": "future-continuous-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "will be studying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be studying at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang học ngày mai"
   },
   {
     "id": "future-continuous-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "will be taking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be taking all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang lấy; đi bằng; mất (thời gian) ngày mai"
   },
   {
     "id": "future-continuous-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "will be teaching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be teaching all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang dạy ngày mai"
   },
   {
     "id": "future-continuous-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "will be travelling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be travelling all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang đi du lịch ngày mai"
   },
   {
     "id": "future-continuous-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "will be using",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be using at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang dùng/sử dụng ngày mai"
   },
   {
     "id": "future-continuous-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "will be visitting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be visitting all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang thăm ngày mai"
   },
   {
     "id": "future-continuous-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "will be watching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be watching at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang xem ngày mai"
   },
   {
     "id": "future-continuous-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "will be weighing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be weighing at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang nặng/cân nặng ngày mai"
   },
   {
     "id": "future-continuous-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "will be working",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be working all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang làm việc ngày mai"
   },
   {
     "id": "future-continuous-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "will be brushing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be brushing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang đánh (răng) ngày mai"
   },
   {
     "id": "future-continuous-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "will be exercising",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be exercising at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang tập thể dục ngày mai"
   },
   {
     "id": "future-continuous-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "will be listenning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be listenning all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang nghe ngày mai"
   },
   {
     "id": "future-continuous-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "will be sleeping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be sleeping all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang ngủ ngày mai"
   },
   {
     "id": "future-continuous-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "will be researching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be researching all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang nghiên cứu ngày mai"
   },
   {
     "id": "future-continuous-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "will be recycling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be recycling all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang tái chế ngày mai"
   },
   {
     "id": "future-continuous-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "will be diagnosing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be diagnosing at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang chẩn đoán ngày mai"
   },
   {
     "id": "future-continuous-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "will be negotiating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be negotiating all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang đàm phán ngày mai"
   },
   {
     "id": "future-continuous-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "will be investing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be investing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang đầu tư ngày mai"
   },
   {
     "id": "future-continuous-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "will be composing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be composing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang sáng tác/soạn ngày mai"
   },
   {
     "id": "future-continuous-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "will be rescuing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be rescuing at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang cứu hộ/cứu ngày mai"
   },
   {
     "id": "future-continuous-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "will be broadcasting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be broadcasting all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang phát sóng ngày mai"
   },
   {
     "id": "future-continuous-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "will be discoverring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be discoverring all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang khám phá ngày mai"
   },
   {
     "id": "future-continuous-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "will be conserving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be conserving at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang bảo tồn ngày mai"
   },
   {
     "id": "future-continuous-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "will be scheduling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be scheduling all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang lên lịch ngày mai"
   },
   {
     "id": "future-continuous-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "will be enrolling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be enrolling at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang ghi danh/đăng ký ngày mai"
   },
   {
     "id": "future-continuous-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "will be manufacturing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be manufacturing all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang sản xuất/chế tạo ngày mai"
   },
   {
     "id": "future-continuous-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "will be donating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be donating all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang quyên góp/hiến tặng ngày mai"
   },
   {
     "id": "future-continuous-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "will be forecasting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be forecasting at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang dự báo ngày mai"
   },
   {
     "id": "future-continuous-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "will be sayying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be sayying all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang nói ngày mai"
   },
   {
     "id": "future-continuous-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "will be getting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be getting at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang nhận/được ngày mai"
   },
   {
     "id": "future-continuous-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "will be making",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be making all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang làm/tạo ngày mai"
   },
   {
     "id": "future-continuous-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "will be seeing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be seeing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang nhìn thấy ngày mai"
   },
   {
     "id": "future-continuous-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "will be coming",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be coming all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang đến/đi đến ngày mai"
   },
   {
     "id": "future-continuous-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "will be thinking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be thinking at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang nghĩ ngày mai"
   },
   {
     "id": "future-continuous-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "will be looking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be looking all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang nhìn/tìm ngày mai"
   },
   {
     "id": "future-continuous-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "will be finding",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be finding at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang tìm thấy ngày mai"
   },
   {
     "id": "future-continuous-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "will be telling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be telling at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang kể/nói với ngày mai"
   },
   {
     "id": "future-continuous-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "will be asking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be asking at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang hỏi/yêu cầu ngày mai"
   },
   {
     "id": "future-continuous-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "will be putting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be putting all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang đặt/để ngày mai"
   },
   {
     "id": "future-continuous-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "will be keeping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be keeping all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang giữ ngày mai"
   },
   {
     "id": "future-continuous-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "will be beginning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be beginning at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang bắt đầu ngày mai"
   },
   {
     "id": "future-continuous-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "will be turning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be turning all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang xoay/bật/tắt ngày mai"
   },
   {
     "id": "future-continuous-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "will be showwing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be showwing all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang cho xem ngày mai"
   },
   {
     "id": "future-continuous-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "will be hearing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be hearing all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang nghe thấy ngày mai"
   },
   {
     "id": "future-continuous-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "will be moving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be moving at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang di chuyển ngày mai"
   },
   {
     "id": "future-continuous-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "will be bringing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be bringing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang mang/đem ngày mai"
   },
   {
     "id": "future-continuous-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "will be writing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be writing all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang viết ngày mai"
   },
   {
     "id": "future-continuous-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "will be sitting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be sitting all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang ngồi ngày mai"
   },
   {
     "id": "future-continuous-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "will be standing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be standing at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang đứng ngày mai"
   },
   {
     "id": "future-continuous-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "will be losing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be losing at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang mất/đánh mất ngày mai"
   },
   {
     "id": "future-continuous-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "will be payying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be payying at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang trả (tiền) ngày mai"
   },
   {
     "id": "future-continuous-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "will be passing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be passing at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang vượt qua/chuyền ngày mai"
   },
   {
     "id": "future-continuous-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "will be posting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be posting all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang đăng/gửi ngày mai"
   },
   {
     "id": "future-continuous-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "will be including",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be including at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang bao gồm ngày mai"
   },
   {
     "id": "future-continuous-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "will be continuing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be continuing all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang tiếp tục ngày mai"
   },
   {
     "id": "future-continuous-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "will be setting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be setting at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang đặt/thiết lập ngày mai"
   },
   {
     "id": "future-continuous-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "will be learning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be learning at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang học ngày mai"
   },
   {
     "id": "future-continuous-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "will be changing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be changing at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang thay đổi ngày mai"
   },
   {
     "id": "future-continuous-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "will be leading",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be leading all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang dẫn dắt ngày mai"
   },
   {
     "id": "future-continuous-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "will be followwing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be followwing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang theo dõi/theo sau ngày mai"
   },
   {
     "id": "future-continuous-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "will be stopping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be stopping all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang dừng ngày mai"
   },
   {
     "id": "future-continuous-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "will be creating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be creating all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang tạo ra ngày mai"
   },
   {
     "id": "future-continuous-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "will be completing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be completing at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang hoàn thành ngày mai"
   },
   {
     "id": "future-continuous-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "will be allowwing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be allowwing all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang cho phép ngày mai"
   },
   {
     "id": "future-continuous-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "will be adding",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be adding all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang thêm ngày mai"
   },
   {
     "id": "future-continuous-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "will be spending",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be spending at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang dành/tiêu (thời gian/tiền) ngày mai"
   },
   {
     "id": "future-continuous-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "will be growwing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be growwing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang phát triển/lớn lên ngày mai"
   },
   {
     "id": "future-continuous-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "will be walking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be walking all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang đi bộ ngày mai"
   },
   {
     "id": "future-continuous-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "will be winning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be winning at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang thắng ngày mai"
   },
   {
     "id": "future-continuous-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "will be considerring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be considerring at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang cân nhắc/xem xét ngày mai"
   },
   {
     "id": "future-continuous-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "will be appearing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be appearing all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang xuất hiện ngày mai"
   },
   {
     "id": "future-continuous-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "will be waiting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be waiting at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang chờ/đợi ngày mai"
   },
   {
     "id": "future-continuous-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "will be sending",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be sending all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang gửi ngày mai"
   },
   {
     "id": "future-continuous-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "will be expecting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be expecting at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang mong đợi ngày mai"
   },
   {
     "id": "future-continuous-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "will be building",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be building at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang xây dựng ngày mai"
   },
   {
     "id": "future-continuous-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "will be falling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be falling all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang ngã/rơi ngày mai"
   },
   {
     "id": "future-continuous-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "will be cutting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be cutting at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang cắt ngày mai"
   },
   {
     "id": "future-continuous-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "will be reaching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be reaching at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang đến/chạm tới ngày mai"
   },
   {
     "id": "future-continuous-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "will be remaining",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be remaining at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang vẫn/duy trì ngày mai"
   },
   {
     "id": "future-continuous-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "will be cleaning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be cleaning at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang dọn dẹp ngày mai"
   },
   {
     "id": "future-continuous-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "will be washing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be washing all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang rửa/giặt ngày mai"
   },
   {
     "id": "future-continuous-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "will be driving",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be driving at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang lái (xe) ngày mai"
   },
   {
     "id": "future-continuous-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "will be riding",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be riding at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang đi (xe đạp/xe máy/ngựa) ngày mai"
   },
   {
     "id": "future-continuous-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "will be shopping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be shopping all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang mua sắm ngày mai"
   },
   {
     "id": "future-continuous-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "will be fixxing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be fixxing all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang sửa/chỉnh ngày mai"
   },
   {
     "id": "future-continuous-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "will be repairing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be repairing at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang sửa chữa ngày mai"
   },
   {
     "id": "future-continuous-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "will be charging",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be charging at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang sạc (pin) ngày mai"
   },
   {
     "id": "future-continuous-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "will be carrying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be carrying all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang mang/vác ngày mai"
   },
   {
     "id": "future-continuous-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "will be wearing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be wearing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang mặc/đeo ngày mai"
   },
   {
     "id": "future-continuous-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "will be porting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be porting all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang chuyển (ứng dụng/mã) ngày mai"
   },
   {
     "id": "future-continuous-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "will be compiling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be compiling all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang biên dịch ngày mai"
   },
   {
     "id": "future-continuous-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "will be executing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be executing at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang thực thi ngày mai"
   },
   {
     "id": "future-continuous-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "will be deployying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be deployying at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang triển khai ngày mai"
   },
   {
     "id": "future-continuous-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "will be releasing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be releasing at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang phát hành ngày mai"
   },
   {
     "id": "future-continuous-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "will be committing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be committing at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang commit (lưu thay đổi) ngày mai"
   },
   {
     "id": "future-continuous-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "will be pushing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be pushing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang đẩy (mã lên) ngày mai"
   },
   {
     "id": "future-continuous-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "will be pulling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be pulling all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang kéo (mã về) ngày mai"
   },
   {
     "id": "future-continuous-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "will be merging",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be merging all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang gộp nhánh ngày mai"
   },
   {
     "id": "future-continuous-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "will be branching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be branching at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang tạo nhánh ngày mai"
   },
   {
     "id": "future-continuous-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "will be rebasing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be rebasing all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang rebase (sắp xếp lại lịch sử) ngày mai"
   },
   {
     "id": "future-continuous-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "will be stashing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be stashing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang stash (cất tạm thay đổi) ngày mai"
   },
   {
     "id": "future-continuous-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "will be cloning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be cloning all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang nhân bản kho mã ngày mai"
   },
   {
     "id": "future-continuous-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "will be forking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be forking at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang fork (tách kho mã) ngày mai"
   },
   {
     "id": "future-continuous-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "will be debugging",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be debugging at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang gỡ lỗi ngày mai"
   },
   {
     "id": "future-continuous-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "will be logging",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be logging all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang ghi log ngày mai"
   },
   {
     "id": "future-continuous-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "will be tracing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be tracing at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang theo vết ngày mai"
   },
   {
     "id": "future-continuous-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "will be profiling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be profiling at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang dò hiệu năng ngày mai"
   },
   {
     "id": "future-continuous-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "will be optimizing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be optimizing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang tối ưu ngày mai"
   },
   {
     "id": "future-continuous-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "will be refactorring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be refactorring at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang tái cấu trúc mã ngày mai"
   },
   {
     "id": "future-continuous-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "will be testing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be testing all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang kiểm thử ngày mai"
   },
   {
     "id": "future-continuous-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "will be mocking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be mocking all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang giả lập (mock) ngày mai"
   },
   {
     "id": "future-continuous-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "will be stubbing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be stubbing all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang stub (giả đối tượng) ngày mai"
   },
   {
     "id": "future-continuous-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "will be linting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be linting all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang kiểm tra style (lint) ngày mai"
   },
   {
     "id": "future-continuous-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "will be formatting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be formatting at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang định dạng (mã) ngày mai"
   },
   {
     "id": "future-continuous-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "will be packaging",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be packaging at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang đóng gói ngày mai"
   },
   {
     "id": "future-continuous-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "will be bundling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be bundling at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang bundle (đóng gói) ngày mai"
   },
   {
     "id": "future-continuous-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "will be installing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be installing all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang cài đặt ngày mai"
   },
   {
     "id": "future-continuous-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "will be updating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be updating at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang cập nhật ngày mai"
   },
   {
     "id": "future-continuous-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "will be upgrading",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be upgrading at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang nâng cấp ngày mai"
   },
   {
     "id": "future-continuous-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "will be rollbacking",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be rollbacking all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang khôi phục phiên bản ngày mai"
   },
   {
     "id": "future-continuous-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "will be migrating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be migrating at this time tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang di chuyển (dữ liệu/lược đồ) ngày mai"
   },
   {
     "id": "future-continuous-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "will be seeding",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be seeding at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang seed (gieo dữ liệu) ngày mai"
   },
   {
     "id": "future-continuous-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "will be provisioning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be provisioning all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang cấp phát (hạ tầng) ngày mai"
   },
   {
     "id": "future-continuous-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "will be configuring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be configuring all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang cấu hình ngày mai"
   },
   {
     "id": "future-continuous-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "will be authenticating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be authenticating all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang xác thực ngày mai"
   },
   {
     "id": "future-continuous-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "will be authorizing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be authorizing all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang phân quyền ngày mai"
   },
   {
     "id": "future-continuous-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "will be encrypting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be encrypting all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang mã hóa ngày mai"
   },
   {
     "id": "future-continuous-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "will be decrypting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be decrypting all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang giải mã ngày mai"
   },
   {
     "id": "future-continuous-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "will be hashing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be hashing all day tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang băm (hash) ngày mai"
   },
   {
     "id": "future-continuous-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "will be signing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be signing at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang ký (số) ngày mai"
   },
   {
     "id": "future-continuous-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "will be verifying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be verifying at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang xác minh ngày mai"
   },
   {
     "id": "future-continuous-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "will be fetching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be fetching at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang lấy (dữ liệu) ngày mai"
   },
   {
     "id": "future-continuous-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "will be requesting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be requesting at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang gửi yêu cầu ngày mai"
   },
   {
     "id": "future-continuous-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "will be responding",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be responding at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang phản hồi ngày mai"
   },
   {
     "id": "future-continuous-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "will be renderring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be renderring all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang kết xuất ngày mai"
   },
   {
     "id": "future-continuous-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "will be parsing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be parsing at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang phân tích cú pháp ngày mai"
   },
   {
     "id": "future-continuous-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "will be stringifying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be stringifying all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang chuỗi hóa ngày mai"
   },
   {
     "id": "future-continuous-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "will be serializing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be serializing all day tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang tuần tự hóa ngày mai"
   },
   {
     "id": "future-continuous-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "will be deserializing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be deserializing at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang giải tuần tự ngày mai"
   },
   {
     "id": "future-continuous-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "will be caching",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be caching all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang bộ nhớ đệm ngày mai"
   },
   {
     "id": "future-continuous-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "will be invalidating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be invalidating all day tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang hủy (cache) ngày mai"
   },
   {
     "id": "future-continuous-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "will be indexxing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be indexxing all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang đánh chỉ mục ngày mai"
   },
   {
     "id": "future-continuous-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "will be querying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be querying at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang truy vấn ngày mai"
   },
   {
     "id": "future-continuous-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "will be filterring",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be filterring all day tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang lọc ngày mai"
   },
   {
     "id": "future-continuous-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "will be mapping",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be mapping at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang ánh xạ ngày mai"
   },
   {
     "id": "future-continuous-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "will be reducing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be reducing all day tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang rút gọn/tổng hợp ngày mai"
   },
   {
     "id": "future-continuous-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "will be scanning",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be scanning all day tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang quét ngày mai"
   },
   {
     "id": "future-continuous-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "will be connecting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be connecting at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang kết nối ngày mai"
   },
   {
     "id": "future-continuous-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "will be disconnecting",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be disconnecting all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang ngắt kết nối ngày mai"
   },
   {
     "id": "future-continuous-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "will be subscribing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will be subscribing at this time tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đang đăng ký (sự kiện) ngày mai"
   },
   {
     "id": "future-continuous-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "will be publishing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will be publishing at this time tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đang phát (sự kiện) ngày mai"
   },
   {
     "id": "future-continuous-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "will be queuing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will be queuing at this time tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đang xếp hàng (tác vụ) ngày mai"
   },
   {
     "id": "future-continuous-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "will be retrying",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will be retrying at this time tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đang thử lại ngày mai"
   },
   {
     "id": "future-continuous-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "will be throttling",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will be throttling at this time tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đang giới hạn tần suất ngày mai"
   },
   {
     "id": "future-continuous-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "will be debouncing",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will be debouncing at this time tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đang chống dội ngày mai"
   },
   {
     "id": "future-continuous-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "will be paginating",
     "explanation": "Future Continuous: will be + V-ing.",
     "tenseType": "future-continuous",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will be paginating all day tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đang phân trang ngày mai"
   }
 ]

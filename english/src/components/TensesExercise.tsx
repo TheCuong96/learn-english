@@ -7,7 +7,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
 import { TensesQuestion } from '@/types/tenses';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
-import { VerbsData } from '@/utils/verbs-data';
 import { CheckCircle2, XCircle } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
@@ -34,16 +33,10 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
     explanation: string;
   }>>([]);
   const [autoNextProgress, setAutoNextProgress] = useState(0);
-  const [verbs, setVerbs] = useState<any[]>([]);
 
   const AUTO_NEXT_DELAY = 1500; // ms
 
   const currentQuestion = questions[currentIndex];
-
-  useEffect(() => {
-    // Load verbs data for Vietnamese meaning hints
-    VerbsData.load().then(setVerbs).catch(() => setVerbs([]));
-  }, []);
 
   useEffect(() => {
     // Auto-next when correct with progress indicator
@@ -107,112 +100,6 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
   };
 
   const progress = ((currentIndex + 1) / questions.length) * 100;
-
-  const buildCompletedSentence = (q: string, answer: string) => {
-    let s = q;
-    s = s.replace(/___\s*\([^)]*\)/, answer);
-    s = s.replace(/\s+\./g, '.');
-    return s;
-  };
-
-  const extractBaseVerb = (q: string) => {
-    const m = q.match(/\(([^)]+)\)/);
-    return m ? m[1].toLowerCase() : '';
-  };
-
-  const SUBJECT_VN: Record<string, string> = {
-    'I': 'Tôi', 'You': 'Bạn', 'We': 'Chúng tôi', 'They': 'Họ', 'He': 'Anh ấy', 'She': 'Cô ấy', 'It': 'Nó'
-  };
-
-  const TIME_VN_MAP: Record<string, string> = {
-    'every day': 'mỗi ngày', 'every week': 'mỗi tuần', 'on mondays': 'vào thứ Hai', 'often': 'thường', 'usually': 'thường', 'sometimes': 'đôi khi', 'always': 'luôn luôn', 'never': 'không bao giờ',
-    'now': 'bây giờ', 'at the moment': 'vào lúc này', 'right now': 'ngay lúc này', 'currently': 'hiện tại', 'these days': 'dạo này',
-    'already': 'đã', 'just': 'vừa mới', 'yet': 'chưa', 'ever': 'từng', 'never ': 'chưa từng', 'so far': 'cho đến nay', 'recently': 'gần đây',
-    'yesterday': 'hôm qua', 'last night': 'tối qua', 'last week': 'tuần trước', 'in 2010': 'năm 2010', 'two days ago': 'hai ngày trước',
-    'at 8 pm last night': 'lúc 8 giờ tối qua', 'when you called': 'khi bạn gọi', 'while he was away': 'trong khi anh ấy vắng',
-    'before he arrived': 'trước khi anh ấy tới', 'by the time she came': 'khi cô ấy đến', 'when the movie started': 'khi bộ phim bắt đầu',
-    'for two hours before he came': 'trong hai giờ trước khi anh ấy đến', 'since morning before the exam': 'từ sáng trước kỳ thi',
-    'tomorrow': 'ngày mai', 'next week': 'tuần tới', 'soon': 'sớm', 'later': 'sau này',
-    'at this time tomorrow': 'vào giờ này ngày mai', 'all day tomorrow': 'suốt ngày mai',
-    'by next week': 'vào tuần tới', 'by tomorrow': 'vào ngày mai', 'by 5 pm': 'trước 5 giờ chiều',
-    'by next month': 'vào tháng tới', 'by the end of the year': 'vào cuối năm'
-  };
-
-  const findTimeVn = (text: string) => {
-    const lower = text.toLowerCase();
-    let found = '';
-    Object.keys(TIME_VN_MAP).forEach(k => {
-      if (!found && lower.includes(k)) found = TIME_VN_MAP[k];
-    });
-    return found;
-  };
-
-  const findSubjectVn = (text: string) => {
-    // Try leading subject pattern
-    const m1 = text.match(/^([A-Za-z]+)\s/);
-    if (m1 && SUBJECT_VN[m1[1]]) return SUBJECT_VN[m1[1]];
-    // Try after auxiliary in questions: Do/Does/Is/Are/Did/Was/Were/Will/Had/Have/Has + subject
-    const m2 = text.match(/^(?:Do|Does|Is|Are|Did|Was|Were|Will|Had|Have|Has)\s+([A-Za-z]+)/i);
-    if (m2) {
-      const sub = m2[1].charAt(0).toUpperCase() + m2[1].slice(1).toLowerCase();
-      if (SUBJECT_VN[sub]) return SUBJECT_VN[sub];
-    }
-    return '';
-  };
-
-  const getVerbVn = (base: string) => {
-    if (!base) return '';
-    const v = verbs.find((x) => (x.v1 || x.word || '').toLowerCase() === base);
-    if (!v) return '';
-    return (v.definition || '').toString();
-  };
-
-  const buildVietnameseMeaning = (fullEn: string, q: TensesQuestion) => {
-    const subjectVn = findSubjectVn(fullEn);
-    const baseVerb = extractBaseVerb(q.question);
-    const verbVn = getVerbVn(baseVerb) || baseVerb; // fallback to base if missing
-    const timeVn = findTimeVn(fullEn);
-    const isNegative = /\bnot\b|n't/.test(q.correctAnswer);
-
-    const parts: string[] = [];
-    if (subjectVn) parts.push(subjectVn);
-
-    const tense = q.tenseType;
-    const verbPhrase = () => {
-      if (!verbVn) return '';
-      switch (tense) {
-        case 'present-simple':
-          return isNegative ? `không ${verbVn}` : verbVn;
-        case 'present-continuous':
-          return (isNegative ? 'không ' : '') + `đang ${verbVn}`;
-        case 'present-perfect':
-          return (isNegative ? 'chưa ' : 'đã ') + verbVn;
-        case 'present-perfect-continuous':
-          return (isNegative ? 'chưa ' : 'đã ') + `đang ${verbVn}`;
-        case 'past-simple':
-          return (isNegative ? 'đã không ' : 'đã ') + verbVn;
-        case 'past-continuous':
-          return (isNegative ? 'đã không ' : 'đang ') + verbVn;
-        case 'past-perfect':
-          return (isNegative ? 'đã không ' : 'đã ') + verbVn;
-        case 'past-perfect-continuous':
-          return (isNegative ? 'đã không ' : 'đã ') + `đang ${verbVn}`;
-        case 'future-simple':
-          return (isNegative ? 'sẽ không ' : 'sẽ ') + verbVn;
-        case 'future-continuous':
-          return (isNegative ? 'sẽ không ' : 'sẽ ') + `đang ${verbVn}`;
-        case 'future-perfect':
-          return (isNegative ? 'sẽ chưa ' : 'sẽ đã ') + verbVn;
-        case 'future-perfect-continuous':
-          return (isNegative ? 'sẽ chưa ' : 'sẽ đã ') + `đang ${verbVn}`;
-      }
-    };
-
-    const vp = verbPhrase();
-    if (vp) parts.push(vp);
-    if (timeVn) parts.push(timeVn);
-    return parts.join(' ').replace(/\s+/g, ' ').trim();
-  };
 
   return (
     <div className="max-w-2xl mx-auto space-y-4">
@@ -297,19 +184,23 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
                     </div>
                   )}
                   {/* Completed sentence and Vietnamese meaning */}
-                  <div className="mt-3 space-y-2">
-                    <div className="flex items-center justify-between gap-2">
-                      <div className="text-sm">
-                        <span className="font-semibold">Câu hoàn chỉnh:</span>{' '}
-                        <span>{buildCompletedSentence(currentQuestion.question, currentQuestion.correctAnswer)}</span>
+                  {currentQuestion.completedSentence && (
+                    <div className="mt-3 space-y-2">
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="text-sm">
+                          <span className="font-semibold">Câu hoàn chỉnh:</span>{' '}
+                          <span>{currentQuestion.completedSentence}</span>
+                        </div>
+                        <SpeakButton text={currentQuestion.completedSentence} />
                       </div>
-                      <SpeakButton text={buildCompletedSentence(currentQuestion.question, currentQuestion.correctAnswer)} />
+                      {currentQuestion.vietnameseMeaning && (
+                        <div className="text-sm text-slate-300">
+                          <span className="font-semibold">Nghĩa (VN):</span>{' '}
+                          <span>{currentQuestion.vietnameseMeaning}</span>
+                        </div>
+                      )}
                     </div>
-                    <div className="text-sm text-slate-300">
-                      <span className="font-semibold">Nghĩa (VN):</span>{' '}
-                      <span>{buildVietnameseMeaning(buildCompletedSentence(currentQuestion.question, currentQuestion.correctAnswer), currentQuestion)}</span>
-                    </div>
-                  </div>
+                  )}
                   {selectedAnswer === currentQuestion.correctAnswer && autoNextProgress > 0 && (
                     <div className="mt-3">
                       <div className="flex items-center justify-between mb-1">

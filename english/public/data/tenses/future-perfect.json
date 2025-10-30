@@ -11,7 +11,9 @@
     "correctAnswer": "will have approved",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have approved by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã phê duyệt ngày mai"
   },
   {
     "id": "future-perfect-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "will have attended",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have attended by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã tham dự ngày mai"
   },
   {
     "id": "future-perfect-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "will have believed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have believed by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã tin ngày mai"
   },
   {
     "id": "future-perfect-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "will have boiled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have boiled by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã sôi/đun sôi trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "will have bought",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have bought by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã mua trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "will have called",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have called by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã gọi ngày mai"
   },
   {
     "id": "future-perfect-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "will have checked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have checked by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã kiểm tra trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "will have closed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have closed by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã đóng trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "will have contained",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have contained by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã chứa ngày mai"
   },
   {
     "id": "future-perfect-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "will have coordinated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have coordinated by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã điều phối ngày mai"
   },
   {
     "id": "future-perfect-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "will have cooked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have cooked by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã nấu ăn ngày mai"
   },
   {
     "id": "future-perfect-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "will have cost",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have cost by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã có giá trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "will have departed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have departed by next week.",
+    "vietnameseMeaning": "Nó sẽ đã khởi hành tuần tới"
   },
   {
     "id": "future-perfect-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "will have delivered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have delivered by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã giao (hàng) ngày mai"
   },
   {
     "id": "future-perfect-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "will have disassembled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have disassembled by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã tháo rời/tháo lắp ngày mai"
   },
   {
     "id": "future-perfect-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "will have done",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have done by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã làm ngày mai"
   },
   {
     "id": "future-perfect-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "will have drunk",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have drunk by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã uống ngày mai"
   },
   {
     "id": "future-perfect-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "will have eaten",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have eaten by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã ăn tuần tới"
   },
   {
     "id": "future-perfect-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "will have expired",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have expired by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã hết hạn tuần tới"
   },
   {
     "id": "future-perfect-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "will have finished",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have finished by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã hoàn thành ngày mai"
   },
   {
     "id": "future-perfect-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "will have finalized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have finalized by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã hoàn tất/chốt trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "will have given",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have given by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã đưa/cho ngày mai"
   },
   {
     "id": "future-perfect-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "will have gone",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have gone by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã đi trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "will have had",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have had by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã có; (3rd: has) ngày mai"
   },
   {
     "id": "future-perfect-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "will have helped",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have helped by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã giúp ngày mai"
   },
   {
     "id": "future-perfect-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "will have joined",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have joined by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tham gia tuần tới"
   },
   {
     "id": "future-perfect-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "will have left",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have left by next week.",
+    "vietnameseMeaning": "Nó sẽ đã rời đi tuần tới"
   },
   {
     "id": "future-perfect-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "will have liked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have liked by next week.",
+    "vietnameseMeaning": "Họ sẽ đã thích tuần tới"
   },
   {
     "id": "future-perfect-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "will have lived",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have lived by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã sống tuần tới"
   },
   {
     "id": "future-perfect-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "will have managed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have managed by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã quản lý ngày mai"
   },
   {
     "id": "future-perfect-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "will have mattered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have mattered by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã quan trọng ngày mai"
   },
   {
     "id": "future-perfect-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "will have met",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have met by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã họp/gặp tuần tới"
   },
   {
     "id": "future-perfect-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "will have needed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have needed by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã cần tuần tới"
   },
   {
     "id": "future-perfect-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "will have offered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have offered by next week.",
+    "vietnameseMeaning": "Nó sẽ đã cung cấp/đề nghị tuần tới"
   },
   {
     "id": "future-perfect-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "will have opened",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have opened by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã mở ngày mai"
   },
   {
     "id": "future-perfect-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "will have ordered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have ordered by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã đặt (mua) ngày mai"
   },
   {
     "id": "future-perfect-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "will have shipped",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have shipped by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã giao hàng/vận chuyển trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "will have organized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have organized by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã tổ chức/sắp xếp tuần tới"
   },
   {
     "id": "future-perfect-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "will have owned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have owned by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã sở hữu ngày mai"
   },
   {
     "id": "future-perfect-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "will have played",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have played by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã chơi trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "will have preferred",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have preferred by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã thích hơn ngày mai"
   },
   {
     "id": "future-perfect-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "will have rained",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have rained by next week.",
+    "vietnameseMeaning": "Họ sẽ đã mưa tuần tới"
   },
   {
     "id": "future-perfect-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "will have read",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have read by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã đọc ngày mai"
   },
   {
     "id": "future-perfect-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "will have remembered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have remembered by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã nhớ tuần tới"
   },
   {
     "id": "future-perfect-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "will have risen",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have risen by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã mọc/tăng tuần tới"
   },
   {
     "id": "future-perfect-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "will have run",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have run by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã vận hành/chạy trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "will have served",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have served by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã phục vụ trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "will have spoken",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have spoken by next week.",
+    "vietnameseMeaning": "Nó sẽ đã nói tuần tới"
   },
   {
     "id": "future-perfect-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "will have spoiled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have spoiled by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã hỏng (đồ ăn) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "will have started",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have started by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã bắt đầu ngày mai"
   },
   {
     "id": "future-perfect-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "will have stayed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have stayed by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã ở; (stay open: mở muộn) tuần tới"
   },
   {
     "id": "future-perfect-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "will have studied",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have studied by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã học ngày mai"
   },
   {
     "id": "future-perfect-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "will have taken",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have taken by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã lấy; đi bằng; mất (thời gian) ngày mai"
   },
   {
     "id": "future-perfect-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "will have taught",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have taught by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã dạy trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "will have traveled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have traveled by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã đi du lịch trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "will have understood",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have understood by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã hiểu trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "will have used",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have used by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã dùng/sử dụng trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "will have visited",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have visited by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã thăm trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "will have watched",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have watched by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã xem tuần tới"
   },
   {
     "id": "future-perfect-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "will have weighed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have weighed by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã nặng/cân nặng ngày mai"
   },
   {
     "id": "future-perfect-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "will have worked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have worked by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã làm việc tuần tới"
   },
   {
     "id": "future-perfect-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "will have been",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have been by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã thì/là/ở trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "will have brushed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have brushed by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã đánh (răng) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "will have exercised",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have exercised by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã tập thể dục ngày mai"
   },
   {
     "id": "future-perfect-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "will have listened",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have listened by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã nghe trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "will have slept",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have slept by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã ngủ trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "will have researched",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have researched by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã nghiên cứu trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "will have recycled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have recycled by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tái chế trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "will have diagnosed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have diagnosed by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã chẩn đoán ngày mai"
   },
   {
     "id": "future-perfect-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "will have negotiated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have negotiated by next week.",
+    "vietnameseMeaning": "Họ sẽ đã đàm phán tuần tới"
   },
   {
     "id": "future-perfect-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "will have invested",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have invested by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã đầu tư tuần tới"
   },
   {
     "id": "future-perfect-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "will have composed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have composed by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã sáng tác/soạn ngày mai"
   },
   {
     "id": "future-perfect-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "will have rescued",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have rescued by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã cứu hộ/cứu ngày mai"
   },
   {
     "id": "future-perfect-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "will have broadcast",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have broadcast by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã phát sóng ngày mai"
   },
   {
     "id": "future-perfect-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "will have discovered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have discovered by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã khám phá trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "will have conserved",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have conserved by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã bảo tồn ngày mai"
   },
   {
     "id": "future-perfect-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "will have scheduled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have scheduled by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã lên lịch trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "will have enrolled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have enrolled by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã ghi danh/đăng ký tuần tới"
   },
   {
     "id": "future-perfect-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "will have manufactured",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have manufactured by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã sản xuất/chế tạo trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "will have donated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have donated by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã quyên góp/hiến tặng tuần tới"
   },
   {
     "id": "future-perfect-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "will have forecast",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have forecast by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã dự báo tuần tới"
   },
   {
     "id": "future-perfect-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "will have said",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have said by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã nói trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "will have gotten",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have gotten by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã nhận/được ngày mai"
   },
   {
     "id": "future-perfect-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "will have made",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have made by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã làm/tạo ngày mai"
   },
   {
     "id": "future-perfect-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "will have seen",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have seen by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã nhìn thấy trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "will have come",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have come by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã đến/đi đến tuần tới"
   },
   {
     "id": "future-perfect-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "will have thought",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have thought by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã nghĩ trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "will have looked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have looked by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã nhìn/tìm tuần tới"
   },
   {
     "id": "future-perfect-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "will have found",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have found by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tìm thấy tuần tới"
   },
   {
     "id": "future-perfect-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "will have wanted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have wanted by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã muốn trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "will have told",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have told by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã kể/nói với ngày mai"
   },
   {
     "id": "future-perfect-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "will have asked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have asked by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã hỏi/yêu cầu ngày mai"
   },
   {
     "id": "future-perfect-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "will have put",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have put by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã đặt/để trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "will have kept",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have kept by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã giữ ngày mai"
   },
   {
     "id": "future-perfect-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "will have known",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have known by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã biết bây giờ"
   },
   {
     "id": "future-perfect-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "will have begun",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have begun by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã bắt đầu trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "will have turned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have turned by next week.",
+    "vietnameseMeaning": "Nó sẽ đã xoay/bật/tắt tuần tới"
   },
   {
     "id": "future-perfect-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "will have shown",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have shown by next week.",
+    "vietnameseMeaning": "Họ sẽ đã cho xem tuần tới"
   },
   {
     "id": "future-perfect-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "will have heard",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have heard by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã nghe thấy tuần tới"
   },
   {
     "id": "future-perfect-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "will have moved",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have moved by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã di chuyển tuần tới"
   },
   {
     "id": "future-perfect-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "will have brought",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have brought by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã mang/đem trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "will have written",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have written by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã viết tuần tới"
   },
   {
     "id": "future-perfect-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "will have sat",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have sat by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã ngồi tuần tới"
   },
   {
     "id": "future-perfect-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "will have stood",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have stood by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã đứng ngày mai"
   },
   {
     "id": "future-perfect-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "will have lost",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have lost by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã mất/đánh mất trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "will have paid",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have paid by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã trả (tiền) tuần tới"
   },
   {
     "id": "future-perfect-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "will have passed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have passed by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã vượt qua/chuyền tuần tới"
   },
   {
     "id": "future-perfect-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "will have posted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have posted by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã đăng/gửi ngày mai"
   },
   {
     "id": "future-perfect-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "will have included",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have included by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã bao gồm ngày mai"
   },
   {
     "id": "future-perfect-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "will have continued",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have continued by tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tiếp tục ngày mai"
   },
   {
     "id": "future-perfect-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "will have set",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have set by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã đặt/thiết lập trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "will have learned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have learned by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã học ngày mai"
   },
   {
     "id": "future-perfect-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "will have changed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have changed by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã thay đổi tuần tới"
   },
   {
     "id": "future-perfect-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "will have led",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have led by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã dẫn dắt ngày mai"
   },
   {
     "id": "future-perfect-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "will have followed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have followed by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã theo dõi/theo sau trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "will have stopped",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have stopped by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã dừng trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "will have created",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have created by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tạo ra trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "will have completed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have completed by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã hoàn thành trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "will have allowed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have allowed by next week.",
+    "vietnameseMeaning": "Họ sẽ đã cho phép tuần tới"
   },
   {
     "id": "future-perfect-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "will have added",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have added by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã thêm trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "will have spent",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have spent by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã dành/tiêu (thời gian/tiền) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "will have grown",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have grown by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã phát triển/lớn lên trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "will have walked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have walked by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã đi bộ ngày mai"
   },
   {
     "id": "future-perfect-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "will have won",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have won by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã thắng tuần tới"
   },
   {
     "id": "future-perfect-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "will have loved",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have loved by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã yêu/thích ngày mai"
   },
   {
     "id": "future-perfect-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "will have considered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have considered by next week.",
+    "vietnameseMeaning": "Họ sẽ đã cân nhắc/xem xét tuần tới"
   },
   {
     "id": "future-perfect-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "will have appeared",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have appeared by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã xuất hiện tuần tới"
   },
   {
     "id": "future-perfect-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "will have waited",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have waited by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã chờ/đợi tuần tới"
   },
   {
     "id": "future-perfect-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "will have sent",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have sent by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã gửi ngày mai"
   },
   {
     "id": "future-perfect-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "will have expected",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have expected by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã mong đợi tuần tới"
   },
   {
     "id": "future-perfect-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "will have built",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have built by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã xây dựng tuần tới"
   },
   {
     "id": "future-perfect-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "will have fallen",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have fallen by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã ngã/rơi ngày mai"
   },
   {
     "id": "future-perfect-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "will have cut",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have cut by next week.",
+    "vietnameseMeaning": "Họ sẽ đã cắt tuần tới"
   },
   {
     "id": "future-perfect-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "will have reached",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have reached by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã đến/chạm tới trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "will have remained",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have remained by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã vẫn/duy trì ngày mai"
   },
   {
     "id": "future-perfect-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "will have cleaned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have cleaned by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã dọn dẹp trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "will have washed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have washed by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã rửa/giặt trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "will have driven",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have driven by tomorrow.",
+    "vietnameseMeaning": "Anh ấy sẽ đã lái (xe) ngày mai"
   },
   {
     "id": "future-perfect-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "will have ridden",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have ridden by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã đi (xe đạp/xe máy/ngựa) ngày mai"
   },
   {
     "id": "future-perfect-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "will have shopped",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have shopped by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã mua sắm ngày mai"
   },
   {
     "id": "future-perfect-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "will have fixed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have fixed by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã sửa/chỉnh ngày mai"
   },
   {
     "id": "future-perfect-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "will have repaired",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have repaired by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã sửa chữa trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "will have charged",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have charged by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã sạc (pin) tuần tới"
   },
   {
     "id": "future-perfect-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "will have carried",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have carried by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã mang/vác trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "will have worn",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have worn by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã mặc/đeo trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "will have ported",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have ported by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã chuyển (ứng dụng/mã) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "will have compiled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have compiled by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã biên dịch ngày mai"
   },
   {
     "id": "future-perfect-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "will have executed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have executed by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã thực thi trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "will have deployed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have deployed by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã triển khai trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "will have released",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have released by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã phát hành ngày mai"
   },
   {
     "id": "future-perfect-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "will have committed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have committed by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã commit (lưu thay đổi) tuần tới"
   },
   {
     "id": "future-perfect-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "will have pushed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have pushed by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã đẩy (mã lên) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "will have pulled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have pulled by next week.",
+    "vietnameseMeaning": "Nó sẽ đã kéo (mã về) tuần tới"
   },
   {
     "id": "future-perfect-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "will have merged",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have merged by next week.",
+    "vietnameseMeaning": "Họ sẽ đã gộp nhánh tuần tới"
   },
   {
     "id": "future-perfect-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "will have branched",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have branched by next week.",
+    "vietnameseMeaning": "Tôi sẽ đã tạo nhánh tuần tới"
   },
   {
     "id": "future-perfect-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "will have rebased",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have rebased by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã rebase (sắp xếp lại lịch sử) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "will have stashed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have stashed by 5 pm.",
+    "vietnameseMeaning": "Cô ấy sẽ đã stash (cất tạm thay đổi) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "will have cloned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have cloned by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã nhân bản kho mã trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "will have forked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have forked by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã fork (tách kho mã) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "will have debugged",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have debugged by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã gỡ lỗi trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "will have logged",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have logged by next week.",
+    "vietnameseMeaning": "Họ sẽ đã ghi log tuần tới"
   },
   {
     "id": "future-perfect-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "will have traced",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have traced by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã theo vết ngày mai"
   },
   {
     "id": "future-perfect-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "will have profiled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have profiled by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã dò hiệu năng tuần tới"
   },
   {
     "id": "future-perfect-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "will have optimized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have optimized by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã tối ưu ngày mai"
   },
   {
     "id": "future-perfect-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "will have refactored",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have refactored by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã tái cấu trúc mã trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "will have tested",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have tested by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã kiểm thử tuần tới"
   },
   {
     "id": "future-perfect-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "will have mocked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have mocked by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã giả lập (mock) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "will have stubbed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have stubbed by next week.",
+    "vietnameseMeaning": "Họ sẽ đã stub (giả đối tượng) tuần tới"
   },
   {
     "id": "future-perfect-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "will have linted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have linted by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã kiểm tra style (lint) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "will have formatted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have formatted by tomorrow.",
+    "vietnameseMeaning": "Bạn sẽ đã định dạng (mã) ngày mai"
   },
   {
     "id": "future-perfect-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "will have packaged",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have packaged by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã đóng gói tuần tới"
   },
   {
     "id": "future-perfect-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "will have bundled",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have bundled by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã bundle (đóng gói) ngày mai"
   },
   {
     "id": "future-perfect-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "will have installed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have installed by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã cài đặt tuần tới"
   },
   {
     "id": "future-perfect-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "will have updated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have updated by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã cập nhật trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "will have upgraded",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have upgraded by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã nâng cấp ngày mai"
   },
   {
     "id": "future-perfect-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "will have rollbacked",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have rollbacked by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã khôi phục phiên bản trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "will have migrated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have migrated by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã di chuyển (dữ liệu/lược đồ) tuần tới"
   },
   {
     "id": "future-perfect-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "will have seeded",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have seeded by tomorrow.",
+    "vietnameseMeaning": "Cô ấy sẽ đã seed (gieo dữ liệu) ngày mai"
   },
   {
     "id": "future-perfect-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "will have provisioned",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have provisioned by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã cấp phát (hạ tầng) ngày mai"
   },
   {
     "id": "future-perfect-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "will have configured",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have configured by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã cấu hình trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "will have authenticated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have authenticated by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã xác thực trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "will have authorized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have authorized by 5 pm.",
+    "vietnameseMeaning": "Họ sẽ đã phân quyền trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "will have encrypted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have encrypted by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã mã hóa trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "will have decrypted",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have decrypted by 5 pm.",
+    "vietnameseMeaning": "Bạn sẽ đã giải mã trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "will have hashed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have hashed by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã băm (hash) tuần tới"
   },
   {
     "id": "future-perfect-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "will have signed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have signed by next week.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã ký (số) tuần tới"
   },
   {
     "id": "future-perfect-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "will have verified",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have verified by 5 pm.",
+    "vietnameseMeaning": "Anh ấy sẽ đã xác minh trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "will have fetched",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have fetched by tomorrow.",
+    "vietnameseMeaning": "Nó sẽ đã lấy (dữ liệu) ngày mai"
   },
   {
     "id": "future-perfect-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "will have requested",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have requested by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã gửi yêu cầu ngày mai"
   },
   {
     "id": "future-perfect-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "will have responded",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have responded by tomorrow.",
+    "vietnameseMeaning": "Tôi sẽ đã phản hồi ngày mai"
   },
   {
     "id": "future-perfect-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "will have rendered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have rendered by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã kết xuất tuần tới"
   },
   {
     "id": "future-perfect-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "will have parsed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have parsed by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã phân tích cú pháp tuần tới"
   },
   {
     "id": "future-perfect-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "will have stringified",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have stringified by tomorrow.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã chuỗi hóa ngày mai"
   },
   {
     "id": "future-perfect-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "will have serialized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He will have serialized by next week.",
+    "vietnameseMeaning": "Anh ấy sẽ đã tuần tự hóa tuần tới"
   },
   {
     "id": "future-perfect-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "will have deserialized",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It will have deserialized by 5 pm.",
+    "vietnameseMeaning": "Nó sẽ đã giải tuần tự trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "will have cached",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They will have cached by tomorrow.",
+    "vietnameseMeaning": "Họ sẽ đã bộ nhớ đệm ngày mai"
   },
   {
     "id": "future-perfect-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "will have invalidated",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I will have invalidated by 5 pm.",
+    "vietnameseMeaning": "Tôi sẽ đã hủy (cache) trước 5 giờ chiều"
   },
   {
     "id": "future-perfect-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "will have indexed",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You will have indexed by next week.",
+    "vietnameseMeaning": "Bạn sẽ đã đánh chỉ mục tuần tới"
   },
   {
     "id": "future-perfect-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "will have queried",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She will have queried by next week.",
+    "vietnameseMeaning": "Cô ấy sẽ đã truy vấn tuần tới"
   },
   {
     "id": "future-perfect-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "will have filtered",
     "explanation": "Future Perfect: will have + V3.",
     "tenseType": "future-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We will have filtered by 5 pm.",
+    "vietnameseMeaning": "Chúng tôi sẽ đã lọc trước 5 giờ chiều"
   }
 ]

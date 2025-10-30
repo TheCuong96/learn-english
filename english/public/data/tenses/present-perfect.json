@@ -11,7 +11,9 @@
     "correctAnswer": "has approved",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has approved just.",
+    "vietnameseMeaning": "Nó đã phê duyệt vừa mới"
   },
   {
     "id": "present-perfect-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "hasn't approved",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't approved just.",
+    "vietnameseMeaning": "Nó chưa phê duyệt vừa mới"
   },
   {
     "id": "present-perfect-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (approve) just?",
+    "vietnameseMeaning": "đã phê duyệt vừa mới"
   },
   {
     "id": "present-perfect-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "have attended",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have attended just.",
+    "vietnameseMeaning": "Chúng tôi đã tham dự vừa mới"
   },
   {
     "id": "present-perfect-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "haven't attended",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't attended just.",
+    "vietnameseMeaning": "Chúng tôi chưa tham dự vừa mới"
   },
   {
     "id": "present-perfect-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (attend) just?",
+    "vietnameseMeaning": "đã tham dự vừa mới"
   },
   {
     "id": "present-perfect-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "have believed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have believed never.",
+    "vietnameseMeaning": "Tôi đã tin không bao giờ"
   },
   {
     "id": "present-perfect-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "haven't believed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't believed never.",
+    "vietnameseMeaning": "Tôi chưa tin không bao giờ"
   },
   {
     "id": "present-perfect-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (believe) never?",
+    "vietnameseMeaning": "đã tin không bao giờ"
   },
   {
     "id": "present-perfect-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "has boiled",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has boiled yet.",
+    "vietnameseMeaning": "Cô ấy đã sôi/đun sôi chưa"
   },
   {
     "id": "present-perfect-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "hasn't boiled",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't boiled yet.",
+    "vietnameseMeaning": "Cô ấy chưa sôi/đun sôi chưa"
   },
   {
     "id": "present-perfect-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (boil) yet?",
+    "vietnameseMeaning": "đã sôi/đun sôi chưa"
   },
   {
     "id": "present-perfect-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "has bought",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has bought recently.",
+    "vietnameseMeaning": "Anh ấy đã mua gần đây"
   },
   {
     "id": "present-perfect-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "hasn't bought",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't bought recently.",
+    "vietnameseMeaning": "Anh ấy chưa mua gần đây"
   },
   {
     "id": "present-perfect-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (buy) recently?",
+    "vietnameseMeaning": "đã mua gần đây"
   },
   {
     "id": "present-perfect-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "have called",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have called just.",
+    "vietnameseMeaning": "Họ đã gọi vừa mới"
   },
   {
     "id": "present-perfect-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "haven't called",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't called just.",
+    "vietnameseMeaning": "Họ chưa gọi vừa mới"
   },
   {
     "id": "present-perfect-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (call) just?",
+    "vietnameseMeaning": "đã gọi vừa mới"
   },
   {
     "id": "present-perfect-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "have checked",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have checked never.",
+    "vietnameseMeaning": "Bạn đã kiểm tra không bao giờ"
   },
   {
     "id": "present-perfect-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "haven't checked",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't checked never.",
+    "vietnameseMeaning": "Bạn chưa kiểm tra không bao giờ"
   },
   {
     "id": "present-perfect-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (check) never?",
+    "vietnameseMeaning": "đã kiểm tra không bao giờ"
   },
   {
     "id": "present-perfect-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "has closed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has closed ever.",
+    "vietnameseMeaning": "Nó đã đóng từng"
   },
   {
     "id": "present-perfect-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "hasn't closed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't closed ever.",
+    "vietnameseMeaning": "Nó chưa đóng từng"
   },
   {
     "id": "present-perfect-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (close) ever?",
+    "vietnameseMeaning": "đã đóng từng"
   },
   {
     "id": "present-perfect-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "have contained",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have contained never.",
+    "vietnameseMeaning": "Chúng tôi đã chứa không bao giờ"
   },
   {
     "id": "present-perfect-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "haven't contained",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't contained never.",
+    "vietnameseMeaning": "Chúng tôi chưa chứa không bao giờ"
   },
   {
     "id": "present-perfect-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (contain) never?",
+    "vietnameseMeaning": "đã chứa không bao giờ"
   },
   {
     "id": "present-perfect-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "have coordinated",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have coordinated never.",
+    "vietnameseMeaning": "Tôi đã điều phối không bao giờ"
   },
   {
     "id": "present-perfect-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "haven't coordinated",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't coordinated never.",
+    "vietnameseMeaning": "Tôi chưa điều phối không bao giờ"
   },
   {
     "id": "present-perfect-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (coordinate) never?",
+    "vietnameseMeaning": "đã điều phối không bao giờ"
   },
   {
     "id": "present-perfect-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "has cooked",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has cooked ever.",
+    "vietnameseMeaning": "Cô ấy đã nấu ăn từng"
   },
   {
     "id": "present-perfect-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "hasn't cooked",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't cooked ever.",
+    "vietnameseMeaning": "Cô ấy chưa nấu ăn từng"
   },
   {
     "id": "present-perfect-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (cook) ever?",
+    "vietnameseMeaning": "đã nấu ăn từng"
   },
   {
     "id": "present-perfect-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "has cost",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has cost ever.",
+    "vietnameseMeaning": "Anh ấy đã có giá từng"
   },
   {
     "id": "present-perfect-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "hasn't cost",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't cost ever.",
+    "vietnameseMeaning": "Anh ấy chưa có giá từng"
   },
   {
     "id": "present-perfect-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (cost) ever?",
+    "vietnameseMeaning": "đã có giá từng"
   },
   {
     "id": "present-perfect-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "have departed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have departed so far.",
+    "vietnameseMeaning": "Họ đã khởi hành cho đến nay"
   },
   {
     "id": "present-perfect-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "haven't departed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't departed so far.",
+    "vietnameseMeaning": "Họ chưa khởi hành cho đến nay"
   },
   {
     "id": "present-perfect-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (depart) so far?",
+    "vietnameseMeaning": "đã khởi hành cho đến nay"
   },
   {
     "id": "present-perfect-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "have delivered",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have delivered ever.",
+    "vietnameseMeaning": "Bạn đã giao (hàng) từng"
   },
   {
     "id": "present-perfect-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "haven't delivered",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't delivered ever.",
+    "vietnameseMeaning": "Bạn chưa giao (hàng) từng"
   },
   {
     "id": "present-perfect-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (deliver) ever?",
+    "vietnameseMeaning": "đã giao (hàng) từng"
   },
   {
     "id": "present-perfect-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "has disassembled",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has disassembled yet.",
+    "vietnameseMeaning": "Nó đã tháo rời/tháo lắp chưa"
   },
   {
     "id": "present-perfect-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "hasn't disassembled",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't disassembled yet.",
+    "vietnameseMeaning": "Nó chưa tháo rời/tháo lắp chưa"
   },
   {
     "id": "present-perfect-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (disassemble) yet?",
+    "vietnameseMeaning": "đã tháo rời/tháo lắp chưa"
   },
   {
     "id": "present-perfect-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "have done",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have done so far.",
+    "vietnameseMeaning": "Chúng tôi đã làm cho đến nay"
   },
   {
     "id": "present-perfect-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "haven't done",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't done so far.",
+    "vietnameseMeaning": "Chúng tôi chưa làm cho đến nay"
   },
   {
     "id": "present-perfect-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (do) so far?",
+    "vietnameseMeaning": "đã làm cho đến nay"
   },
   {
     "id": "present-perfect-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "have drunk",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have drunk already.",
+    "vietnameseMeaning": "Tôi đã uống đã"
   },
   {
     "id": "present-perfect-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "haven't drunk",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't drunk already.",
+    "vietnameseMeaning": "Tôi chưa uống đã"
   },
   {
     "id": "present-perfect-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (drink) already?",
+    "vietnameseMeaning": "đã uống đã"
   },
   {
     "id": "present-perfect-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "has eaten",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has eaten just.",
+    "vietnameseMeaning": "Cô ấy đã ăn vừa mới"
   },
   {
     "id": "present-perfect-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "hasn't eaten",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't eaten just.",
+    "vietnameseMeaning": "Cô ấy chưa ăn vừa mới"
   },
   {
     "id": "present-perfect-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (eat) just?",
+    "vietnameseMeaning": "đã ăn vừa mới"
   },
   {
     "id": "present-perfect-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "has expired",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has expired already.",
+    "vietnameseMeaning": "Anh ấy đã hết hạn đã"
   },
   {
     "id": "present-perfect-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "hasn't expired",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't expired already.",
+    "vietnameseMeaning": "Anh ấy chưa hết hạn đã"
   },
   {
     "id": "present-perfect-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (expire) already?",
+    "vietnameseMeaning": "đã hết hạn đã"
   },
   {
     "id": "present-perfect-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "have finished",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have finished yet.",
+    "vietnameseMeaning": "Họ đã hoàn thành chưa"
   },
   {
     "id": "present-perfect-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "haven't finished",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't finished yet.",
+    "vietnameseMeaning": "Họ chưa hoàn thành chưa"
   },
   {
     "id": "present-perfect-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (finish) yet?",
+    "vietnameseMeaning": "đã hoàn thành chưa"
   },
   {
     "id": "present-perfect-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "have finalized",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have finalized so far.",
+    "vietnameseMeaning": "Bạn đã hoàn tất/chốt cho đến nay"
   },
   {
     "id": "present-perfect-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "haven't finalized",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't finalized so far.",
+    "vietnameseMeaning": "Bạn chưa hoàn tất/chốt cho đến nay"
   },
   {
     "id": "present-perfect-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (finalize) so far?",
+    "vietnameseMeaning": "đã hoàn tất/chốt cho đến nay"
   },
   {
     "id": "present-perfect-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "has given",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has given so far.",
+    "vietnameseMeaning": "Nó đã đưa/cho cho đến nay"
   },
   {
     "id": "present-perfect-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "hasn't given",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't given so far.",
+    "vietnameseMeaning": "Nó chưa đưa/cho cho đến nay"
   },
   {
     "id": "present-perfect-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (give) so far?",
+    "vietnameseMeaning": "đã đưa/cho cho đến nay"
   },
   {
     "id": "present-perfect-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "have gone",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have gone already.",
+    "vietnameseMeaning": "Chúng tôi đã đi đã"
   },
   {
     "id": "present-perfect-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "haven't gone",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't gone already.",
+    "vietnameseMeaning": "Chúng tôi chưa đi đã"
   },
   {
     "id": "present-perfect-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (go) already?",
+    "vietnameseMeaning": "đã đi đã"
   },
   {
     "id": "present-perfect-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "have had",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have had just.",
+    "vietnameseMeaning": "Tôi đã có; (3rd: has) vừa mới"
   },
   {
     "id": "present-perfect-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "haven't had",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't had just.",
+    "vietnameseMeaning": "Tôi chưa có; (3rd: has) vừa mới"
   },
   {
     "id": "present-perfect-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (have) just?",
+    "vietnameseMeaning": "đã có; (3rd: has) vừa mới"
   },
   {
     "id": "present-perfect-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "has helped",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has helped just.",
+    "vietnameseMeaning": "Cô ấy đã giúp vừa mới"
   },
   {
     "id": "present-perfect-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "hasn't helped",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't helped just.",
+    "vietnameseMeaning": "Cô ấy chưa giúp vừa mới"
   },
   {
     "id": "present-perfect-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (help) just?",
+    "vietnameseMeaning": "đã giúp vừa mới"
   },
   {
     "id": "present-perfect-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "has joined",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has joined just.",
+    "vietnameseMeaning": "Anh ấy đã tham gia vừa mới"
   },
   {
     "id": "present-perfect-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "hasn't joined",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't joined just.",
+    "vietnameseMeaning": "Anh ấy chưa tham gia vừa mới"
   },
   {
     "id": "present-perfect-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (join) just?",
+    "vietnameseMeaning": "đã tham gia vừa mới"
   },
   {
     "id": "present-perfect-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "have left",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have left ever.",
+    "vietnameseMeaning": "Họ đã rời đi từng"
   },
   {
     "id": "present-perfect-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "haven't left",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't left ever.",
+    "vietnameseMeaning": "Họ chưa rời đi từng"
   },
   {
     "id": "present-perfect-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (leave) ever?",
+    "vietnameseMeaning": "đã rời đi từng"
   },
   {
     "id": "present-perfect-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "have liked",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have liked so far.",
+    "vietnameseMeaning": "Bạn đã thích cho đến nay"
   },
   {
     "id": "present-perfect-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "haven't liked",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't liked so far.",
+    "vietnameseMeaning": "Bạn chưa thích cho đến nay"
   },
   {
     "id": "present-perfect-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (like) so far?",
+    "vietnameseMeaning": "đã thích cho đến nay"
   },
   {
     "id": "present-perfect-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "has lived",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has lived just.",
+    "vietnameseMeaning": "Nó đã sống vừa mới"
   },
   {
     "id": "present-perfect-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "hasn't lived",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't lived just.",
+    "vietnameseMeaning": "Nó chưa sống vừa mới"
   },
   {
     "id": "present-perfect-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (live) just?",
+    "vietnameseMeaning": "đã sống vừa mới"
   },
   {
     "id": "present-perfect-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "have managed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have managed ever.",
+    "vietnameseMeaning": "Chúng tôi đã quản lý từng"
   },
   {
     "id": "present-perfect-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "haven't managed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't managed ever.",
+    "vietnameseMeaning": "Chúng tôi chưa quản lý từng"
   },
   {
     "id": "present-perfect-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (manage) ever?",
+    "vietnameseMeaning": "đã quản lý từng"
   },
   {
     "id": "present-perfect-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "have mattered",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have mattered recently.",
+    "vietnameseMeaning": "Tôi đã quan trọng gần đây"
   },
   {
     "id": "present-perfect-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "haven't mattered",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't mattered recently.",
+    "vietnameseMeaning": "Tôi chưa quan trọng gần đây"
   },
   {
     "id": "present-perfect-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (matter) recently?",
+    "vietnameseMeaning": "đã quan trọng gần đây"
   },
   {
     "id": "present-perfect-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "has met",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has met never.",
+    "vietnameseMeaning": "Cô ấy đã họp/gặp không bao giờ"
   },
   {
     "id": "present-perfect-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "hasn't met",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't met never.",
+    "vietnameseMeaning": "Cô ấy chưa họp/gặp không bao giờ"
   },
   {
     "id": "present-perfect-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (meet) never?",
+    "vietnameseMeaning": "đã họp/gặp không bao giờ"
   },
   {
     "id": "present-perfect-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "has needed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has needed already.",
+    "vietnameseMeaning": "Anh ấy đã cần đã"
   },
   {
     "id": "present-perfect-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "hasn't needed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't needed already.",
+    "vietnameseMeaning": "Anh ấy chưa cần đã"
   },
   {
     "id": "present-perfect-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (need) already?",
+    "vietnameseMeaning": "đã cần đã"
   },
   {
     "id": "present-perfect-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "have offered",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have offered just.",
+    "vietnameseMeaning": "Họ đã cung cấp/đề nghị vừa mới"
   },
   {
     "id": "present-perfect-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "haven't offered",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't offered just.",
+    "vietnameseMeaning": "Họ chưa cung cấp/đề nghị vừa mới"
   },
   {
     "id": "present-perfect-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (offer) just?",
+    "vietnameseMeaning": "đã cung cấp/đề nghị vừa mới"
   },
   {
     "id": "present-perfect-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "have opened",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have opened ever.",
+    "vietnameseMeaning": "Bạn đã mở từng"
   },
   {
     "id": "present-perfect-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "haven't opened",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't opened ever.",
+    "vietnameseMeaning": "Bạn chưa mở từng"
   },
   {
     "id": "present-perfect-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (open) ever?",
+    "vietnameseMeaning": "đã mở từng"
   },
   {
     "id": "present-perfect-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "has ordered",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has ordered already.",
+    "vietnameseMeaning": "Nó đã đặt (mua) đã"
   },
   {
     "id": "present-perfect-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "hasn't ordered",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't ordered already.",
+    "vietnameseMeaning": "Nó chưa đặt (mua) đã"
   },
   {
     "id": "present-perfect-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (order) already?",
+    "vietnameseMeaning": "đã đặt (mua) đã"
   },
   {
     "id": "present-perfect-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "have shipped",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have shipped yet.",
+    "vietnameseMeaning": "Chúng tôi đã giao hàng/vận chuyển chưa"
   },
   {
     "id": "present-perfect-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "haven't shipped",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't shipped yet.",
+    "vietnameseMeaning": "Chúng tôi chưa giao hàng/vận chuyển chưa"
   },
   {
     "id": "present-perfect-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (ship) yet?",
+    "vietnameseMeaning": "đã giao hàng/vận chuyển chưa"
   },
   {
     "id": "present-perfect-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "have organized",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have organized ever.",
+    "vietnameseMeaning": "Tôi đã tổ chức/sắp xếp từng"
   },
   {
     "id": "present-perfect-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "haven't organized",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't organized ever.",
+    "vietnameseMeaning": "Tôi chưa tổ chức/sắp xếp từng"
   },
   {
     "id": "present-perfect-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (organize) ever?",
+    "vietnameseMeaning": "đã tổ chức/sắp xếp từng"
   },
   {
     "id": "present-perfect-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "has owned",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has owned never.",
+    "vietnameseMeaning": "Cô ấy đã sở hữu không bao giờ"
   },
   {
     "id": "present-perfect-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "hasn't owned",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't owned never.",
+    "vietnameseMeaning": "Cô ấy chưa sở hữu không bao giờ"
   },
   {
     "id": "present-perfect-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (own) never?",
+    "vietnameseMeaning": "đã sở hữu không bao giờ"
   },
   {
     "id": "present-perfect-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "has played",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has played just.",
+    "vietnameseMeaning": "Anh ấy đã chơi vừa mới"
   },
   {
     "id": "present-perfect-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "hasn't played",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't played just.",
+    "vietnameseMeaning": "Anh ấy chưa chơi vừa mới"
   },
   {
     "id": "present-perfect-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (play) just?",
+    "vietnameseMeaning": "đã chơi vừa mới"
   },
   {
     "id": "present-perfect-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "have preferred",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have preferred already.",
+    "vietnameseMeaning": "Họ đã thích hơn đã"
   },
   {
     "id": "present-perfect-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "haven't preferred",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't preferred already.",
+    "vietnameseMeaning": "Họ chưa thích hơn đã"
   },
   {
     "id": "present-perfect-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (prefer) already?",
+    "vietnameseMeaning": "đã thích hơn đã"
   },
   {
     "id": "present-perfect-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "have rained",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have rained yet.",
+    "vietnameseMeaning": "Bạn đã mưa chưa"
   },
   {
     "id": "present-perfect-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "haven't rained",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't rained yet.",
+    "vietnameseMeaning": "Bạn chưa mưa chưa"
   },
   {
     "id": "present-perfect-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (rain) yet?",
+    "vietnameseMeaning": "đã mưa chưa"
   },
   {
     "id": "present-perfect-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "has read",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has read yet.",
+    "vietnameseMeaning": "Nó đã đọc chưa"
   },
   {
     "id": "present-perfect-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "hasn't read",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't read yet.",
+    "vietnameseMeaning": "Nó chưa đọc chưa"
   },
   {
     "id": "present-perfect-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (read) yet?",
+    "vietnameseMeaning": "đã đọc chưa"
   },
   {
     "id": "present-perfect-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "have remembered",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have remembered yet.",
+    "vietnameseMeaning": "Chúng tôi đã nhớ chưa"
   },
   {
     "id": "present-perfect-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "haven't remembered",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't remembered yet.",
+    "vietnameseMeaning": "Chúng tôi chưa nhớ chưa"
   },
   {
     "id": "present-perfect-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (remember) yet?",
+    "vietnameseMeaning": "đã nhớ chưa"
   },
   {
     "id": "present-perfect-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "have risen",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have risen already.",
+    "vietnameseMeaning": "Tôi đã mọc/tăng đã"
   },
   {
     "id": "present-perfect-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "haven't risen",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't risen already.",
+    "vietnameseMeaning": "Tôi chưa mọc/tăng đã"
   },
   {
     "id": "present-perfect-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (rise) already?",
+    "vietnameseMeaning": "đã mọc/tăng đã"
   },
   {
     "id": "present-perfect-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "has run",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has run ever.",
+    "vietnameseMeaning": "Cô ấy đã vận hành/chạy từng"
   },
   {
     "id": "present-perfect-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "hasn't run",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't run ever.",
+    "vietnameseMeaning": "Cô ấy chưa vận hành/chạy từng"
   },
   {
     "id": "present-perfect-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (run) ever?",
+    "vietnameseMeaning": "đã vận hành/chạy từng"
   },
   {
     "id": "present-perfect-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "has served",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has served yet.",
+    "vietnameseMeaning": "Anh ấy đã phục vụ chưa"
   },
   {
     "id": "present-perfect-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "hasn't served",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't served yet.",
+    "vietnameseMeaning": "Anh ấy chưa phục vụ chưa"
   },
   {
     "id": "present-perfect-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (serve) yet?",
+    "vietnameseMeaning": "đã phục vụ chưa"
   },
   {
     "id": "present-perfect-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "have spoken",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have spoken just.",
+    "vietnameseMeaning": "Họ đã nói vừa mới"
   },
   {
     "id": "present-perfect-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "haven't spoken",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't spoken just.",
+    "vietnameseMeaning": "Họ chưa nói vừa mới"
   },
   {
     "id": "present-perfect-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (speak) just?",
+    "vietnameseMeaning": "đã nói vừa mới"
   },
   {
     "id": "present-perfect-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "have spoiled",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have spoiled ever.",
+    "vietnameseMeaning": "Bạn đã hỏng (đồ ăn) từng"
   },
   {
     "id": "present-perfect-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "haven't spoiled",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't spoiled ever.",
+    "vietnameseMeaning": "Bạn chưa hỏng (đồ ăn) từng"
   },
   {
     "id": "present-perfect-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (spoil) ever?",
+    "vietnameseMeaning": "đã hỏng (đồ ăn) từng"
   },
   {
     "id": "present-perfect-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "has started",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has started yet.",
+    "vietnameseMeaning": "Nó đã bắt đầu chưa"
   },
   {
     "id": "present-perfect-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "hasn't started",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't started yet.",
+    "vietnameseMeaning": "Nó chưa bắt đầu chưa"
   },
   {
     "id": "present-perfect-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (start) yet?",
+    "vietnameseMeaning": "đã bắt đầu chưa"
   },
   {
     "id": "present-perfect-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "have stayed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have stayed yet.",
+    "vietnameseMeaning": "Chúng tôi đã ở; (stay open: mở muộn) chưa"
   },
   {
     "id": "present-perfect-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "haven't stayed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't stayed yet.",
+    "vietnameseMeaning": "Chúng tôi chưa ở; (stay open: mở muộn) chưa"
   },
   {
     "id": "present-perfect-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (stay) yet?",
+    "vietnameseMeaning": "đã ở; (stay open: mở muộn) chưa"
   },
   {
     "id": "present-perfect-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "have studied",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have studied yet.",
+    "vietnameseMeaning": "Tôi đã học chưa"
   },
   {
     "id": "present-perfect-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "haven't studied",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't studied yet.",
+    "vietnameseMeaning": "Tôi chưa học chưa"
   },
   {
     "id": "present-perfect-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (study) yet?",
+    "vietnameseMeaning": "đã học chưa"
   },
   {
     "id": "present-perfect-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "has taken",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has taken already.",
+    "vietnameseMeaning": "Cô ấy đã lấy; đi bằng; mất (thời gian) đã"
   },
   {
     "id": "present-perfect-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "hasn't taken",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't taken already.",
+    "vietnameseMeaning": "Cô ấy chưa lấy; đi bằng; mất (thời gian) đã"
   },
   {
     "id": "present-perfect-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (take) already?",
+    "vietnameseMeaning": "đã lấy; đi bằng; mất (thời gian) đã"
   },
   {
     "id": "present-perfect-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "has taught",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has taught yet.",
+    "vietnameseMeaning": "Anh ấy đã dạy chưa"
   },
   {
     "id": "present-perfect-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "hasn't taught",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't taught yet.",
+    "vietnameseMeaning": "Anh ấy chưa dạy chưa"
   },
   {
     "id": "present-perfect-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (teach) yet?",
+    "vietnameseMeaning": "đã dạy chưa"
   },
   {
     "id": "present-perfect-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "have traveled",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have traveled recently.",
+    "vietnameseMeaning": "Họ đã đi du lịch gần đây"
   },
   {
     "id": "present-perfect-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "haven't traveled",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't traveled recently.",
+    "vietnameseMeaning": "Họ chưa đi du lịch gần đây"
   },
   {
     "id": "present-perfect-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (travel) recently?",
+    "vietnameseMeaning": "đã đi du lịch gần đây"
   },
   {
     "id": "present-perfect-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "have understood",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have understood just.",
+    "vietnameseMeaning": "Bạn đã hiểu vừa mới"
   },
   {
     "id": "present-perfect-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "haven't understood",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't understood just.",
+    "vietnameseMeaning": "Bạn chưa hiểu vừa mới"
   },
   {
     "id": "present-perfect-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (understand) just?",
+    "vietnameseMeaning": "đã hiểu vừa mới"
   },
   {
     "id": "present-perfect-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "has used",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has used just.",
+    "vietnameseMeaning": "Nó đã dùng/sử dụng vừa mới"
   },
   {
     "id": "present-perfect-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "hasn't used",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't used just.",
+    "vietnameseMeaning": "Nó chưa dùng/sử dụng vừa mới"
   },
   {
     "id": "present-perfect-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (use) just?",
+    "vietnameseMeaning": "đã dùng/sử dụng vừa mới"
   },
   {
     "id": "present-perfect-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "have visited",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have visited never.",
+    "vietnameseMeaning": "Chúng tôi đã thăm không bao giờ"
   },
   {
     "id": "present-perfect-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "haven't visited",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't visited never.",
+    "vietnameseMeaning": "Chúng tôi chưa thăm không bao giờ"
   },
   {
     "id": "present-perfect-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (visit) never?",
+    "vietnameseMeaning": "đã thăm không bao giờ"
   },
   {
     "id": "present-perfect-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "have watched",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have watched recently.",
+    "vietnameseMeaning": "Tôi đã xem gần đây"
   },
   {
     "id": "present-perfect-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "haven't watched",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't watched recently.",
+    "vietnameseMeaning": "Tôi chưa xem gần đây"
   },
   {
     "id": "present-perfect-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (watch) recently?",
+    "vietnameseMeaning": "đã xem gần đây"
   },
   {
     "id": "present-perfect-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "has weighed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has weighed just.",
+    "vietnameseMeaning": "Cô ấy đã nặng/cân nặng vừa mới"
   },
   {
     "id": "present-perfect-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "hasn't weighed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't weighed just.",
+    "vietnameseMeaning": "Cô ấy chưa nặng/cân nặng vừa mới"
   },
   {
     "id": "present-perfect-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (weigh) just?",
+    "vietnameseMeaning": "đã nặng/cân nặng vừa mới"
   },
   {
     "id": "present-perfect-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "has worked",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He has worked ever.",
+    "vietnameseMeaning": "Anh ấy đã làm việc từng"
   },
   {
     "id": "present-perfect-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "hasn't worked",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He hasn't worked ever.",
+    "vietnameseMeaning": "Anh ấy chưa làm việc từng"
   },
   {
     "id": "present-perfect-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (work) ever?",
+    "vietnameseMeaning": "đã làm việc từng"
   },
   {
     "id": "present-perfect-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "have been",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They have been so far.",
+    "vietnameseMeaning": "Họ đã thì/là/ở cho đến nay"
   },
   {
     "id": "present-perfect-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "haven't been",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They haven't been so far.",
+    "vietnameseMeaning": "Họ chưa thì/là/ở cho đến nay"
   },
   {
     "id": "present-perfect-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (be) so far?",
+    "vietnameseMeaning": "đã thì/là/ở cho đến nay"
   },
   {
     "id": "present-perfect-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "have brushed",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You have brushed so far.",
+    "vietnameseMeaning": "Bạn đã đánh (răng) cho đến nay"
   },
   {
     "id": "present-perfect-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "haven't brushed",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You haven't brushed so far.",
+    "vietnameseMeaning": "Bạn chưa đánh (răng) cho đến nay"
   },
   {
     "id": "present-perfect-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (brush) so far?",
+    "vietnameseMeaning": "đã đánh (răng) cho đến nay"
   },
   {
     "id": "present-perfect-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "has exercised",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It has exercised yet.",
+    "vietnameseMeaning": "Nó đã tập thể dục chưa"
   },
   {
     "id": "present-perfect-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "hasn't exercised",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It hasn't exercised yet.",
+    "vietnameseMeaning": "Nó chưa tập thể dục chưa"
   },
   {
     "id": "present-perfect-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Has",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (exercise) yet?",
+    "vietnameseMeaning": "đã tập thể dục chưa"
   },
   {
     "id": "present-perfect-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "have listened",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We have listened ever.",
+    "vietnameseMeaning": "Chúng tôi đã nghe từng"
   },
   {
     "id": "present-perfect-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "haven't listened",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We haven't listened ever.",
+    "vietnameseMeaning": "Chúng tôi chưa nghe từng"
   },
   {
     "id": "present-perfect-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (listen) ever?",
+    "vietnameseMeaning": "đã nghe từng"
   },
   {
     "id": "present-perfect-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "have slept",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I have slept ever.",
+    "vietnameseMeaning": "Tôi đã ngủ từng"
   },
   {
     "id": "present-perfect-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "haven't slept",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I haven't slept ever.",
+    "vietnameseMeaning": "Tôi chưa ngủ từng"
   },
   {
     "id": "present-perfect-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Have",
     "explanation": "Present Perfect (nghi vấn): Have/Has + S + V3?",
     "tenseType": "present-perfect",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (sleep) ever?",
+    "vietnameseMeaning": "đã ngủ từng"
   },
   {
     "id": "present-perfect-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "has researched",
     "explanation": "Present Perfect: have/has + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has researched ever.",
+    "vietnameseMeaning": "Cô ấy đã nghiên cứu từng"
   },
   {
     "id": "present-perfect-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "hasn't researched",
     "explanation": "Present Perfect (phủ định): have/has not + V3.",
     "tenseType": "present-perfect",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She hasn't researched ever.",
+    "vietnameseMeaning": "Cô ấy chưa nghiên cứu từng"
   }
 ]

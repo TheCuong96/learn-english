@@ -11,7 +11,9 @@
     "correctAnswer": "had been approving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been approving for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang phê duyệt trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "had been attending",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been attending for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang tham dự trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "had been boiling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been boiling since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang sôi/đun sôi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "had been buyying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been buyying since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang mua từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "had been calling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been calling for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang gọi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "had been checking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been checking for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang kiểm tra trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "had been closing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been closing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang đóng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "had been coordinating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been coordinating since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang điều phối từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "had been cooking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been cooking since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang nấu ăn từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "had been costing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been costing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang có giá từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "had been departing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been departing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang khởi hành từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "had been deliverring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been deliverring for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang giao (hàng) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "had been disassembling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been disassembling since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang tháo rời/tháo lắp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "had been doing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been doing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang làm từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "had been drinking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been drinking since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang uống từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "had been eating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been eating since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang ăn từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "had been expiring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been expiring for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang hết hạn trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "had been finishing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been finishing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang hoàn thành từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "had been finalizing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been finalizing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang hoàn tất/chốt từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "had been giving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been giving for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang đưa/cho trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "had been going",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been going for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang đi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "had been helping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been helping since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang giúp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "had been joining",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been joining for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang tham gia trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "had been leaving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been leaving for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang rời đi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "had been living",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been living for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang sống trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "had been managing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been managing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang quản lý từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "had been matterring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been matterring for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang quan trọng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "had been meeting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been meeting since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang họp/gặp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "had been offerring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been offerring for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang cung cấp/đề nghị trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "had been openning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been openning since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang mở từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "had been orderring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been orderring since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang đặt (mua) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "had been shipping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been shipping for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang giao hàng/vận chuyển trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "had been organizing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been organizing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang tổ chức/sắp xếp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "had been playying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been playying since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang chơi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "had been raining",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been raining for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang mưa trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "had been reading",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been reading for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang đọc trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "had been rememberring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been rememberring for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang nhớ trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "had been rising",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been rising since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang mọc/tăng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "had been running",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been running for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang vận hành/chạy trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "had been serving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been serving since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang phục vụ từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "had been speaking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been speaking since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang nói từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "had been spoiling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been spoiling for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang hỏng (đồ ăn) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "had been starting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been starting for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang bắt đầu trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "had been stayying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been stayying for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang ở; (stay open: mở muộn) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "had been studying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been studying for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang học trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "had been taking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been taking since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang lấy; đi bằng; mất (thời gian) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "had been teaching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been teaching since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang dạy từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "had been travelling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been travelling since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang đi du lịch từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "had been using",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been using for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang dùng/sử dụng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "had been visitting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been visitting for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang thăm trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "had been watching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been watching for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang xem trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "had been weighing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been weighing for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang nặng/cân nặng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "had been working",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been working since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang làm việc từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "had been brushing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been brushing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang đánh (răng) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "had been exercising",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been exercising for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang tập thể dục trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "had been listenning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been listenning since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang nghe từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "had been sleeping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been sleeping for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang ngủ trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "had been researching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been researching since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang nghiên cứu từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "had been recycling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been recycling since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang tái chế từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "had been diagnosing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been diagnosing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang chẩn đoán từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "had been negotiating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been negotiating since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang đàm phán từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "had been investing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been investing since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang đầu tư từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "had been composing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been composing for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang sáng tác/soạn trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "had been rescuing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been rescuing since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang cứu hộ/cứu từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "had been broadcasting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been broadcasting since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang phát sóng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "had been discoverring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been discoverring since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang khám phá từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "had been conserving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been conserving since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang bảo tồn từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "had been scheduling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been scheduling for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang lên lịch trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "had been enrolling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been enrolling since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang ghi danh/đăng ký từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "had been manufacturing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been manufacturing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang sản xuất/chế tạo từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "had been donating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been donating for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang quyên góp/hiến tặng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "had been forecasting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been forecasting since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang dự báo từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "had been sayying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been sayying since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang nói từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "had been getting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been getting for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang nhận/được trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "had been making",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been making for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang làm/tạo trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "had been seeing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been seeing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang nhìn thấy trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "had been coming",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been coming for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang đến/đi đến trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "had been thinking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been thinking for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang nghĩ trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "had been looking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been looking for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang nhìn/tìm trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "had been finding",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been finding for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang tìm thấy trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "had been telling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been telling since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang kể/nói với từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "had been asking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been asking since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang hỏi/yêu cầu từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "had been putting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been putting since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang đặt/để từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "had been keeping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been keeping for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang giữ trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "had been beginning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been beginning since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang bắt đầu từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "had been turning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been turning for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang xoay/bật/tắt trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "had been showwing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been showwing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang cho xem từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "had been hearing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been hearing for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang nghe thấy trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "had been moving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been moving since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang di chuyển từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "had been bringing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been bringing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang mang/đem trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "had been writing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been writing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang viết từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "had been sitting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been sitting since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang ngồi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "had been standing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been standing since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang đứng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "had been losing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been losing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang mất/đánh mất từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "had been payying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been payying since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang trả (tiền) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "had been passing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been passing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang vượt qua/chuyền từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "had been posting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been posting for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang đăng/gửi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "had been including",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been including for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang bao gồm trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "had been continuing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been continuing since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang tiếp tục từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "had been setting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been setting since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang đặt/thiết lập từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "had been learning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been learning for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang học trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "had been changing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been changing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang thay đổi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "had been leading",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been leading for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang dẫn dắt trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "had been followwing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been followwing since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang theo dõi/theo sau từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "had been stopping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been stopping since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang dừng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "had been creating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been creating since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang tạo ra từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "had been completing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been completing for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang hoàn thành trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "had been allowwing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been allowwing for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang cho phép trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "had been adding",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been adding since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang thêm từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "had been spending",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been spending for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang dành/tiêu (thời gian/tiền) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "had been growwing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been growwing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang phát triển/lớn lên trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "had been walking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been walking since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang đi bộ từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "had been winning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been winning for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang thắng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "had been considerring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been considerring since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang cân nhắc/xem xét từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "had been appearing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been appearing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang xuất hiện từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "had been waiting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been waiting for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang chờ/đợi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "had been sending",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been sending for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang gửi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "had been expecting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been expecting since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang mong đợi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "had been building",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been building for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang xây dựng trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "had been falling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been falling for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang ngã/rơi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "had been cutting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been cutting for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang cắt trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "had been reaching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been reaching since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang đến/chạm tới từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "had been remaining",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been remaining for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang vẫn/duy trì trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "had been cleaning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been cleaning for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang dọn dẹp trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "had been washing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been washing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang rửa/giặt trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "had been driving",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been driving for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang lái (xe) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "had been riding",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been riding for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang đi (xe đạp/xe máy/ngựa) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "had been shopping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been shopping for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang mua sắm trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "had been fixxing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been fixxing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang sửa/chỉnh từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "had been repairing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been repairing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang sửa chữa từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "had been charging",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been charging for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang sạc (pin) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "had been carrying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been carrying for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang mang/vác trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "had been wearing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been wearing for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang mặc/đeo trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "had been porting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been porting since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang chuyển (ứng dụng/mã) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "had been compiling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been compiling since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang biên dịch từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "had been executing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been executing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang thực thi từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "had been deployying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been deployying since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang triển khai từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "had been releasing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been releasing for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang phát hành trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "had been committing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been committing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang commit (lưu thay đổi) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "had been pushing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been pushing for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang đẩy (mã lên) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "had been pulling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been pulling for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang kéo (mã về) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "had been merging",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been merging since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang gộp nhánh từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "had been branching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been branching for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang tạo nhánh trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "had been rebasing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been rebasing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang rebase (sắp xếp lại lịch sử) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "had been stashing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been stashing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang stash (cất tạm thay đổi) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "had been cloning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been cloning for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang nhân bản kho mã trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "had been forking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been forking since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang fork (tách kho mã) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "had been debugging",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been debugging for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang gỡ lỗi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "had been logging",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been logging for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang ghi log trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "had been tracing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been tracing for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang theo vết trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "had been profiling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been profiling since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang dò hiệu năng từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "had been optimizing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been optimizing for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang tối ưu trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "had been refactorring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been refactorring for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang tái cấu trúc mã trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "had been testing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been testing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang kiểm thử từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "had been mocking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been mocking for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang giả lập (mock) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "had been stubbing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been stubbing for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang stub (giả đối tượng) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "had been linting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been linting since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang kiểm tra style (lint) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "had been formatting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been formatting since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang định dạng (mã) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "had been packaging",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been packaging for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang đóng gói trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "had been bundling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been bundling since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang bundle (đóng gói) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "had been installing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been installing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang cài đặt từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "had been updating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been updating for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang cập nhật trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "had been upgrading",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been upgrading for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang nâng cấp trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "had been rollbacking",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been rollbacking for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang khôi phục phiên bản trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "had been migrating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been migrating for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang di chuyển (dữ liệu/lược đồ) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "had been seeding",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been seeding since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang seed (gieo dữ liệu) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "had been provisioning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been provisioning since morning before the exam.",
+    "vietnameseMeaning": "Tôi đã đang cấp phát (hạ tầng) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "had been configuring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been configuring for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang cấu hình trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "had been authenticating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been authenticating since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang xác thực từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "had been authorizing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been authorizing since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang phân quyền từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "had been encrypting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been encrypting since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang mã hóa từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "had been decrypting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been decrypting since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang giải mã từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "had been hashing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been hashing for two hours before he came.",
+    "vietnameseMeaning": "Anh ấy đã đang băm (hash) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "had been signing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been signing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang ký (số) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "had been verifying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been verifying since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang xác minh từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "had been fetching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been fetching for two hours before he came.",
+    "vietnameseMeaning": "Chúng tôi đã đang lấy (dữ liệu) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "had been requesting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been requesting since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang gửi yêu cầu từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "had been responding",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been responding for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang phản hồi trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "had been renderring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been renderring for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang kết xuất trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "had been parsing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been parsing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang phân tích cú pháp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "had been stringifying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been stringifying for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang chuỗi hóa trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "had been serializing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been serializing for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang tuần tự hóa trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "had been deserializing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been deserializing since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang giải tuần tự từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "had been caching",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been caching for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang bộ nhớ đệm trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "had been invalidating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been invalidating for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang hủy (cache) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "had been indexxing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been indexxing since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang đánh chỉ mục từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "had been querying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been querying since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang truy vấn từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "had been filterring",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been filterring for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang lọc trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "had been mapping",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been mapping for two hours before he came.",
+    "vietnameseMeaning": "Họ đã đang ánh xạ trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "had been reducing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been reducing since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang rút gọn/tổng hợp từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "had been scanning",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been scanning for two hours before he came.",
+    "vietnameseMeaning": "Cô ấy đã đang quét trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "had been connecting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been connecting for two hours before he came.",
+    "vietnameseMeaning": "Nó đã đang kết nối trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "had been disconnecting",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been disconnecting for two hours before he came.",
+    "vietnameseMeaning": "Bạn đã đang ngắt kết nối trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "had been subscribing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "He had been subscribing since morning before the exam.",
+    "vietnameseMeaning": "Anh ấy đã đang đăng ký (sự kiện) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "had been publishing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "I had been publishing for two hours before he came.",
+    "vietnameseMeaning": "Tôi đã đang phát (sự kiện) trong hai giờ trước khi anh ấy đến"
   },
   {
     "id": "past-perfect-continuous-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "had been queuing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "They had been queuing since morning before the exam.",
+    "vietnameseMeaning": "Họ đã đang xếp hàng (tác vụ) từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "had been retrying",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "We had been retrying since morning before the exam.",
+    "vietnameseMeaning": "Chúng tôi đã đang thử lại từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "had been throttling",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "She had been throttling since morning before the exam.",
+    "vietnameseMeaning": "Cô ấy đã đang giới hạn tần suất từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "had been debouncing",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "It had been debouncing since morning before the exam.",
+    "vietnameseMeaning": "Nó đã đang chống dội từ sáng trước kỳ thi"
   },
   {
     "id": "past-perfect-continuous-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "had been paginating",
     "explanation": "Past Perfect Continuous: had been + V-ing.",
     "tenseType": "past-perfect-continuous",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "completedSentence": "You had been paginating since morning before the exam.",
+    "vietnameseMeaning": "Bạn đã đang phân trang từ sáng trước kỳ thi"
   }
 ]

@@ -11,7 +11,9 @@
     "correctAnswer": "approve",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They approve on Mondays.",
+    "vietnameseMeaning": "Họ phê duyệt vào thứ Hai"
   },
   {
     "id": "present-simple-002",
@@ -25,7 +27,9 @@
     "correctAnswer": "don't approve",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't approve on Mondays.",
+    "vietnameseMeaning": "Họ không phê duyệt vào thứ Hai"
   },
   {
     "id": "present-simple-003",
@@ -39,7 +43,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (approve) on Mondays?",
+    "vietnameseMeaning": "phê duyệt vào thứ Hai"
   },
   {
     "id": "present-simple-004",
@@ -53,7 +59,9 @@
     "correctAnswer": "attend",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You attend always.",
+    "vietnameseMeaning": "Bạn tham dự luôn luôn"
   },
   {
     "id": "present-simple-005",
@@ -67,7 +75,9 @@
     "correctAnswer": "don't attend",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't attend always.",
+    "vietnameseMeaning": "Bạn không tham dự luôn luôn"
   },
   {
     "id": "present-simple-006",
@@ -81,7 +91,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (attend) always?",
+    "vietnameseMeaning": "tham dự luôn luôn"
   },
   {
     "id": "present-simple-007",
@@ -95,7 +107,9 @@
     "correctAnswer": "believes",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She believes usually.",
+    "vietnameseMeaning": "Cô ấy tin thường"
   },
   {
     "id": "present-simple-008",
@@ -109,7 +123,9 @@
     "correctAnswer": "doesn't believe",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't believe usually.",
+    "vietnameseMeaning": "Cô ấy không tin thường"
   },
   {
     "id": "present-simple-009",
@@ -123,7 +139,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (believe) usually?",
+    "vietnameseMeaning": "tin thường"
   },
   {
     "id": "present-simple-010",
@@ -137,7 +155,9 @@
     "correctAnswer": "boils",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It boils always.",
+    "vietnameseMeaning": "Nó sôi/đun sôi luôn luôn"
   },
   {
     "id": "present-simple-011",
@@ -151,7 +171,9 @@
     "correctAnswer": "doesn't boil",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't boil always.",
+    "vietnameseMeaning": "Nó không sôi/đun sôi luôn luôn"
   },
   {
     "id": "present-simple-012",
@@ -165,7 +187,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (boil) always?",
+    "vietnameseMeaning": "sôi/đun sôi luôn luôn"
   },
   {
     "id": "present-simple-013",
@@ -179,7 +203,9 @@
     "correctAnswer": "buy",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We buy every week.",
+    "vietnameseMeaning": "Chúng tôi mua mỗi tuần"
   },
   {
     "id": "present-simple-014",
@@ -193,7 +219,9 @@
     "correctAnswer": "don't buy",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't buy every week.",
+    "vietnameseMeaning": "Chúng tôi không mua mỗi tuần"
   },
   {
     "id": "present-simple-015",
@@ -207,7 +235,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (buy) every week?",
+    "vietnameseMeaning": "mua mỗi tuần"
   },
   {
     "id": "present-simple-016",
@@ -221,7 +251,9 @@
     "correctAnswer": "calls",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He calls sometimes.",
+    "vietnameseMeaning": "Anh ấy gọi đôi khi"
   },
   {
     "id": "present-simple-017",
@@ -235,7 +267,9 @@
     "correctAnswer": "doesn't call",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't call sometimes.",
+    "vietnameseMeaning": "Anh ấy không gọi đôi khi"
   },
   {
     "id": "present-simple-018",
@@ -249,7 +283,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (call) sometimes?",
+    "vietnameseMeaning": "gọi đôi khi"
   },
   {
     "id": "present-simple-019",
@@ -263,7 +299,9 @@
     "correctAnswer": "check",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I check usually.",
+    "vietnameseMeaning": "Tôi kiểm tra thường"
   },
   {
     "id": "present-simple-020",
@@ -277,7 +315,9 @@
     "correctAnswer": "don't check",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't check usually.",
+    "vietnameseMeaning": "Tôi không kiểm tra thường"
   },
   {
     "id": "present-simple-021",
@@ -291,7 +331,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (check) usually?",
+    "vietnameseMeaning": "kiểm tra thường"
   },
   {
     "id": "present-simple-022",
@@ -305,7 +347,9 @@
     "correctAnswer": "close",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They close every day.",
+    "vietnameseMeaning": "Họ đóng mỗi ngày"
   },
   {
     "id": "present-simple-023",
@@ -319,7 +363,9 @@
     "correctAnswer": "don't close",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't close every day.",
+    "vietnameseMeaning": "Họ không đóng mỗi ngày"
   },
   {
     "id": "present-simple-024",
@@ -333,7 +379,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (close) every day?",
+    "vietnameseMeaning": "đóng mỗi ngày"
   },
   {
     "id": "present-simple-025",
@@ -347,7 +395,9 @@
     "correctAnswer": "contain",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You contain often.",
+    "vietnameseMeaning": "Bạn chứa thường"
   },
   {
     "id": "present-simple-026",
@@ -361,7 +411,9 @@
     "correctAnswer": "don't contain",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't contain often.",
+    "vietnameseMeaning": "Bạn không chứa thường"
   },
   {
     "id": "present-simple-027",
@@ -375,7 +427,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (contain) often?",
+    "vietnameseMeaning": "chứa thường"
   },
   {
     "id": "present-simple-028",
@@ -389,7 +443,9 @@
     "correctAnswer": "coordinates",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She coordinates usually.",
+    "vietnameseMeaning": "Cô ấy điều phối thường"
   },
   {
     "id": "present-simple-029",
@@ -403,7 +459,9 @@
     "correctAnswer": "doesn't coordinate",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't coordinate usually.",
+    "vietnameseMeaning": "Cô ấy không điều phối thường"
   },
   {
     "id": "present-simple-030",
@@ -417,7 +475,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (coordinate) usually?",
+    "vietnameseMeaning": "điều phối thường"
   },
   {
     "id": "present-simple-031",
@@ -431,7 +491,9 @@
     "correctAnswer": "cooks",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It cooks usually.",
+    "vietnameseMeaning": "Nó nấu ăn thường"
   },
   {
     "id": "present-simple-032",
@@ -445,7 +507,9 @@
     "correctAnswer": "doesn't cook",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't cook usually.",
+    "vietnameseMeaning": "Nó không nấu ăn thường"
   },
   {
     "id": "present-simple-033",
@@ -459,7 +523,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (cook) usually?",
+    "vietnameseMeaning": "nấu ăn thường"
   },
   {
     "id": "present-simple-034",
@@ -473,7 +539,9 @@
     "correctAnswer": "cost",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We cost every day.",
+    "vietnameseMeaning": "Chúng tôi có giá mỗi ngày"
   },
   {
     "id": "present-simple-035",
@@ -487,7 +555,9 @@
     "correctAnswer": "don't cost",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't cost every day.",
+    "vietnameseMeaning": "Chúng tôi không có giá mỗi ngày"
   },
   {
     "id": "present-simple-036",
@@ -501,7 +571,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (cost) every day?",
+    "vietnameseMeaning": "có giá mỗi ngày"
   },
   {
     "id": "present-simple-037",
@@ -515,7 +587,9 @@
     "correctAnswer": "departs",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He departs never.",
+    "vietnameseMeaning": "Anh ấy khởi hành không bao giờ"
   },
   {
     "id": "present-simple-038",
@@ -529,7 +603,9 @@
     "correctAnswer": "doesn't depart",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't depart never.",
+    "vietnameseMeaning": "Anh ấy không khởi hành không bao giờ"
   },
   {
     "id": "present-simple-039",
@@ -543,7 +619,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (depart) never?",
+    "vietnameseMeaning": "khởi hành không bao giờ"
   },
   {
     "id": "present-simple-040",
@@ -557,7 +635,9 @@
     "correctAnswer": "deliver",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I deliver never.",
+    "vietnameseMeaning": "Tôi giao (hàng) không bao giờ"
   },
   {
     "id": "present-simple-041",
@@ -571,7 +651,9 @@
     "correctAnswer": "don't deliver",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't deliver never.",
+    "vietnameseMeaning": "Tôi không giao (hàng) không bao giờ"
   },
   {
     "id": "present-simple-042",
@@ -585,7 +667,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (deliver) never?",
+    "vietnameseMeaning": "giao (hàng) không bao giờ"
   },
   {
     "id": "present-simple-043",
@@ -599,7 +683,9 @@
     "correctAnswer": "disassemble",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They disassemble every week.",
+    "vietnameseMeaning": "Họ tháo rời/tháo lắp mỗi tuần"
   },
   {
     "id": "present-simple-044",
@@ -613,7 +699,9 @@
     "correctAnswer": "don't disassemble",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't disassemble every week.",
+    "vietnameseMeaning": "Họ không tháo rời/tháo lắp mỗi tuần"
   },
   {
     "id": "present-simple-045",
@@ -627,7 +715,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (disassemble) every week?",
+    "vietnameseMeaning": "tháo rời/tháo lắp mỗi tuần"
   },
   {
     "id": "present-simple-046",
@@ -641,7 +731,9 @@
     "correctAnswer": "do",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You do usually.",
+    "vietnameseMeaning": "Bạn làm thường"
   },
   {
     "id": "present-simple-047",
@@ -655,7 +747,9 @@
     "correctAnswer": "don't do",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't do usually.",
+    "vietnameseMeaning": "Bạn không làm thường"
   },
   {
     "id": "present-simple-048",
@@ -669,7 +763,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (do) usually?",
+    "vietnameseMeaning": "làm thường"
   },
   {
     "id": "present-simple-049",
@@ -683,7 +779,9 @@
     "correctAnswer": "drinks",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She drinks never.",
+    "vietnameseMeaning": "Cô ấy uống không bao giờ"
   },
   {
     "id": "present-simple-050",
@@ -697,7 +795,9 @@
     "correctAnswer": "doesn't drink",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't drink never.",
+    "vietnameseMeaning": "Cô ấy không uống không bao giờ"
   },
   {
     "id": "present-simple-051",
@@ -711,7 +811,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (drink) never?",
+    "vietnameseMeaning": "uống không bao giờ"
   },
   {
     "id": "present-simple-052",
@@ -725,7 +827,9 @@
     "correctAnswer": "eats",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It eats every day.",
+    "vietnameseMeaning": "Nó ăn mỗi ngày"
   },
   {
     "id": "present-simple-053",
@@ -739,7 +843,9 @@
     "correctAnswer": "doesn't eat",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't eat every day.",
+    "vietnameseMeaning": "Nó không ăn mỗi ngày"
   },
   {
     "id": "present-simple-054",
@@ -753,7 +859,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (eat) every day?",
+    "vietnameseMeaning": "ăn mỗi ngày"
   },
   {
     "id": "present-simple-055",
@@ -767,7 +875,9 @@
     "correctAnswer": "expire",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We expire always.",
+    "vietnameseMeaning": "Chúng tôi hết hạn luôn luôn"
   },
   {
     "id": "present-simple-056",
@@ -781,7 +891,9 @@
     "correctAnswer": "don't expire",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't expire always.",
+    "vietnameseMeaning": "Chúng tôi không hết hạn luôn luôn"
   },
   {
     "id": "present-simple-057",
@@ -795,7 +907,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (expire) always?",
+    "vietnameseMeaning": "hết hạn luôn luôn"
   },
   {
     "id": "present-simple-058",
@@ -809,7 +923,9 @@
     "correctAnswer": "finishes",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He finishes on Mondays.",
+    "vietnameseMeaning": "Anh ấy hoàn thành vào thứ Hai"
   },
   {
     "id": "present-simple-059",
@@ -823,7 +939,9 @@
     "correctAnswer": "doesn't finish",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't finish on Mondays.",
+    "vietnameseMeaning": "Anh ấy không hoàn thành vào thứ Hai"
   },
   {
     "id": "present-simple-060",
@@ -837,7 +955,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (finish) on Mondays?",
+    "vietnameseMeaning": "hoàn thành vào thứ Hai"
   },
   {
     "id": "present-simple-061",
@@ -851,7 +971,9 @@
     "correctAnswer": "finalize",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I finalize always.",
+    "vietnameseMeaning": "Tôi hoàn tất/chốt luôn luôn"
   },
   {
     "id": "present-simple-062",
@@ -865,7 +987,9 @@
     "correctAnswer": "don't finalize",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't finalize always.",
+    "vietnameseMeaning": "Tôi không hoàn tất/chốt luôn luôn"
   },
   {
     "id": "present-simple-063",
@@ -879,7 +1003,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (finalize) always?",
+    "vietnameseMeaning": "hoàn tất/chốt luôn luôn"
   },
   {
     "id": "present-simple-064",
@@ -893,7 +1019,9 @@
     "correctAnswer": "give",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They give often.",
+    "vietnameseMeaning": "Họ đưa/cho thường"
   },
   {
     "id": "present-simple-065",
@@ -907,7 +1035,9 @@
     "correctAnswer": "don't give",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't give often.",
+    "vietnameseMeaning": "Họ không đưa/cho thường"
   },
   {
     "id": "present-simple-066",
@@ -921,7 +1051,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (give) often?",
+    "vietnameseMeaning": "đưa/cho thường"
   },
   {
     "id": "present-simple-067",
@@ -935,7 +1067,9 @@
     "correctAnswer": "go",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You go never.",
+    "vietnameseMeaning": "Bạn đi không bao giờ"
   },
   {
     "id": "present-simple-068",
@@ -949,7 +1083,9 @@
     "correctAnswer": "don't go",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't go never.",
+    "vietnameseMeaning": "Bạn không đi không bao giờ"
   },
   {
     "id": "present-simple-069",
@@ -963,7 +1099,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (go) never?",
+    "vietnameseMeaning": "đi không bao giờ"
   },
   {
     "id": "present-simple-070",
@@ -977,7 +1115,9 @@
     "correctAnswer": "has",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She has never.",
+    "vietnameseMeaning": "Cô ấy có; (3rd: has) không bao giờ"
   },
   {
     "id": "present-simple-071",
@@ -991,7 +1131,9 @@
     "correctAnswer": "doesn't have",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't have never.",
+    "vietnameseMeaning": "Cô ấy không có; (3rd: has) không bao giờ"
   },
   {
     "id": "present-simple-072",
@@ -1005,7 +1147,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (have) never?",
+    "vietnameseMeaning": "có; (3rd: has) không bao giờ"
   },
   {
     "id": "present-simple-073",
@@ -1019,7 +1163,9 @@
     "correctAnswer": "helps",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It helps on Mondays.",
+    "vietnameseMeaning": "Nó giúp vào thứ Hai"
   },
   {
     "id": "present-simple-074",
@@ -1033,7 +1179,9 @@
     "correctAnswer": "doesn't help",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't help on Mondays.",
+    "vietnameseMeaning": "Nó không giúp vào thứ Hai"
   },
   {
     "id": "present-simple-075",
@@ -1047,7 +1195,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (help) on Mondays?",
+    "vietnameseMeaning": "giúp vào thứ Hai"
   },
   {
     "id": "present-simple-076",
@@ -1061,7 +1211,9 @@
     "correctAnswer": "join",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We join sometimes.",
+    "vietnameseMeaning": "Chúng tôi tham gia đôi khi"
   },
   {
     "id": "present-simple-077",
@@ -1075,7 +1227,9 @@
     "correctAnswer": "don't join",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't join sometimes.",
+    "vietnameseMeaning": "Chúng tôi không tham gia đôi khi"
   },
   {
     "id": "present-simple-078",
@@ -1089,7 +1243,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (join) sometimes?",
+    "vietnameseMeaning": "tham gia đôi khi"
   },
   {
     "id": "present-simple-079",
@@ -1103,7 +1259,9 @@
     "correctAnswer": "leaves",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He leaves every day.",
+    "vietnameseMeaning": "Anh ấy rời đi mỗi ngày"
   },
   {
     "id": "present-simple-080",
@@ -1117,7 +1275,9 @@
     "correctAnswer": "doesn't leave",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't leave every day.",
+    "vietnameseMeaning": "Anh ấy không rời đi mỗi ngày"
   },
   {
     "id": "present-simple-081",
@@ -1131,7 +1291,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (leave) every day?",
+    "vietnameseMeaning": "rời đi mỗi ngày"
   },
   {
     "id": "present-simple-082",
@@ -1145,7 +1307,9 @@
     "correctAnswer": "like",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I like every week.",
+    "vietnameseMeaning": "Tôi thích mỗi tuần"
   },
   {
     "id": "present-simple-083",
@@ -1159,7 +1323,9 @@
     "correctAnswer": "don't like",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't like every week.",
+    "vietnameseMeaning": "Tôi không thích mỗi tuần"
   },
   {
     "id": "present-simple-084",
@@ -1173,7 +1339,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (like) every week?",
+    "vietnameseMeaning": "thích mỗi tuần"
   },
   {
     "id": "present-simple-085",
@@ -1187,7 +1355,9 @@
     "correctAnswer": "live",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They live usually.",
+    "vietnameseMeaning": "Họ sống thường"
   },
   {
     "id": "present-simple-086",
@@ -1201,7 +1371,9 @@
     "correctAnswer": "don't live",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't live usually.",
+    "vietnameseMeaning": "Họ không sống thường"
   },
   {
     "id": "present-simple-087",
@@ -1215,7 +1387,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (live) usually?",
+    "vietnameseMeaning": "sống thường"
   },
   {
     "id": "present-simple-088",
@@ -1229,7 +1403,9 @@
     "correctAnswer": "manage",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You manage every week.",
+    "vietnameseMeaning": "Bạn quản lý mỗi tuần"
   },
   {
     "id": "present-simple-089",
@@ -1243,7 +1419,9 @@
     "correctAnswer": "don't manage",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't manage every week.",
+    "vietnameseMeaning": "Bạn không quản lý mỗi tuần"
   },
   {
     "id": "present-simple-090",
@@ -1257,7 +1435,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (manage) every week?",
+    "vietnameseMeaning": "quản lý mỗi tuần"
   },
   {
     "id": "present-simple-091",
@@ -1271,7 +1451,9 @@
     "correctAnswer": "matters",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She matters never.",
+    "vietnameseMeaning": "Cô ấy quan trọng không bao giờ"
   },
   {
     "id": "present-simple-092",
@@ -1285,7 +1467,9 @@
     "correctAnswer": "doesn't matter",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't matter never.",
+    "vietnameseMeaning": "Cô ấy không quan trọng không bao giờ"
   },
   {
     "id": "present-simple-093",
@@ -1299,7 +1483,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (matter) never?",
+    "vietnameseMeaning": "quan trọng không bao giờ"
   },
   {
     "id": "present-simple-094",
@@ -1313,7 +1499,9 @@
     "correctAnswer": "meets",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It meets on Mondays.",
+    "vietnameseMeaning": "Nó họp/gặp vào thứ Hai"
   },
   {
     "id": "present-simple-095",
@@ -1327,7 +1515,9 @@
     "correctAnswer": "doesn't meet",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't meet on Mondays.",
+    "vietnameseMeaning": "Nó không họp/gặp vào thứ Hai"
   },
   {
     "id": "present-simple-096",
@@ -1341,7 +1531,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (meet) on Mondays?",
+    "vietnameseMeaning": "họp/gặp vào thứ Hai"
   },
   {
     "id": "present-simple-097",
@@ -1355,7 +1547,9 @@
     "correctAnswer": "need",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We need on Mondays.",
+    "vietnameseMeaning": "Chúng tôi cần vào thứ Hai"
   },
   {
     "id": "present-simple-098",
@@ -1369,7 +1563,9 @@
     "correctAnswer": "don't need",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't need on Mondays.",
+    "vietnameseMeaning": "Chúng tôi không cần vào thứ Hai"
   },
   {
     "id": "present-simple-099",
@@ -1383,7 +1579,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (need) on Mondays?",
+    "vietnameseMeaning": "cần vào thứ Hai"
   },
   {
     "id": "present-simple-100",
@@ -1397,7 +1595,9 @@
     "correctAnswer": "offers",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He offers never.",
+    "vietnameseMeaning": "Anh ấy cung cấp/đề nghị không bao giờ"
   },
   {
     "id": "present-simple-101",
@@ -1411,7 +1611,9 @@
     "correctAnswer": "doesn't offer",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't offer never.",
+    "vietnameseMeaning": "Anh ấy không cung cấp/đề nghị không bao giờ"
   },
   {
     "id": "present-simple-102",
@@ -1425,7 +1627,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (offer) never?",
+    "vietnameseMeaning": "cung cấp/đề nghị không bao giờ"
   },
   {
     "id": "present-simple-103",
@@ -1439,7 +1643,9 @@
     "correctAnswer": "open",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I open usually.",
+    "vietnameseMeaning": "Tôi mở thường"
   },
   {
     "id": "present-simple-104",
@@ -1453,7 +1659,9 @@
     "correctAnswer": "don't open",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't open usually.",
+    "vietnameseMeaning": "Tôi không mở thường"
   },
   {
     "id": "present-simple-105",
@@ -1467,7 +1675,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (open) usually?",
+    "vietnameseMeaning": "mở thường"
   },
   {
     "id": "present-simple-106",
@@ -1481,7 +1691,9 @@
     "correctAnswer": "order",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They order on Mondays.",
+    "vietnameseMeaning": "Họ đặt (mua) vào thứ Hai"
   },
   {
     "id": "present-simple-107",
@@ -1495,7 +1707,9 @@
     "correctAnswer": "don't order",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't order on Mondays.",
+    "vietnameseMeaning": "Họ không đặt (mua) vào thứ Hai"
   },
   {
     "id": "present-simple-108",
@@ -1509,7 +1723,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (order) on Mondays?",
+    "vietnameseMeaning": "đặt (mua) vào thứ Hai"
   },
   {
     "id": "present-simple-109",
@@ -1523,7 +1739,9 @@
     "correctAnswer": "ship",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You ship sometimes.",
+    "vietnameseMeaning": "Bạn giao hàng/vận chuyển đôi khi"
   },
   {
     "id": "present-simple-110",
@@ -1537,7 +1755,9 @@
     "correctAnswer": "don't ship",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't ship sometimes.",
+    "vietnameseMeaning": "Bạn không giao hàng/vận chuyển đôi khi"
   },
   {
     "id": "present-simple-111",
@@ -1551,7 +1771,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (ship) sometimes?",
+    "vietnameseMeaning": "giao hàng/vận chuyển đôi khi"
   },
   {
     "id": "present-simple-112",
@@ -1565,7 +1787,9 @@
     "correctAnswer": "organizes",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She organizes often.",
+    "vietnameseMeaning": "Cô ấy tổ chức/sắp xếp thường"
   },
   {
     "id": "present-simple-113",
@@ -1579,7 +1803,9 @@
     "correctAnswer": "doesn't organize",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't organize often.",
+    "vietnameseMeaning": "Cô ấy không tổ chức/sắp xếp thường"
   },
   {
     "id": "present-simple-114",
@@ -1593,7 +1819,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (organize) often?",
+    "vietnameseMeaning": "tổ chức/sắp xếp thường"
   },
   {
     "id": "present-simple-115",
@@ -1607,7 +1835,9 @@
     "correctAnswer": "owns",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It owns often.",
+    "vietnameseMeaning": "Nó sở hữu thường"
   },
   {
     "id": "present-simple-116",
@@ -1621,7 +1851,9 @@
     "correctAnswer": "doesn't own",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't own often.",
+    "vietnameseMeaning": "Nó không sở hữu thường"
   },
   {
     "id": "present-simple-117",
@@ -1635,7 +1867,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (own) often?",
+    "vietnameseMeaning": "sở hữu thường"
   },
   {
     "id": "present-simple-118",
@@ -1649,7 +1883,9 @@
     "correctAnswer": "play",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We play on Mondays.",
+    "vietnameseMeaning": "Chúng tôi chơi vào thứ Hai"
   },
   {
     "id": "present-simple-119",
@@ -1663,7 +1899,9 @@
     "correctAnswer": "don't play",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't play on Mondays.",
+    "vietnameseMeaning": "Chúng tôi không chơi vào thứ Hai"
   },
   {
     "id": "present-simple-120",
@@ -1677,7 +1915,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (play) on Mondays?",
+    "vietnameseMeaning": "chơi vào thứ Hai"
   },
   {
     "id": "present-simple-121",
@@ -1691,7 +1931,9 @@
     "correctAnswer": "prefers",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He prefers always.",
+    "vietnameseMeaning": "Anh ấy thích hơn luôn luôn"
   },
   {
     "id": "present-simple-122",
@@ -1705,7 +1947,9 @@
     "correctAnswer": "doesn't prefer",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't prefer always.",
+    "vietnameseMeaning": "Anh ấy không thích hơn luôn luôn"
   },
   {
     "id": "present-simple-123",
@@ -1719,7 +1963,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (prefer) always?",
+    "vietnameseMeaning": "thích hơn luôn luôn"
   },
   {
     "id": "present-simple-124",
@@ -1733,7 +1979,9 @@
     "correctAnswer": "rain",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I rain always.",
+    "vietnameseMeaning": "Tôi mưa luôn luôn"
   },
   {
     "id": "present-simple-125",
@@ -1747,7 +1995,9 @@
     "correctAnswer": "don't rain",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't rain always.",
+    "vietnameseMeaning": "Tôi không mưa luôn luôn"
   },
   {
     "id": "present-simple-126",
@@ -1761,7 +2011,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (rain) always?",
+    "vietnameseMeaning": "mưa luôn luôn"
   },
   {
     "id": "present-simple-127",
@@ -1775,7 +2027,9 @@
     "correctAnswer": "read",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They read every day.",
+    "vietnameseMeaning": "Họ đọc mỗi ngày"
   },
   {
     "id": "present-simple-128",
@@ -1789,7 +2043,9 @@
     "correctAnswer": "don't read",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't read every day.",
+    "vietnameseMeaning": "Họ không đọc mỗi ngày"
   },
   {
     "id": "present-simple-129",
@@ -1803,7 +2059,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (read) every day?",
+    "vietnameseMeaning": "đọc mỗi ngày"
   },
   {
     "id": "present-simple-130",
@@ -1817,7 +2075,9 @@
     "correctAnswer": "remember",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You remember on Mondays.",
+    "vietnameseMeaning": "Bạn nhớ vào thứ Hai"
   },
   {
     "id": "present-simple-131",
@@ -1831,7 +2091,9 @@
     "correctAnswer": "don't remember",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't remember on Mondays.",
+    "vietnameseMeaning": "Bạn không nhớ vào thứ Hai"
   },
   {
     "id": "present-simple-132",
@@ -1845,7 +2107,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (remember) on Mondays?",
+    "vietnameseMeaning": "nhớ vào thứ Hai"
   },
   {
     "id": "present-simple-133",
@@ -1859,7 +2123,9 @@
     "correctAnswer": "rises",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She rises never.",
+    "vietnameseMeaning": "Cô ấy mọc/tăng không bao giờ"
   },
   {
     "id": "present-simple-134",
@@ -1873,7 +2139,9 @@
     "correctAnswer": "doesn't rise",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't rise never.",
+    "vietnameseMeaning": "Cô ấy không mọc/tăng không bao giờ"
   },
   {
     "id": "present-simple-135",
@@ -1887,7 +2155,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (rise) never?",
+    "vietnameseMeaning": "mọc/tăng không bao giờ"
   },
   {
     "id": "present-simple-136",
@@ -1901,7 +2171,9 @@
     "correctAnswer": "runs",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It runs sometimes.",
+    "vietnameseMeaning": "Nó vận hành/chạy đôi khi"
   },
   {
     "id": "present-simple-137",
@@ -1915,7 +2187,9 @@
     "correctAnswer": "doesn't run",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't run sometimes.",
+    "vietnameseMeaning": "Nó không vận hành/chạy đôi khi"
   },
   {
     "id": "present-simple-138",
@@ -1929,7 +2203,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (run) sometimes?",
+    "vietnameseMeaning": "vận hành/chạy đôi khi"
   },
   {
     "id": "present-simple-139",
@@ -1943,7 +2219,9 @@
     "correctAnswer": "serve",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We serve always.",
+    "vietnameseMeaning": "Chúng tôi phục vụ luôn luôn"
   },
   {
     "id": "present-simple-140",
@@ -1957,7 +2235,9 @@
     "correctAnswer": "don't serve",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't serve always.",
+    "vietnameseMeaning": "Chúng tôi không phục vụ luôn luôn"
   },
   {
     "id": "present-simple-141",
@@ -1971,7 +2251,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (serve) always?",
+    "vietnameseMeaning": "phục vụ luôn luôn"
   },
   {
     "id": "present-simple-142",
@@ -1985,7 +2267,9 @@
     "correctAnswer": "speaks",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He speaks always.",
+    "vietnameseMeaning": "Anh ấy nói luôn luôn"
   },
   {
     "id": "present-simple-143",
@@ -1999,7 +2283,9 @@
     "correctAnswer": "doesn't speak",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't speak always.",
+    "vietnameseMeaning": "Anh ấy không nói luôn luôn"
   },
   {
     "id": "present-simple-144",
@@ -2013,7 +2299,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (speak) always?",
+    "vietnameseMeaning": "nói luôn luôn"
   },
   {
     "id": "present-simple-145",
@@ -2027,7 +2315,9 @@
     "correctAnswer": "spoil",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I spoil usually.",
+    "vietnameseMeaning": "Tôi hỏng (đồ ăn) thường"
   },
   {
     "id": "present-simple-146",
@@ -2041,7 +2331,9 @@
     "correctAnswer": "don't spoil",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't spoil usually.",
+    "vietnameseMeaning": "Tôi không hỏng (đồ ăn) thường"
   },
   {
     "id": "present-simple-147",
@@ -2055,7 +2347,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (spoil) usually?",
+    "vietnameseMeaning": "hỏng (đồ ăn) thường"
   },
   {
     "id": "present-simple-148",
@@ -2069,7 +2363,9 @@
     "correctAnswer": "start",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They start never.",
+    "vietnameseMeaning": "Họ bắt đầu không bao giờ"
   },
   {
     "id": "present-simple-149",
@@ -2083,7 +2379,9 @@
     "correctAnswer": "don't start",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't start never.",
+    "vietnameseMeaning": "Họ không bắt đầu không bao giờ"
   },
   {
     "id": "present-simple-150",
@@ -2097,7 +2395,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (start) never?",
+    "vietnameseMeaning": "bắt đầu không bao giờ"
   },
   {
     "id": "present-simple-151",
@@ -2111,7 +2411,9 @@
     "correctAnswer": "stay",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You stay never.",
+    "vietnameseMeaning": "Bạn ở; (stay open: mở muộn) không bao giờ"
   },
   {
     "id": "present-simple-152",
@@ -2125,7 +2427,9 @@
     "correctAnswer": "don't stay",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't stay never.",
+    "vietnameseMeaning": "Bạn không ở; (stay open: mở muộn) không bao giờ"
   },
   {
     "id": "present-simple-153",
@@ -2139,7 +2443,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (stay) never?",
+    "vietnameseMeaning": "ở; (stay open: mở muộn) không bao giờ"
   },
   {
     "id": "present-simple-154",
@@ -2153,7 +2459,9 @@
     "correctAnswer": "studies",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She studies usually.",
+    "vietnameseMeaning": "Cô ấy học thường"
   },
   {
     "id": "present-simple-155",
@@ -2167,7 +2475,9 @@
     "correctAnswer": "doesn't study",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't study usually.",
+    "vietnameseMeaning": "Cô ấy không học thường"
   },
   {
     "id": "present-simple-156",
@@ -2181,7 +2491,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (study) usually?",
+    "vietnameseMeaning": "học thường"
   },
   {
     "id": "present-simple-157",
@@ -2195,7 +2507,9 @@
     "correctAnswer": "takes",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It takes often.",
+    "vietnameseMeaning": "Nó lấy; đi bằng; mất (thời gian) thường"
   },
   {
     "id": "present-simple-158",
@@ -2209,7 +2523,9 @@
     "correctAnswer": "doesn't take",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't take often.",
+    "vietnameseMeaning": "Nó không lấy; đi bằng; mất (thời gian) thường"
   },
   {
     "id": "present-simple-159",
@@ -2223,7 +2539,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (take) often?",
+    "vietnameseMeaning": "lấy; đi bằng; mất (thời gian) thường"
   },
   {
     "id": "present-simple-160",
@@ -2237,7 +2555,9 @@
     "correctAnswer": "teach",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We teach every week.",
+    "vietnameseMeaning": "Chúng tôi dạy mỗi tuần"
   },
   {
     "id": "present-simple-161",
@@ -2251,7 +2571,9 @@
     "correctAnswer": "don't teach",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't teach every week.",
+    "vietnameseMeaning": "Chúng tôi không dạy mỗi tuần"
   },
   {
     "id": "present-simple-162",
@@ -2265,7 +2587,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (teach) every week?",
+    "vietnameseMeaning": "dạy mỗi tuần"
   },
   {
     "id": "present-simple-163",
@@ -2279,7 +2603,9 @@
     "correctAnswer": "travels",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He travels often.",
+    "vietnameseMeaning": "Anh ấy đi du lịch thường"
   },
   {
     "id": "present-simple-164",
@@ -2293,7 +2619,9 @@
     "correctAnswer": "doesn't travel",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't travel often.",
+    "vietnameseMeaning": "Anh ấy không đi du lịch thường"
   },
   {
     "id": "present-simple-165",
@@ -2307,7 +2635,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (travel) often?",
+    "vietnameseMeaning": "đi du lịch thường"
   },
   {
     "id": "present-simple-166",
@@ -2321,7 +2651,9 @@
     "correctAnswer": "understand",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I understand usually.",
+    "vietnameseMeaning": "Tôi hiểu thường"
   },
   {
     "id": "present-simple-167",
@@ -2335,7 +2667,9 @@
     "correctAnswer": "don't understand",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't understand usually.",
+    "vietnameseMeaning": "Tôi không hiểu thường"
   },
   {
     "id": "present-simple-168",
@@ -2349,7 +2683,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (understand) usually?",
+    "vietnameseMeaning": "hiểu thường"
   },
   {
     "id": "present-simple-169",
@@ -2363,7 +2699,9 @@
     "correctAnswer": "use",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They use sometimes.",
+    "vietnameseMeaning": "Họ dùng/sử dụng đôi khi"
   },
   {
     "id": "present-simple-170",
@@ -2377,7 +2715,9 @@
     "correctAnswer": "don't use",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't use sometimes.",
+    "vietnameseMeaning": "Họ không dùng/sử dụng đôi khi"
   },
   {
     "id": "present-simple-171",
@@ -2391,7 +2731,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (use) sometimes?",
+    "vietnameseMeaning": "dùng/sử dụng đôi khi"
   },
   {
     "id": "present-simple-172",
@@ -2405,7 +2747,9 @@
     "correctAnswer": "visit",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You visit every day.",
+    "vietnameseMeaning": "Bạn thăm mỗi ngày"
   },
   {
     "id": "present-simple-173",
@@ -2419,7 +2763,9 @@
     "correctAnswer": "don't visit",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't visit every day.",
+    "vietnameseMeaning": "Bạn không thăm mỗi ngày"
   },
   {
     "id": "present-simple-174",
@@ -2433,7 +2779,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (visit) every day?",
+    "vietnameseMeaning": "thăm mỗi ngày"
   },
   {
     "id": "present-simple-175",
@@ -2447,7 +2795,9 @@
     "correctAnswer": "watches",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She watches usually.",
+    "vietnameseMeaning": "Cô ấy xem thường"
   },
   {
     "id": "present-simple-176",
@@ -2461,7 +2811,9 @@
     "correctAnswer": "doesn't watch",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't watch usually.",
+    "vietnameseMeaning": "Cô ấy không xem thường"
   },
   {
     "id": "present-simple-177",
@@ -2475,7 +2827,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (watch) usually?",
+    "vietnameseMeaning": "xem thường"
   },
   {
     "id": "present-simple-178",
@@ -2489,7 +2843,9 @@
     "correctAnswer": "weighs",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It weighs often.",
+    "vietnameseMeaning": "Nó nặng/cân nặng thường"
   },
   {
     "id": "present-simple-179",
@@ -2503,7 +2859,9 @@
     "correctAnswer": "doesn't weigh",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't weigh often.",
+    "vietnameseMeaning": "Nó không nặng/cân nặng thường"
   },
   {
     "id": "present-simple-180",
@@ -2517,7 +2875,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ it (weigh) often?",
+    "vietnameseMeaning": "nặng/cân nặng thường"
   },
   {
     "id": "present-simple-181",
@@ -2531,7 +2891,9 @@
     "correctAnswer": "work",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "We work every day.",
+    "vietnameseMeaning": "Chúng tôi làm việc mỗi ngày"
   },
   {
     "id": "present-simple-182",
@@ -2545,7 +2907,9 @@
     "correctAnswer": "don't work",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "We don't work every day.",
+    "vietnameseMeaning": "Chúng tôi không làm việc mỗi ngày"
   },
   {
     "id": "present-simple-183",
@@ -2559,7 +2923,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ we (work) every day?",
+    "vietnameseMeaning": "làm việc mỗi ngày"
   },
   {
     "id": "present-simple-184",
@@ -2573,7 +2939,9 @@
     "correctAnswer": "bes",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He bes on Mondays.",
+    "vietnameseMeaning": "Anh ấy thì/là/ở vào thứ Hai"
   },
   {
     "id": "present-simple-185",
@@ -2587,7 +2955,9 @@
     "correctAnswer": "doesn't be",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "He doesn't be on Mondays.",
+    "vietnameseMeaning": "Anh ấy không thì/là/ở vào thứ Hai"
   },
   {
     "id": "present-simple-186",
@@ -2601,7 +2971,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ he (be) on Mondays?",
+    "vietnameseMeaning": "thì/là/ở vào thứ Hai"
   },
   {
     "id": "present-simple-187",
@@ -2615,7 +2987,9 @@
     "correctAnswer": "brush",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "I brush usually.",
+    "vietnameseMeaning": "Tôi đánh (răng) thường"
   },
   {
     "id": "present-simple-188",
@@ -2629,7 +3003,9 @@
     "correctAnswer": "don't brush",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "I don't brush usually.",
+    "vietnameseMeaning": "Tôi không đánh (răng) thường"
   },
   {
     "id": "present-simple-189",
@@ -2643,7 +3019,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ i (brush) usually?",
+    "vietnameseMeaning": "đánh (răng) thường"
   },
   {
     "id": "present-simple-190",
@@ -2657,7 +3035,9 @@
     "correctAnswer": "exercise",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "They exercise always.",
+    "vietnameseMeaning": "Họ tập thể dục luôn luôn"
   },
   {
     "id": "present-simple-191",
@@ -2671,7 +3051,9 @@
     "correctAnswer": "don't exercise",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "They don't exercise always.",
+    "vietnameseMeaning": "Họ không tập thể dục luôn luôn"
   },
   {
     "id": "present-simple-192",
@@ -2685,7 +3067,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ they (exercise) always?",
+    "vietnameseMeaning": "tập thể dục luôn luôn"
   },
   {
     "id": "present-simple-193",
@@ -2699,7 +3083,9 @@
     "correctAnswer": "listen",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "You listen usually.",
+    "vietnameseMeaning": "Bạn nghe thường"
   },
   {
     "id": "present-simple-194",
@@ -2713,7 +3099,9 @@
     "correctAnswer": "don't listen",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "You don't listen usually.",
+    "vietnameseMeaning": "Bạn không nghe thường"
   },
   {
     "id": "present-simple-195",
@@ -2727,7 +3115,9 @@
     "correctAnswer": "Do",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ you (listen) usually?",
+    "vietnameseMeaning": "nghe thường"
   },
   {
     "id": "present-simple-196",
@@ -2741,7 +3131,9 @@
     "correctAnswer": "sleeps",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She sleeps often.",
+    "vietnameseMeaning": "Cô ấy ngủ thường"
   },
   {
     "id": "present-simple-197",
@@ -2755,7 +3147,9 @@
     "correctAnswer": "doesn't sleep",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "She doesn't sleep often.",
+    "vietnameseMeaning": "Cô ấy không ngủ thường"
   },
   {
     "id": "present-simple-198",
@@ -2769,7 +3163,9 @@
     "correctAnswer": "Does",
     "explanation": "Present Simple (nghi vấn): Do/Does + S + V?",
     "tenseType": "present-simple",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "completedSentence": "___ she (sleep) often?",
+    "vietnameseMeaning": "ngủ thường"
   },
   {
     "id": "present-simple-199",
@@ -2783,7 +3179,9 @@
     "correctAnswer": "researches",
     "explanation": "Present Simple – thói quen/sự thật; he/she/it + V-s/es.",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It researches every week.",
+    "vietnameseMeaning": "Nó nghiên cứu mỗi tuần"
   },
   {
     "id": "present-simple-200",
@@ -2797,6 +3195,8 @@
     "correctAnswer": "doesn't research",
     "explanation": "Present Simple (phủ định): don't/doesn't + V (bare)",
     "tenseType": "present-simple",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "completedSentence": "It doesn't research every week.",
+    "vietnameseMeaning": "Nó không nghiên cứu mỗi tuần"
   }
 ]
