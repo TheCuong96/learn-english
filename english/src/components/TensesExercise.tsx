@@ -126,10 +126,18 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
         </CardHeader>
         <CardContent className="space-y-4">
           {/* Question */}
-          <div className="text-lg font-medium bg-slate-800/50 border border-slate-700 p-4 rounded-lg text-slate-100 flex items-start justify-between gap-3">
-            <span className="flex-1">{currentQuestion.question}</span>
-            {!showExplanation && (
-              <SpeakButton text={currentQuestion.question.replace('___', '...')} className="shrink-0" />
+          <div className="bg-slate-800/50 border border-slate-700 p-4 rounded-lg text-slate-100 space-y-2">
+            <div className="flex items-start justify-between gap-3">
+              <span className="flex-1 text-lg font-medium">{currentQuestion.question}</span>
+              {!showExplanation && (
+                <SpeakButton text={currentQuestion.question.replace('___', '...')} className="shrink-0" />
+              )}
+            </div>
+            {/* Vietnamese meaning hint */}
+            {!showExplanation && currentQuestion.vietnameseMeaning && (
+              <div className="text-sm text-slate-400 italic pt-2 border-t border-slate-700">
+                💡 {currentQuestion.vietnameseMeaning}
+              </div>
             )}
           </div>
 
