@@ -248,14 +248,18 @@ export default function VerbsAudioPage() {
 
                     {/* Extra Info */}
                     <div className="flex items-center gap-4 mt-3 justify-center flex-wrap">
-                      {/* Color Box */}
+                      {/* Icon Box */}
                       <div 
-                        className="w-40 h-28 rounded-lg border border-white/20 shadow-lg flex items-center justify-center font-bold text-white/95 tracking-wide"
-                        style={{ 
-                          background: `linear-gradient(135deg, ${getColorFromString(verb.v1)}, ${getColorFromString(verb.v1 + 'x')})`
-                        }}
+                        className="w-40 h-28 rounded-lg border border-white/20 shadow-lg flex flex-col items-center justify-center bg-gradient-to-br from-purple-500/20 to-blue-500/20 backdrop-blur-sm"
                       >
-                        {verb.v1.toUpperCase()}
+                        {verb.icon && (
+                          <div className="text-6xl mb-2">
+                            {verb.icon}
+                          </div>
+                        )}
+                        <div className="font-bold text-white/95 tracking-wide text-xs">
+                          {verb.word}
+                        </div>
                       </div>
 
                       {/* Example */}

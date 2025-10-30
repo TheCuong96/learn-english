@@ -7,6 +7,7 @@ export interface Verb {
   definition: string;
   english_definition: string;
   example: string;
+  icon?: string;
 }
 
 export type SessionType = 'flashcards' | 'multiple-choice' | 'fill-in-blank' | 'verb-forms';
