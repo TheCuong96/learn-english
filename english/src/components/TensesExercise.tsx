@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
 import { TensesQuestion } from '@/types/tenses';
 import { playCorrectSound, playIncorrectSound } from '@/utils/sound';
+import { speak } from '@/utils/speech';
 import { CheckCircle2, XCircle } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
@@ -68,6 +69,8 @@ export default function TensesExercise({ questions, onComplete, onCancel }: Tens
 
   const handleSelectAnswer = (answer: string) => {
     setSelectedAnswer(answer);
+    // Play pronunciation of the selected answer only
+    speak(answer);
   };
 
   const handleSubmit = () => {
