@@ -1,0 +1,10 @@
+---
+description: Khi sửa code liên quan system-design, luôn cập nhật tài liệu system-design tương ứng trong cùng thay đổi.
+alwaysApply: true
+---
+
+# Đồng bộ system-design
+
+- Nếu thay đổi **hợp đồng API**, **hình dạng response/message**, **socket/event**, **luồng nghiệp vụ**, **mô hình domain**, **chiến lược test**, hoặc **rủi ro vận hành** đã được mô tả dưới `**/docs/system-design/`, cập nhật **đúng file** trong các app liên quan (`apps/api`, `apps/web`, `apps/admin`) trong **cùng PR / cùng phiên làm việc**.
+- Ưu tiên cập nhật **`04-api-contract.md`** khi đụng route/REST/socket/message; **`03-business-flows.md`** khi đổi bước UX/API; **`02-domain-model.md`** + DBML khi đổi persistence; **`06-test-strategy.md`** khi thêm/khai thác kịch bản kiểm thử quan trọng; **`07-operational-risks.md`** khi đổi bảo mật/hạn mức/triển khai.
+- Luôn chỉnh **`apps/web/docs/RULE/API_CONTRACT.md`** nếu đổi khung phản hồi chuẩn mà RULE đang mô tả.

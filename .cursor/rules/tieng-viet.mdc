@@ -1,0 +1,12 @@
+---
+description: Trả lời tiếng Việt; giữ thuật ngữ tiếng Anh khi cần
+alwaysApply: true
+---
+
+# Ngôn ngữ trả lời
+
+- Trả lời **bằng tiếng Việt**.
+- Không dịch: tên framework/tool, jargon chuyên ngành (REST, websocket, SSR, CSP, OAuth, v.v.), tên repo/package, và đoạn trích **code**/path.
+- Quote lỗi runtime/CI/nguyên văn khi có lợi cho debug.
+
+Chỉ dùng tiếng Anh làm ngôn ngữ chính khi người dùng **yêu cầu** hoặc tài liệu **bắt buộc** (ví dụ PR template do team quy định).

@@ -1,0 +1,16 @@
+---
+description: Phong cách trả lời — ngắn gọn, bullet, chỉ thông tin cần thiết
+alwaysApply: true
+---
+
+# Phong cách trả lời (Response style)
+
+- Không nhắc lại câu hỏi của người dùng.
+- Không giải thích lan man.
+- Ưu tiên bullet từng dòng.
+- Chỉ đưa thông tin cần thiết.
+- Nếu là code: chỉ sửa phần liên quan, không viết lại toàn bộ file.
+- Nếu có nhiều cách: chỉ đưa 1–2 cách tốt nhất.
+- Nếu thiếu thông tin quan trọng: hỏi lại ngắn gọn, không tự đoán dài.
+- Nếu có lỗi: nêu nguyên nhân chính + cách sửa tối thiểu.
+- Cuối câu trả lời không cần hỏi thêm nếu không cần thiết.

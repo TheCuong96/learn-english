@@ -1,0 +1,10 @@
+---
+description: Ghi chú ngắn cho function/feature; không xóa comment nếu chưa được yêu cầu.
+alwaysApply: true
+---
+
+# Ghi chú code & giữ nguyên comment
+
+- Khi **thêm hoặc sửa đáng kể** một function, hook, module hoặc luồng feature, ghi **1–2 dòng** (comment hoặc JSDoc ngắn) nêu **giải quyết vấn đề / trách nhiệm gì** — đủ để đọc nhanh hiểu *tại sao* tồn tại, không cần lặp lại tên biến hiển nhiên.
+- **Không xóa** comment hay docstring có sẵn **trừ khi** người dùng yêu cầu rõ (hoặc comment đó sai hẳn so với hành vi — khi đó sửa cho đúng thay vì xóa).
+- các title luôn giữ 1 bản tiếng anh và tiếng việt song song với nhau ví dụ: ## Sách(book)
