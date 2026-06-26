@@ -357,7 +357,7 @@ export default function GrammarLessonContent({
                     Mini test cuối bài
                   </h2>
                   <p className="mt-1 text-sm leading-6 text-slate-400">
-                    Tối đa 10 câu để rà lại kiến thức chính. Progress lưu trữ sẽ làm ở Batch 6.
+                    Tối đa 10 câu để rà lại kiến thức chính. Kết quả mini test sẽ được lưu vào tiến độ học trên thiết bị này.
                   </p>
                 </div>
                 <MiniTest lessonSlug={lesson.slug} exercises={lesson.miniTest} />
