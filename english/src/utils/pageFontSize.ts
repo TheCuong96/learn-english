@@ -1,34 +1,38 @@
-/** Cỡ chữ trang — scale rem/Tailwind qua font-size trên html */
+/** Cỡ chữ trang (px) — scale rem/Tailwind qua font-size trên html */
 
 export const PAGE_FONT_SIZE_KEY = 'pageFontSize';
-export const DEFAULT_PAGE_FONT_SCALE = 1;
-export const MIN_PAGE_FONT_SCALE = 0.75;
-export const MAX_PAGE_FONT_SCALE = 1.5;
-export const BASE_FONT_PX = 16;
+export const DEFAULT_PAGE_FONT_PX = 16;
+export const MIN_PAGE_FONT_PX = 12;
+export const MAX_PAGE_FONT_PX = 24;
 
-export const getPageFontScale = (): number => {
-  if (typeof window === 'undefined') return DEFAULT_PAGE_FONT_SCALE;
-  const saved = localStorage.getItem(PAGE_FONT_SIZE_KEY);
-  if (!saved) return DEFAULT_PAGE_FONT_SCALE;
-  const scale = parseFloat(saved);
-  if (Number.isNaN(scale)) return DEFAULT_PAGE_FONT_SCALE;
-  return Math.min(MAX_PAGE_FONT_SCALE, Math.max(MIN_PAGE_FONT_SCALE, scale));
+const clampFontPx = (px: number): number =>
+  Math.min(MAX_PAGE_FONT_PX, Math.max(MIN_PAGE_FONT_PX, Math.round(px)));
+
+/** Đọc px; tự chuyển giá trị scale cũ (0.75–1.5) sang px */
+const parseSavedFontPx = (raw: string | null): number => {
+  if (!raw) return DEFAULT_PAGE_FONT_PX;
+  const value = parseFloat(raw);
+  if (Number.isNaN(value)) return DEFAULT_PAGE_FONT_PX;
+  // Dữ liệu cũ lưu theo scale (≤ 3)
+  if (value > 0 && value <= 3) return clampFontPx(value * DEFAULT_PAGE_FONT_PX);
+  return clampFontPx(value);
 };
 
-export const applyPageFontScale = (scale: number): void => {
+export const getPageFontSize = (): number => {
+  if (typeof window === 'undefined') return DEFAULT_PAGE_FONT_PX;
+  return parseSavedFontPx(localStorage.getItem(PAGE_FONT_SIZE_KEY));
+};
+
+export const applyPageFontSize = (px: number): void => {
   if (typeof document === 'undefined') return;
-  const clamped = Math.min(MAX_PAGE_FONT_SCALE, Math.max(MIN_PAGE_FONT_SCALE, scale));
-  document.documentElement.style.fontSize = `${BASE_FONT_PX * clamped}px`;
+  document.documentElement.style.fontSize = `${clampFontPx(px)}px`;
 };
 
-export const setPageFontScale = (scale: number): number => {
-  const clamped = Math.min(MAX_PAGE_FONT_SCALE, Math.max(MIN_PAGE_FONT_SCALE, scale));
+export const setPageFontSize = (px: number): number => {
+  const clamped = clampFontPx(px);
   if (typeof window !== 'undefined') {
     localStorage.setItem(PAGE_FONT_SIZE_KEY, clamped.toString());
   }
-  applyPageFontScale(clamped);
+  applyPageFontSize(clamped);
   return clamped;
 };
-
-export const getPageFontPercent = (scale = getPageFontScale()): number =>
-  Math.round(scale * 100);
