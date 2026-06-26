@@ -14,6 +14,7 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import type {
+  GrammarConceptSection,
   GrammarExample,
   GrammarLesson,
   GrammarLessonMetadata,
@@ -67,6 +68,62 @@ function ExampleList({
             {example.vietnamese}
           </p>
         </div>
+      ))}
+    </div>
+  );
+}
+
+function ConceptSections({ sections }: { sections: GrammarConceptSection[] }) {
+  return (
+    <div className="space-y-3">
+      {sections.map((section) => (
+        <Card key={section.title} className="bg-slate-900/80">
+          <CardHeader className="p-3 pb-2">
+            <h3 className="text-base font-semibold leading-6 text-white">{section.title}</h3>
+            {section.explanation && (
+              <CardDescription className="text-xs leading-5 text-slate-300">
+                {section.explanation}
+              </CardDescription>
+            )}
+          </CardHeader>
+          <CardContent className="space-y-2 p-3 pt-0">
+            {section.bullets && section.bullets.length > 0 && (
+              <ul className="space-y-1">
+                {section.bullets.map((bullet) => (
+                  <li key={bullet} className="flex gap-2 text-sm font-medium text-violet-200">
+                    <span className="text-slate-500">‣</span>
+                    {bullet}
+                  </li>
+                ))}
+              </ul>
+            )}
+            {section.examples && section.examples.length > 0 && (
+              <ExampleList examples={section.examples} compact />
+            )}
+            {section.pairs && section.pairs.length > 0 && (
+              <div className="space-y-2">
+                {section.pairs.map((pair) => (
+                  <div key={`${pair.correct}-${pair.wrong}`} className="grid gap-2 sm:grid-cols-2">
+                    <div className="rounded-lg border border-emerald-400/30 bg-emerald-500/10 px-2.5 py-2">
+                      <p className="flex items-center gap-1.5 text-[0.65rem] font-bold uppercase text-emerald-300">
+                        <Check className="h-3 w-3" />
+                        Đúng
+                      </p>
+                      <p className="mt-1 text-sm text-emerald-100">{pair.correct}</p>
+                    </div>
+                    <div className="rounded-lg border border-red-400/30 bg-red-500/10 px-2.5 py-2">
+                      <p className="flex items-center gap-1.5 text-[0.65rem] font-bold uppercase text-red-300">
+                        <X className="h-3 w-3" />
+                        Sai
+                      </p>
+                      <p className="mt-1 text-sm text-red-100">{pair.wrong}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </CardContent>
+        </Card>
       ))}
     </div>
   );
@@ -254,6 +311,17 @@ export default function GrammarLessonContent({
               <div className="grid gap-5 lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)] lg:items-start xl:gap-6">
                 {/* Cột trái: công thức, sơ đồ, ghi chú */}
                 <div className="space-y-5">
+                  {lesson.conceptSections && lesson.conceptSections.length > 0 && (
+                    <section aria-labelledby="concepts-heading">
+                      <SectionHeading
+                        id="concepts-heading"
+                        title="Giới thiệu động từ be"
+                        description="Ghi chú bằng tiếng Việt — ví dụ demo giữ nguyên tiếng Anh."
+                      />
+                      <ConceptSections sections={lesson.conceptSections} />
+                    </section>
+                  )}
+
                   {showMindMap && (
                     <section aria-labelledby="mindmap-heading">
                       <SectionHeading

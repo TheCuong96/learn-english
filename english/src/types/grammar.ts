@@ -37,6 +37,21 @@ export interface CommonMistake {
   explanation: string;
 }
 
+/** Cặp đúng/sai minh họa trong phần giới thiệu khái niệm. */
+export interface GrammarConceptPair {
+  correct: string;
+  wrong: string;
+}
+
+/** Khối giới thiệu ngắn — ghi chú tiếng Việt, ví dụ demo giữ nguyên tiếng Anh. */
+export interface GrammarConceptSection {
+  title: string;
+  explanation?: string;
+  bullets?: string[];
+  examples?: GrammarExample[];
+  pairs?: GrammarConceptPair[];
+}
+
 export interface Exercise {
   id: string;
   type: ExerciseType;
@@ -72,6 +87,7 @@ export interface GrammarLessonMetadata {
 
 export interface GrammarLesson extends GrammarLessonMetadata {
   objectives: string[];
+  conceptSections?: GrammarConceptSection[];
   formulas: GrammarFormula[];
   usages: GrammarUsage[];
   examples: GrammarExample[];

@@ -19,6 +19,96 @@ export const presentSimpleToBeLesson: GrammarLesson = {
     'Tránh bỏ chủ ngữ hoặc dùng sai dạng be theo thói quen tiếng Việt.',
   ],
   formulas: [],
+  conceptSections: [
+    {
+      title: 'Ba dạng của be (Three forms)',
+      explanation: 'Hiện tại đơn của động từ be có ba dạng:',
+      bullets: ['I am.', 'He / She / It is.', 'We / You / They are.'],
+    },
+    {
+      title: 'They = người và vật (They = people and things)',
+      explanation:
+        'They dùng cho cả người lẫn đồ vật. He dùng cho nam giới, she cho nữ giới, và it cho vật hoặc sự việc.',
+      examples: [
+        {
+          english: "He's a little boy.",
+          vietnamese: 'Cậu ấy là một em bé trai.',
+          highlight: "He's",
+        },
+        {
+          english: "She's beautiful.",
+          vietnamese: 'Cô ấy xinh đẹp.',
+          highlight: "She's",
+        },
+        {
+          english: "I like this TV. It's very big.",
+          vietnamese: 'Tôi thích chiếc TV này. Nó rất lớn.',
+          highlight: "It's",
+        },
+        {
+          english: 'I love Sara and Jonas. They are my friends.',
+          vietnamese: 'Tôi yêu Sara và Jonas. Họ là bạn của tôi.',
+          highlight: 'They are',
+        },
+        {
+          english: 'I love these chairs. They are very beautiful.',
+          vietnamese: 'Tôi thích những chiếc ghế này. Chúng rất đẹp.',
+          highlight: 'They are',
+        },
+      ],
+    },
+    {
+      title: 'Đừng quên chủ ngữ (Don\'t forget the subject)',
+      explanation:
+        'Tiếng Anh luôn cần chủ ngữ đứng trước động từ — không được bỏ như tiếng Việt.',
+      pairs: [
+        { correct: 'It is cold.', wrong: 'Is cold.' },
+        { correct: 'Sally is a wonderful woman.', wrong: 'Is a wonderful woman.' },
+      ],
+    },
+    {
+      title: 'Dạng viết tắt (Contractions / short forms)',
+      explanation:
+        'Dùng ’m, ’s và ’re với đại từ nhân xưng (I, you, he…). Cũng có thể dùng ’s với tên riêng.',
+      examples: [
+        {
+          english: "I'm sad.",
+          vietnamese: 'Tôi buồn.',
+          highlight: "I'm",
+        },
+        {
+          english: "You're tired.",
+          vietnamese: 'Bạn mệt.',
+          highlight: "You're",
+        },
+        {
+          english: "She's from Scotland.",
+          vietnamese: 'Cô ấy đến từ Scotland.',
+          highlight: "She's",
+        },
+        {
+          english: "Laura's beautiful.",
+          vietnamese: 'Laura xinh đẹp.',
+          highlight: "Laura's",
+        },
+        {
+          english: "London's an expensive city.",
+          vietnamese: 'London là thành phố đắt đỏ.',
+          highlight: "London's",
+        },
+      ],
+    },
+    {
+      title: 'Viết tắt trong câu trả lời ngắn (Contractions in short answers)',
+      explanation:
+        'Chỉ được dùng dạng viết tắt ở câu trả lời ngắn phủ định — không dùng ở câu trả lời khẳng định.',
+      pairs: [
+        { correct: 'Yes, I am.', wrong: "Yes, I'm." },
+        { correct: 'Yes, she is.', wrong: "Yes, she's." },
+        { correct: 'Yes, they are.', wrong: "Yes, they're." },
+      ],
+    },
+  ],
   usages: [
     {
       title: 'Nói danh tính hoặc nghề nghiệp',
