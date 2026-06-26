@@ -1,10 +1,10 @@
-import Navigation from '@/components/Navigation';
+import GrammarHeader from '@/components/grammar/GrammarHeader';
 import WrongAnswerReview from '@/components/grammar/WrongAnswerReview';
 import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import { Badge } from '@/components/ui/badge';
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { ArrowLeft, BookOpen } from 'lucide-react';
+import { ArrowLeft } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Câu sai của tôi – A1 Grammar | English Learning Hub',
@@ -15,15 +15,7 @@ export const metadata: Metadata = {
 export default function A1GrammarReviewPage() {
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className={`${GRAMMAR_SHELL} py-4`}>
-          <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
-            <BookOpen className="h-5 w-5 text-violet-400" />
-            English Learning Hub
-          </Link>
-          <Navigation />
-        </div>
-      </header>
+      <GrammarHeader />
 
       <main className={`${GRAMMAR_SHELL} flex-grow py-7 sm:py-10`}>
         <div className="w-full">

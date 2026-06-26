@@ -1,8 +1,8 @@
 import A1Curriculum, {
   type A1CurriculumModule,
 } from '@/components/grammar/A1Curriculum';
+import GrammarHeader from '@/components/grammar/GrammarHeader';
 import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
-import Navigation from '@/components/Navigation';
 import { Badge } from '@/components/ui/badge';
 import {
   A1_GRAMMAR_LESSON_COUNT,
@@ -57,15 +57,7 @@ export default function A1GrammarPage() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className={`${GRAMMAR_SHELL} py-4`}>
-          <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
-            <BookOpen className="h-5 w-5 text-violet-400" />
-            English Learning Hub
-          </Link>
-          <Navigation />
-        </div>
-      </header>
+      <GrammarHeader />
 
       <main className={`${GRAMMAR_SHELL} flex-grow py-7 sm:py-10`}>
         <div className="w-full">

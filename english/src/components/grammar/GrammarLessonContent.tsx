@@ -1,5 +1,6 @@
-import Navigation from '@/components/Navigation';
 import LessonDiagram, { hasLessonDiagram } from '@/components/grammar/diagrams/LessonDiagram';
+import GrammarHeader from '@/components/grammar/GrammarHeader';
+import GrammarSpeakButton from '@/components/grammar/GrammarSpeakButton';
 import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import LessonProgressMarker from '@/components/grammar/LessonProgressMarker';
 import ExerciseRenderer from '@/components/grammar/exercises/ExerciseRenderer';
@@ -24,7 +25,6 @@ import {
   ArrowLeft,
   ArrowRight,
   BookCheck,
-  BookOpen,
   Check,
   CheckCircle2,
   Clock3,
@@ -61,9 +61,12 @@ function ExampleList({
               : 'rounded-xl border border-slate-700/80 bg-slate-950/60 p-4'
           }
         >
-          <p className={compact ? 'text-sm leading-6 text-white' : 'font-medium leading-7 text-white'}>
-            {example.english}
-          </p>
+          <div className="flex items-start justify-between gap-2">
+            <p className={compact ? 'text-sm leading-6 text-white' : 'font-medium leading-7 text-white'}>
+              {example.english}
+            </p>
+            <GrammarSpeakButton text={example.english} />
+          </div>
           <p className={compact ? 'mt-0.5 text-xs leading-5 text-slate-400' : 'mt-1 text-sm leading-6 text-slate-400'}>
             {example.vietnamese}
           </p>
@@ -203,15 +206,7 @@ export default function GrammarLessonContent({
     <>
       <LessonProgressMarker lessonSlug={lesson.slug} enabled={isPublished} />
 
-      <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className={`${GRAMMAR_SHELL} py-4`}>
-          <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
-            <BookOpen className="h-5 w-5 text-violet-400" />
-            English Learning Hub
-          </Link>
-          <Navigation />
-        </div>
-      </header>
+      <GrammarHeader />
 
       <main className={`${GRAMMAR_SHELL} flex-grow py-7 sm:py-10`}>
         <article className="w-full">

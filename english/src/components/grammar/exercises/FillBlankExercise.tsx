@@ -3,6 +3,7 @@
 import { useEffect, useId, useState } from 'react';
 import { CheckCircle2, RotateCcw, XCircle } from 'lucide-react';
 
+import GrammarSpeakButton from '@/components/grammar/GrammarSpeakButton';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
@@ -74,7 +75,10 @@ export default function FillBlankExercise({
             {typeLabel}
           </span>
         </div>
-        <CardTitle className="pt-2 text-base leading-7 text-white">{exercise.question}</CardTitle>
+        <CardTitle className="flex items-start justify-between gap-2 pt-2 text-base leading-7 text-white">
+          <span>{exercise.question}</span>
+          <GrammarSpeakButton text={exercise.question} label="Nghe câu hỏi" />
+        </CardTitle>
         {exercise.vietnameseHint && (
           <CardDescription className="leading-6 text-slate-400">
             Gợi ý: {exercise.vietnameseHint}
@@ -149,6 +153,11 @@ export default function FillBlankExercise({
             <p className="mt-2">
               <span className="font-semibold text-white">Đáp án đúng:</span>{' '}
               {formatAcceptedAnswers(exercise.correctAnswer)}
+              <GrammarSpeakButton
+                text={formatAcceptedAnswers(exercise.correctAnswer)}
+                label="Nghe đáp án đúng"
+                className="ml-2 inline-flex align-middle"
+              />
             </p>
             <p className="mt-1">
               <span className="font-semibold text-white">Giải thích:</span>{' '}

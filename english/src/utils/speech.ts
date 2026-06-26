@@ -1,7 +1,15 @@
 // Utility functions cho Text-to-Speech
 
 // Lưu trữ voice đã chọn
-let selectedVoiceName: string | null = null;
+const SPEECH_VOICE_STORAGE_KEY = 'selectedVoice';
+
+const getSavedSelectedVoice = (): string | null => {
+  if (typeof window === 'undefined') return null;
+  return localStorage.getItem(SPEECH_VOICE_STORAGE_KEY);
+};
+
+let selectedVoiceName: string | null =
+  typeof window !== 'undefined' ? getSavedSelectedVoice() : null;
 
 // Lưu trữ trạng thái mute
 let isMuted: boolean = false;
@@ -72,10 +80,17 @@ export const stopSpeaking = () => {
 // Lưu voice đã chọn
 export const setSelectedVoice = (voiceName: string) => {
   selectedVoiceName = voiceName;
+  if (typeof window !== 'undefined') {
+    localStorage.setItem(SPEECH_VOICE_STORAGE_KEY, voiceName);
+  }
 };
 
 // Lấy voice hiện tại
 export const getSelectedVoice = () => {
+  if (!selectedVoiceName) {
+    selectedVoiceName = getSavedSelectedVoice();
+  }
+
   return selectedVoiceName;
 };
 

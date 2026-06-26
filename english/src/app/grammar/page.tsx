@@ -1,4 +1,4 @@
-import Navigation from '@/components/Navigation';
+import GrammarHeader from '@/components/grammar/GrammarHeader';
 import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -13,7 +13,7 @@ import {
 import { A1_GRAMMAR_LESSON_COUNT, A1_GRAMMAR_MODULES } from '@/data/grammar/a1';
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { ArrowRight, BookOpen, Layers3, Sparkles } from 'lucide-react';
+import { ArrowRight, Layers3, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Ngữ pháp tiếng Anh theo cấp độ | English Learning Hub',
@@ -37,15 +37,7 @@ const upcomingLevels = [
 export default function GrammarOverviewPage() {
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className={`${GRAMMAR_SHELL} py-4`}>
-          <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
-            <BookOpen className="h-5 w-5 text-violet-400" />
-            English Learning Hub
-          </Link>
-          <Navigation />
-        </div>
-      </header>
+      <GrammarHeader />
 
       <main className={`${GRAMMAR_SHELL} flex-grow py-8 sm:py-12`}>
         <section className="w-full text-center">
