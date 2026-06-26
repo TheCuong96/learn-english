@@ -1,0 +1,12 @@
+---
+description: Không đọc file/thư mục bị gitignore — tránh lãng phí context và lộ secrets
+alwaysApply: true
+---
+
+# Tôn trọng `.gitignore`
+
+- **Không** dùng Read/Grep/Glob/Task explore để mở, liệt kê hay phân tích nội dung file/thư mục nằm trong pattern bị ignore.
+- Pattern lấy từ `.gitignore` gốc repo và `.gitignore` của app/package đang làm việc (ví dụ `apps/web/.gitignore`).
+- Các nhóm thường gặp **không đọc**: `node_modules/`, `.next/`, `out/`, `build/`, `dist/`, `coverage/`, `.env*`, `.vercel/`, `.turbo/`, `*.tsbuildinfo`, `next-env.d.ts`, log/cache (`*.log`, `.eslintcache`), artifact test (`test-results/`, `lighthouse-*`).
+- Nếu cần thông tin từ artifact build (ví dụ type Next): dùng lệnh/typecheck chính thức của project thay vì đọc trực tiếp thư mục ignore.
+- Chỉ đọc file env khi người dùng **yêu cầu rõ** và cảnh báo rủi ro secret; không commit nội dung env.

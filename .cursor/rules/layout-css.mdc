@@ -1,0 +1,10 @@
+---
+description: Quy ước layout — ưu tiên flex, hạn chế position
+globs: "**/layout.tsx,**/layout/**/*.tsx,**/components/layout/**/*.tsx"
+---
+
+# Layout & CSS
+
+- Ưu tiên **`display: flex`** (flex/grid) để căn chỉnh và chia vùng; tránh `position: relative` / `absolute` / `fixed` khi có thể đạt cùng kết quả bằng flex (cột + `flex-1`, `min-h-0`, `shrink-0`).
+- Chỉ dùng **absolute/fixed** khi bắt buộc (overlay, portal, tooltip trigger nội bộ thư viện).
+- Shell desktop: `desktop-resizable-layout.tsx` dùng flex column cho toolbar menu + vùng scroll, không đặt nút bằng absolute.

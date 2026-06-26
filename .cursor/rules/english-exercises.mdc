@@ -1,0 +1,53 @@
+---
+description: Format đưa bài tập và chấm bài tiếng Anh trong chat
+alwaysApply: true
+---
+
+# Bài tập tiếng Anh (English exercises)
+
+## Đưa bài tập (Giving exercises)
+
+- Đưa bài **trong chat**, không ghi vào `exercise.md` hay file khác trừ khi người dùng yêu cầu.
+- Mỗi phần bài (Bài 1, Bài 2, …) nằm trong **một khung code riêng**; bên trong chỉ có nội dung bài, không chú thích hay hướng dẫn.
+- Giữ **nguyên văn đề gốc** (kể cả `→`, `_______`, phần gạch chân, placeholder trắc nghiệm).
+- Trắc nghiệm: đặt đáp án **ngang** — `[ ] a) …  [ ] b) …  [ ] c) …  [ ] d) …`
+- Tiêu đề mục: **song ngữ** — ví dụ `## Bài 1: Chia động từ (Verb conjugation)`
+
+## Chấm bài (Grading)
+
+Dùng khung ` ```diff ` để có màu xanh/đỏ/xám trong chat.
+
+**Quy ước màu**
+- `+` hoặc `[+ ĐÚNG]` — đúng (xanh)
+- `-` hoặc `[- SAI]` — sai (đỏ)
+- `#` — ghi chú ngữ pháp, chính tả, hoặc bổ sung ngắn (xám)
+
+**Mỗi câu bắt buộc 4 dòng** (không rút gọn đề):
+```
+[Câu A1] [+ ĐÚNG]
+Đề: I (finish) __________ my homework.
+Bạn: I have finished my home work.
+AI: I have finished my homework.
+Nghĩa: Tôi đã làm xong bài tập về nhà.  # homework viết liền
+```
+
+**Cấu trúc chấm**
+1. Tổng điểm theo từng phần / bài (nếu có nhiều phần).
+2. Khung riêng cho **câu chưa làm** (nếu có).
+3. Mỗi nhóm bài trong một khung `diff` riêng.
+4. Không thay đề bằng tóm tắt; `Đề:` phải khớp đề gốc đã đưa.
+
+**Trắc nghiệm khi chấm**
+```
+[Câu D1] [- SAI]
+Đề: She _______ to work by bus.
+Bạn: [x] c) losed
+AI: b) lost
+Nghĩa: Cô ấy đi làm bằng xe buýt.
+```
+
+## Phong cách khi chấm
+
+- Trả lời tiếng Việt; thuật ngữ ngữ pháp và câu tiếng Anh giữ nguyên.
+- Giải thích lỗi ngắn sau `#` trên cùng dòng `Nghĩa:` hoặc dòng `AI:` khi cần.
+- Không dùng bảng markdown thay cho khung `diff` khi chấm từng câu.
