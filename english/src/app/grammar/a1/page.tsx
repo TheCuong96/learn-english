@@ -1,6 +1,7 @@
 import A1Curriculum, {
   type A1CurriculumModule,
 } from '@/components/grammar/A1Curriculum';
+import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import Navigation from '@/components/Navigation';
 import { Badge } from '@/components/ui/badge';
 import {
@@ -57,7 +58,7 @@ export default function A1GrammarPage() {
   return (
     <>
       <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className="container mx-auto px-3 py-4 sm:px-4">
+        <div className={`${GRAMMAR_SHELL} py-4`}>
           <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
             <BookOpen className="h-5 w-5 text-violet-400" />
             English Learning Hub
@@ -66,8 +67,8 @@ export default function A1GrammarPage() {
         </div>
       </header>
 
-      <main className="container mx-auto flex-grow px-3 py-7 sm:px-4 sm:py-10">
-        <div className="mx-auto max-w-6xl">
+      <main className={`${GRAMMAR_SHELL} flex-grow py-7 sm:py-10`}>
+        <div className="w-full">
           <Link
             href="/grammar"
             className="inline-flex items-center gap-2 text-sm font-medium text-violet-300 hover:text-violet-200"
@@ -81,7 +82,7 @@ export default function A1GrammarPage() {
             <h1 className="mt-4 text-3xl font-bold tracking-tight text-white sm:text-5xl">
               A1 Grammar
             </h1>
-            <p className="mt-3 max-w-3xl text-base leading-7 text-slate-300 sm:text-lg">
+            <p className="mt-3 text-base leading-7 text-slate-300 sm:text-lg">
               Xây nền ngữ pháp tiếng Anh từ những cấu trúc thiết yếu. Mỗi bài được thiết kế
               ngắn gọn, có giải thích tiếng Việt, ví dụ và bài tập để bạn học đến đâu chắc đến đó.
             </p>

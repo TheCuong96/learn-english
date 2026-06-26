@@ -1,5 +1,6 @@
 import Navigation from '@/components/Navigation';
 import LessonDiagram, { hasLessonDiagram } from '@/components/grammar/diagrams/LessonDiagram';
+import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import LessonProgressMarker from '@/components/grammar/LessonProgressMarker';
 import ExerciseRenderer from '@/components/grammar/exercises/ExerciseRenderer';
 import MiniTest from '@/components/grammar/exercises/MiniTest';
@@ -33,6 +34,7 @@ import {
   X,
 } from 'lucide-react';
 import Link from 'next/link';
+import type { ReactNode } from 'react';
 
 interface GrammarLessonContentProps {
   lesson: GrammarLesson;
@@ -40,18 +42,56 @@ interface GrammarLessonContentProps {
   nextLesson?: GrammarLessonMetadata;
 }
 
-function ExampleList({ examples }: { examples: GrammarExample[] }) {
+function ExampleList({
+  examples,
+  compact = false,
+}: {
+  examples: GrammarExample[];
+  compact?: boolean;
+}) {
   return (
-    <div className="space-y-3">
+    <div className={compact ? 'space-y-1.5' : 'space-y-3'}>
       {examples.map((example, index) => (
         <div
           key={`${example.english}-${index}`}
-          className="rounded-xl border border-slate-700/80 bg-slate-950/60 p-4"
+          className={
+            compact
+              ? 'rounded-lg border border-slate-700/80 bg-slate-950/60 px-2.5 py-2'
+              : 'rounded-xl border border-slate-700/80 bg-slate-950/60 p-4'
+          }
         >
-          <p className="font-medium leading-7 text-white">{example.english}</p>
-          <p className="mt-1 text-sm leading-6 text-slate-400">{example.vietnamese}</p>
+          <p className={compact ? 'text-sm leading-6 text-white' : 'font-medium leading-7 text-white'}>
+            {example.english}
+          </p>
+          <p className={compact ? 'mt-0.5 text-xs leading-5 text-slate-400' : 'mt-1 text-sm leading-6 text-slate-400'}>
+            {example.vietnamese}
+          </p>
         </div>
       ))}
+    </div>
+  );
+}
+
+function SectionHeading({
+  id,
+  title,
+  description,
+  icon,
+}: {
+  id: string;
+  title: string;
+  description?: string;
+  icon?: ReactNode;
+}) {
+  return (
+    <div className="mb-2.5">
+      <h2 id={id} className="flex items-center gap-2 text-lg font-bold text-white">
+        {icon}
+        {title}
+      </h2>
+      {description && (
+        <p className="mt-0.5 text-xs leading-5 text-slate-400">{description}</p>
+      )}
     </div>
   );
 }
@@ -107,7 +147,7 @@ export default function GrammarLessonContent({
       <LessonProgressMarker lessonSlug={lesson.slug} enabled={isPublished} />
 
       <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className="container mx-auto px-3 py-4 sm:px-4">
+        <div className={`${GRAMMAR_SHELL} py-4`}>
           <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
             <BookOpen className="h-5 w-5 text-violet-400" />
             English Learning Hub
@@ -116,8 +156,8 @@ export default function GrammarLessonContent({
         </div>
       </header>
 
-      <main className="container mx-auto flex-grow px-3 py-7 sm:px-4 sm:py-10">
-        <article className="mx-auto max-w-5xl">
+      <main className={`${GRAMMAR_SHELL} flex-grow py-7 sm:py-10`}>
+        <article className="w-full">
           <Link
             href="/grammar/a1"
             className="inline-flex items-center gap-2 text-sm font-medium text-violet-300 hover:text-violet-200"
@@ -141,7 +181,7 @@ export default function GrammarLessonContent({
             <h1 className="mt-4 text-3xl font-bold leading-tight tracking-tight text-white sm:text-5xl">
               {lesson.title}
             </h1>
-            <p className="mt-4 max-w-3xl text-base leading-7 text-slate-300 sm:text-lg">
+            <p className="mt-4 text-base leading-7 text-slate-300 sm:text-lg">
               {lesson.description}
             </p>
             <dl className="mt-6 flex flex-wrap gap-3 text-sm text-slate-200">
@@ -195,222 +235,216 @@ export default function GrammarLessonContent({
               <LessonNavigation previousLesson={previousLesson} nextLesson={nextLesson} />
             </div>
           ) : (
-            <div className="mt-10 space-y-12">
+            <div className="mt-6 space-y-5">
               <section aria-labelledby="objectives-heading">
-                <h2 id="objectives-heading" className="text-2xl font-bold text-white">
-                  Mục tiêu bài học
-                </h2>
-                <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+                <SectionHeading id="objectives-heading" title="Mục tiêu bài học" />
+                <ul className="flex flex-wrap gap-2">
                   {lesson.objectives.map((objective) => (
-                    <li key={objective} className="flex gap-3 rounded-xl border border-slate-700 bg-slate-900/70 p-4">
-                      <Target className="mt-0.5 h-5 w-5 shrink-0 text-violet-300" />
-                      <span className="leading-7 text-slate-300">{objective}</span>
+                    <li
+                      key={objective}
+                      className="inline-flex max-w-full items-start gap-1.5 rounded-lg border border-slate-700 bg-slate-900/70 px-2.5 py-1.5 text-xs leading-5 text-slate-300 sm:text-sm"
+                    >
+                      <Target className="mt-0.5 h-3.5 w-3.5 shrink-0 text-violet-300" />
+                      <span>{objective}</span>
                     </li>
                   ))}
                 </ul>
               </section>
 
-              {showMindMap && (
-                <section aria-labelledby="mindmap-heading">
-                  <h2 id="mindmap-heading" className="text-2xl font-bold text-white">
-                    Sơ đồ tư duy
-                  </h2>
-                  <p className="mt-1 text-sm leading-6 text-slate-400">
-                    Nhìn tổng thể am / is / are — khẳng định, phủ định, câu hỏi và trả lời ngắn.
-                  </p>
-                  <div className="mt-4">
-                    <LessonDiagram lessonSlug={lesson.slug} />
-                  </div>
-                </section>
-              )}
+              <div className="grid gap-5 lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)] lg:items-start xl:gap-6">
+                {/* Cột trái: công thức, sơ đồ, ghi chú */}
+                <div className="space-y-5">
+                  {showMindMap && (
+                    <section aria-labelledby="mindmap-heading">
+                      <SectionHeading
+                        id="mindmap-heading"
+                        title="Sơ đồ tư duy"
+                        description="Am / is / are — khẳng định, phủ định, câu hỏi, trả lời ngắn."
+                      />
+                      <LessonDiagram lessonSlug={lesson.slug} compact />
+                    </section>
+                  )}
 
-              {lesson.formulas.length > 0 && (
-                <section aria-labelledby="formulas-heading">
-                  <h2 id="formulas-heading" className="text-2xl font-bold text-white">
-                    Công thức
-                  </h2>
-                  <div className="mt-4 space-y-5">
-                    {lesson.formulas.map((formula) => (
-                      <Card key={formula.title} className="overflow-hidden bg-slate-900/80">
-                        <CardHeader className="border-b border-slate-700 bg-violet-500/10">
-                          <h3 className="text-xl font-semibold text-white">{formula.title}</h3>
-                          <code className="mt-3 block overflow-x-auto rounded-lg border border-violet-400/30 bg-slate-950 px-4 py-3 text-sm font-semibold text-violet-200 sm:text-base">
-                            {formula.pattern}
-                          </code>
-                          <CardDescription className="pt-2 leading-7 text-slate-300">
-                            {formula.explanation}
-                          </CardDescription>
+                  {lesson.formulas.length > 0 && (
+                    <section aria-labelledby="formulas-heading">
+                      <SectionHeading id="formulas-heading" title="Công thức" />
+                      <div className="space-y-3">
+                        {lesson.formulas.map((formula) => (
+                          <Card key={formula.title} className="overflow-hidden bg-slate-900/80">
+                            <CardHeader className="space-y-1 border-b border-slate-700 bg-violet-500/10 p-3">
+                              <h3 className="text-base font-semibold text-white">{formula.title}</h3>
+                              <code className="block overflow-x-auto rounded-md border border-violet-400/30 bg-slate-950 px-2.5 py-1.5 text-xs font-semibold text-violet-200">
+                                {formula.pattern}
+                              </code>
+                              <CardDescription className="text-xs leading-5 text-slate-300">
+                                {formula.explanation}
+                              </CardDescription>
+                            </CardHeader>
+                            {formula.examples.length > 0 && (
+                              <CardContent className="p-3">
+                                <ExampleList examples={formula.examples} compact />
+                              </CardContent>
+                            )}
+                          </Card>
+                        ))}
+                      </div>
+                    </section>
+                  )}
+
+                  {lesson.quickNotes.length > 0 && !showMindMap && (
+                    <section aria-labelledby="notes-heading">
+                      <Card className="border-sky-400/30 bg-sky-500/10">
+                        <CardHeader className="flex-row items-center gap-2 space-y-0 p-3">
+                          <Lightbulb className="h-5 w-5 text-sky-300" />
+                          <h2 id="notes-heading" className="text-lg font-semibold text-white">
+                            Ghi chú nhanh
+                          </h2>
                         </CardHeader>
-                        <CardContent className="p-5">
-                          <h3 className="mb-3 font-semibold text-slate-200">Ví dụ theo công thức</h3>
-                          <ExampleList examples={formula.examples} />
+                        <CardContent className="p-3 pt-0">
+                          <ul className="space-y-1.5">
+                            {lesson.quickNotes.map((note) => (
+                              <li key={note} className="flex gap-2 text-xs leading-5 text-slate-300 sm:text-sm">
+                                <CheckCircle2 className="mt-0.5 h-3.5 w-3.5 shrink-0 text-sky-300" />
+                                {note}
+                              </li>
+                            ))}
+                          </ul>
                         </CardContent>
                       </Card>
-                    ))}
-                  </div>
-                </section>
-              )}
+                    </section>
+                  )}
 
-              <section aria-labelledby="usages-heading">
-                <h2 id="usages-heading" className="text-2xl font-bold text-white">
-                  Cách dùng
-                </h2>
-                <div className="mt-4 grid gap-5 lg:grid-cols-2">
-                  {lesson.usages.map((usage) => (
-                    <Card key={usage.title} className="bg-slate-900/80">
-                      <CardHeader>
-                        <h3 className="text-xl font-semibold leading-7 text-white">{usage.title}</h3>
-                        <CardDescription className="leading-7 text-slate-300">
-                          {usage.explanation}
-                        </CardDescription>
-                      </CardHeader>
-                      <CardContent>
-                        <ExampleList examples={usage.examples} />
-                      </CardContent>
-                    </Card>
-                  ))}
-                </div>
-              </section>
-
-              <section aria-labelledby="examples-heading">
-                <h2 id="examples-heading" className="text-2xl font-bold text-white">
-                  Ví dụ Anh–Việt
-                </h2>
-                <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                  <ExampleList examples={lesson.examples} />
-                </div>
-              </section>
-
-              <section aria-labelledby="mistakes-heading">
-                <div className="flex items-center gap-3">
-                  <AlertTriangle className="h-6 w-6 text-amber-300" />
-                  <h2 id="mistakes-heading" className="text-2xl font-bold text-white">
-                    Lỗi người Việt thường gặp
-                  </h2>
-                </div>
-                <div className="mt-4 space-y-4">
-                  {lesson.commonMistakes.map((mistake, index) => (
-                    <Card key={`${mistake.wrong}-${index}`} className="bg-slate-900/80">
-                      <CardContent className="grid gap-4 p-5 md:grid-cols-2">
-                        <div className="rounded-xl border border-red-400/30 bg-red-500/10 p-4">
-                          <p className="flex items-center gap-2 text-sm font-bold text-red-300">
-                            <X className="h-4 w-4" />
-                            Sai
-                          </p>
-                          <p className="mt-2 font-medium leading-7 text-red-100">{mistake.wrong}</p>
-                        </div>
-                        <div className="rounded-xl border border-emerald-400/30 bg-emerald-500/10 p-4">
-                          <p className="flex items-center gap-2 text-sm font-bold text-emerald-300">
-                            <Check className="h-4 w-4" />
-                            Đúng
-                          </p>
-                          <p className="mt-2 font-medium leading-7 text-emerald-100">{mistake.correct}</p>
-                        </div>
-                        <p className="leading-7 text-slate-300 md:col-span-2">
-                          <strong className="text-white">Vì sao?</strong> {mistake.explanation}
-                        </p>
-                      </CardContent>
-                    </Card>
-                  ))}
-                </div>
-              </section>
-
-              {lesson.quickNotes.length > 0 && !showMindMap && (
-                <section aria-labelledby="notes-heading">
-                  <Card className="border-sky-400/30 bg-sky-500/10">
-                    <CardHeader>
-                      <div className="flex items-center gap-3">
-                        <Lightbulb className="h-6 w-6 text-sky-300" />
-                        <h2 id="notes-heading" className="text-2xl font-semibold text-white">
-                          Ghi chú nhanh
-                        </h2>
-                      </div>
-                    </CardHeader>
-                    <CardContent>
-                      <ul className="space-y-3">
-                        {lesson.quickNotes.map((note) => (
-                          <li key={note} className="flex gap-3 leading-7 text-slate-300">
-                            <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-sky-300" />
-                            {note}
-                          </li>
+                  {lesson.usages.length > 0 && (
+                    <section aria-labelledby="usages-heading">
+                      <SectionHeading id="usages-heading" title="Cách dùng" />
+                      <div className="space-y-3">
+                        {lesson.usages.map((usage) => (
+                          <Card key={usage.title} className="bg-slate-900/80">
+                            <CardHeader className="p-3 pb-2">
+                              <h3 className="text-base font-semibold leading-6 text-white">{usage.title}</h3>
+                              <CardDescription className="text-xs leading-5 text-slate-300">
+                                {usage.explanation}
+                              </CardDescription>
+                            </CardHeader>
+                            <CardContent className="p-3 pt-0">
+                              <ExampleList examples={usage.examples} compact />
+                            </CardContent>
+                          </Card>
                         ))}
-                      </ul>
-                    </CardContent>
-                  </Card>
-                </section>
-              )}
-
-              <section aria-labelledby="practice-heading">
-                <div className="mb-4">
-                  <h2 id="practice-heading" className="text-2xl font-bold text-white">
-                    Bài tập luyện tập
-                  </h2>
-                  <p className="mt-1 text-sm leading-6 text-slate-400">
-                    Làm từng câu ngay trên trang, kiểm tra đáp án và đọc giải thích ngắn.
-                  </p>
-                </div>
-                {lesson.exercises.length > 0 ? (
-                  <div className="grid gap-4 md:grid-cols-2">
-                    {lesson.exercises.map((exercise, index) => (
-                      <ExerciseRenderer
-                        key={exercise.id}
-                        exercise={exercise}
-                        questionNumber={index + 1}
-                      />
-                    ))}
-                  </div>
-                ) : (
-                  <Card className="border-slate-700 bg-slate-900/80">
-                    <CardHeader>
-                      <CardTitle className="text-white">Chưa có bài tập luyện tập</CardTitle>
-                      <CardDescription className="text-slate-400">
-                        Bài này chưa có câu hỏi trong data, nhưng trang vẫn hiển thị an toàn.
-                      </CardDescription>
-                    </CardHeader>
-                  </Card>
-                )}
-              </section>
-
-              <section aria-labelledby="mini-test-heading">
-                <div className="mb-4">
-                  <h2 id="mini-test-heading" className="text-2xl font-bold text-white">
-                    Mini test cuối bài
-                  </h2>
-                  <p className="mt-1 text-sm leading-6 text-slate-400">
-                    Tối đa 10 câu để rà lại kiến thức chính. Kết quả mini test sẽ được lưu vào tiến độ học trên thiết bị này.
-                  </p>
-                </div>
-                <MiniTest lessonSlug={lesson.slug} exercises={lesson.miniTest} />
-              </section>
-
-              <section aria-labelledby="summary-heading">
-                <Card className="border-emerald-400/30 bg-gradient-to-br from-emerald-500/15 to-slate-900">
-                  <CardHeader>
-                    <div className="flex items-center gap-3">
-                      <BookCheck className="h-6 w-6 text-emerald-300" />
-                      <h2 id="summary-heading" className="text-2xl font-semibold text-white">
-                        Tóm tắt cuối bài
-                      </h2>
-                    </div>
-                  </CardHeader>
-                  <CardContent className="space-y-6">
-                    <ul className="space-y-3">
-                      {lesson.summary.keyPoints.map((point) => (
-                        <li key={point} className="flex gap-3 leading-7 text-slate-200">
-                          <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-emerald-300" />
-                          {point}
-                        </li>
-                      ))}
-                    </ul>
-                    {lesson.summary.rememberSentences.length > 0 && (
-                      <div>
-                        <h3 className="mb-3 font-semibold text-white">Câu nên nhớ</h3>
-                        <ExampleList examples={lesson.summary.rememberSentences} />
                       </div>
+                    </section>
+                  )}
+
+                  {lesson.examples.length > 0 && (
+                    <section aria-labelledby="examples-heading">
+                      <SectionHeading id="examples-heading" title="Ví dụ Anh–Việt" />
+                      <ExampleList examples={lesson.examples} compact />
+                    </section>
+                  )}
+
+                  {lesson.commonMistakes.length > 0 && (
+                    <section aria-labelledby="mistakes-heading">
+                      <SectionHeading
+                        id="mistakes-heading"
+                        title="Lỗi người Việt thường gặp"
+                        icon={<AlertTriangle className="h-5 w-5 text-amber-300" />}
+                      />
+                      <div className="space-y-3">
+                        {lesson.commonMistakes.map((mistake, index) => (
+                          <Card key={`${mistake.wrong}-${index}`} className="bg-slate-900/80">
+                            <CardContent className="grid gap-2.5 p-3 sm:grid-cols-2">
+                              <div className="rounded-lg border border-red-400/30 bg-red-500/10 p-2.5">
+                                <p className="flex items-center gap-1.5 text-xs font-bold text-red-300">
+                                  <X className="h-3.5 w-3.5" />
+                                  Sai
+                                </p>
+                                <p className="mt-1 text-sm leading-6 text-red-100">{mistake.wrong}</p>
+                              </div>
+                              <div className="rounded-lg border border-emerald-400/30 bg-emerald-500/10 p-2.5">
+                                <p className="flex items-center gap-1.5 text-xs font-bold text-emerald-300">
+                                  <Check className="h-3.5 w-3.5" />
+                                  Đúng
+                                </p>
+                                <p className="mt-1 text-sm leading-6 text-emerald-100">{mistake.correct}</p>
+                              </div>
+                              <p className="text-xs leading-5 text-slate-300 sm:col-span-2">
+                                <strong className="text-white">Vì sao?</strong> {mistake.explanation}
+                              </p>
+                            </CardContent>
+                          </Card>
+                        ))}
+                      </div>
+                    </section>
+                  )}
+
+                  <section aria-labelledby="summary-heading">
+                    <Card className="border-emerald-400/30 bg-gradient-to-br from-emerald-500/15 to-slate-900">
+                      <CardHeader className="flex-row items-center gap-2 space-y-0 p-3">
+                        <BookCheck className="h-5 w-5 text-emerald-300" />
+                        <h2 id="summary-heading" className="text-lg font-semibold text-white">
+                          Tóm tắt cuối bài
+                        </h2>
+                      </CardHeader>
+                      <CardContent className="space-y-3 p-3 pt-0">
+                        <ul className="space-y-1.5">
+                          {lesson.summary.keyPoints.map((point) => (
+                            <li key={point} className="flex gap-2 text-xs leading-5 text-slate-200 sm:text-sm">
+                              <CheckCircle2 className="mt-0.5 h-3.5 w-3.5 shrink-0 text-emerald-300" />
+                              {point}
+                            </li>
+                          ))}
+                        </ul>
+                        {lesson.summary.rememberSentences.length > 0 && (
+                          <div>
+                            <h3 className="mb-2 text-sm font-semibold text-white">Câu nên nhớ</h3>
+                            <ExampleList examples={lesson.summary.rememberSentences} compact />
+                          </div>
+                        )}
+                      </CardContent>
+                    </Card>
+                  </section>
+                </div>
+
+                {/* Cột phải: bài tập — sticky trên desktop */}
+                <div className="space-y-5 lg:sticky lg:top-24 lg:max-h-[calc(100vh-6.5rem)] lg:overflow-y-auto lg:pr-1">
+                  <section aria-labelledby="practice-heading">
+                    <SectionHeading
+                      id="practice-heading"
+                      title="Bài tập luyện tập"
+                      description="Làm từng câu, kiểm tra đáp án và đọc giải thích ngắn."
+                    />
+                    {lesson.exercises.length > 0 ? (
+                      <div className="space-y-3">
+                        {lesson.exercises.map((exercise, index) => (
+                          <ExerciseRenderer
+                            key={exercise.id}
+                            exercise={exercise}
+                            questionNumber={index + 1}
+                          />
+                        ))}
+                      </div>
+                    ) : (
+                      <Card className="border-slate-700 bg-slate-900/80">
+                        <CardHeader className="p-3">
+                          <CardTitle className="text-base text-white">Chưa có bài tập luyện tập</CardTitle>
+                          <CardDescription className="text-xs text-slate-400">
+                            Bài này chưa có câu hỏi trong data, nhưng trang vẫn hiển thị an toàn.
+                          </CardDescription>
+                        </CardHeader>
+                      </Card>
                     )}
-                  </CardContent>
-                </Card>
-              </section>
+                  </section>
+
+                  <section aria-labelledby="mini-test-heading">
+                    <SectionHeading
+                      id="mini-test-heading"
+                      title="Mini test cuối bài"
+                      description="Tối đa 10 câu. Kết quả được lưu vào tiến độ học trên thiết bị này."
+                    />
+                    <MiniTest lessonSlug={lesson.slug} exercises={lesson.miniTest} />
+                  </section>
+                </div>
+              </div>
 
               <LessonNavigation previousLesson={previousLesson} nextLesson={nextLesson} />
             </div>

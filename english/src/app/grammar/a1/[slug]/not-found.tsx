@@ -1,4 +1,5 @@
 import Navigation from '@/components/Navigation';
+import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import { Button } from '@/components/ui/button';
 import { BookOpen, SearchX } from 'lucide-react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ export default function LessonNotFound() {
   return (
     <>
       <header className="border-b border-white/10 bg-slate-950/90">
-        <div className="container mx-auto px-3 py-4 sm:px-4">
+        <div className={`${GRAMMAR_SHELL} py-4`}>
           <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
             <BookOpen className="h-5 w-5 text-violet-400" />
             English Learning Hub
@@ -16,7 +17,7 @@ export default function LessonNotFound() {
         </div>
       </header>
 
-      <main className="container mx-auto flex flex-grow items-center justify-center px-3 py-16 sm:px-4">
+      <main className={`${GRAMMAR_SHELL} flex flex-grow items-center justify-center py-16`}>
         <section className="max-w-lg rounded-2xl border border-slate-700 bg-slate-900/80 p-7 text-center sm:p-10">
           <SearchX className="mx-auto h-12 w-12 text-violet-300" />
           <h1 className="mt-5 text-2xl font-bold text-white sm:text-3xl">

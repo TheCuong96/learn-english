@@ -1,4 +1,5 @@
 import Navigation from '@/components/Navigation';
+import { GRAMMAR_SHELL } from '@/components/grammar/grammar-shell';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -37,7 +38,7 @@ export default function GrammarOverviewPage() {
   return (
     <>
       <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/90 backdrop-blur">
-        <div className="container mx-auto px-3 py-4 sm:px-4">
+        <div className={`${GRAMMAR_SHELL} py-4`}>
           <Link href="/grammar" className="inline-flex items-center gap-2 text-lg font-bold text-white sm:text-xl">
             <BookOpen className="h-5 w-5 text-violet-400" />
             English Learning Hub
@@ -46,21 +47,21 @@ export default function GrammarOverviewPage() {
         </div>
       </header>
 
-      <main className="container mx-auto flex-grow px-3 py-8 sm:px-4 sm:py-12">
-        <section className="mx-auto max-w-4xl text-center">
+      <main className={`${GRAMMAR_SHELL} flex-grow py-8 sm:py-12`}>
+        <section className="w-full text-center">
           <Badge className="mb-4 border-violet-400/30 bg-violet-500/15 text-violet-200">
             Grammar roadmap
           </Badge>
           <h1 className="text-3xl font-bold tracking-tight text-white sm:text-5xl">
             Học ngữ pháp tiếng Anh theo cấp độ
           </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-slate-300 sm:text-lg">
+          <p className="mx-auto mt-4 max-w-4xl text-base leading-7 text-slate-300 sm:text-lg">
             Bắt đầu từ kiến thức nền tảng, học từng bài ngắn với giải thích tiếng Việt
             và luyện tập theo lộ trình rõ ràng.
           </p>
         </section>
 
-        <section className="mx-auto mt-10 grid max-w-5xl gap-5 md:grid-cols-3" aria-label="Các cấp độ ngữ pháp">
+        <section className="mt-10 grid w-full gap-5 lg:grid-cols-3" aria-label="Các cấp độ ngữ pháp">
           <Card className="border-violet-400/40 bg-gradient-to-b from-violet-500/20 to-slate-900 md:col-span-2">
             <CardHeader>
               <div className="flex items-start justify-between gap-4">

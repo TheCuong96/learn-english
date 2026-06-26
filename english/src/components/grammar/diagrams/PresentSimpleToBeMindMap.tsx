@@ -19,12 +19,12 @@ function MindMapSection({
   children,
 }: MindMapSectionProps) {
   return (
-    <div className={`overflow-hidden rounded-2xl border ${border} ${bg}`}>
-      <div className={`border-b px-4 py-3 ${accent}`}>
-        <h3 className="text-base font-bold tracking-wide text-white sm:text-lg">{title}</h3>
-        <p className="text-xs font-medium uppercase tracking-wider text-white/70">{subtitle}</p>
+    <div className={`h-full overflow-hidden rounded-2xl border ${border} ${bg}`}>
+      <div className={`border-b px-3 py-2.5 sm:px-4 sm:py-3 ${accent}`}>
+        <h3 className="text-sm font-bold tracking-wide text-white sm:text-base lg:text-lg">{title}</h3>
+        <p className="text-[0.65rem] font-medium uppercase tracking-wider text-white/70 sm:text-xs">{subtitle}</p>
       </div>
-      <div className="space-y-0 px-4 py-3">{children}</div>
+      <div className="space-y-0 px-3 py-2 sm:px-4 sm:py-3">{children}</div>
     </div>
   );
 }
@@ -36,9 +36,9 @@ interface PronounRowProps {
 
 function PronounRow({ subject, forms }: PronounRowProps) {
   return (
-    <div className="grid grid-cols-[3.25rem_1fr] gap-x-3 gap-y-0.5 border-b border-white/10 py-2 last:border-0 sm:grid-cols-[4rem_1fr]">
-      <span className="font-bold text-white">{subject}</span>
-      <span className="text-sm leading-6 text-slate-100">{forms}</span>
+    <div className="grid grid-cols-[2.75rem_minmax(0,1fr)] gap-x-2 gap-y-0.5 border-b border-white/10 py-1.5 last:border-0 sm:grid-cols-[3.25rem_minmax(0,1fr)] sm:gap-x-3 sm:py-2 xl:grid-cols-[2.5rem_minmax(0,1fr)]">
+      <span className="text-sm font-bold text-white sm:text-base">{subject}</span>
+      <span className="text-xs leading-5 text-slate-100 sm:text-sm sm:leading-6">{forms}</span>
     </div>
   );
 }
@@ -58,53 +58,59 @@ function FormPair({ full, short }: { full: string; short?: string }) {
 }
 
 /** Sơ đồ tư duy tổng: am / is / are — khẳng định, phủ định, câu hỏi, trả lời ngắn. */
-export default function PresentSimpleToBeMindMap() {
+export default function PresentSimpleToBeMindMap({ compact = false }: { compact?: boolean }) {
+  const branchGridClass = compact
+    ? 'grid w-full grid-cols-1 gap-2 sm:grid-cols-2'
+    : 'grid w-full grid-cols-1 gap-3 sm:gap-4 md:grid-cols-2 xl:grid-cols-4';
+
   return (
-    <div className="space-y-5" role="img" aria-label="Sơ đồ tư duy Present Simple of be">
+    <div
+      className={`w-full ${compact ? 'space-y-2' : 'space-y-4 sm:space-y-5'}`}
+      role="img"
+      aria-label="Sơ đồ tư duy Present Simple of be"
+    >
       {/* Hub trung tâm — chọn am / is / are */}
-      <div className="relative overflow-hidden rounded-2xl border border-violet-400/40 bg-gradient-to-br from-violet-600/30 via-slate-900 to-slate-950 p-5 text-center shadow-lg shadow-violet-500/10">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-violet-300">
-          Present Simple of BE
-        </p>
-        <h3 className="mt-1 text-xl font-bold text-white sm:text-2xl">
+      <div
+        className={`relative w-full overflow-hidden rounded-xl border border-violet-400/40 bg-gradient-to-br from-violet-600/30 via-slate-900 to-slate-950 text-center shadow-lg shadow-violet-500/10 ${
+          compact ? 'p-2.5' : 'rounded-2xl p-4 sm:p-5'
+        }`}
+      >
+        {!compact && (
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-violet-300">
+            Present Simple of BE
+          </p>
+        )}
+        <h3 className={`font-bold text-white ${compact ? 'text-sm' : 'mt-1 text-xl sm:text-2xl'}`}>
           Chọn am / is / are
         </h3>
-        <p className="mt-1 text-sm text-slate-400">Subject agreement</p>
+        {!compact && <p className="mt-1 text-sm text-slate-400">Subject agreement</p>}
 
-        <div className="mt-5 grid gap-3 sm:grid-cols-3">
-          <div className="rounded-xl border border-sky-400/30 bg-sky-500/10 px-4 py-3">
-            <p className="text-xs font-medium uppercase tracking-wide text-sky-300">I</p>
-            <p className="mt-1 text-lg font-bold text-white">am</p>
+        <div className={`grid w-full gap-2 ${compact ? 'mt-2 grid-cols-3' : 'mt-4 grid-cols-1 gap-3 sm:grid-cols-3'}`}>
+          <div className={`rounded-lg border border-sky-400/30 bg-sky-500/10 ${compact ? 'px-2 py-1.5' : 'rounded-xl px-4 py-3'}`}>
+            <p className="text-[0.6rem] font-medium uppercase tracking-wide text-sky-300 sm:text-xs">I</p>
+            <p className={`font-bold text-white ${compact ? 'text-sm' : 'mt-1 text-lg'}`}>am</p>
           </div>
-          <div className="rounded-xl border border-emerald-400/30 bg-emerald-500/10 px-4 py-3">
-            <p className="text-xs font-medium uppercase tracking-wide text-emerald-300">
+          <div className={`rounded-lg border border-emerald-400/30 bg-emerald-500/10 ${compact ? 'px-2 py-1.5' : 'rounded-xl px-4 py-3'}`}>
+            <p className="text-[0.6rem] font-medium uppercase tracking-wide text-emerald-300 sm:text-xs">
               he · she · it
             </p>
-            <p className="mt-1 text-lg font-bold text-white">is</p>
+            <p className={`font-bold text-white ${compact ? 'text-sm' : 'mt-1 text-lg'}`}>is</p>
           </div>
-          <div className="rounded-xl border border-amber-400/30 bg-amber-500/10 px-4 py-3">
-            <p className="text-xs font-medium uppercase tracking-wide text-amber-300">
+          <div className={`rounded-lg border border-amber-400/30 bg-amber-500/10 ${compact ? 'px-2 py-1.5' : 'rounded-xl px-4 py-3'}`}>
+            <p className="text-[0.6rem] font-medium uppercase tracking-wide text-amber-300 sm:text-xs">
               you · we · they
             </p>
-            <p className="mt-1 text-lg font-bold text-white">are</p>
+            <p className={`font-bold text-white ${compact ? 'text-sm' : 'mt-1 text-lg'}`}>are</p>
           </div>
         </div>
 
-        {/* Nhánh nối xuống 4 khối */}
-        <div className="mx-auto mt-5 hidden h-6 w-px bg-violet-400/40 sm:block" aria-hidden />
+        {!compact && (
+          <div className="mx-auto mt-5 hidden h-6 w-px bg-violet-400/40 sm:block" aria-hidden />
+        )}
       </div>
 
-      {/* 4 nhánh chính — 2×2 */}
-      <div className="relative grid gap-4 lg:grid-cols-2">
-        <div
-          className="pointer-events-none absolute left-1/2 top-0 hidden h-full w-px -translate-x-1/2 bg-slate-600/40 lg:block"
-          aria-hidden
-        />
-        <div
-          className="pointer-events-none absolute left-0 top-1/2 hidden h-px w-full -translate-y-1/2 bg-slate-600/40 lg:block"
-          aria-hidden
-        />
-
+      {/* 4 nhánh chính */}
+      <div className={branchGridClass}>
         <MindMapSection
           title="Khẳng định"
           subtitle="Positive"
@@ -235,28 +241,32 @@ export default function PresentSimpleToBeMindMap() {
       </div>
 
       {/* Quy tắc quan trọng */}
-      <div className="rounded-2xl border border-amber-400/40 bg-amber-500/10 p-4 sm:p-5">
-        <p className="text-center text-sm font-bold uppercase tracking-wide text-amber-200">
+      <div
+        className={`w-full rounded-xl border border-amber-400/40 bg-amber-500/10 ${
+          compact ? 'p-2.5' : 'rounded-2xl p-4 sm:p-5'
+        }`}
+      >
+        <p className={`text-center font-bold uppercase tracking-wide text-amber-200 ${compact ? 'text-[0.65rem]' : 'text-sm'}`}>
           Quy tắc quan trọng
         </p>
-        <p className="mt-2 text-center text-base font-semibold text-white">
+        <p className={`text-center font-semibold text-white ${compact ? 'mt-1 text-xs' : 'mt-2 text-base'}`}>
           Câu trả lời ngắn khẳng định không dùng dạng viết tắt
         </p>
-        <div className="mt-4 grid gap-3 sm:grid-cols-2">
-          <div className="flex items-start gap-3 rounded-xl border border-red-400/30 bg-red-500/10 p-3">
-            <X className="mt-0.5 h-5 w-5 shrink-0 text-red-400" />
+        <div className={`grid gap-2 ${compact ? 'mt-2 grid-cols-1' : 'mt-4 gap-3 sm:grid-cols-2'}`}>
+          <div className={`flex items-start gap-2 rounded-lg border border-red-400/30 bg-red-500/10 ${compact ? 'p-2' : 'gap-3 rounded-xl p-3'}`}>
+            <X className={`shrink-0 text-red-400 ${compact ? 'mt-0.5 h-4 w-4' : 'mt-0.5 h-5 w-5'}`} />
             <div>
-              <p className="text-xs font-medium text-red-300">Sai</p>
-              <p className="mt-1 font-medium text-red-100">
+              <p className="text-[0.65rem] font-medium text-red-300 sm:text-xs">Sai</p>
+              <p className={`font-medium text-red-100 ${compact ? 'mt-0.5 text-xs' : 'mt-1'}`}>
                 Are you happy? — Yes, I&apos;m.
               </p>
             </div>
           </div>
-          <div className="flex items-start gap-3 rounded-xl border border-emerald-400/30 bg-emerald-500/10 p-3">
-            <Check className="mt-0.5 h-5 w-5 shrink-0 text-emerald-400" />
+          <div className={`flex items-start gap-2 rounded-lg border border-emerald-400/30 bg-emerald-500/10 ${compact ? 'p-2' : 'gap-3 rounded-xl p-3'}`}>
+            <Check className={`shrink-0 text-emerald-400 ${compact ? 'mt-0.5 h-4 w-4' : 'mt-0.5 h-5 w-5'}`} />
             <div>
-              <p className="text-xs font-medium text-emerald-300">Đúng</p>
-              <p className="mt-1 font-medium text-emerald-100">
+              <p className="text-[0.65rem] font-medium text-emerald-300 sm:text-xs">Đúng</p>
+              <p className={`font-medium text-emerald-100 ${compact ? 'mt-0.5 text-xs' : 'mt-1'}`}>
                 Are you happy? — Yes, I am.
               </p>
             </div>

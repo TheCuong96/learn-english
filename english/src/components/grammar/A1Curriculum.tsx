@@ -156,7 +156,7 @@ export default function A1Curriculum({ modules }: A1CurriculumProps) {
               Module này chưa có bài học.
             </div>
           ) : (
-            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
               {grammarModule.lessons.map((lesson) => {
                 const isPublished = lesson.publicationStatus === 'published';
                 const learningProgress = progressBySlug[lesson.slug];
