@@ -1,5 +1,10 @@
 'use client';
 
+import {
+  getPageFontPercent,
+  getPageFontScale,
+  setPageFontScale,
+} from '@/utils/pageFontSize';
 import { getAllVoices, getMuteState, getSelectedVoice, setSelectedVoice, speak, toggleMute } from '@/utils/speech';
 import { useEffect, useState } from 'react';
 
@@ -8,6 +13,7 @@ export default function VoiceSelector() {
   const [selectedVoice, setSelectedVoiceState] = useState<string>('');
   const [isOpen, setIsOpen] = useState(false);
   const [rate, setRate] = useState(0.9);
+  const [fontScale, setFontScale] = useState(1);
   const [isMuted, setIsMuted] = useState(false);
 
   useEffect(() => {
@@ -24,6 +30,8 @@ export default function VoiceSelector() {
     if (savedRate) {
       setRate(parseFloat(savedRate));
     }
+
+    setFontScale(getPageFontScale());
   }, []);
 
   const loadVoices = () => {
@@ -75,6 +83,11 @@ export default function VoiceSelector() {
     
     // Test phát âm
     speak('Testing speed', { rate: newRate });
+  };
+
+  const handleFontScaleChange = (newScale: number) => {
+    const clamped = setPageFontScale(newScale);
+    setFontScale(clamped);
   };
 
   const getVoiceLabel = (voice: SpeechSynthesisVoice) => {
@@ -207,6 +220,49 @@ export default function VoiceSelector() {
                     }`}
                   >
                     {speed}x
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Font size — scale toàn trang qua rem/Tailwind */}
+            <div className="mb-4">
+              <div className="flex justify-between items-center mb-2">
+                <label className="text-xs md:text-sm text-slate-300 font-medium">🔤 Cỡ chữ trang:</label>
+                <span className="text-xs md:text-sm text-sky-400 font-semibold">
+                  {getPageFontPercent(fontScale)}%
+                </span>
+              </div>
+              <input
+                type="range"
+                min="0.75"
+                max="1.5"
+                step="0.05"
+                value={fontScale}
+                onChange={(e) => handleFontScaleChange(parseFloat(e.target.value))}
+                onClick={(e) => e.stopPropagation()}
+                className="w-full h-2 bg-slate-700 rounded-lg appearance-none cursor-pointer accent-sky-500"
+              />
+              <div className="flex justify-between text-xs md:text-sm text-slate-400 mt-1 mb-2">
+                <span>75%</span>
+                <span>100%</span>
+                <span>150%</span>
+              </div>
+              <div className="flex gap-2 flex-wrap">
+                {[0.85, 1, 1.15, 1.25].map((scale) => (
+                  <button
+                    key={scale}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      handleFontScaleChange(scale);
+                    }}
+                    className={`px-3 md:px-4 py-1 md:py-1.5 rounded text-xs md:text-sm font-semibold transition-all ${
+                      Math.abs(fontScale - scale) < 0.03
+                        ? 'bg-sky-600/40 border-2 border-sky-400 ring-2 ring-sky-400/60 text-sky-200 shadow-lg'
+                        : 'bg-slate-700/50 text-slate-300 hover:bg-slate-700 border border-transparent'
+                    }`}
+                  >
+                    {getPageFontPercent(scale)}%
                   </button>
                 ))}
               </div>

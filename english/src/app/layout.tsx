@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Be_Vietnam_Pro } from "next/font/google";
+import PageFontSizeInit from "@/components/PageFontSizeInit";
 import "./globals.css";
 
 const beVietnamPro = Be_Vietnam_Pro({
@@ -25,6 +26,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className={`${beVietnamPro.variable} antialiased bg-gradient-to-br from-gray-900 via-slate-900 to-zinc-900 text-slate-100 flex flex-col min-h-screen`}>
+        <PageFontSizeInit />
         {children}
       </body>
     </html>
