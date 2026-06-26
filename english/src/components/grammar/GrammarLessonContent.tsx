@@ -1,4 +1,5 @@
 import Navigation from '@/components/Navigation';
+import LessonDiagram, { hasLessonDiagram } from '@/components/grammar/diagrams/LessonDiagram';
 import LessonProgressMarker from '@/components/grammar/LessonProgressMarker';
 import ExerciseRenderer from '@/components/grammar/exercises/ExerciseRenderer';
 import MiniTest from '@/components/grammar/exercises/MiniTest';
@@ -99,6 +100,7 @@ export default function GrammarLessonContent({
   nextLesson,
 }: GrammarLessonContentProps) {
   const isPublished = lesson.status === 'published';
+  const showMindMap = hasLessonDiagram(lesson.slug);
 
   return (
     <>
@@ -208,30 +210,46 @@ export default function GrammarLessonContent({
                 </ul>
               </section>
 
-              <section aria-labelledby="formulas-heading">
-                <h2 id="formulas-heading" className="text-2xl font-bold text-white">
-                  Công thức
-                </h2>
-                <div className="mt-4 space-y-5">
-                  {lesson.formulas.map((formula) => (
-                    <Card key={formula.title} className="overflow-hidden bg-slate-900/80">
-                      <CardHeader className="border-b border-slate-700 bg-violet-500/10">
-                        <h3 className="text-xl font-semibold text-white">{formula.title}</h3>
-                        <code className="mt-3 block overflow-x-auto rounded-lg border border-violet-400/30 bg-slate-950 px-4 py-3 text-sm font-semibold text-violet-200 sm:text-base">
-                          {formula.pattern}
-                        </code>
-                        <CardDescription className="pt-2 leading-7 text-slate-300">
-                          {formula.explanation}
-                        </CardDescription>
-                      </CardHeader>
-                      <CardContent className="p-5">
-                        <h3 className="mb-3 font-semibold text-slate-200">Ví dụ theo công thức</h3>
-                        <ExampleList examples={formula.examples} />
-                      </CardContent>
-                    </Card>
-                  ))}
-                </div>
-              </section>
+              {showMindMap && (
+                <section aria-labelledby="mindmap-heading">
+                  <h2 id="mindmap-heading" className="text-2xl font-bold text-white">
+                    Sơ đồ tư duy
+                  </h2>
+                  <p className="mt-1 text-sm leading-6 text-slate-400">
+                    Nhìn tổng thể am / is / are — khẳng định, phủ định, câu hỏi và trả lời ngắn.
+                  </p>
+                  <div className="mt-4">
+                    <LessonDiagram lessonSlug={lesson.slug} />
+                  </div>
+                </section>
+              )}
+
+              {lesson.formulas.length > 0 && (
+                <section aria-labelledby="formulas-heading">
+                  <h2 id="formulas-heading" className="text-2xl font-bold text-white">
+                    Công thức
+                  </h2>
+                  <div className="mt-4 space-y-5">
+                    {lesson.formulas.map((formula) => (
+                      <Card key={formula.title} className="overflow-hidden bg-slate-900/80">
+                        <CardHeader className="border-b border-slate-700 bg-violet-500/10">
+                          <h3 className="text-xl font-semibold text-white">{formula.title}</h3>
+                          <code className="mt-3 block overflow-x-auto rounded-lg border border-violet-400/30 bg-slate-950 px-4 py-3 text-sm font-semibold text-violet-200 sm:text-base">
+                            {formula.pattern}
+                          </code>
+                          <CardDescription className="pt-2 leading-7 text-slate-300">
+                            {formula.explanation}
+                          </CardDescription>
+                        </CardHeader>
+                        <CardContent className="p-5">
+                          <h3 className="mb-3 font-semibold text-slate-200">Ví dụ theo công thức</h3>
+                          <ExampleList examples={formula.examples} />
+                        </CardContent>
+                      </Card>
+                    ))}
+                  </div>
+                </section>
+              )}
 
               <section aria-labelledby="usages-heading">
                 <h2 id="usages-heading" className="text-2xl font-bold text-white">
@@ -297,28 +315,30 @@ export default function GrammarLessonContent({
                 </div>
               </section>
 
-              <section aria-labelledby="notes-heading">
-                <Card className="border-sky-400/30 bg-sky-500/10">
-                  <CardHeader>
-                    <div className="flex items-center gap-3">
-                      <Lightbulb className="h-6 w-6 text-sky-300" />
-                      <h2 id="notes-heading" className="text-2xl font-semibold text-white">
-                        Ghi chú nhanh
-                      </h2>
-                    </div>
-                  </CardHeader>
-                  <CardContent>
-                    <ul className="space-y-3">
-                      {lesson.quickNotes.map((note) => (
-                        <li key={note} className="flex gap-3 leading-7 text-slate-300">
-                          <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-sky-300" />
-                          {note}
-                        </li>
-                      ))}
-                    </ul>
-                  </CardContent>
-                </Card>
-              </section>
+              {lesson.quickNotes.length > 0 && !showMindMap && (
+                <section aria-labelledby="notes-heading">
+                  <Card className="border-sky-400/30 bg-sky-500/10">
+                    <CardHeader>
+                      <div className="flex items-center gap-3">
+                        <Lightbulb className="h-6 w-6 text-sky-300" />
+                        <h2 id="notes-heading" className="text-2xl font-semibold text-white">
+                          Ghi chú nhanh
+                        </h2>
+                      </div>
+                    </CardHeader>
+                    <CardContent>
+                      <ul className="space-y-3">
+                        {lesson.quickNotes.map((note) => (
+                          <li key={note} className="flex gap-3 leading-7 text-slate-300">
+                            <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-sky-300" />
+                            {note}
+                          </li>
+                        ))}
+                      </ul>
+                    </CardContent>
+                  </Card>
+                </section>
+              )}
 
               <section aria-labelledby="practice-heading">
                 <div className="mb-4">

@@ -18,77 +18,7 @@ export const presentSimpleToBeLesson: GrammarLesson = {
     'Dùng dạng viết tắt và câu trả lời ngắn tự nhiên.',
     'Tránh bỏ chủ ngữ hoặc dùng sai dạng be theo thói quen tiếng Việt.',
   ],
-  formulas: [
-    {
-      title: 'Câu khẳng định',
-      pattern: 'Subject + am/is/are + complement',
-      explanation:
-        'Dùng am với I, is với he/she/it và are với you/we/they. Phần sau be có thể là tính từ, danh từ hoặc cụm chỉ nơi chốn.',
-      examples: [
-        {
-          english: 'I am tired.',
-          vietnamese: 'Tôi mệt.',
-          highlight: 'am',
-        },
-        {
-          english: 'She is a doctor.',
-          vietnamese: 'Cô ấy là bác sĩ.',
-          highlight: 'is',
-        },
-        {
-          english: 'They are at home.',
-          vietnamese: 'Họ đang ở nhà.',
-          highlight: 'are',
-        },
-      ],
-    },
-    {
-      title: 'Câu phủ định',
-      pattern: 'Subject + am not/is not/are not + complement',
-      explanation:
-        'Đặt not ngay sau am, is hoặc are. Is not thường viết tắt thành isn’t; are not thành aren’t. Với I, dạng thông dụng là I’m not.',
-      examples: [
-        {
-          english: 'I am not busy.',
-          vietnamese: 'Tôi không bận.',
-          highlight: 'am not',
-        },
-        {
-          english: 'He isn’t angry.',
-          vietnamese: 'Anh ấy không tức giận.',
-          highlight: 'isn’t',
-        },
-        {
-          english: 'We aren’t late.',
-          vietnamese: 'Chúng tôi không muộn.',
-          highlight: 'aren’t',
-        },
-      ],
-    },
-    {
-      title: 'Câu hỏi và câu trả lời ngắn',
-      pattern: 'Am/Is/Are + subject + complement?',
-      explanation:
-        'Đưa am, is hoặc are lên trước chủ ngữ. Trong câu trả lời khẳng định ngắn, không dùng dạng viết tắt như “Yes, I’m”.',
-      examples: [
-        {
-          english: 'Am I early? — Yes, you are.',
-          vietnamese: 'Tôi đến sớm phải không? — Đúng, bạn đến sớm.',
-          highlight: 'Am I',
-        },
-        {
-          english: 'Is he your brother? — No, he isn’t.',
-          vietnamese: 'Anh ấy là anh/em trai bạn à? — Không, không phải.',
-          highlight: 'Is he',
-        },
-        {
-          english: 'Are you ready? — Yes, I am.',
-          vietnamese: 'Bạn sẵn sàng chưa? — Rồi.',
-          highlight: 'Yes, I am',
-        },
-      ],
-    },
-  ],
+  formulas: [],
   usages: [
     {
       title: 'Nói danh tính hoặc nghề nghiệp',
@@ -144,11 +74,6 @@ export const presentSimpleToBeLesson: GrammarLesson = {
   ],
   examples: [
     {
-      english: 'I’m from Vietnam.',
-      vietnamese: 'Tôi đến từ Việt Nam.',
-      highlight: 'I’m',
-    },
-    {
       english: 'You’re my friend.',
       vietnamese: 'Bạn là bạn của tôi.',
       highlight: 'You’re',
@@ -159,24 +84,19 @@ export const presentSimpleToBeLesson: GrammarLesson = {
       highlight: 'He’s',
     },
     {
-      english: 'She’s at work.',
-      vietnamese: 'Cô ấy đang ở chỗ làm.',
-      highlight: 'She’s',
-    },
-    {
       english: 'It’s sunny today.',
       vietnamese: 'Hôm nay trời nắng.',
       highlight: 'It’s',
     },
     {
-      english: 'We’re in the same class.',
-      vietnamese: 'Chúng tôi học cùng lớp.',
-      highlight: 'We’re',
+      english: 'The room is cold.',
+      vietnamese: 'Căn phòng lạnh.',
+      highlight: 'is cold',
     },
     {
-      english: 'They’re not at school.',
-      vietnamese: 'Họ không ở trường.',
-      highlight: 'They’re not',
+      english: 'The keys are on the table.',
+      vietnamese: 'Chìa khóa ở trên bàn.',
+      highlight: 'are on the table',
     },
   ],
   commonMistakes: [
@@ -198,13 +118,7 @@ export const presentSimpleToBeLesson: GrammarLesson = {
         'Không dùng dạng viết tắt ở cuối câu trả lời khẳng định ngắn.',
     },
   ],
-  quickNotes: [
-    'I am → I’m.',
-    'You are → you’re; we are → we’re; they are → they’re.',
-    'He is → he’s; she is → she’s; it is → it’s.',
-    'Is not → isn’t; are not → aren’t; cách nói tự nhiên với I là I’m not.',
-    'Be đứng trước tính từ: She is happy. Không thêm do/does.',
-  ],
+  quickNotes: [],
   exercises: [
     {
       id: 'a1-01-ex-01',
@@ -306,10 +220,10 @@ export const presentSimpleToBeLesson: GrammarLesson = {
   ],
   summary: {
     keyPoints: [
-      'I + am; he/she/it + is; you/we/they + are.',
-      'Đặt not sau be để tạo câu phủ định.',
-      'Đưa be lên trước chủ ngữ để tạo câu hỏi.',
-      'Dùng dạng đầy đủ trong câu trả lời khẳng định ngắn: Yes, I am.',
+      'I → am · he/she/it → is · you/we/they → are.',
+      'Khẳng định và phủ định đều có dạng viết tắt (I’m, isn’t, aren’t…).',
+      'Câu hỏi: đảo be lên trước chủ ngữ (Am I? Is she? Are they?).',
+      'Trả lời ngắn khẳng định: luôn dạng đầy đủ — Yes, I am (không *Yes, I’m).',
     ],
     rememberSentences: [
       {
