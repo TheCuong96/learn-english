@@ -10,11 +10,16 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
+import { Progress } from '@/components/ui/progress';
+import {
+  getAllLessonProgress,
+  type LessonLearningStatus,
+  type LessonProgress,
+} from '@/lib/grammar-progress';
 import type { LessonStatus } from '@/types/grammar';
 import { BookOpen, CheckCircle2, Clock3, Construction, ListChecks, PlayCircle } from 'lucide-react';
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
-
-type LearningStatus = 'not-started' | 'in-progress' | 'completed';
 
 interface A1CurriculumLesson {
   slug: string;
@@ -39,10 +44,8 @@ interface A1CurriculumProps {
   modules: A1CurriculumModule[];
 }
 
-const PROGRESS_STORAGE_KEY = 'grammar:a1:progress';
-
 const learningStatusConfig: Record<
-  LearningStatus,
+  LessonLearningStatus,
   { label: string; className: string; icon: typeof CheckCircle2 }
 > = {
   'not-started': {
@@ -62,31 +65,7 @@ const learningStatusConfig: Record<
   },
 };
 
-function isLearningStatus(value: unknown): value is LearningStatus {
-  return value === 'not-started' || value === 'in-progress' || value === 'completed';
-}
-
-function readStoredProgress(): Record<string, LearningStatus> {
-  try {
-    const storedValue = window.localStorage.getItem(PROGRESS_STORAGE_KEY);
-    if (!storedValue) return {};
-
-    const parsedValue: unknown = JSON.parse(storedValue);
-    if (!parsedValue || typeof parsedValue !== 'object' || Array.isArray(parsedValue)) {
-      return {};
-    }
-
-    return Object.fromEntries(
-      Object.entries(parsedValue).filter((entry): entry is [string, LearningStatus] =>
-        isLearningStatus(entry[1]),
-      ),
-    );
-  } catch {
-    return {};
-  }
-}
-
-function LearningStatusBadge({ status }: { status: LearningStatus }) {
+function LearningStatusBadge({ status }: { status: LessonLearningStatus }) {
   const config = learningStatusConfig[status];
   const Icon = config.icon;
 
@@ -99,10 +78,15 @@ function LearningStatusBadge({ status }: { status: LearningStatus }) {
 }
 
 export default function A1Curriculum({ modules }: A1CurriculumProps) {
-  const [progressBySlug, setProgressBySlug] = useState<Record<string, LearningStatus>>({});
+  const [progressBySlug, setProgressBySlug] = useState<Record<string, LessonProgress>>({});
 
   useEffect(() => {
-    setProgressBySlug(readStoredProgress());
+    const progressEntries = getAllLessonProgress().map((progress) => [
+      progress.lessonSlug,
+      progress,
+    ]);
+
+    setProgressBySlug(Object.fromEntries(progressEntries));
   }, []);
 
   if (modules.length === 0) {
@@ -117,8 +101,40 @@ export default function A1Curriculum({ modules }: A1CurriculumProps) {
     );
   }
 
+  const lessons = modules.flatMap((grammarModule) => grammarModule.lessons);
+  const publishedLessons = lessons.filter(
+    (lesson) => lesson.publicationStatus === 'published',
+  );
+  const completedCount = publishedLessons.filter(
+    (lesson) => progressBySlug[lesson.slug]?.status === 'completed',
+  ).length;
+  const progressPercent =
+    publishedLessons.length > 0
+      ? Math.round((completedCount / publishedLessons.length) * 100)
+      : 0;
+
   return (
     <div className="mt-10 space-y-10">
+      <section className="rounded-2xl border border-slate-700 bg-slate-900/80 p-5">
+        <div className="flex flex-wrap items-center justify-between gap-4">
+          <div>
+            <h2 className="text-xl font-bold text-white">Tiến độ A1 Grammar</h2>
+            <p className="mt-1 text-sm leading-6 text-slate-400">
+              Đã hoàn thành {completedCount}/{publishedLessons.length} bài đã xuất bản.
+            </p>
+          </div>
+          <Button asChild variant="outline" className="border-slate-600 bg-slate-950 text-slate-200 hover:bg-slate-800 hover:text-white">
+            <Link href="/grammar/a1/review">Câu sai của tôi</Link>
+          </Button>
+        </div>
+        <div className="mt-4 flex items-center gap-3">
+          <Progress value={progressPercent} className="h-3 bg-slate-800 [&>div]:bg-emerald-400" />
+          <span className="min-w-12 text-right text-sm font-semibold text-emerald-200">
+            {progressPercent}%
+          </span>
+        </div>
+      </section>
+
       {modules.map((grammarModule) => (
         <section key={grammarModule.id} aria-labelledby={`module-${grammarModule.id}`}>
           <div className="mb-4 flex items-start gap-3">
@@ -143,7 +159,8 @@ export default function A1Curriculum({ modules }: A1CurriculumProps) {
             <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
               {grammarModule.lessons.map((lesson) => {
                 const isPublished = lesson.publicationStatus === 'published';
-                const learningStatus = progressBySlug[lesson.slug] ?? 'not-started';
+                const learningProgress = progressBySlug[lesson.slug];
+                const learningStatus = learningProgress?.status ?? 'not-started';
 
                 return (
                   <Card
@@ -177,6 +194,11 @@ export default function A1Curriculum({ modules }: A1CurriculumProps) {
                       <CardDescription className="line-clamp-3 leading-6 text-slate-400">
                         {lesson.description}
                       </CardDescription>
+                      {isPublished && learningProgress?.bestScore !== undefined && (
+                        <p className="text-xs font-medium text-emerald-200">
+                          Best score: {learningProgress.bestScore}% · {learningProgress.attempts} lần làm
+                        </p>
+                      )}
                     </CardHeader>
 
                     <CardContent className="mt-auto px-5 pb-4">
@@ -196,18 +218,17 @@ export default function A1Curriculum({ modules }: A1CurriculumProps) {
 
                     <CardFooter className="px-5 pb-5">
                       <Button
-                        type="button"
-                        disabled
-                        aria-describedby={`lesson-note-${lesson.slug}`}
-                        className="w-full bg-violet-500 text-white disabled:bg-slate-700 disabled:text-slate-400"
+                        asChild
+                        className={`w-full text-white ${
+                          isPublished
+                            ? 'bg-violet-500 hover:bg-violet-400'
+                            : 'bg-slate-700 hover:bg-slate-600'
+                        }`}
                       >
-                        {isPublished ? 'Học bài' : 'Sắp ra mắt'}
+                        <Link href={`/grammar/a1/${lesson.slug}`}>
+                          {isPublished ? 'Học bài' : 'Xem thông tin'}
+                        </Link>
                       </Button>
-                      <span id={`lesson-note-${lesson.slug}`} className="sr-only">
-                        {isPublished
-                          ? 'Trang nội dung bài học sẽ được kết nối trong batch tiếp theo.'
-                          : 'Bài học đang được biên soạn.'}
-                      </span>
                     </CardFooter>
                   </Card>
                 );
