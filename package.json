@@ -1,0 +1,42 @@
+{
+  "name": "english-learning-app",
+  "version": "1.0.0",
+  "description": "Ứng dụng giáo viên dạy tiếng Anh tương tác dựa trên bộ sách English For Everyone",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build completed'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "english",
+    "learning",
+    "education",
+    "language",
+    "audio",
+    "interactive",
+    "vietnamese",
+    "tutorial"
+  ],
+  "author": "English Learning Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/english-learning-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/english-learning-app/issues"
+  },
+  "homepage": "https://github.com/your-username/english-learning-app#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
