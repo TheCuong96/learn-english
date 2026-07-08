@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily Routine Flashcards + Quiz (EN⇄VI, TTS)</title>
+    <style>
+      :root {
+        --bg: #0f172a;
+        --card: #111827;
+        --muted: #94a3b8;
+        --text: #e5e7eb;
+        --accent: #22d3ee;
+        --accent-2: #a78bfa;
+        --ok: #34d399;
+        --bad: #f87171;
+        --btn: #1f2937;
+      }
+      * { box-sizing: border-box; }
+      html, body {
+        margin: 0;
+        height: 100%;
+        background: radial-gradient(1200px 800px at 70% -100px, #1f2937 0%, #0b1022 60%, #040816 100%);
+        color: var(--text);
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      }
+      .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+      header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 16px;
+      }
+      h1 { font-size: 22px; margin: 0; letter-spacing: 0.3px; }
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+      }
+      .segmented {
+        background: rgba(255,255,255,0.06);
+        border: 1px solid rgba(255,255,255,0.1);
+        border-radius: 10px;
+        padding: 4px;
+        display: inline-flex;
+        gap: 4px;
+      }
+      .segmented button {
+        border: 0;
+        padding: 8px 12px;
+        border-radius: 8px;
+        color: var(--text);
+        background: transparent;
+        cursor: pointer;
+      }
+      .segmented button[aria-pressed="true"] {
+        background: linear-gradient(180deg, rgba(34,211,238,0.18), rgba(167,139,250,0.18));
+        border: 1px solid rgba(255,255,255,0.12);
+      }
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+      }
+      select, .btn {
+        background: var(--btn);
+        color: var(--text);
+        border: 1px solid rgba(255,255,255,0.12);
+        border-radius: 10px;
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+      .btn.icon { padding: 8px; display: inline-flex; align-items: center; justify-content: center; }
+      .hint { color: var(--muted); font-size: 13px; }
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+      @media (min-width: 900px) {
+        .grid { grid-template-columns: 1.2fr 1fr; align-items: start; }
+      }
+      .panel {
+        background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+        border: 1px solid rgba(255,255,255,0.10);
+        border-radius: 16px;
+        padding: 16px;
+      }
+      .card {
+        background: radial-gradient(400px 200px at 20% -20%, rgba(34,211,238,0.12), transparent 50%),
+                    radial-gradient(500px 250px at 120% 0%, rgba(167,139,250,0.12), transparent 60%),
+                    linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+        border: 1px solid rgba(255,255,255,0.10);
+        border-radius: 16px;
+        padding: 24px;
+        min-height: 220px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      }
+      .card .en {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: 0.3px;
+        margin-bottom: 8px;
+      }
+      .card .ipa { color: var(--accent); font-family: ui-monospace, Menlo, Consolas, monospace; }
+      .card .vi { color: #e2e8f0; font-size: 18px; }
+      .card .meta { color: var(--muted); font-size: 13px; margin-top: 6px; }
+      .toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+      .counter { color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+      /* Quiz */
+      .quiz-prompt { font-size: 18px; color: #e2e8f0; margin-bottom: 10px; }
+      .options { display: grid; gap: 8px; }
+      @media (min-width: 600px) { .options { grid-template-columns: 1fr 1fr; } }
+      .option {
+        text-align: left;
+        padding: 12px 14px;
+        border-radius: 10px;
+        border: 1px solid rgba(255,255,255,0.12);
+        background: rgba(255,255,255,0.03);
+        cursor: pointer;
+      }
+      .option.correct { outline: 2px solid var(--ok); background: rgba(52, 211, 153, 0.12); }
+      .option.wrong { outline: 2px solid var(--bad); background: rgba(248, 113, 113, 0.12); }
+      .score { color: var(--muted); font-size: 13px; margin-top: 8px; }
+      .ipa-hint { color: var(--accent-2); font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 14px; }
+      .hidden { display: none !important; }
+      .kbd { font-family: ui-monospace, Menlo, Consolas, monospace; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.18); padding: 1px 6px; border-radius: 6px; }
+      footer { color: var(--muted); font-size: 13px; margin-top: 16px; line-height: 1.6; }
+      a { color: var(--accent); text-decoration: none; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Daily Routine — Flashcards + Quiz (kèm audio)</h1>
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Chế độ học">
+            <button id="modeFlashcards" role="tab" aria-selected="true" aria-pressed="true">Flashcards</button>
+            <button id="modeQuiz" role="tab" aria-selected="false" aria-pressed="false">Quiz</button>
+          </div>
+          <div class="segmented" role="group" aria-label="Accent">
+            <button id="accentUK" aria-pressed="false">UK</button>
+            <button id="accentUS" aria-pressed="true">US</button>
+          </div>
+          <button id="btnSpeakAll" class="btn">Phát toàn bộ (tuần tự)</button>
+          <select id="voiceSelect" title="Chọn giọng (tùy chọn)">
+            <option value="auto">Auto voice (theo UK/US)</option>
+          </select>
+        </div>
+      </header>
+
+      <div class="grid">
+        <!-- Flashcards Panel -->
+        <section id="flashcardsPanel" class="panel" aria-labelledby="modeFlashcards">
+          <div class="card" id="flashcard">
+            <div class="en" id="cardEn">wake up</div>
+            <div class="ipa" id="cardIpa">/weɪk ʌp/</div>
+            <div class="vi" id="cardVi">thức dậy</div>
+            <div class="meta" id="cardMeta">Accent: <span id="cardAccent">US</span></div>
+          </div>
+          <div class="toolbar">
+            <button id="btnPrev" class="btn">← Trước</button>
+            <button id="btnNext" class="btn">Sau →</button>
+            <button id="btnFlip" class="btn">Lật (ẩn/hiện IPA + nghĩa)</button>
+            <button id="btnShuffle" class="btn">Xáo trộn</button>
+            <button id="btnSpeak" class="btn">Phát âm</button>
+          </div>
+          <div class="counter" id="cardCounter">Thẻ 1/18</div>
+          <div class="hint">Phím tắt: <span class="kbd">←/→</span> trước/sau, <span class="kbd">Space</span> lật, <span class="kbd">A</span> phát âm.</div>
+        </section>
+
+        <!-- Quiz Panel -->
+        <section id="quizPanel" class="panel hidden" aria-labelledby="modeQuiz">
+          <div class="quiz-prompt">Chọn đúng cụm tiếng Anh cho nghĩa sau:</div>
+          <div class="card" style="min-height: 120px;">
+            <div class="vi" id="quizMeaning">thức dậy</div>
+            <div class="ipa-hint hidden" id="quizIpa">/weɪk ʌp/</div>
+            <div class="toolbar">
+              <button id="btnQuizSpeak" class="btn">Nghe gợi ý (phát âm)</button>
+              <button id="btnToggleIpa" class="btn">Gợi ý IPA</button>
+              <button id="btnNextQuestion" class="btn">Câu tiếp theo</button>
+            </div>
+          </div>
+          <div class="options" id="quizOptions"></div>
+          <div class="score" id="quizScore">Điểm: 0/0 • Streak: 0</div>
+        </section>
+      </div>
+
+      <footer>
+        Gợi ý: hãy nghe và lặp lại 2–3 lần mỗi từ. Bạn có thể bật giọng UK/US và chọn giọng cụ thể trong danh sách nếu trình duyệt hỗ trợ. Dữ liệu nằm hoàn toàn trên máy bạn, không cần mạng.
+      </footer>
+    </div>
+
+    <script>
+      // ===== Dataset =====
+      const WORDS = [
+        { en: "wake up", ipaUK: "/weɪk ʌp/", ipaUS: "/weɪk ʌp/", vi: "thức dậy" },
+        { en: "get up", ipaUK: "/ɡet ʌp/", ipaUS: "/ɡet ʌp/", vi: "ra khỏi giường" },
+        { en: "brush my teeth", ipaUK: "/brʌʃ maɪ tiːθ/", ipaUS: "/brʌʃ maɪ tiːθ/", vi: "đánh răng" },
+        { en: "take a shower", ipaUK: "/teɪk ə ˈʃaʊ.ər/", ipaUS: "/teɪk ə ˈʃaʊ.ɚ/", vi: "tắm vòi sen" },
+        { en: "get dressed", ipaUK: "/ˌɡet ˈdrest/", ipaUS: "/ˌɡet ˈdrest/", vi: "mặc quần áo" },
+        { en: "have breakfast", ipaUK: "/hæv ˈbrek.fəst/", ipaUS: "/hæv ˈbrek.fəst/", vi: "ăn sáng" },
+        { en: "go to work", ipaUK: "/ɡəʊ tə wɜːk/", ipaUS: "/ɡoʊ tə wɝːk/", vi: "đi làm" },
+        { en: "commute", ipaUK: "/kəˈmjuːt/", ipaUS: "/kəˈmjuːt/", vi: "đi làm xa (di chuyển hằng ngày)" },
+        { en: "meeting", ipaUK: "/ˈmiː.tɪŋ/", ipaUS: "/ˈmiː.tɪŋ/", vi: "cuộc họp" },
+        { en: "email", ipaUK: "/ˈiː.meɪl/", ipaUS: "/ˈiː.meɪl/", vi: "email, thư điện tử" },
+        { en: "lunch", ipaUK: "/lʌntʃ/", ipaUS: "/lʌntʃ/", vi: "bữa trưa" },
+        { en: "finish work", ipaUK: "/ˈfɪn.ɪʃ wɜːk/", ipaUS: "/ˈfɪn.ɪʃ wɝːk/", vi: "tan làm" },
+        { en: "go home", ipaUK: "/ɡəʊ tə həʊm/", ipaUS: "/ɡoʊ tə hoʊm/", vi: "về nhà" },
+        { en: "cook dinner", ipaUK: "/kʊk ˈdɪn.ər/", ipaUS: "/kʊk ˈdɪn.ɚ/", vi: "nấu bữa tối" },
+        { en: "do the dishes", ipaUK: "/duː ðə ˈdɪʃ.ɪz/", ipaUS: "/duː ðə ˈdɪʃ.ɪz/", vi: "rửa bát đĩa" },
+        { en: "exercise", ipaUK: "/ˈek.sə.saɪz/", ipaUS: "/ˈek.sɚ.saɪz/", vi: "tập thể dục" },
+        { en: "relax", ipaUK: "/rɪˈlæks/", ipaUS: "/rɪˈlæks/", vi: "thư giãn" },
+        { en: "go to bed", ipaUK: "/ɡəʊ tə bed/", ipaUS: "/ɡoʊ tə bed/", vi: "đi ngủ" }
+      ];
+
+      // ===== State =====
+      const $ = (sel) => document.querySelector(sel);
+      const state = {
+        mode: localStorage.getItem('mode') || 'flashcards',
+        accent: localStorage.getItem('accent') || 'US',
+        index: Number(localStorage.getItem('index') || 0),
+        order: JSON.parse(localStorage.getItem('order') || 'null'),
+        voices: [],
+        selectedVoice: 'auto',
+        speakingAll: false,
+        quiz: { correct: 0, total: 0, streak: 0, current: null }
+      };
+      if (!Array.isArray(state.order) || state.order.length !== WORDS.length) {
+        state.order = [...Array(WORDS.length).keys()];
+      }
+
+      // ===== Voice & TTS =====
+      const voiceSelect = $('#voiceSelect');
+      function listVoices() {
+        const voices = window.speechSynthesis ? speechSynthesis.getVoices() : [];
+        state.voices = voices;
+        voiceSelect.innerHTML = '<option value="auto">Auto voice (theo UK/US)</option>' +
+          voices
+            .filter(v => /^en(-|_)/i.test(v.lang))
+            .map((v, i) => `<option value="${i}">${v.name} — ${v.lang}</option>`) 
+            .join('');
+        const saved = localStorage.getItem('voiceIndex');
+        if (saved !== null && Number(saved) < voices.length) {
+          voiceSelect.value = saved;
+          state.selectedVoice = saved;
+        } else {
+          voiceSelect.value = 'auto';
+          state.selectedVoice = 'auto';
+        }
+      }
+      if ('speechSynthesis' in window) {
+        listVoices();
+        window.speechSynthesis.onvoiceschanged = listVoices;
+      }
+      voiceSelect.addEventListener('change', () => {
+        state.selectedVoice = voiceSelect.value;
+        localStorage.setItem('voiceIndex', state.selectedVoice);
+      });
+
+      function pickAutoVoice(accent) {
+        const voices = state.voices;
+        if (!voices || !voices.length) return null;
+        const desired = accent === 'UK' ? 'en-GB' : 'en-US';
+        const preferNames = [
+          'Google UK English Female', 'Google UK English Male', 'Microsoft Hazel',
+          'Microsoft Sonia', 'Microsoft Ryan', 'Microsoft George',
+          'Google US English', 'Google US English Female', 'Microsoft Aria', 'Microsoft Guy', 'Samantha'
+        ];
+        const pool = voices.filter(v => v.lang && v.lang.toLowerCase().startsWith(desired.toLowerCase()));
+        for (const name of preferNames) {
+          const found = pool.find(v => (v.name || '').toLowerCase().includes(name.toLowerCase()));
+          if (found) return found;
+        }
+        return pool[0] || voices.find(v => /^en(-|_)/i.test(v.lang)) || null;
+      }
+
+      function speak(text) {
+        if (!('speechSynthesis' in window)) {
+          alert('Trình duyệt không hỗ trợ Text-to-Speech. Hãy thử Chrome/Edge/Firefox mới.');
+          return;
+        }
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance(text);
+        let voice = null;
+        if (state.selectedVoice !== 'auto') {
+          const idx = Number(state.selectedVoice);
+          if (!Number.isNaN(idx) && state.voices[idx]) voice = state.voices[idx];
+        } else {
+          voice = pickAutoVoice(state.accent);
+        }
+        if (voice) utter.voice = voice;
+        utter.lang = voice?.lang || (state.accent === 'UK' ? 'en-GB' : 'en-US');
+        utter.rate = 0.95; // chậm một chút cho dễ nghe
+        utter.pitch = 1.0;
+        speechSynthesis.speak(utter);
+      }
+
+      // ===== Utilities =====
+      function saveProgress() {
+        localStorage.setItem('mode', state.mode);
+        localStorage.setItem('accent', state.accent);
+        localStorage.setItem('index', String(state.index));
+        localStorage.setItem('order', JSON.stringify(state.order));
+      }
+      function shuffleArray(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+      }
+      function currentItem() { return WORDS[state.order[state.index]]; }
+
+      // ===== Flashcards logic =====
+      const cardEn = $('#cardEn');
+      const cardIpa = $('#cardIpa');
+      const cardVi = $('#cardVi');
+      const cardAccent = $('#cardAccent');
+      const cardCounter = $('#cardCounter');
+      let backVisible = true;
+
+      function renderCard() {
+        const item = currentItem();
+        cardEn.textContent = item.en;
+        cardIpa.textContent = state.accent === 'UK' ? item.ipaUK : item.ipaUS;
+        cardVi.textContent = item.vi;
+        cardAccent.textContent = state.accent;
+        cardIpa.parentElement.style.display = backVisible ? '' : 'none';
+        cardVi.parentElement.style.display = backVisible ? '' : 'none';
+        cardCounter.textContent = `Thẻ ${state.index + 1}/${WORDS.length}`;
+        saveProgress();
+      }
+
+      function nextCard() {
+        state.index = (state.index + 1) % WORDS.length;
+        renderCard();
+      }
+      function prevCard() {
+        state.index = (state.index - 1 + WORDS.length) % WORDS.length;
+        renderCard();
+      }
+
+      $('#btnNext').addEventListener('click', nextCard);
+      $('#btnPrev').addEventListener('click', prevCard);
+      $('#btnFlip').addEventListener('click', () => { backVisible = !backVisible; renderCard(); });
+      $('#btnShuffle').addEventListener('click', () => { shuffleArray(state.order); state.index = 0; renderCard(); });
+      $('#btnSpeak').addEventListener('click', () => { speak(currentItem().en); });
+
+      $('#btnSpeakAll').addEventListener('click', async () => {
+        if (!('speechSynthesis' in window)) return alert('Thiếu TTS. Hãy dùng Chrome/Edge mới.');
+        if (state.speakingAll) { speechSynthesis.cancel(); state.speakingAll = false; return; }
+        state.speakingAll = true;
+        for (let i = 0; i < WORDS.length && state.speakingAll; i++) {
+          state.index = i;
+          renderCard();
+          await speakSync(currentItem().en);
+          await sleep(400);
+        }
+        state.speakingAll = false;
+      });
+
+      function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+      function speakSync(text) {
+        return new Promise(resolve => {
+          if (!('speechSynthesis' in window)) return resolve();
+          speechSynthesis.cancel();
+          const u = new SpeechSynthesisUtterance(text);
+          const voice = state.selectedVoice !== 'auto' ? state.voices[Number(state.selectedVoice)] : pickAutoVoice(state.accent);
+          if (voice) u.voice = voice;
+          u.lang = voice?.lang || (state.accent === 'UK' ? 'en-GB' : 'en-US');
+          u.rate = 0.95; u.pitch = 1;
+          u.onend = resolve; u.onerror = resolve;
+          speechSynthesis.speak(u);
+        });
+      }
+
+      // keyboard shortcuts
+      window.addEventListener('keydown', (e) => {
+        if (state.mode !== 'flashcards') return;
+        if (e.code === 'ArrowRight') nextCard();
+        else if (e.code === 'ArrowLeft') prevCard();
+        else if (e.code === 'Space') { e.preventDefault(); backVisible = !backVisible; renderCard(); }
+        else if (e.key.toLowerCase() === 'a') speak(currentItem().en);
+      });
+
+      // ===== Quiz logic =====
+      const quizOptions = $('#quizOptions');
+      const quizMeaning = $('#quizMeaning');
+      const quizIpa = $('#quizIpa');
+      const quizScore = $('#quizScore');
+      const btnNextQuestion = $('#btnNextQuestion');
+      const btnQuizSpeak = $('#btnQuizSpeak');
+      const btnToggleIpa = $('#btnToggleIpa');
+
+      function newQuestion() {
+        const correctIndex = Math.floor(Math.random() * WORDS.length);
+        const correct = WORDS[correctIndex];
+        state.quiz.current = correctIndex;
+        quizMeaning.textContent = correct.vi;
+        quizIpa.textContent = state.accent === 'UK' ? correct.ipaUK : correct.ipaUS;
+        quizIpa.classList.add('hidden');
+        // build options
+        const optionIndices = new Set([correctIndex]);
+        while (optionIndices.size < 4) {
+          optionIndices.add(Math.floor(Math.random() * WORDS.length));
+        }
+        const options = Array.from(optionIndices).map(i => ({ i, text: WORDS[i].en }));
+        shuffleArray(options);
+        quizOptions.innerHTML = '';
+        for (const opt of options) {
+          const btn = document.createElement('button');
+          btn.className = 'option';
+          btn.textContent = opt.text;
+          btn.addEventListener('click', () => {
+            const isCorrect = opt.i === correctIndex;
+            btn.classList.add(isCorrect ? 'correct' : 'wrong');
+            if (isCorrect) {
+              state.quiz.correct += 1;
+              state.quiz.streak += 1;
+            } else {
+              state.quiz.streak = 0;
+              // highlight the correct option
+              [...quizOptions.children].forEach(el => {
+                if (el.textContent === correct.en) el.classList.add('correct');
+              });
+            }
+            state.quiz.total += 1;
+            updateScore();
+          }, { once: true });
+          quizOptions.appendChild(btn);
+        }
+        updateScore();
+      }
+      function updateScore() {
+        quizScore.textContent = `Điểm: ${state.quiz.correct}/${state.quiz.total} • Streak: ${state.quiz.streak}`;
+      }
+      btnNextQuestion.addEventListener('click', newQuestion);
+      btnQuizSpeak.addEventListener('click', () => {
+        const idx = state.quiz.current; if (idx == null) return; speak(WORDS[idx].en);
+      });
+      btnToggleIpa.addEventListener('click', () => quizIpa.classList.toggle('hidden'));
+
+      // ===== Mode & Accent UI =====
+      const modeFlashcards = $('#modeFlashcards');
+      const modeQuiz = $('#modeQuiz');
+      const flashcardsPanel = $('#flashcardsPanel');
+      const quizPanel = $('#quizPanel');
+      function setMode(mode) {
+        state.mode = mode;
+        modeFlashcards.setAttribute('aria-pressed', String(mode === 'flashcards'));
+        modeQuiz.setAttribute('aria-pressed', String(mode === 'quiz'));
+        flashcardsPanel.classList.toggle('hidden', mode !== 'flashcards');
+        quizPanel.classList.toggle('hidden', mode !== 'quiz');
+        saveProgress();
+      }
+      modeFlashcards.addEventListener('click', () => setMode('flashcards'));
+      modeQuiz.addEventListener('click', () => { setMode('quiz'); newQuestion(); });
+
+      const accentUK = $('#accentUK');
+      const accentUS = $('#accentUS');
+      function setAccent(accent) {
+        state.accent = accent;
+        accentUK.setAttribute('aria-pressed', String(accent === 'UK'));
+        accentUS.setAttribute('aria-pressed', String(accent === 'US'));
+        renderCard();
+        // update quiz IPA if visible
+        const idx = state.quiz.current; if (idx != null) {
+          quizIpa.textContent = accent === 'UK' ? WORDS[idx].ipaUK : WORDS[idx].ipaUS;
+        }
+        saveProgress();
+      }
+      accentUK.addEventListener('click', () => setAccent('UK'));
+      accentUS.addEventListener('click', () => setAccent('US'));
+
+      // ===== Init =====
+      setAccent(state.accent);
+      setMode(state.mode);
+      renderCard();
+    </script>
+  </body>
+  </html>
+
