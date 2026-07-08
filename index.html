@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Từ Vựng Tiếng Anh Hàng Ngày</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌟 Học Từ Vựng Tiếng Anh</h1>
+            <p class="subtitle">Chương trình học từ vựng hàng ngày với phát âm</p>
+        </header>
+
+        <nav class="topic-nav">
+            <button class="topic-btn active" data-topic="daily">Từ Vựng Hôm Nay</button>
+            <button class="topic-btn" data-topic="greetings">Chào Hỏi</button>
+            <button class="topic-btn" data-topic="numbers">Số Đếm</button>
+            <button class="topic-btn" data-topic="colors">Màu Sắc</button>
+            <button class="topic-btn" data-topic="family">Gia Đình</button>
+            <button class="topic-btn" data-topic="food">Thức Ăn</button>
+            <button class="topic-btn" data-topic="time">Thời Gian</button>
+            <button class="topic-btn" data-topic="body">Cơ Thể</button>
+        </nav>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">Đã học hôm nay:</span>
+                <span class="stat-value" id="wordsLearned">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Tổng từ đã học:</span>
+                <span class="stat-value" id="totalWords">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Chuỗi ngày học:</span>
+                <span class="stat-value" id="streak">0</span>
+            </div>
+        </div>
+
+        <main id="content">
+            <div class="loading">Đang tải từ vựng...</div>
+        </main>
+
+        <div class="pronunciation-guide">
+            <h3>📝 Hướng dẫn phát âm:</h3>
+            <p>• Nhấn vào biểu tượng 🔊 để nghe phát âm</p>
+            <p>• IPA: Ký hiệu phiên âm quốc tế</p>
+            <p>• Luyện tập phát âm theo từng từ</p>
+        </div>
+    </div>
+
+    <script src="vocabulary-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
