@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Vocabulary Learning - Học Từ Vựng Tiếng Anh</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1><i class="fas fa-book-reader"></i> English Vocabulary Learning</h1>
+            <p class="subtitle">Học từ vựng tiếng Anh mỗi ngày</p>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="topic-nav">
+            <button class="topic-btn active" data-topic="daily">Daily Routine</button>
+            <button class="topic-btn" data-topic="food">Food & Drinks</button>
+            <button class="topic-btn" data-topic="family">Family & Friends</button>
+            <button class="topic-btn" data-topic="work">Work & Study</button>
+            <button class="topic-btn" data-topic="travel">Travel</button>
+        </nav>
+
+        <!-- Progress Bar -->
+        <div class="progress-container">
+            <div class="progress-info">
+                <span class="progress-text">Tiến độ học hôm nay: <span id="progress-count">0/10</span></span>
+                <span class="streak"><i class="fas fa-fire"></i> Streak: <span id="streak-days">0</span> ngày</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+        </div>
+
+        <!-- Main Learning Area -->
+        <div class="learning-area">
+            <!-- Word Card -->
+            <div class="word-card" id="word-card">
+                <div class="word-header">
+                    <span class="word-number">Word 1/10</span>
+                    <button class="favorite-btn" id="favorite-btn">
+                        <i class="far fa-heart"></i>
+                    </button>
+                </div>
+                
+                <div class="word-content">
+                    <h2 class="word" id="current-word">Loading...</h2>
+                    <div class="phonetic" id="phonetic">/ˈloʊdɪŋ/</div>
+                    
+                    <button class="speak-btn" id="speak-btn">
+                        <i class="fas fa-volume-up"></i> Phát âm
+                    </button>
+                    
+                    <div class="word-type" id="word-type">verb</div>
+                    
+                    <div class="meaning">
+                        <h3>Nghĩa:</h3>
+                        <p id="meaning">Đang tải...</p>
+                    </div>
+                    
+                    <div class="example">
+                        <h3>Ví dụ:</h3>
+                        <p id="example-en" class="example-text">Loading example...</p>
+                        <p id="example-vi" class="example-translation">Đang tải ví dụ...</p>
+                        <button class="speak-example-btn" id="speak-example-btn">
+                            <i class="fas fa-volume-up"></i> Nghe ví dụ
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Practice Section -->
+            <div class="practice-section" id="practice-section" style="display: none;">
+                <h3>Kiểm tra từ vựng</h3>
+                <div class="quiz-container">
+                    <p class="quiz-question" id="quiz-question">Từ nào có nghĩa là "..."?</p>
+                    <div class="quiz-options" id="quiz-options">
+                        <!-- Options will be generated dynamically -->
+                    </div>
+                    <div class="quiz-feedback" id="quiz-feedback"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Control Buttons -->
+        <div class="controls">
+            <button class="control-btn" id="prev-btn" disabled>
+                <i class="fas fa-chevron-left"></i> Từ trước
+            </button>
+            <button class="control-btn primary" id="next-btn">
+                Từ tiếp theo <i class="fas fa-chevron-right"></i>
+            </button>
+            <button class="control-btn success" id="practice-btn" style="display: none;">
+                <i class="fas fa-brain"></i> Luyện tập
+            </button>
+        </div>
+
+        <!-- Statistics -->
+        <div class="stats-container">
+            <div class="stat-card">
+                <i class="fas fa-book"></i>
+                <div class="stat-info">
+                    <span class="stat-number" id="words-learned">0</span>
+                    <span class="stat-label">Từ đã học</span>
+                </div>
+            </div>
+            <div class="stat-card">
+                <i class="fas fa-clock"></i>
+                <div class="stat-info">
+                    <span class="stat-number" id="study-time">0</span>
+                    <span class="stat-label">Phút học</span>
+                </div>
+            </div>
+            <div class="stat-card">
+                <i class="fas fa-check-circle"></i>
+                <div class="stat-info">
+                    <span class="stat-number" id="accuracy">0%</span>
+                    <span class="stat-label">Độ chính xác</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Modal -->
+    <div class="modal" id="success-modal">
+        <div class="modal-content">
+            <h2><i class="fas fa-trophy"></i> Chúc mừng!</h2>
+            <p>Bạn đã hoàn thành bài học hôm nay!</p>
+            <button class="modal-btn" onclick="closeModal()">Đóng</button>
+        </div>
+    </div>
+
+    <script src="js/vocabulary-data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
