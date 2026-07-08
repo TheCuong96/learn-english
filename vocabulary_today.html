@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Từ vựng hôm nay – nghe phát âm US/UK</title>
+    <style>
+      :root {
+        --bg: #0f172a;
+        --card: #111827;
+        --text: #e5e7eb;
+        --muted: #94a3b8;
+        --accent: #22c55e;
+        --accent-2: #60a5fa;
+        --danger: #f87171;
+        --border: #1f2937;
+        --highlight: #1e293b;
+      }
+      html, body {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        background: radial-gradient(1200px 800px at 80% -10%, #1f2937 0%, var(--bg) 45%);
+        color: var(--text);
+      }
+      .container {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 24px 16px 56px;
+      }
+      header h1 {
+        margin: 8px 0 6px;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+      }
+      header p {
+        margin: 0 0 16px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .card {
+        background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.0));
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.03);
+      }
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        padding: 12px;
+      }
+      .controls .status {
+        margin-left: auto;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      button {
+        appearance: none;
+        border: 1px solid var(--border);
+        background: linear-gradient(180deg, #0b1220, #0b1220);
+        color: var(--text);
+        padding: 8px 12px;
+        border-radius: 10px;
+        font-size: 14px;
+        cursor: pointer;
+        transition: transform 0.05s ease, border-color 0.2s ease;
+      }
+      button:hover { border-color: #334155; }
+      button:active { transform: translateY(1px); }
+      button.primary { border-color: rgba(34,197,94,0.5); box-shadow: 0 0 0 1px rgba(34,197,94,0.15) inset; }
+      button.secondary { border-color: rgba(96,165,250,0.5); box-shadow: 0 0 0 1px rgba(96,165,250,0.15) inset; }
+      button.danger { border-color: rgba(248,113,113,0.5); box-shadow: 0 0 0 1px rgba(248,113,113,0.15) inset; }
+      button:disabled { opacity: 0.55; cursor: not-allowed; }
+
+      .group {
+        padding: 6px 12px 14px;
+      }
+      .group h2 {
+        margin: 14px 0 6px;
+        font-size: 16px;
+        color: var(--muted);
+        font-weight: 600;
+      }
+      .item {
+        display: grid;
+        grid-template-columns: 1fr auto auto;
+        gap: 8px;
+        align-items: center;
+        padding: 12px;
+        border-top: 1px solid var(--border);
+      }
+      .item:first-child { border-top: none; }
+      .word {
+        font-weight: 600;
+      }
+      .tran {
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .item.playing {
+        background: linear-gradient(90deg, rgba(34,197,94,0.08), rgba(34,197,94,0));
+      }
+      .footer-note {
+        margin-top: 14px;
+        color: var(--muted);
+        font-size: 13px;
+        padding: 12px;
+      }
+      .sr-only {
+        position: absolute;
+        width: 1px; height: 1px;
+        padding: 0; margin: -1px;
+        overflow: hidden; clip: rect(0,0,0,0);
+        white-space: nowrap; border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Từ vựng hôm nay – nghe phát âm US/UK</h1>
+        <p>Bấm 🔊 US/UK để nghe từng từ. Dùng “Play all” để nghe tuần tự.</p>
+      </header>
+
+      <section class="card">
+        <div class="controls">
+          <button id="playAllUS" class="primary">▶ Play all (US)</button>
+          <button id="playAllUK" class="secondary">▶ Play all (UK)</button>
+          <button id="stopBtn" class="danger">⏹ Stop</button>
+          <div class="status" id="voiceStatus">Đang tải giọng đọc…</div>
+        </div>
+        <div id="list"></div>
+      </section>
+
+      <div class="footer-note">
+        - Nếu chưa nghe thấy âm thanh: hãy bấm 1 nút rồi chờ 1–2 giây để tải giọng. Tốt nhất dùng Chrome.<br/>
+        - “Play all” chỉ đọc từ tiếng Anh để tập phát âm. Bạn có thể bấm từng nút để nghe lại.
+      </div>
+    </div>
+
+    <script>
+      "use strict";
+
+      // ===== Data =====
+      const vocabularyGroups = [
+        {
+          name: "Động từ (Daily routine)",
+          items: [
+            { en: "wake up", vi: "thức dậy" },
+            { en: "get dressed", vi: "mặc quần áo" },
+            { en: "leave", vi: "rời đi" },
+            { en: "commute", vi: "đi làm/đi học (quãng đường)" },
+            { en: "start", vi: "bắt đầu" },
+            { en: "take a break", vi: "nghỉ giải lao" },
+            { en: "have lunch", vi: "ăn trưa" },
+            { en: "finish", vi: "kết thúc" },
+            { en: "get home", vi: "về tới nhà" },
+            { en: "cook", vi: "nấu ăn" },
+            { en: "exercise", vi: "tập thể dục" },
+          ],
+        },
+        {
+          name: "Thời gian/tần suất",
+          items: [
+            { en: "early", vi: "sớm" },
+            { en: "late", vi: "muộn" },
+            { en: "usually", vi: "thường" },
+            { en: "often", vi: "thường xuyên" },
+            { en: "sometimes", vi: "đôi khi" },
+            { en: "rarely", vi: "hiếm khi" },
+            { en: "before", vi: "trước khi" },
+            { en: "after", vi: "sau khi" },
+          ],
+        },
+      ];
+
+      // ===== Voice handling =====
+      let cachedVoices = [];
+      let voiceUS = null; // preferred en-US voice
+      let voiceUK = null; // preferred en-GB voice
+      const statusEl = document.getElementById("voiceStatus");
+
+      function pickPreferredVoice(langTag) {
+        if (!cachedVoices || cachedVoices.length === 0) return null;
+
+        // 1) Exact lang match
+        let v = cachedVoices.find((x) => x.lang === langTag);
+        if (v) return v;
+
+        // 2) Primary language match (e.g., "en-US" -> "en-CA")
+        const primary = langTag.split("-")[0];
+        v = cachedVoices.find((x) => x.lang && x.lang.startsWith(primary));
+        if (v) return v;
+
+        // 3) Any English voice fallback
+        v = cachedVoices.find((x) => (x.lang || "").startsWith("en"));
+        if (v) return v;
+
+        // 4) As a last resort return the first available voice
+        return cachedVoices[0] || null;
+      }
+
+      function refreshVoicesStatus() {
+        const usName = voiceUS ? `${voiceUS.name} (${voiceUS.lang})` : "chưa sẵn sàng";
+        const ukName = voiceUK ? `${voiceUK.name} (${voiceUK.lang})` : "chưa sẵn sàng";
+        statusEl.textContent = `US: ${usName} • UK: ${ukName}`;
+      }
+
+      function loadVoices() {
+        cachedVoices = speechSynthesis.getVoices();
+        voiceUS = pickPreferredVoice("en-US");
+        voiceUK = pickPreferredVoice("en-GB");
+        refreshVoicesStatus();
+      }
+
+      // Some browsers populate voices asynchronously
+      loadVoices();
+      if (speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = () => {
+          loadVoices();
+        };
+      }
+
+      // ===== TTS =====
+      function speak(text, langTag, onend) {
+        if (!text) return;
+        // Cancel anything playing to avoid overlap
+        speechSynthesis.cancel();
+
+        const utter = new SpeechSynthesisUtterance(text);
+        utter.lang = langTag;
+        // Slightly slower than default for clarity
+        utter.rate = 0.95;
+        utter.pitch = 1.0;
+
+        const chosen = langTag === "en-GB" ? voiceUK : voiceUS;
+        if (chosen) utter.voice = chosen;
+
+        if (typeof onend === "function") {
+          utter.onend = onend;
+          utter.onerror = onend; // proceed even if error
+        }
+        speechSynthesis.speak(utter);
+      }
+
+      // ===== UI building =====
+      const listEl = document.getElementById("list");
+      const flatItems = []; // flattened list of all items for Play All
+
+      function buildList() {
+        listEl.innerHTML = "";
+        flatItems.length = 0;
+
+        let flatIndex = 0;
+        vocabularyGroups.forEach((group, groupIndex) => {
+          const groupEl = document.createElement("div");
+          groupEl.className = "group";
+
+          const title = document.createElement("h2");
+          title.textContent = group.name;
+          groupEl.appendChild(title);
+
+          group.items.forEach((item, itemIndex) => {
+            const row = document.createElement("div");
+            row.className = "item";
+            row.dataset.idx = String(flatIndex);
+
+            const left = document.createElement("div");
+            const word = document.createElement("div");
+            word.className = "word";
+            word.textContent = item.en;
+            const tran = document.createElement("div");
+            tran.className = "tran";
+            tran.textContent = `— ${item.vi}`;
+            left.appendChild(word);
+            left.appendChild(tran);
+
+            const btnUS = document.createElement("button");
+            btnUS.className = "primary";
+            btnUS.textContent = "🔊 US";
+            btnUS.title = `Phát âm US: ${item.en}`;
+            btnUS.addEventListener("click", () => {
+              stopPlayback();
+              speak(item.en, "en-US");
+            });
+
+            const btnUK = document.createElement("button");
+            btnUK.className = "secondary";
+            btnUK.textContent = "🔊 UK";
+            btnUK.title = `Phát âm UK: ${item.en}`;
+            btnUK.addEventListener("click", () => {
+              stopPlayback();
+              speak(item.en, "en-GB");
+            });
+
+            row.appendChild(left);
+            row.appendChild(btnUS);
+            row.appendChild(btnUK);
+            groupEl.appendChild(row);
+
+            flatItems.push({ en: item.en, groupIndex, itemIndex, flatIndex });
+            flatIndex += 1;
+          });
+
+          listEl.appendChild(groupEl);
+        });
+      }
+
+      // ===== Sequential playback =====
+      let isPlaying = false;
+      let playLang = "en-US";
+      let currentIdx = -1;
+
+      function setPlayingUI(playing) {
+        const playAllUS = document.getElementById("playAllUS");
+        const playAllUK = document.getElementById("playAllUK");
+        const stopBtn = document.getElementById("stopBtn");
+        playAllUS.disabled = playing;
+        playAllUK.disabled = playing;
+        stopBtn.disabled = !playing;
+      }
+
+      function highlightRow(idx) {
+        document.querySelectorAll('.item.playing').forEach((el) => el.classList.remove('playing'));
+        if (idx < 0) return;
+        const row = document.querySelector(`.item[data-idx="${idx}"]`);
+        if (row) {
+          row.classList.add('playing');
+          row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }
+
+      function stopPlayback() {
+        isPlaying = false;
+        currentIdx = -1;
+        setPlayingUI(false);
+        highlightRow(-1);
+        try { speechSynthesis.cancel(); } catch (_) {}
+      }
+
+      function playAll(lang) {
+        if (!flatItems.length) return;
+        isPlaying = true;
+        playLang = lang;
+        currentIdx = -1;
+        setPlayingUI(true);
+        nextInQueue();
+      }
+
+      function nextInQueue() {
+        if (!isPlaying) { stopPlayback(); return; }
+        currentIdx += 1;
+        if (currentIdx >= flatItems.length) {
+          stopPlayback();
+          return;
+        }
+        highlightRow(currentIdx);
+        const item = flatItems[currentIdx];
+        // small delay between items for clarity
+        setTimeout(() => {
+          speak(item.en, playLang, () => {
+            if (!isPlaying) return;
+            // brief pause after each word
+            setTimeout(nextInQueue, 220);
+          });
+        }, 80);
+      }
+
+      // ===== Init =====
+      buildList();
+
+      document.getElementById("playAllUS").addEventListener("click", () => playAll("en-US"));
+      document.getElementById("playAllUK").addEventListener("click", () => playAll("en-GB"));
+      document.getElementById("stopBtn").addEventListener("click", stopPlayback);
+    </script>
+  </body>
+  </html>
+
