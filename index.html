@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Từ Vựng Tiếng Anh</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .main-content {
+            padding: 40px;
+        }
+
+        .learning-modes {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .mode-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+
+        .mode-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+            border-color: #4facfe;
+        }
+
+        .mode-card.active {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+        }
+
+        .mode-card i {
+            font-size: 3em;
+            margin-bottom: 20px;
+            color: #4facfe;
+        }
+
+        .mode-card.active i {
+            color: white;
+        }
+
+        .mode-card h3 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        .vocabulary-section {
+            display: none;
+        }
+
+        .vocabulary-section.active {
+            display: block;
+        }
+
+        .vocab-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-left: 5px solid #4facfe;
+        }
+
+        .vocab-word {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .vocab-word h2 {
+            font-size: 2em;
+            color: #333;
+        }
+
+        .pronunciation {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 8px 15px;
+            border-radius: 25px;
+            font-family: monospace;
+            font-size: 1.1em;
+        }
+
+        .speak-btn {
+            background: #4facfe;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1.2em;
+        }
+
+        .speak-btn:hover {
+            background: #3d8bfe;
+            transform: scale(1.1);
+        }
+
+        .meaning {
+            font-size: 1.3em;
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        .example {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 3px solid #4facfe;
+            font-style: italic;
+        }
+
+        .example-en {
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .example-vi {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .progress-bar {
+            background: #e0e0e0;
+            height: 10px;
+            border-radius: 5px;
+            margin: 30px 0;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            background: linear-gradient(90deg, #4facfe, #00f2fe);
+            height: 100%;
+            transition: width 0.3s ease;
+            width: 0%;
+        }
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 30px;
+        }
+
+        .nav-btn {
+            background: #4facfe;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+        }
+
+        .nav-btn:hover {
+            background: #3d8bfe;
+            transform: translateY(-2px);
+        }
+
+        .nav-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .quiz-section {
+            display: none;
+        }
+
+        .quiz-section.active {
+            display: block;
+        }
+
+        .quiz-question {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .quiz-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+        .quiz-option {
+            background: #f8f9fa;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .quiz-option:hover {
+            background: #e3f2fd;
+            border-color: #4facfe;
+        }
+
+        .quiz-option.correct {
+            background: #e8f5e8;
+            border-color: #4caf50;
+            color: #2e7d32;
+        }
+
+        .quiz-option.incorrect {
+            background: #ffebee;
+            border-color: #f44336;
+            color: #c62828;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #4facfe;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 0;
+                border-radius: 0;
+            }
+            
+            .main-content {
+                padding: 20px;
+            }
+            
+            .learning-modes {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-graduation-cap"></i> Học Từ Vựng Tiếng Anh</h1>
+            <p>Nâng cao vốn từ vựng tiếng Anh của bạn mỗi ngày</p>
+        </div>
+
+        <div class="main-content">
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="wordsLearned">0</div>
+                    <div class="stat-label">Từ đã học</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="correctAnswers">0</div>
+                    <div class="stat-label">Câu trả lời đúng</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalWords">20</div>
+                    <div class="stat-label">Tổng số từ</div>
+                </div>
+            </div>
+
+            <div class="learning-modes">
+                <div class="mode-card active" onclick="switchMode('vocabulary')">
+                    <i class="fas fa-book"></i>
+                    <h3>Học Từ Vựng</h3>
+                    <p>Học từ vựng mới với phát âm và ví dụ</p>
+                </div>
+                <div class="mode-card" onclick="switchMode('quiz')">
+                    <i class="fas fa-question-circle"></i>
+                    <h3>Kiểm Tra</h3>
+                    <p>Kiểm tra kiến thức đã học qua quiz</p>
+                </div>
+            </div>
+
+            <div class="vocabulary-section active" id="vocabularySection">
+                <div class="vocab-card" id="vocabCard">
+                    <div class="vocab-word">
+                        <h2 id="currentWord">Hello</h2>
+                        <span class="pronunciation" id="pronunciation">/həˈloʊ/</span>
+                        <button class="speak-btn" onclick="speakWord()" title="Phát âm">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                    </div>
+                    <div class="meaning" id="meaning">Xin chào, chào hỏi</div>
+                    <div class="example">
+                        <div class="example-en" id="exampleEn">Hello, how are you today?</div>
+                        <div class="example-vi" id="exampleVi">Xin chào, hôm nay bạn thế nào?</div>
+                    </div>
+                </div>
+
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+
+                <div class="navigation">
+                    <button class="nav-btn" onclick="previousWord()" id="prevBtn">
+                        <i class="fas fa-arrow-left"></i> Từ trước
+                    </button>
+                    <span id="wordCounter">1 / 20</span>
+                    <button class="nav-btn" onclick="nextWord()" id="nextBtn">
+                        Từ tiếp <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="quiz-section" id="quizSection">
+                <div class="quiz-question">
+                    <h2 id="quizWord">Choose the correct meaning:</h2>
+                    <div class="vocab-word" style="justify-content: center;">
+                        <h2 id="quizCurrentWord">Hello</h2>
+                        <button class="speak-btn" onclick="speakQuizWord()" title="Phát âm">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                    </div>
+                    <div class="quiz-options" id="quizOptions">
+                        <!-- Quiz options will be populated by JavaScript -->
+                    </div>
+                    <div class="navigation" style="margin-top: 30px;">
+                        <button class="nav-btn" onclick="previousQuiz()" id="prevQuizBtn">
+                            <i class="fas fa-arrow-left"></i> Câu trước
+                        </button>
+                        <span id="quizCounter">1 / 20</span>
+                        <button class="nav-btn" onclick="nextQuiz()" id="nextQuizBtn">
+                            Câu tiếp <i class="fas fa-arrow-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Danh sách từ vựng tiếng Anh cho người mới bắt đầu
+        const vocabulary = [
+            {
+                word: "Hello",
+                pronunciation: "/həˈloʊ/",
+                meaning: "Xin chào, chào hỏi",
+                example: "Hello, how are you today?",
+                exampleVi: "Xin chào, hôm nay bạn thế nào?"
+            },
+            {
+                word: "Thank you",
+                pronunciation: "/θæŋk juː/",
+                meaning: "Cảm ơn",
+                example: "Thank you for your help.",
+                exampleVi: "Cảm ơn bạn đã giúp đỡ."
+            },
+            {
+                word: "Good morning",
+                pronunciation: "/ɡʊd ˈmɔːrnɪŋ/",
+                meaning: "Chào buổi sáng",
+                example: "Good morning, everyone!",
+                exampleVi: "Chào buổi sáng mọi người!"
+            },
+            {
+                word: "Please",
+                pronunciation: "/pliːz/",
+                meaning: "Làm ơn, xin hãy",
+                example: "Please help me with this task.",
+                exampleVi: "Làm ơn giúp tôi với công việc này."
+            },
+            {
+                word: "Excuse me",
+                pronunciation: "/ɪkˈskjuːz miː/",
+                meaning: "Xin lỗi (khi muốn thu hút sự chú ý)",
+                example: "Excuse me, where is the library?",
+                exampleVi: "Xin lỗi, thư viện ở đâu?"
+            },
+            {
+                word: "Beautiful",
+                pronunciation: "/ˈbjuːtɪfəl/",
+                meaning: "Đẹp, xinh đẹp",
+                example: "The sunset is beautiful tonight.",
+                exampleVi: "Hoàng hôn tối nay thật đẹp."
+            },
+            {
+                word: "Important",
+                pronunciation: "/ɪmˈpɔːrtənt/",
+                meaning: "Quan trọng",
+                example: "Education is very important.",
+                exampleVi: "Giáo dục rất quan trọng."
+            },
+            {
+                word: "Family",
+                pronunciation: "/ˈfæməli/",
+                meaning: "Gia đình",
+                example: "I love spending time with my family.",
+                exampleVi: "Tôi thích dành thời gian với gia đình."
+            },
+            {
+                word: "Friend",
+                pronunciation: "/frɛnd/",
+                meaning: "Bạn bè",
+                example: "She is my best friend.",
+                exampleVi: "Cô ấy là bạn thân nhất của tôi."
+            },
+            {
+                word: "Happy",
+                pronunciation: "/ˈhæpi/",
+                meaning: "Vui vẻ, hạnh phúc",
+                example: "I am happy to see you.",
+                exampleVi: "Tôi vui khi gặp bạn."
+            },
+            {
+                word: "Study",
+                pronunciation: "/ˈstʌdi/",
+                meaning: "Học tập, nghiên cứu",
+                example: "I study English every day.",
+                exampleVi: "Tôi học tiếng Anh mỗi ngày."
+            },
+            {
+                word: "Work",
+                pronunciation: "/wɜːrk/",
+                meaning: "Làm việc, công việc",
+                example: "I work in an office.",
+                exampleVi: "Tôi làm việc trong văn phòng."
+            },
+            {
+                word: "House",
+                pronunciation: "/haʊs/",
+                meaning: "Ngôi nhà",
+                example: "This is my house.",
+                exampleVi: "Đây là nhà của tôi."
+            },
+            {
+                word: "Food",
+                pronunciation: "/fuːd/",
+                meaning: "Thức ăn",
+                example: "Vietnamese food is delicious.",
+                exampleVi: "Đồ ăn Việt Nam rất ngon."
+            },
+            {
+                word: "Water",
+                pronunciation: "/ˈwɔːtər/",
+                meaning: "Nước",
+                example: "I drink water every morning.",
+                exampleVi: "Tôi uống nước mỗi sáng."
+            },
+            {
+                word: "Time",
+                pronunciation: "/taɪm/",
+                meaning: "Thời gian",
+                example: "What time is it now?",
+                exampleVi: "Bây giờ là mấy giờ?"
+            },
+            {
+                word: "Money",
+                pronunciation: "/ˈmʌni/",
+                meaning: "Tiền",
+                example: "Money can't buy happiness.",
+                exampleVi: "Tiền không thể mua được hạnh phúc."
+            },
+            {
+                word: "Book",
+                pronunciation: "/bʊk/",
+                meaning: "Quyển sách",
+                example: "I'm reading an interesting book.",
+                exampleVi: "Tôi đang đọc một quyển sách thú vị."
+            },
+            {
+                word: "Travel",
+                pronunciation: "/ˈtrævəl/",
+                meaning: "Du lịch",
+                example: "I love to travel around the world.",
+                exampleVi: "Tôi thích du lịch khắp thế giới."
+            },
+            {
+                word: "Dream",
+                pronunciation: "/driːm/",
+                meaning: "Giấc mơ, ước mơ",
+                example: "Follow your dreams and never give up.",
+                exampleVi: "Hãy theo đuổi ước mơ và không bao giờ từ bỏ."
+            }
+        ];
+
+        let currentWordIndex = 0;
+        let currentQuizIndex = 0;
+        let quizAnswered = false;
+        let correctAnswers = 0;
+        let wordsLearned = new Set();
+
+        // Initialize the app
+        function init() {
+            updateVocabularyDisplay();
+            updateProgress();
+            updateStats();
+            generateQuiz();
+        }
+
+        // Switch between learning modes
+        function switchMode(mode) {
+            // Update mode cards
+            document.querySelectorAll('.mode-card').forEach(card => {
+                card.classList.remove('active');
+            });
+            event.target.closest('.mode-card').classList.add('active');
+
+            // Update sections
+            document.querySelectorAll('.vocabulary-section, .quiz-section').forEach(section => {
+                section.classList.remove('active');
+            });
+
+            if (mode === 'vocabulary') {
+                document.getElementById('vocabularySection').classList.add('active');
+            } else if (mode === 'quiz') {
+                document.getElementById('quizSection').classList.add('active');
+                generateQuiz();
+            }
+        }
+
+        // Update vocabulary display
+        function updateVocabularyDisplay() {
+            const vocab = vocabulary[currentWordIndex];
+            document.getElementById('currentWord').textContent = vocab.word;
+            document.getElementById('pronunciation').textContent = vocab.pronunciation;
+            document.getElementById('meaning').textContent = vocab.meaning;
+            document.getElementById('exampleEn').textContent = vocab.example;
+            document.getElementById('exampleVi').textContent = vocab.exampleVi;
+            document.getElementById('wordCounter').textContent = `${currentWordIndex + 1} / ${vocabulary.length}`;
+            
+            // Update navigation buttons
+            document.getElementById('prevBtn').disabled = currentWordIndex === 0;
+            document.getElementById('nextBtn').disabled = currentWordIndex === vocabulary.length - 1;
+            
+            // Mark word as learned
+            wordsLearned.add(currentWordIndex);
+            updateStats();
+        }
+
+        // Speak the current word
+        function speakWord() {
+            const word = vocabulary[currentWordIndex].word;
+            const utterance = new SpeechSynthesisUtterance(word);
+            utterance.lang = 'en-US';
+            utterance.rate = 0.8;
+            speechSynthesis.speak(utterance);
+        }
+
+        // Speak quiz word
+        function speakQuizWord() {
+            const word = vocabulary[currentQuizIndex].word;
+            const utterance = new SpeechSynthesisUtterance(word);
+            utterance.lang = 'en-US';
+            utterance.rate = 0.8;
+            speechSynthesis.speak(utterance);
+        }
+
+        // Navigation functions
+        function nextWord() {
+            if (currentWordIndex < vocabulary.length - 1) {
+                currentWordIndex++;
+                updateVocabularyDisplay();
+                updateProgress();
+            }
+        }
+
+        function previousWord() {
+            if (currentWordIndex > 0) {
+                currentWordIndex--;
+                updateVocabularyDisplay();
+                updateProgress();
+            }
+        }
+
+        // Update progress bar
+        function updateProgress() {
+            const progress = ((currentWordIndex + 1) / vocabulary.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+        }
+
+        // Update statistics
+        function updateStats() {
+            document.getElementById('wordsLearned').textContent = wordsLearned.size;
+            document.getElementById('correctAnswers').textContent = correctAnswers;
+        }
+
+        // Generate quiz question
+        function generateQuiz() {
+            quizAnswered = false;
+            const currentVocab = vocabulary[currentQuizIndex];
+            document.getElementById('quizCurrentWord').textContent = currentVocab.word;
+            document.getElementById('quizCounter').textContent = `${currentQuizIndex + 1} / ${vocabulary.length}`;
+
+            // Generate options (1 correct + 3 incorrect)
+            const options = [currentVocab.meaning];
+            const usedIndices = new Set([currentQuizIndex]);
+
+            // Add 3 random incorrect options
+            while (options.length < 4) {
+                const randomIndex = Math.floor(Math.random() * vocabulary.length);
+                if (!usedIndices.has(randomIndex)) {
+                    options.push(vocabulary[randomIndex].meaning);
+                    usedIndices.add(randomIndex);
+                }
+            }
+
+            // Shuffle options
+            for (let i = options.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [options[i], options[j]] = [options[j], options[i]];
+            }
+
+            // Display options
+            const optionsContainer = document.getElementById('quizOptions');
+            optionsContainer.innerHTML = '';
+            options.forEach((option, index) => {
+                const optionDiv = document.createElement('div');
+                optionDiv.className = 'quiz-option';
+                optionDiv.textContent = option;
+                optionDiv.onclick = () => selectQuizOption(option, currentVocab.meaning, optionDiv);
+                optionsContainer.appendChild(optionDiv);
+            });
+
+            // Update navigation buttons
+            document.getElementById('prevQuizBtn').disabled = currentQuizIndex === 0;
+            document.getElementById('nextQuizBtn').disabled = currentQuizIndex === vocabulary.length - 1;
+        }
+
+        // Handle quiz option selection
+        function selectQuizOption(selectedOption, correctOption, optionElement) {
+            if (quizAnswered) return;
+
+            quizAnswered = true;
+            const isCorrect = selectedOption === correctOption;
+
+            // Highlight all options
+            document.querySelectorAll('.quiz-option').forEach(option => {
+                if (option.textContent === correctOption) {
+                    option.classList.add('correct');
+                } else if (option === optionElement && !isCorrect) {
+                    option.classList.add('incorrect');
+                }
+            });
+
+            if (isCorrect) {
+                correctAnswers++;
+                updateStats();
+            }
+
+            // Auto advance after 2 seconds
+            setTimeout(() => {
+                if (currentQuizIndex < vocabulary.length - 1) {
+                    nextQuiz();
+                }
+            }, 2000);
+        }
+
+        // Quiz navigation
+        function nextQuiz() {
+            if (currentQuizIndex < vocabulary.length - 1) {
+                currentQuizIndex++;
+                generateQuiz();
+            }
+        }
+
+        function previousQuiz() {
+            if (currentQuizIndex > 0) {
+                currentQuizIndex--;
+                generateQuiz();
+            }
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(event) {
+            if (document.getElementById('vocabularySection').classList.contains('active')) {
+                if (event.key === 'ArrowLeft') {
+                    previousWord();
+                } else if (event.key === 'ArrowRight') {
+                    nextWord();
+                } else if (event.key === ' ') {
+                    event.preventDefault();
+                    speakWord();
+                }
+            }
+        });
+
+        // Initialize app when page loads
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
